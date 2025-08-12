@@ -1,0 +1,63 @@
+name: Harvest DDoS-Guard cookies
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */4 * * *' # every 4 hours
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Chromium dependencies
+        run: |
+          sudo apt-get update && sudo apt-get install -y \
+            libatk1.0-0t64 \
+            libatk-bridge2.0-0t64 \
+            libgtk-3-0t64 \
+            libnss3 \
+            libxss1 \
+            libasound2t64 \
+            libxshmfence1 \
+            libxrandr2 \
+            libgbm1 \
+            libpangocairo-1.0-0 \
+            libxcomposite1 \
+            libcups2t64 \
+            libpango-1.0-0 \
+            libxdamage1 \
+            libxfixes3 \
+            libxi6 \
+            libxext6 \
+            libx11-6 \
+            libxtst6 \
+            fonts-liberation
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run cookie harvester
+        env:
+          TARGET: 'https://animepahe.ru'
+          MAX_WAIT_MS: '25000'
+        run: npm run harvest
+
+      - name: List produced files
+        run: ls -la cookies*.txt cookies*.json || true
+
+      - name: Upload cookies artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ddg-cookies
+          path: |
+            cookies.txt
+            cookies.json
+          retention-days: 7

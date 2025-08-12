@@ -1,12 +1,12 @@
-name: Harvest DDoS-Guard cookies
+name: Harvest DDoS-Guard cookies and Scan Anime
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */4 * * *' # every 4 hours
+    - cron: '0 */1 * * *' # every 4 hours
 
 jobs:
-  harvest:
+  harvest-and-scan:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -50,14 +50,71 @@ jobs:
           MAX_WAIT_MS: '25000'
         run: npm run harvest
 
-      - name: List produced files
-        run: ls -la cookies*.txt cookies*.json || true
+      - name: Verify cookies were generated
+        run: |
+          echo "Checking for cookie files..."
+          ls -la cookies*.txt cookies*.json || echo "No cookie files found"
+          if [ -f "cookies.json" ]; then
+            echo "✅ cookies.json found"
+            head -n 5 cookies.json
+          else
+            echo "❌ cookies.json not found"
+            exit 1
+          fi
 
-      - name: Upload cookies artifact
+      - name: Run anime scanner
+        run: |
+          echo "🚀 Starting anime scanning with fresh cookies..."
+          node index.js
+
+      - name: Verify scan results
+        run: |
+          echo "📊 Checking scan results..."
+          if [ -f "recent-anime.json" ]; then
+            echo "✅ recent-anime.json created"
+            jq '.total' recent-anime.json
+          else
+            echo "❌ recent-anime.json not found"
+          fi
+          
+          if [ -f "popular-anime.json" ]; then
+            echo "✅ popular-anime.json created"
+            jq '.total' popular-anime.json
+          else
+            echo "❌ popular-anime.json not found"
+          fi
+
+      - name: Upload all artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: ddg-cookies
+          name: anime-data-and-cookies
           path: |
             cookies.txt
             cookies.json
+            recent-anime.json
+            popular-anime.json
           retention-days: 7
+
+      - name: Commit and push results to repository
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Add the generated files
+          git add recent-anime.json popular-anime.json
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            # Create commit message with scan stats
+            RECENT_COUNT=$(jq -r '.total // 0' recent-anime.json)
+            POPULAR_COUNT=$(jq -r '.total // 0' popular-anime.json)
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+            
+            git commit -m "🤖 Auto-scan: ${RECENT_COUNT} airing, ${POPULAR_COUNT} popular anime - ${TIMESTAMP}"
+            git push
+            echo "✅ Results pushed to repository"
+          fi

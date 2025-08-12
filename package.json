@@ -1,0 +1,11 @@
+{
+  "name": "ddg-cookie-harvest",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "harvest": "node harvest-cookies.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.0"
+  }
+}

@@ -1,0 +1,40 @@
+name: Harvest DDoS-Guard cookies
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every 4 hours: at minute 0 past every 4th hour
+    - cron: '0 */4 * * *'
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run cookie harvester
+        env:
+          TARGET: 'https://animepahe.ru'
+          MAX_WAIT_MS: '25000'
+        run: npm run harvest
+
+      - name: List produced files
+        run: ls -la cookies*.txt cookies*.json || true
+
+      - name: Upload cookies artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ddg-cookies
+          path: |
+            cookies.txt
+            cookies-playwright.json
+          retention-days: 7

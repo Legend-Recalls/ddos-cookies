@@ -103,7 +103,7 @@ jobs:
           git config --local user.name "GitHub Action"
           
           # Add the generated files
-          git add recent-anime.json popular-anime.json
+          git add recent-anime.json popular-anime.json cookies.json
           
           # Check if there are changes to commit
           if git diff --staged --quiet; then

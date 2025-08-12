@@ -71,10 +71,9 @@ async function harvestCookies(url, maxRetries = 3) {
   try {
     const url = 'https://animepahe.ru';
     const { cookies, content } = await harvestCookies(url);
-
-    console.log('Cookies:', cookies);
     console.log('Page content length:', content.length);
-
+    await fs.writeFile('cookies.json', JSON.stringify(cookies, null, 2), 'utf-8');
+  console.log('[harvest] Cookies saved to cookies.json');
     // TODO: Save cookies to file or process them as needed
 
   } catch (e) {

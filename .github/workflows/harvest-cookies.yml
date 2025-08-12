@@ -3,8 +3,7 @@ name: Harvest DDoS-Guard cookies
 on:
   workflow_dispatch:
   schedule:
-    # Every 4 hours: at minute 0 past every 4th hour
-    - cron: '0 */4 * * *'
+    - cron: '0 */1 * * *' # every 4 hours
 
 jobs:
   harvest:
@@ -18,8 +17,32 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Install Chromium dependencies
+        run: |
+          sudo apt-get update && sudo apt-get install -y \
+            libatk1.0-0t64 \
+            libatk-bridge2.0-0t64 \
+            libgtk-3-0t64 \
+            libnss3 \
+            libxss1 \
+            libasound2t64 \
+            libxshmfence1 \
+            libxrandr2 \
+            libgbm1 \
+            libpangocairo-1.0-0 \
+            libxcomposite1 \
+            libcups2t64 \
+            libpango-1.0-0 \
+            libxdamage1 \
+            libxfixes3 \
+            libxi6 \
+            libxext6 \
+            libx11-6 \
+            libxtst6 \
+            fonts-liberation
+
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Run cookie harvester
         env:
@@ -36,5 +59,5 @@ jobs:
           name: ddg-cookies
           path: |
             cookies.txt
-            cookies-playwright.json
+            cookies.json
           retention-days: 7

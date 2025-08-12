@@ -1,90 +1,83 @@
-// harvest-cookies.js
-// Writes cookies-playwright.json and cookies.txt (Netscape cookie jar)
-//
-// Usage: node harvest-cookies.js
-// This runs on GitHub Actions (ubuntu-latest) and will use puppeteer's bundled Chromium.
-
-const fs = require('fs/promises');
 const puppeteer = require('puppeteer');
 
-const TARGET = process.env.TARGET || 'https://animepahe.ru';
-const OUT_JSON = process.env.OUT_JSON || 'cookies-playwright.json';
-const OUT_NETSCAPE = process.env.OUT_NETSCAPE || 'cookies.txt';
-const MAX_WAIT_MS = Number(process.env.MAX_WAIT_MS || 25000);
+async function harvestCookies(url, maxRetries = 3) {
+  let browser, page;
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    try {
+      console.log(`[harvest] Attempt ${attempt} - Launching Chromium...`);
+      browser = await puppeteer.launch({
+        headless: 'new',
+        args: [
+          '--no-sandbox',
+          '--disable-setuid-sandbox',
+          '--disable-dev-shm-usage',
+          '--disable-accelerated-2d-canvas',
+          '--no-first-run',
+          '--no-zygote',
+          '--single-process', // Might reduce memory
+          '--disable-gpu',
+          '--disable-features=site-per-process',
+        ],
+      });
 
-function toNetscapeLine(cookie) {
-  const domain = cookie.domain || '';
-  const includeSub = domain.startsWith('.') ? 'TRUE' : 'FALSE';
-  const pathv = cookie.path || '/';
-  const secure = cookie.secure ? 'TRUE' : 'FALSE';
-  const expires = Number.isFinite(cookie.expires) && cookie.expires > 0 ? Math.floor(cookie.expires) : 0;
-  return `${domain}\t${includeSub}\t${pathv}\t${secure}\t${expires}\t${cookie.name}\t${cookie.value}`;
+      page = await browser.newPage();
+
+      // Set a reasonable viewport
+      await page.setViewport({ width: 1280, height: 800 });
+
+      console.log(`[harvest] Navigating to ${url} with networkidle0...`);
+      await page.goto(url, { waitUntil: 'networkidle0', timeout: 30000 });
+
+      // Wait extra time to allow JS challenges to finish
+      console.log('[harvest] Waiting 7 seconds for JS challenge to settle...');
+      await page.waitForTimeout(7000);
+
+      // Wait for a page element that only appears after challenge passes
+      // You may need to tweak this selector for your target site
+      console.log('[harvest] Waiting for <body> element to be visible...');
+      await page.waitForSelector('body', { visible: true, timeout: 15000 });
+
+      // Now safely get cookies
+      console.log('[harvest] Extracting cookies...');
+      const cookies = await page.cookies();
+
+      // Also grab page content if needed
+      const content = await page.content();
+
+      console.log(`[harvest] Success! Got ${cookies.length} cookies.`);
+      await browser.close();
+
+      return { cookies, content };
+    } catch (err) {
+      console.warn(`[harvest] Attempt ${attempt} failed with error: ${err.message}`);
+
+      if (page) try { await page.close(); } catch {} 
+      if (browser) try { await browser.close(); } catch {}
+
+      if (attempt === maxRetries) {
+        console.error('[harvest] Max retries reached, aborting.');
+        throw err;
+      }
+
+      // Exponential backoff before retrying
+      const waitTime = 3000 * attempt;
+      console.log(`[harvest] Retrying in ${waitTime} ms...`);
+      await new Promise(r => setTimeout(r, waitTime));
+    }
+  }
 }
 
 (async () => {
-  console.log('[harvest] Launching Chromium (puppeteer) ...');
-  const browser = await puppeteer.launch({
-    headless: true,
-    args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage']
-  });
-
   try {
-    const page = await browser.newPage();
+    const url = 'https://animepahe.ru';
+    const { cookies, content } = await harvestCookies(url);
 
-    // Set realistic UA
-    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116 Safari/537.36');
+    console.log('Cookies:', cookies);
+    console.log('Page content length:', content.length);
 
-    // Block heavy assets & trackers
-    await page.setRequestInterception(true);
-    page.on('request', req => {
-      const t = req.resourceType();
-      const u = req.url();
-      if (['image','stylesheet','font','media'].includes(t)) return req.abort();
-      if (/googlesyndication|doubleclick|google-analytics|analytics|tracking|ads|cdn-cgi/i.test(u)) return req.abort();
-      req.continue();
-    });
+    // TODO: Save cookies to file or process them as needed
 
-    console.log('[harvest] Navigating to', TARGET);
-    await page.goto(TARGET, { waitUntil: 'domcontentloaded', timeout: 30000 }).catch(()=>{});
-
-    const start = Date.now();
-    let finalHtml = '';
-    while (Date.now() - start < MAX_WAIT_MS) {
-      const cookies = await page.cookies();
-      const names = cookies.map(c => c.name);
-      if (names.some(n => n.startsWith('__ddg') || n === '__ddgid_' || n === '__ddgmark_')) {
-        finalHtml = await page.content();
-        if (!/DDoS-Guard|Checking your browser before accessing/i.test(finalHtml)) {
-          console.log('[harvest] Challenge cleared (cookie & content).');
-          break;
-        }
-      }
-      const snippet = (await page.content()).slice(0, 400);
-      if (!/DDoS-Guard|Checking your browser before accessing/i.test(snippet)) {
-        finalHtml = await page.content();
-        console.log('[harvest] Challenge cleared (content check).');
-        break;
-      }
-      await new Promise(r => setTimeout(r, 700));
-    }
-    if (!finalHtml) {
-      await page.waitForTimeout(1000);
-      finalHtml = await page.content();
-    }
-
-    const cookies = await page.cookies();
-    console.log('[harvest] Cookies:', cookies.map(c => `${c.name}=${c.value}`).slice(0,20));
-    await fs.writeFile(OUT_JSON, JSON.stringify(cookies, null, 2), 'utf8');
-
-    const lines = ['# Netscape HTTP Cookie File', '# Generated by harvest-cookies.js'];
-    for (const c of cookies) lines.push(toNetscapeLine(c));
-    await fs.writeFile(OUT_NETSCAPE, lines.join('\n'), 'utf8');
-
-    console.log('[harvest] Wrote', OUT_JSON, 'and', OUT_NETSCAPE);
-  } catch (err) {
-    console.error('[harvest] Error:', err && err.stack ? err.stack : err);
-    process.exit(2);
-  } finally {
-    await browser.close();
+  } catch (e) {
+    console.error('Harvest failed:', e);
   }
 })();

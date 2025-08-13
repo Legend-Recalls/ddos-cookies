@@ -249,23 +249,24 @@ async function scanPopularAnime() {
             await new Promise(resolve => setTimeout(resolve, 100));
           }
 
-          // Create anime object
+          // Create anime object - use AnimePahe data when available, fallback to Jikan
           const animeInfo = {
             id: paheMatch?.id || null,
             malid: malId ? String(malId) : null,
-            title: jikanAnime.title,
-            type: jikanAnime.type,
-            episodes: jikanAnime.episodes,
-            status: jikanAnime.status,
-            season: jikanAnime.season,
-            year: jikanAnime.year,
-            score: jikanAnime.score,
-            poster: jikanAnime.images?.webp?.large_image_url || jikanAnime.images?.jpg?.image_url,
+            title: paheMatch?.title || jikanAnime.title,
+            type: paheMatch?.type || jikanAnime.type,
+            episodes: paheMatch?.episodes || jikanAnime.episodes,
+            status: paheMatch?.status || jikanAnime.status,
+            season: paheMatch?.season || jikanAnime.season,
+            year: paheMatch?.year || jikanAnime.year,
+            score: paheMatch?.score || jikanAnime.score,
+            // Use AnimePahe poster if available, otherwise fallback to Jikan
+            poster: paheMatch?.poster || jikanAnime.images?.webp?.large_image_url || jikanAnime.images?.jpg?.image_url,
             synopsis: jikanAnime.synopsis,
             session: paheMatch?.session || null,
             slug: paheMatch?.slug || null,
             scanned_at: new Date().toISOString(),
-            source: 'jikan'
+            source: paheMatch ? 'animepahe' : 'jikan'
           };
 
           popularAnime.push(animeInfo);

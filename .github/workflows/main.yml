@@ -1,22 +1,18 @@
 name: Harvest DDoS-Guard cookies and Scan Anime
-
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */1 * * *' # every 4 hours
-
+    - cron: '0 */1 * * *' # every 4 hours (fixed syntax)
 jobs:
   harvest-and-scan:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-
       - name: Install Chromium dependencies
         run: |
           sudo apt-get update && sudo apt-get install -y \
@@ -40,16 +36,13 @@ jobs:
             libx11-6 \
             libxtst6 \
             fonts-liberation
-
       - name: Install dependencies
         run: npm ci
-
       - name: Run cookie harvester
         env:
           TARGET: 'https://animepahe.ru'
           MAX_WAIT_MS: '25000'
         run: npm run harvest
-
       - name: Verify cookies were generated
         run: |
           echo "Checking for cookie files..."
@@ -61,29 +54,45 @@ jobs:
             echo "❌ cookies.json not found"
             exit 1
           fi
-
       - name: Run anime scanner
         run: |
           echo "🚀 Starting anime scanning with fresh cookies..."
           node index.js
-
       - name: Verify scan results
         run: |
           echo "📊 Checking scan results..."
+          
+          # Check recent anime
           if [ -f "recent-anime.json" ]; then
             echo "✅ recent-anime.json created"
-            jq '.total' recent-anime.json
+            RECENT_COUNT=$(jq -r '.total // 0' recent-anime.json)
+            echo "   📺 Recent anime: $RECENT_COUNT items"
           else
             echo "❌ recent-anime.json not found"
           fi
           
+          # Check popular anime
           if [ -f "popular-anime.json" ]; then
             echo "✅ popular-anime.json created"
-            jq '.total' popular-anime.json
+            POPULAR_COUNT=$(jq -r '.total // 0' popular-anime.json)
+            echo "   🔥 Popular anime: $POPULAR_COUNT items"
           else
             echo "❌ popular-anime.json not found"
           fi
-
+          
+          # Check top movies
+          if [ -f "top-movies.json" ]; then
+            echo "✅ top-movies.json created"
+            MOVIES_COUNT=$(jq -r '.total // 0' top-movies.json)
+            echo "   🎬 Top movies: $MOVIES_COUNT items"
+          else
+            echo "❌ top-movies.json not found"
+          fi
+          
+          # Show total files created
+          echo ""
+          echo "📁 All generated files:"
+          ls -la *.json | grep -E "(recent-anime|popular-anime|top-movies|cookies)\.json" || echo "No JSON files found"
       - name: Upload all artifacts
         uses: actions/upload-artifact@v4
         with:
@@ -93,8 +102,8 @@ jobs:
             cookies.json
             recent-anime.json
             popular-anime.json
+            top-movies.json
           retention-days: 7
-
       - name: Commit and push results to repository
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -103,18 +112,19 @@ jobs:
           git config --local user.name "GitHub Action"
           
           # Add the generated files
-          git add recent-anime.json popular-anime.json cookies.json
+          git add recent-anime.json popular-anime.json top-movies.json cookies.json
           
           # Check if there are changes to commit
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             # Create commit message with scan stats
-            RECENT_COUNT=$(jq -r '.total // 0' recent-anime.json)
-            POPULAR_COUNT=$(jq -r '.total // 0' popular-anime.json)
+            RECENT_COUNT=$(jq -r '.total // 0' recent-anime.json 2>/dev/null || echo "0")
+            POPULAR_COUNT=$(jq -r '.total // 0' popular-anime.json 2>/dev/null || echo "0")
+            MOVIES_COUNT=$(jq -r '.total // 0' top-movies.json 2>/dev/null || echo "0")
             TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
             
-            git commit -m "🤖 Auto-scan: ${RECENT_COUNT} airing, ${POPULAR_COUNT} popular anime - ${TIMESTAMP}"
+            git commit -m "🤖 Auto-scan: ${RECENT_COUNT} airing, ${POPULAR_COUNT} popular, ${MOVIES_COUNT} movies - ${TIMESTAMP}"
             git push
             echo "✅ Results pushed to repository"
           fi

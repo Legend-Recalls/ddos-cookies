@@ -2,7 +2,7 @@ name: Harvest DDoS-Guard cookies and Scan Anime
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */1 * * *' # every 4 hours (fixed syntax)
+    - cron: '0 */4 * * *' # every 4 hours (fixed syntax)
 jobs:
   harvest-and-scan:
     runs-on: ubuntu-latest
@@ -89,10 +89,19 @@ jobs:
             echo "❌ top-movies.json not found"
           fi
           
+          # Check upcoming anime
+          if [ -f "upcoming-anime.json" ]; then
+            echo "✅ upcoming-anime.json created"
+            UPCOMING_COUNT=$(jq -r '.total // 0' upcoming-anime.json)
+            echo "   📅 Upcoming anime: $UPCOMING_COUNT items"
+          else
+            echo "❌ upcoming-anime.json not found"
+          fi
+          
           # Show total files created
           echo ""
           echo "📁 All generated files:"
-          ls -la *.json | grep -E "(recent-anime|popular-anime|top-movies|cookies)\.json" || echo "No JSON files found"
+          ls -la *.json | grep -E "(recent-anime|popular-anime|top-movies|upcoming-anime|cookies)\.json" || echo "No JSON files found"
       - name: Upload all artifacts
         uses: actions/upload-artifact@v4
         with:
@@ -103,6 +112,7 @@ jobs:
             recent-anime.json
             popular-anime.json
             top-movies.json
+            upcoming-anime.json
           retention-days: 7
       - name: Commit and push results to repository
         env:
@@ -112,7 +122,7 @@ jobs:
           git config --local user.name "GitHub Action"
           
           # Add the generated files
-          git add recent-anime.json popular-anime.json top-movies.json cookies.json
+          git add recent-anime.json popular-anime.json top-movies.json upcoming-anime.json cookies.json
           
           # Check if there are changes to commit
           if git diff --staged --quiet; then
@@ -122,9 +132,10 @@ jobs:
             RECENT_COUNT=$(jq -r '.total // 0' recent-anime.json 2>/dev/null || echo "0")
             POPULAR_COUNT=$(jq -r '.total // 0' popular-anime.json 2>/dev/null || echo "0")
             MOVIES_COUNT=$(jq -r '.total // 0' top-movies.json 2>/dev/null || echo "0")
+            UPCOMING_COUNT=$(jq -r '.total // 0' upcoming-anime.json 2>/dev/null || echo "0")
             TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
             
-            git commit -m "🤖 Auto-scan: ${RECENT_COUNT} airing, ${POPULAR_COUNT} popular, ${MOVIES_COUNT} movies - ${TIMESTAMP}"
+            git commit -m "🤖 Auto-scan: ${RECENT_COUNT} airing, ${POPULAR_COUNT} popular, ${MOVIES_COUNT} movies, ${UPCOMING_COUNT} upcoming - ${TIMESTAMP}"
             git push
             echo "✅ Results pushed to repository"
           fi

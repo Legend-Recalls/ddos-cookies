@@ -12,6 +12,7 @@ const __dirname = dirname(__filename);
 const REFERER = "https://animepahe.ru";
 const RECENT_ANIME_FILE = "recent-anime.json";
 const POPULAR_ANIME_FILE = "popular-anime.json";
+const TOP_MOVIES_FILE = "top-movies.json";
 const COOKIES_FILE = "cookies.json";
 
 // Load cookies from file
@@ -305,6 +306,159 @@ async function scanPopularAnime() {
   }
 }
 
+// Scan top movies (from Jikan + match with AnimePahe)
+async function scanTopMovies() {
+  console.log("🔍 Scanning top anime movies...");
+  const topMovies = [];
+
+  try {
+    // Get top movies from Jikan (MyAnimeList API)
+    const jikanPages = 3; // Scan first 3 pages for movies
+    
+    for (let page = 1; page <= jikanPages; page++) {
+      console.log(`📄 Scanning Jikan top movies page ${page}...`);
+      
+      const jikanUrl = `https://api.jikan.moe/v4/top/anime?type=movie&page=${page}`;
+      const response = await axios.get(jikanUrl, {
+        headers: { "User-Agent": getRandomUserAgent() }
+      });
+
+      if (response.status < 200 || response.status >= 300) {
+        console.warn(`⚠️ Jikan movies page ${page} returned status ${response.status}`);
+        continue;
+      }
+
+      const data = response.data;
+      if (!data.data || !Array.isArray(data.data)) continue;
+
+      // Process each top movie
+      for (const jikanMovie of data.data) {
+        try {
+          const malId = jikanMovie.mal_id;
+          const titles = [
+            jikanMovie.title,
+            jikanMovie.title_english,
+            jikanMovie.title_japanese,
+            ...(jikanMovie.title_synonyms || [])
+          ].filter(Boolean);
+
+          // Try to find on AnimePahe
+          let paheMatch = null;
+          for (const title of titles) {
+            if (!title) continue;
+            
+            try {
+              const searchUrl = `${REFERER}/api?m=search&q=${encodeURIComponent(title)}`;
+              const searchResponse = await fetchWithCookies(searchUrl);
+              
+              if (!searchResponse.ok) continue;
+              
+              const searchData = await searchResponse.json();
+              if (!searchData.data || !Array.isArray(searchData.data)) continue;
+
+              // Look for exact or close match, prioritize movies
+              paheMatch = searchData.data.find(anime => {
+                const animeTitle = anime.title.toLowerCase();
+                const titleLower = title.toLowerCase();
+                const isMatch = animeTitle === titleLower || 
+                               animeTitle.includes(titleLower) ||
+                               titleLower.includes(animeTitle);
+                
+                // Prefer movies if available
+                return isMatch && (anime.type === 'Movie' || anime.type === 'movie');
+              });
+
+              // If no movie match found, look for any match
+              if (!paheMatch) {
+                paheMatch = searchData.data.find(anime => {
+                  const animeTitle = anime.title.toLowerCase();
+                  return animeTitle === title.toLowerCase() || 
+                         animeTitle.includes(title.toLowerCase()) ||
+                         title.toLowerCase().includes(animeTitle);
+                });
+              }
+
+              if (paheMatch) break;
+              
+            } catch (err) {
+              // Continue to next title
+            }
+            
+            await new Promise(resolve => setTimeout(resolve, 100));
+          }
+
+          // Create movie object - use AnimePahe data when available, fallback to Jikan
+          const movieInfo = {
+            id: paheMatch?.id || null,
+            malid: malId ? String(malId) : null,
+            title: paheMatch?.title || jikanMovie.title,
+            type: paheMatch?.type || jikanMovie.type,
+            episodes: paheMatch?.episodes || jikanMovie.episodes,
+            status: paheMatch?.status || jikanMovie.status,
+            season: paheMatch?.season || jikanMovie.season,
+            year: paheMatch?.year || jikanMovie.year,
+            score: paheMatch?.score || jikanMovie.score,
+            // Use AnimePahe poster if available, otherwise fallback to Jikan
+            poster: paheMatch?.poster || jikanMovie.images?.webp?.large_image_url || jikanMovie.images?.jpg?.image_url,
+            synopsis: jikanMovie.synopsis,
+            session: paheMatch?.session || null,
+            slug: paheMatch?.slug || null,
+            // Movie specific fields
+            duration: jikanMovie.duration,
+            rating: jikanMovie.rating,
+            rank: jikanMovie.rank,
+            popularity: jikanMovie.popularity,
+            favorites: jikanMovie.favorites,
+            scored_by: jikanMovie.scored_by,
+            // Additional info
+            scanned_at: new Date().toISOString(),
+            source: paheMatch ? 'animepahe' : 'jikan'
+          };
+
+          topMovies.push(movieInfo);
+          console.log(`✅ Found: ${jikanMovie.title} (${jikanMovie.score || 'N/A'})${paheMatch ? ' (matched on AnimePahe)' : ' (Jikan only)'}`);
+
+        } catch (err) {
+          console.error(`❌ Error processing ${jikanMovie.title}:`, err.message);
+        }
+
+        // Small delay
+        await new Promise(resolve => setTimeout(resolve, 150));
+      }
+
+      // Delay between pages
+      await new Promise(resolve => setTimeout(resolve, 300));
+    }
+
+    // Sort by score (highest first), then by rank
+    topMovies.sort((a, b) => {
+      const scoreA = a.score || 0;
+      const scoreB = b.score || 0;
+      if (scoreA !== scoreB) return scoreB - scoreA;
+      
+      const rankA = a.rank || 999999;
+      const rankB = b.rank || 999999;
+      return rankA - rankB;
+    });
+
+    // Save to file
+    const output = {
+      timestamp: Date.now(),
+      total: topMovies.length,
+      data: topMovies
+    };
+
+    fs.writeFileSync(TOP_MOVIES_FILE, JSON.stringify(output, null, 2));
+    console.log(`✅ Saved ${topMovies.length} top movies to ${TOP_MOVIES_FILE}`);
+    
+    return topMovies;
+
+  } catch (err) {
+    console.error("❌ Error scanning top movies:", err.message);
+    return [];
+  }
+}
+
 // Main scanning function
 async function scanAll() {
   console.log("🚀 Starting anime scanning...");
@@ -322,12 +476,21 @@ async function scanAll() {
     // Scan popular anime
     const popularResults = await scanPopularAnime();
     console.log(`📊 Popular anime scan complete: ${popularResults.length} items`);
+    console.log("-".repeat(50));
+
+    // Small delay between scans
+    await new Promise(resolve => setTimeout(resolve, 1000));
+
+    // Scan top movies
+    const movieResults = await scanTopMovies();
+    console.log(`📊 Top movies scan complete: ${movieResults.length} items`);
     console.log("=" .repeat(50));
 
     console.log("🎉 All scans completed successfully!");
     console.log(`📁 Files created:`);
     console.log(`   - ${RECENT_ANIME_FILE} (${airingResults.length} airing anime)`);
     console.log(`   - ${POPULAR_ANIME_FILE} (${popularResults.length} popular anime)`);
+    console.log(`   - ${TOP_MOVIES_FILE} (${movieResults.length} top movies)`);
 
   } catch (err) {
     console.error("❌ Scanning failed:", err.message);
@@ -351,5 +514,6 @@ if (isMainModule) {
 export {
   scanAiringAnime,
   scanPopularAnime,
+  scanTopMovies,
   scanAll
 };

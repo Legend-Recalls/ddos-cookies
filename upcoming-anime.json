@@ -1,5 +1,5 @@
 {
-  "timestamp": 1755348443306,
+  "timestamp": 1755361754264,
   "total": 75,
   "data": [
     {
@@ -29,7 +29,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:41.857Z",
+      "scanned_at": "2025-08-16T16:28:34.864Z",
       "source": "animepahe"
     },
     {
@@ -59,7 +59,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:42.362Z",
+      "scanned_at": "2025-08-16T16:28:35.345Z",
       "source": "animepahe"
     },
     {
@@ -89,7 +89,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:42.868Z",
+      "scanned_at": "2025-08-16T16:28:35.823Z",
       "source": "animepahe"
     },
     {
@@ -119,7 +119,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:43.372Z",
+      "scanned_at": "2025-08-16T16:28:36.307Z",
       "source": "animepahe"
     },
     {
@@ -140,8 +140,8 @@
       "aired_string": "Oct 2025 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 1660,
-      "members": 154416,
+      "popularity": 1659,
+      "members": 154641,
       "favorites": 816,
       "broadcast": {
         "day": null,
@@ -149,7 +149,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:43.649Z",
+      "scanned_at": "2025-08-16T16:28:36.570Z",
       "source": "animepahe"
     },
     {
@@ -170,16 +170,16 @@
       "aired_string": "Sep 19, 2025",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 1782,
-      "members": 140720,
-      "favorites": 723,
+      "popularity": 1779,
+      "members": 140894,
+      "favorites": 724,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:46:43.925Z",
+      "scanned_at": "2025-08-16T16:28:36.834Z",
       "source": "animepahe"
     },
     {
@@ -209,7 +209,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:44.436Z",
+      "scanned_at": "2025-08-16T16:28:37.311Z",
       "source": "animepahe"
     },
     {
@@ -239,7 +239,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:44.717Z",
+      "scanned_at": "2025-08-16T16:28:37.574Z",
       "source": "animepahe"
     },
     {
@@ -269,7 +269,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:46:44.993Z",
+      "scanned_at": "2025-08-16T16:28:37.838Z",
       "source": "animepahe"
     },
     {
@@ -299,7 +299,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Saturdays at 17:30 (JST)"
       },
-      "scanned_at": "2025-08-16T12:46:45.497Z",
+      "scanned_at": "2025-08-16T16:28:38.323Z",
       "source": "animepahe"
     },
     {
@@ -329,7 +329,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:46:46.010Z",
+      "scanned_at": "2025-08-16T16:28:38.802Z",
       "source": "animepahe"
     },
     {
@@ -359,7 +359,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Saturdays at 23:45 (JST)"
       },
-      "scanned_at": "2025-08-16T12:46:46.519Z",
+      "scanned_at": "2025-08-16T16:28:39.281Z",
       "source": "animepahe"
     },
     {
@@ -389,7 +389,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:47.022Z",
+      "scanned_at": "2025-08-16T16:28:39.761Z",
       "source": "animepahe"
     },
     {
@@ -419,7 +419,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:48.090Z",
+      "scanned_at": "2025-08-16T16:28:40.768Z",
       "source": "jikan"
     },
     {
@@ -449,7 +449,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:48.368Z",
+      "scanned_at": "2025-08-16T16:28:41.032Z",
       "source": "animepahe"
     },
     {
@@ -479,7 +479,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:48.911Z",
+      "scanned_at": "2025-08-16T16:28:41.517Z",
       "source": "animepahe"
     },
     {
@@ -500,16 +500,16 @@
       "aired_string": "2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2695,
-      "members": 77161,
-      "favorites": 479,
+      "popularity": 2694,
+      "members": 77224,
+      "favorites": 478,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:49.415Z",
+      "scanned_at": "2025-08-16T16:28:41.993Z",
       "source": "animepahe"
     },
     {
@@ -539,7 +539,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:50.707Z",
+      "scanned_at": "2025-08-16T16:28:43.214Z",
       "source": "jikan"
     },
     {
@@ -569,7 +569,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:51.215Z",
+      "scanned_at": "2025-08-16T16:28:43.698Z",
       "source": "animepahe"
     },
     {
@@ -599,7 +599,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:52.178Z",
+      "scanned_at": "2025-08-16T16:28:44.410Z",
       "source": "animepahe"
     },
     {
@@ -629,7 +629,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:46:52.674Z",
+      "scanned_at": "2025-08-16T16:28:44.890Z",
       "source": "animepahe"
     },
     {
@@ -659,7 +659,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:53.170Z",
+      "scanned_at": "2025-08-16T16:28:45.374Z",
       "source": "animepahe"
     },
     {
@@ -689,7 +689,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:53.442Z",
+      "scanned_at": "2025-08-16T16:28:45.638Z",
       "source": "animepahe"
     },
     {
@@ -719,7 +719,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:53.936Z",
+      "scanned_at": "2025-08-16T16:28:46.114Z",
       "source": "animepahe"
     },
     {
@@ -749,7 +749,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:54.657Z",
+      "scanned_at": "2025-08-16T16:28:46.810Z",
       "source": "jikan"
     },
     {
@@ -779,7 +779,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:46:55.770Z",
+      "scanned_at": "2025-08-16T16:28:47.878Z",
       "source": "animepahe"
     },
     {
@@ -809,7 +809,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:56.042Z",
+      "scanned_at": "2025-08-16T16:28:48.140Z",
       "source": "animepahe"
     },
     {
@@ -839,7 +839,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:56.537Z",
+      "scanned_at": "2025-08-16T16:28:48.620Z",
       "source": "animepahe"
     },
     {
@@ -869,7 +869,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:57.030Z",
+      "scanned_at": "2025-08-16T16:28:49.098Z",
       "source": "animepahe"
     },
     {
@@ -899,7 +899,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:46:57.967Z",
+      "scanned_at": "2025-08-16T16:28:50.003Z",
       "source": "jikan"
     },
     {
@@ -920,8 +920,8 @@
       "aired_string": "Oct 2025 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3457,
-      "members": 49326,
+      "popularity": 3455,
+      "members": 49384,
       "favorites": 233,
       "broadcast": {
         "day": null,
@@ -929,7 +929,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:46:59.138Z",
+      "scanned_at": "2025-08-16T16:28:51.129Z",
       "source": "jikan"
     },
     {
@@ -959,7 +959,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:46:59.409Z",
+      "scanned_at": "2025-08-16T16:28:51.392Z",
       "source": "animepahe"
     },
     {
@@ -989,7 +989,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:00.457Z",
+      "scanned_at": "2025-08-16T16:28:52.398Z",
       "source": "jikan"
     },
     {
@@ -1010,8 +1010,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3627,
-      "members": 45467,
+      "popularity": 3626,
+      "members": 45504,
       "favorites": 39,
       "broadcast": {
         "day": null,
@@ -1019,7 +1019,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:47:00.957Z",
+      "scanned_at": "2025-08-16T16:28:52.877Z",
       "source": "animepahe"
     },
     {
@@ -1040,8 +1040,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3633,
-      "members": 45385,
+      "popularity": 3629,
+      "members": 45446,
       "favorites": 112,
       "broadcast": {
         "day": null,
@@ -1049,7 +1049,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:01.230Z",
+      "scanned_at": "2025-08-16T16:28:53.144Z",
       "source": "animepahe"
     },
     {
@@ -1079,7 +1079,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:01.724Z",
+      "scanned_at": "2025-08-16T16:28:53.621Z",
       "source": "animepahe"
     },
     {
@@ -1109,7 +1109,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:02.221Z",
+      "scanned_at": "2025-08-16T16:28:54.098Z",
       "source": "animepahe"
     },
     {
@@ -1139,7 +1139,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:47:02.820Z",
+      "scanned_at": "2025-08-16T16:28:54.678Z",
       "source": "jikan"
     },
     {
@@ -1161,7 +1161,7 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "popularity": 3688,
-      "members": 44168,
+      "members": 44193,
       "favorites": 124,
       "broadcast": {
         "day": null,
@@ -1169,7 +1169,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:47:03.416Z",
+      "scanned_at": "2025-08-16T16:28:55.256Z",
       "source": "jikan"
     },
     {
@@ -1199,7 +1199,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:47:03.914Z",
+      "scanned_at": "2025-08-16T16:28:55.734Z",
       "source": "animepahe"
     },
     {
@@ -1229,7 +1229,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:04.412Z",
+      "scanned_at": "2025-08-16T16:28:56.241Z",
       "source": "animepahe"
     },
     {
@@ -1259,7 +1259,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:47:04.687Z",
+      "scanned_at": "2025-08-16T16:28:56.507Z",
       "source": "animepahe"
     },
     {
@@ -1289,7 +1289,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:04.960Z",
+      "scanned_at": "2025-08-16T16:28:56.771Z",
       "source": "animepahe"
     },
     {
@@ -1310,8 +1310,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3958,
-      "members": 38537,
+      "popularity": 3956,
+      "members": 38568,
       "favorites": 107,
       "broadcast": {
         "day": null,
@@ -1319,7 +1319,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:05.457Z",
+      "scanned_at": "2025-08-16T16:28:57.250Z",
       "source": "animepahe"
     },
     {
@@ -1349,7 +1349,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:05.731Z",
+      "scanned_at": "2025-08-16T16:28:57.513Z",
       "source": "animepahe"
     },
     {
@@ -1379,7 +1379,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:06.229Z",
+      "scanned_at": "2025-08-16T16:28:57.991Z",
       "source": "animepahe"
     },
     {
@@ -1409,7 +1409,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:06.503Z",
+      "scanned_at": "2025-08-16T16:28:58.254Z",
       "source": "animepahe"
     },
     {
@@ -1439,7 +1439,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:06.999Z",
+      "scanned_at": "2025-08-16T16:28:58.730Z",
       "source": "animepahe"
     },
     {
@@ -1469,7 +1469,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:07.499Z",
+      "scanned_at": "2025-08-16T16:28:59.212Z",
       "source": "animepahe"
     },
     {
@@ -1499,7 +1499,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:47:07.999Z",
+      "scanned_at": "2025-08-16T16:28:59.692Z",
       "source": "animepahe"
     },
     {
@@ -1520,8 +1520,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4152,
-      "members": 34968,
+      "popularity": 4153,
+      "members": 34975,
       "favorites": 80,
       "broadcast": {
         "day": null,
@@ -1529,7 +1529,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:47:09.119Z",
+      "scanned_at": "2025-08-16T16:29:00.762Z",
       "source": "animepahe"
     },
     {
@@ -1559,7 +1559,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:09.613Z",
+      "scanned_at": "2025-08-16T16:29:01.239Z",
       "source": "animepahe"
     },
     {
@@ -1589,7 +1589,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:47:10.215Z",
+      "scanned_at": "2025-08-16T16:29:01.826Z",
       "source": "jikan"
     },
     {
@@ -1619,7 +1619,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:10.713Z",
+      "scanned_at": "2025-08-16T16:29:02.309Z",
       "source": "animepahe"
     },
     {
@@ -1641,7 +1641,7 @@
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
       "popularity": 4289,
-      "members": 32649,
+      "members": 32654,
       "favorites": 84,
       "broadcast": {
         "day": null,
@@ -1649,7 +1649,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:47:11.435Z",
+      "scanned_at": "2025-08-16T16:29:03.004Z",
       "source": "animepahe"
     },
     {
@@ -1679,7 +1679,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:11.937Z",
+      "scanned_at": "2025-08-16T16:29:03.485Z",
       "source": "animepahe"
     },
     {
@@ -1709,7 +1709,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:47:12.209Z",
+      "scanned_at": "2025-08-16T16:29:03.752Z",
       "source": "animepahe"
     },
     {
@@ -1730,8 +1730,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4327,
-      "members": 31897,
+      "popularity": 4326,
+      "members": 31914,
       "favorites": 79,
       "broadcast": {
         "day": null,
@@ -1739,7 +1739,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:12.705Z",
+      "scanned_at": "2025-08-16T16:29:04.236Z",
       "source": "animepahe"
     },
     {
@@ -1761,7 +1761,7 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "popularity": 4332,
-      "members": 31816,
+      "members": 31826,
       "favorites": 298,
       "broadcast": {
         "day": null,
@@ -1769,7 +1769,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:12.982Z",
+      "scanned_at": "2025-08-16T16:29:04.501Z",
       "source": "animepahe"
     },
     {
@@ -1799,7 +1799,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:13.478Z",
+      "scanned_at": "2025-08-16T16:29:04.989Z",
       "source": "animepahe"
     },
     {
@@ -1820,8 +1820,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4371,
-      "members": 31213,
+      "popularity": 4370,
+      "members": 31242,
       "favorites": 73,
       "broadcast": {
         "day": null,
@@ -1829,7 +1829,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:13.974Z",
+      "scanned_at": "2025-08-16T16:29:05.473Z",
       "source": "animepahe"
     },
     {
@@ -1859,7 +1859,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:47:14.246Z",
+      "scanned_at": "2025-08-16T16:29:05.737Z",
       "source": "animepahe"
     },
     {
@@ -1889,7 +1889,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:15.065Z",
+      "scanned_at": "2025-08-16T16:29:06.553Z",
       "source": "jikan"
     },
     {
@@ -1919,7 +1919,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:16.349Z",
+      "scanned_at": "2025-08-16T16:29:07.795Z",
       "source": "jikan"
     },
     {
@@ -1949,7 +1949,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:47:16.844Z",
+      "scanned_at": "2025-08-16T16:29:08.274Z",
       "source": "animepahe"
     },
     {
@@ -1979,7 +1979,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:17.119Z",
+      "scanned_at": "2025-08-16T16:29:08.538Z",
       "source": "animepahe"
     },
     {
@@ -2009,7 +2009,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:17.389Z",
+      "scanned_at": "2025-08-16T16:29:08.804Z",
       "source": "animepahe"
     },
     {
@@ -2031,7 +2031,7 @@
       "duration": "Unknown",
       "rating": null,
       "popularity": 4606,
-      "members": 27870,
+      "members": 27881,
       "favorites": 128,
       "broadcast": {
         "day": null,
@@ -2039,7 +2039,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:47:18.652Z",
+      "scanned_at": "2025-08-16T16:29:10.030Z",
       "source": "jikan"
     },
     {
@@ -2060,16 +2060,16 @@
       "aired_string": "Jan 2026 to ?",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 4611,
-      "members": 27780,
-      "favorites": 36,
+      "popularity": 4610,
+      "members": 27792,
+      "favorites": 37,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:18.925Z",
+      "scanned_at": "2025-08-16T16:29:10.299Z",
       "source": "animepahe"
     },
     {
@@ -2099,7 +2099,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:19.611Z",
+      "scanned_at": "2025-08-16T16:29:10.772Z",
       "source": "animepahe"
     },
     {
@@ -2120,8 +2120,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4714,
-      "members": 26473,
+      "popularity": 4711,
+      "members": 26535,
       "favorites": 49,
       "broadcast": {
         "day": null,
@@ -2129,7 +2129,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:20.114Z",
+      "scanned_at": "2025-08-16T16:29:11.254Z",
       "source": "animepahe"
     },
     {
@@ -2159,7 +2159,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:47:21.083Z",
+      "scanned_at": "2025-08-16T16:29:12.160Z",
       "source": "animepahe"
     },
     {
@@ -2189,7 +2189,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:21.841Z",
+      "scanned_at": "2025-08-16T16:29:12.851Z",
       "source": "animepahe"
     },
     {
@@ -2219,7 +2219,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-08-16T12:47:22.352Z",
+      "scanned_at": "2025-08-16T16:29:13.335Z",
       "source": "animepahe"
     },
     {
@@ -2240,8 +2240,8 @@
       "aired_string": "Oct 2025 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4900,
-      "members": 24066,
+      "popularity": 4899,
+      "members": 24107,
       "favorites": 54,
       "broadcast": {
         "day": null,
@@ -2249,7 +2249,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-08-16T12:47:22.856Z",
+      "scanned_at": "2025-08-16T16:29:13.813Z",
       "source": "animepahe"
     }
   ]

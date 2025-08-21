@@ -1,5 +1,5 @@
 {
-  "timestamp": 1755780561285,
+  "timestamp": 1755787706153,
   "total": 75,
   "data": [
     {
@@ -22,7 +22,7 @@
       "popularity": 382,
       "favorites": 2777,
       "scored_by": 373544,
-      "scanned_at": "2025-08-21T12:49:05.844Z",
+      "scanned_at": "2025-08-21T14:48:06.482Z",
       "source": "animepahe"
     },
     {
@@ -43,9 +43,9 @@
       "rating": "PG-13 - Teens 13 or older",
       "rank": 5,
       "popularity": 1519,
-      "favorites": 4528,
-      "scored_by": 81970,
-      "scanned_at": "2025-08-21T12:48:51.457Z",
+      "favorites": 4529,
+      "scored_by": 81983,
+      "scanned_at": "2025-08-21T14:47:48.583Z",
       "source": "animepahe"
     },
     {
@@ -68,7 +68,7 @@
       "popularity": 19,
       "favorites": 93332,
       "scored_by": 1731816,
-      "scanned_at": "2025-08-21T12:48:51.900Z",
+      "scanned_at": "2025-08-21T14:47:49.137Z",
       "source": "animepahe"
     },
     {
@@ -91,7 +91,7 @@
       "popularity": 1044,
       "favorites": 2141,
       "scored_by": 141885,
-      "scanned_at": "2025-08-21T12:48:52.146Z",
+      "scanned_at": "2025-08-21T14:47:49.442Z",
       "source": "animepahe"
     },
     {
@@ -114,7 +114,7 @@
       "popularity": 1516,
       "favorites": 624,
       "scored_by": 100050,
-      "scanned_at": "2025-08-21T12:49:03.503Z",
+      "scanned_at": "2025-08-21T14:48:03.578Z",
       "source": "animepahe"
     },
     {
@@ -137,7 +137,7 @@
       "popularity": 3161,
       "favorites": 417,
       "scored_by": 21638,
-      "scanned_at": "2025-08-21T12:48:52.833Z",
+      "scanned_at": "2025-08-21T14:47:50.307Z",
       "source": "animepahe"
     },
     {
@@ -160,7 +160,30 @@
       "popularity": 11,
       "favorites": 93973,
       "scored_by": 2020302,
-      "scanned_at": "2025-08-21T12:48:53.271Z",
+      "scanned_at": "2025-08-21T14:47:50.865Z",
+      "source": "animepahe"
+    },
+    {
+      "id": 2251,
+      "malid": "31758",
+      "title": "Kizumonogatari Part 3: Cold-Blooded",
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "season": "Winter",
+      "year": 2017,
+      "score": 8.78,
+      "poster": "https://i.animepahe.ru/posters/52965c19eebcf3fb1853b640713108a426c9e0b810b107fc9a8d93acbd3b6219.jpg",
+      "synopsis": "After helping revive the legendary vampire Kiss-shot Acerola-orion Heart-under-blade, Koyomi Araragi has become a vampire himself and her servant. Kiss-shot is certain she can turn him back into a human, but only once regaining her full power. \n\nAraragi has hunted down the three vampire hunters that defeated Kiss-shot and retrieved her limbs to return her to full strength. However, now that Araragi has almost accomplished what he’s been fighting for this whole time, he has to consider if this is what he really wants. Once he revives this powerful immortal vampire, there is no telling what she might do, and there would be no way of stopping her.\n\nBut there is more to the story that Araragi doesn’t understand. If a newborn vampire like him could defeat the hunters, how did they overpower Kiss-shot? Can he trust her to turn him back to a human? And how is that even possible in the first place?\n\nAraragi is at his limit but he must come to a decision, and it may not be possible to resolve this situation without doing something he’ll regret…\n\n[Written by MAL Rewrite]",
+      "session": "7336e8fe-dfb6-6db6-8784-4236df47480a",
+      "slug": null,
+      "duration": "1 hr 23 min",
+      "rating": "R - 17+ (violence & profanity)",
+      "rank": 36,
+      "popularity": 498,
+      "favorites": 7958,
+      "scored_by": 289084,
+      "scanned_at": "2025-08-21T14:47:51.964Z",
       "source": "animepahe"
     },
     {
@@ -183,30 +206,7 @@
       "popularity": 1474,
       "favorites": 1621,
       "scored_by": 8444,
-      "scanned_at": "2025-08-21T12:48:53.708Z",
-      "source": "animepahe"
-    },
-    {
-      "id": 2251,
-      "malid": "31758",
-      "title": "Kizumonogatari Part 3: Cold-Blooded",
-      "type": "Movie",
-      "episodes": 1,
-      "status": "Finished Airing",
-      "season": "Winter",
-      "year": 2017,
-      "score": 8.78,
-      "poster": "https://i.animepahe.ru/posters/52965c19eebcf3fb1853b640713108a426c9e0b810b107fc9a8d93acbd3b6219.jpg",
-      "synopsis": "After helping revive the legendary vampire Kiss-shot Acerola-orion Heart-under-blade, Koyomi Araragi has become a vampire himself and her servant. Kiss-shot is certain she can turn him back into a human, but only once regaining her full power. \n\nAraragi has hunted down the three vampire hunters that defeated Kiss-shot and retrieved her limbs to return her to full strength. However, now that Araragi has almost accomplished what he’s been fighting for this whole time, he has to consider if this is what he really wants. Once he revives this powerful immortal vampire, there is no telling what she might do, and there would be no way of stopping her.\n\nBut there is more to the story that Araragi doesn’t understand. If a newborn vampire like him could defeat the hunters, how did they overpower Kiss-shot? Can he trust her to turn him back to a human? And how is that even possible in the first place?\n\nAraragi is at his limit but he must come to a decision, and it may not be possible to resolve this situation without doing something he’ll regret…\n\n[Written by MAL Rewrite]",
-      "session": "7336e8fe-dfb6-6db6-8784-4236df47480a",
-      "slug": null,
-      "duration": "1 hr 23 min",
-      "rating": "R - 17+ (violence & profanity)",
-      "rank": 38,
-      "popularity": 498,
-      "favorites": 7956,
-      "scored_by": 289042,
-      "scanned_at": "2025-08-21T12:48:54.150Z",
+      "scanned_at": "2025-08-21T14:47:51.419Z",
       "source": "animepahe"
     },
     {
@@ -229,7 +229,7 @@
       "popularity": 44,
       "favorites": 34477,
       "scored_by": 1374830,
-      "scanned_at": "2025-08-21T12:48:54.591Z",
+      "scanned_at": "2025-08-21T14:47:52.523Z",
       "source": "animepahe"
     },
     {
@@ -251,8 +251,8 @@
       "rank": 225,
       "popularity": 646,
       "favorites": 1733,
-      "scored_by": 226722,
-      "scanned_at": "2025-08-21T12:49:11.306Z",
+      "scored_by": 226740,
+      "scanned_at": "2025-08-21T14:48:13.763Z",
       "source": "animepahe"
     },
     {
@@ -275,7 +275,7 @@
       "popularity": 2934,
       "favorites": 441,
       "scored_by": 5986,
-      "scanned_at": "2025-08-21T12:49:14.747Z",
+      "scanned_at": "2025-08-21T14:48:18.061Z",
       "source": "animepahe"
     },
     {
@@ -298,7 +298,7 @@
       "popularity": 772,
       "favorites": 2211,
       "scored_by": 190826,
-      "scanned_at": "2025-08-21T12:48:55.229Z",
+      "scanned_at": "2025-08-21T14:47:53.331Z",
       "source": "jikan"
     },
     {
@@ -320,8 +320,8 @@
       "rank": 56,
       "popularity": 2895,
       "favorites": 968,
-      "scored_by": 31310,
-      "scanned_at": "2025-08-21T12:48:55.473Z",
+      "scored_by": 31337,
+      "scanned_at": "2025-08-21T14:47:53.636Z",
       "source": "animepahe"
     },
     {
@@ -344,7 +344,7 @@
       "popularity": 332,
       "favorites": 9407,
       "scored_by": 318910,
-      "scanned_at": "2025-08-21T12:48:52.392Z",
+      "scanned_at": "2025-08-21T14:47:49.748Z",
       "source": "animepahe"
     },
     {
@@ -367,7 +367,7 @@
       "popularity": 538,
       "favorites": 1686,
       "scored_by": 272231,
-      "scanned_at": "2025-08-21T12:49:06.956Z",
+      "scanned_at": "2025-08-21T14:48:08.109Z",
       "source": "animepahe"
     },
     {
@@ -390,7 +390,7 @@
       "popularity": 100,
       "favorites": 30973,
       "scored_by": 993268,
-      "scanned_at": "2025-08-21T12:48:55.912Z",
+      "scanned_at": "2025-08-21T14:47:54.181Z",
       "source": "animepahe"
     },
     {
@@ -413,7 +413,7 @@
       "popularity": 670,
       "favorites": 8355,
       "scored_by": 210359,
-      "scanned_at": "2025-08-21T12:48:56.402Z",
+      "scanned_at": "2025-08-21T14:47:54.792Z",
       "source": "animepahe"
     },
     {
@@ -436,7 +436,7 @@
       "popularity": 1163,
       "favorites": 1145,
       "scored_by": 109280,
-      "scanned_at": "2025-08-21T12:48:57.835Z",
+      "scanned_at": "2025-08-21T14:47:56.567Z",
       "source": "animepahe"
     },
     {
@@ -459,7 +459,7 @@
       "popularity": 1402,
       "favorites": 3711,
       "scored_by": 102831,
-      "scanned_at": "2025-08-21T12:48:56.649Z",
+      "scanned_at": "2025-08-21T14:47:55.096Z",
       "source": "animepahe"
     },
     {
@@ -482,7 +482,7 @@
       "popularity": 475,
       "favorites": 3870,
       "scored_by": 289550,
-      "scanned_at": "2025-08-21T12:48:57.589Z",
+      "scanned_at": "2025-08-21T14:47:56.263Z",
       "source": "animepahe"
     },
     {
@@ -505,7 +505,7 @@
       "popularity": 1638,
       "favorites": 285,
       "scored_by": 65204,
-      "scanned_at": "2025-08-21T12:49:09.735Z",
+      "scanned_at": "2025-08-21T14:48:11.611Z",
       "source": "animepahe"
     },
     {
@@ -528,7 +528,7 @@
       "popularity": 1340,
       "favorites": 1592,
       "scored_by": 87112,
-      "scanned_at": "2025-08-21T12:48:57.341Z",
+      "scanned_at": "2025-08-21T14:47:55.959Z",
       "source": "animepahe"
     },
     {
@@ -551,7 +551,7 @@
       "popularity": 278,
       "favorites": 10908,
       "scored_by": 494713,
-      "scanned_at": "2025-08-21T12:48:58.276Z",
+      "scanned_at": "2025-08-21T14:47:57.121Z",
       "source": "animepahe"
     },
     {
@@ -574,7 +574,7 @@
       "popularity": 374,
       "favorites": 13978,
       "scored_by": 323124,
-      "scanned_at": "2025-08-21T12:48:58.717Z",
+      "scanned_at": "2025-08-21T14:47:57.682Z",
       "source": "animepahe"
     },
     {
@@ -597,7 +597,7 @@
       "popularity": 630,
       "favorites": 8049,
       "scored_by": 181933,
-      "scanned_at": "2025-08-21T12:48:59.158Z",
+      "scanned_at": "2025-08-21T14:47:58.245Z",
       "source": "animepahe"
     },
     {
@@ -620,7 +620,7 @@
       "popularity": 1817,
       "favorites": 235,
       "scored_by": 54692,
-      "scanned_at": "2025-08-21T12:48:59.405Z",
+      "scanned_at": "2025-08-21T14:47:58.542Z",
       "source": "animepahe"
     },
     {
@@ -643,7 +643,7 @@
       "popularity": 179,
       "favorites": 31135,
       "scored_by": 668598,
-      "scanned_at": "2025-08-21T12:49:01.627Z",
+      "scanned_at": "2025-08-21T14:48:01.281Z",
       "source": "animepahe"
     },
     {
@@ -666,7 +666,7 @@
       "popularity": 523,
       "favorites": 2429,
       "scored_by": 287770,
-      "scanned_at": "2025-08-21T12:48:59.847Z",
+      "scanned_at": "2025-08-21T14:47:59.086Z",
       "source": "animepahe"
     },
     {
@@ -689,7 +689,7 @@
       "popularity": 244,
       "favorites": 11727,
       "scored_by": 477563,
-      "scanned_at": "2025-08-21T12:49:00.287Z",
+      "scanned_at": "2025-08-21T14:47:59.646Z",
       "source": "animepahe"
     },
     {
@@ -712,7 +712,7 @@
       "popularity": 71,
       "favorites": 13421,
       "scored_by": 1125084,
-      "scanned_at": "2025-08-21T12:49:02.804Z",
+      "scanned_at": "2025-08-21T14:48:02.709Z",
       "source": "animepahe"
     },
     {
@@ -735,7 +735,7 @@
       "popularity": 161,
       "favorites": 22554,
       "scored_by": 636829,
-      "scanned_at": "2025-08-21T12:49:02.070Z",
+      "scanned_at": "2025-08-21T14:48:01.840Z",
       "source": "animepahe"
     },
     {
@@ -758,7 +758,7 @@
       "popularity": 281,
       "favorites": 20945,
       "scored_by": 418829,
-      "scanned_at": "2025-08-21T12:49:02.361Z",
+      "scanned_at": "2025-08-21T14:48:02.147Z",
       "source": "animepahe"
     },
     {
@@ -781,7 +781,7 @@
       "popularity": 298,
       "favorites": 8839,
       "scored_by": 439923,
-      "scanned_at": "2025-08-21T12:49:03.251Z",
+      "scanned_at": "2025-08-21T14:48:03.271Z",
       "source": "animepahe"
     },
     {
@@ -804,7 +804,7 @@
       "popularity": 1072,
       "favorites": 4666,
       "scored_by": 137244,
-      "scanned_at": "2025-08-21T12:49:03.952Z",
+      "scanned_at": "2025-08-21T14:48:04.140Z",
       "source": "animepahe"
     },
     {
@@ -825,9 +825,9 @@
       "rating": "PG-13 - Teens 13 or older",
       "rank": 151,
       "popularity": 634,
-      "favorites": 9430,
-      "scored_by": 241490,
-      "scanned_at": "2025-08-21T12:49:05.092Z",
+      "favorites": 9431,
+      "scored_by": 241516,
+      "scanned_at": "2025-08-21T14:48:05.562Z",
       "source": "animepahe"
     },
     {
@@ -849,8 +849,8 @@
       "rank": 161,
       "popularity": 604,
       "favorites": 3551,
-      "scored_by": 249078,
-      "scanned_at": "2025-08-21T12:49:05.344Z",
+      "scored_by": 249116,
+      "scanned_at": "2025-08-21T14:48:05.868Z",
       "source": "animepahe"
     },
     {
@@ -873,7 +873,7 @@
       "popularity": 5012,
       "favorites": 113,
       "scored_by": 5150,
-      "scanned_at": "2025-08-21T12:49:05.596Z",
+      "scanned_at": "2025-08-21T14:48:06.176Z",
       "source": "animepahe"
     },
     {
@@ -896,7 +896,7 @@
       "popularity": 2463,
       "favorites": 763,
       "scored_by": 40451,
-      "scanned_at": "2025-08-21T12:49:06.708Z",
+      "scanned_at": "2025-08-21T14:48:07.798Z",
       "source": "animepahe"
     },
     {
@@ -919,7 +919,7 @@
       "popularity": 3520,
       "favorites": 44,
       "scored_by": 17955,
-      "scanned_at": "2025-08-21T12:49:06.264Z",
+      "scanned_at": "2025-08-21T14:48:07.246Z",
       "source": "animepahe"
     },
     {
@@ -942,7 +942,7 @@
       "popularity": 106,
       "favorites": 23496,
       "scored_by": 862622,
-      "scanned_at": "2025-08-21T12:48:56.158Z",
+      "scanned_at": "2025-08-21T14:47:54.487Z",
       "source": "animepahe"
     },
     {
@@ -965,7 +965,7 @@
       "popularity": 1330,
       "favorites": 2720,
       "scored_by": 91251,
-      "scanned_at": "2025-08-21T12:49:07.850Z",
+      "scanned_at": "2025-08-21T14:48:09.272Z",
       "source": "animepahe"
     },
     {
@@ -988,7 +988,7 @@
       "popularity": 241,
       "favorites": 5004,
       "scored_by": 540643,
-      "scanned_at": "2025-08-21T12:49:08.300Z",
+      "scanned_at": "2025-08-21T14:48:09.840Z",
       "source": "animepahe"
     },
     {
@@ -1011,7 +1011,7 @@
       "popularity": 2619,
       "favorites": 226,
       "scored_by": 29627,
-      "scanned_at": "2025-08-21T12:49:07.406Z",
+      "scanned_at": "2025-08-21T14:48:08.674Z",
       "source": "animepahe"
     },
     {
@@ -1034,7 +1034,7 @@
       "popularity": 141,
       "favorites": 10856,
       "scored_by": 710417,
-      "scanned_at": "2025-08-21T12:49:08.545Z",
+      "scanned_at": "2025-08-21T14:48:10.145Z",
       "source": "animepahe"
     },
     {
@@ -1057,7 +1057,7 @@
       "popularity": 5999,
       "favorites": 225,
       "scored_by": 6839,
-      "scanned_at": "2025-08-21T12:49:09.237Z",
+      "scanned_at": "2025-08-21T14:48:10.999Z",
       "source": "animepahe"
     },
     {
@@ -1080,7 +1080,7 @@
       "popularity": 3764,
       "favorites": 414,
       "scored_by": 15255,
-      "scanned_at": "2025-08-21T12:49:09.488Z",
+      "scanned_at": "2025-08-21T14:48:11.305Z",
       "source": "animepahe"
     },
     {
@@ -1103,7 +1103,7 @@
       "popularity": 524,
       "favorites": 8240,
       "scored_by": 208667,
-      "scanned_at": "2025-08-21T12:49:08.991Z",
+      "scanned_at": "2025-08-21T14:48:10.700Z",
       "source": "animepahe"
     },
     {
@@ -1126,7 +1126,7 @@
       "popularity": 2444,
       "favorites": 468,
       "scored_by": 33096,
-      "scanned_at": "2025-08-21T12:49:11.748Z",
+      "scanned_at": "2025-08-21T14:48:14.324Z",
       "source": "animepahe"
     },
     {
@@ -1149,7 +1149,7 @@
       "popularity": 499,
       "favorites": 6929,
       "scored_by": 256785,
-      "scanned_at": "2025-08-21T12:49:10.177Z",
+      "scanned_at": "2025-08-21T14:48:12.157Z",
       "source": "animepahe"
     },
     {
@@ -1172,7 +1172,7 @@
       "popularity": 1976,
       "favorites": 870,
       "scored_by": 47129,
-      "scanned_at": "2025-08-21T12:49:12.882Z",
+      "scanned_at": "2025-08-21T14:48:15.754Z",
       "source": "animepahe"
     },
     {
@@ -1195,7 +1195,7 @@
       "popularity": 1243,
       "favorites": 2322,
       "scored_by": 116685,
-      "scanned_at": "2025-08-21T12:49:12.195Z",
+      "scanned_at": "2025-08-21T14:48:14.887Z",
       "source": "animepahe"
     },
     {
@@ -1218,7 +1218,7 @@
       "popularity": 1246,
       "favorites": 1093,
       "scored_by": 105883,
-      "scanned_at": "2025-08-21T12:49:12.636Z",
+      "scanned_at": "2025-08-21T14:48:15.449Z",
       "source": "animepahe"
     },
     {
@@ -1241,7 +1241,7 @@
       "popularity": 431,
       "favorites": 3856,
       "scored_by": 303429,
-      "scanned_at": "2025-08-21T12:49:13.817Z",
+      "scanned_at": "2025-08-21T14:48:16.907Z",
       "source": "animepahe"
     },
     {
@@ -1264,7 +1264,7 @@
       "popularity": 4941,
       "favorites": 113,
       "scored_by": 7556,
-      "scanned_at": "2025-08-21T12:49:13.374Z",
+      "scanned_at": "2025-08-21T14:48:16.359Z",
       "source": "animepahe"
     },
     {
@@ -1287,7 +1287,7 @@
       "popularity": 643,
       "favorites": 5810,
       "scored_by": 251362,
-      "scanned_at": "2025-08-21T12:49:14.501Z",
+      "scanned_at": "2025-08-21T14:48:17.763Z",
       "source": "animepahe"
     },
     {
@@ -1310,7 +1310,7 @@
       "popularity": 5602,
       "favorites": 116,
       "scored_by": 8431,
-      "scanned_at": "2025-08-21T12:49:14.063Z",
+      "scanned_at": "2025-08-21T14:48:17.212Z",
       "source": "animepahe"
     },
     {
@@ -1333,7 +1333,7 @@
       "popularity": 4814,
       "favorites": 141,
       "scored_by": 9349,
-      "scanned_at": "2025-08-21T12:49:15.192Z",
+      "scanned_at": "2025-08-21T14:48:18.622Z",
       "source": "animepahe"
     },
     {
@@ -1356,7 +1356,7 @@
       "popularity": 3247,
       "favorites": 379,
       "scored_by": 19076,
-      "scanned_at": "2025-08-21T12:49:16.517Z",
+      "scanned_at": "2025-08-21T14:48:20.301Z",
       "source": "animepahe"
     },
     {
@@ -1379,7 +1379,7 @@
       "popularity": 1704,
       "favorites": 569,
       "scored_by": 56524,
-      "scanned_at": "2025-08-21T12:49:15.634Z",
+      "scanned_at": "2025-08-21T14:48:19.178Z",
       "source": "animepahe"
     },
     {
@@ -1402,7 +1402,7 @@
       "popularity": 5537,
       "favorites": 69,
       "scored_by": 6952,
-      "scanned_at": "2025-08-21T12:49:16.074Z",
+      "scanned_at": "2025-08-21T14:48:19.738Z",
       "source": "animepahe"
     },
     {
@@ -1425,7 +1425,7 @@
       "popularity": 5212,
       "favorites": 175,
       "scored_by": 13333,
-      "scanned_at": "2025-08-21T12:49:18.328Z",
+      "scanned_at": "2025-08-21T14:48:22.569Z",
       "source": "jikan"
     },
     {
@@ -1448,7 +1448,7 @@
       "popularity": 424,
       "favorites": 3543,
       "scored_by": 354702,
-      "scanned_at": "2025-08-21T12:49:17.401Z",
+      "scanned_at": "2025-08-21T14:48:21.416Z",
       "source": "animepahe"
     },
     {
@@ -1471,7 +1471,7 @@
       "popularity": 4312,
       "favorites": 419,
       "scored_by": 10999,
-      "scanned_at": "2025-08-21T12:49:16.958Z",
+      "scanned_at": "2025-08-21T14:48:20.853Z",
       "source": "animepahe"
     },
     {
@@ -1491,10 +1491,10 @@
       "duration": "1 hr 47 min",
       "rating": "PG-13 - Teens 13 or older",
       "rank": 303,
-      "popularity": 2573,
+      "popularity": 2574,
       "favorites": 278,
-      "scored_by": 49753,
-      "scanned_at": "2025-08-21T12:49:18.819Z",
+      "scored_by": 49758,
+      "scanned_at": "2025-08-21T14:48:23.172Z",
       "source": "animepahe"
     },
     {
@@ -1517,7 +1517,7 @@
       "popularity": 621,
       "favorites": 6039,
       "scored_by": 218534,
-      "scanned_at": "2025-08-21T12:49:18.573Z",
+      "scanned_at": "2025-08-21T14:48:22.865Z",
       "source": "animepahe"
     },
     {
@@ -1540,7 +1540,7 @@
       "popularity": 848,
       "favorites": 2860,
       "scored_by": 158530,
-      "scanned_at": "2025-08-21T12:49:19.508Z",
+      "scanned_at": "2025-08-21T14:48:24.042Z",
       "source": "animepahe"
     },
     {
@@ -1563,7 +1563,7 @@
       "popularity": 4501,
       "favorites": 112,
       "scored_by": 14442,
-      "scanned_at": "2025-08-21T12:49:19.263Z",
+      "scanned_at": "2025-08-21T14:48:23.736Z",
       "source": "animepahe"
     },
     {
@@ -1586,7 +1586,7 @@
       "popularity": 926,
       "favorites": 6459,
       "scored_by": 154097,
-      "scanned_at": "2025-08-21T12:49:19.949Z",
+      "scanned_at": "2025-08-21T14:48:24.588Z",
       "source": "animepahe"
     },
     {
@@ -1607,9 +1607,9 @@
       "rating": "G - All Ages",
       "rank": 325,
       "popularity": 235,
-      "favorites": 10527,
-      "scored_by": 478732,
-      "scanned_at": "2025-08-21T12:49:20.834Z",
+      "favorites": 10528,
+      "scored_by": 478762,
+      "scanned_at": "2025-08-21T14:48:25.702Z",
       "source": "animepahe"
     },
     {
@@ -1632,7 +1632,7 @@
       "popularity": 757,
       "favorites": 2940,
       "scored_by": 204720,
-      "scanned_at": "2025-08-21T12:49:13.127Z",
+      "scanned_at": "2025-08-21T14:48:16.059Z",
       "source": "animepahe"
     },
     {
@@ -1655,7 +1655,7 @@
       "popularity": 8793,
       "favorites": 34,
       "scored_by": 2003,
-      "scanned_at": "2025-08-21T12:49:04.644Z",
+      "scanned_at": "2025-08-21T14:48:04.994Z",
       "source": "animepahe"
     },
     {
@@ -1678,7 +1678,7 @@
       "popularity": 4873,
       "favorites": 995,
       "scored_by": 10516,
-      "scanned_at": "2025-08-21T12:49:04.201Z",
+      "scanned_at": "2025-08-21T14:48:04.442Z",
       "source": "animepahe"
     },
     {
@@ -1701,7 +1701,7 @@
       "popularity": 342,
       "favorites": 13843,
       "scored_by": 351144,
-      "scanned_at": "2025-08-21T12:49:20.394Z",
+      "scanned_at": "2025-08-21T14:48:25.149Z",
       "source": "animepahe"
     },
     {
@@ -1724,7 +1724,7 @@
       "popularity": 4604,
       "favorites": 393,
       "scored_by": 14405,
-      "scanned_at": "2025-08-21T12:48:56.900Z",
+      "scanned_at": "2025-08-21T14:47:55.400Z",
       "source": "animepahe"
     }
   ]

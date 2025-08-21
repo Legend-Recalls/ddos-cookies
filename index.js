@@ -461,6 +461,7 @@ async function scanTopMovies() {
 }
 
 // Scan upcoming anime (from Jikan + match with AnimePahe)
+// Scan upcoming anime (from Jikan only - no AnimePahe search since they don't exist yet)
 async function scanUpcomingAnime() {
   console.log("🔍 Scanning upcoming anime...");
   const upcomingAnime = [];
@@ -489,60 +490,24 @@ async function scanUpcomingAnime() {
       for (const jikanAnime of data.data) {
         try {
           const malId = jikanAnime.mal_id;
-          const titles = [
-            jikanAnime.title,
-            jikanAnime.title_english,
-            jikanAnime.title_japanese,
-            ...(jikanAnime.title_synonyms || [])
-          ].filter(Boolean);
 
-          // Try to find on AnimePahe
-          let paheMatch = null;
-          for (const title of titles) {
-            if (!title) continue;
-            
-            try {
-              const searchUrl = `${REFERER}/api?m=search&q=${encodeURIComponent(title)}`;
-              const searchResponse = await fetchWithCookies(searchUrl);
-              
-              if (!searchResponse.ok) continue;
-              
-              const searchData = await searchResponse.json();
-              if (!searchData.data || !Array.isArray(searchData.data)) continue;
-
-              // Look for exact or close match
-              paheMatch = searchData.data.find(anime => {
-                const animeTitle = anime.title.toLowerCase();
-                return animeTitle === title.toLowerCase() || 
-                       animeTitle.includes(title.toLowerCase()) ||
-                       title.toLowerCase().includes(animeTitle);
-              });
-
-              if (paheMatch) break;
-              
-            } catch (err) {
-              // Continue to next title
-            }
-            
-            await new Promise(resolve => setTimeout(resolve, 100));
-          }
-
-          // Create anime object - use AnimePahe data when available, fallback to Jikan
+          // Create anime object - upcoming anime won't exist on AnimePahe yet
+          // So we only use Jikan data and set AnimePahe-specific fields to null
           const animeInfo = {
-            id: paheMatch?.id || null,
+            id: null, // No AnimePahe ID since it doesn't exist yet
             malid: malId ? String(malId) : null,
-            title: paheMatch?.title || jikanAnime.title,
-            type: paheMatch?.type || jikanAnime.type,
-            episodes: paheMatch?.episodes || jikanAnime.episodes,
-            status: paheMatch?.status || jikanAnime.status,
-            season: paheMatch?.season || jikanAnime.season,
-            year: paheMatch?.year || jikanAnime.year,
-            score: paheMatch?.score || jikanAnime.score,
-            // Use AnimePahe poster if available, otherwise fallback to Jikan
-            poster: paheMatch?.poster || jikanAnime.images?.webp?.large_image_url || jikanAnime.images?.jpg?.image_url,
+            title: jikanAnime.title,
+            type: jikanAnime.type,
+            episodes: jikanAnime.episodes,
+            status: jikanAnime.status,
+            season: jikanAnime.season,
+            year: jikanAnime.year,
+            score: jikanAnime.score,
+            // Use Jikan poster only since AnimePahe doesn't have it yet
+            poster: jikanAnime.images?.webp?.large_image_url || jikanAnime.images?.jpg?.image_url,
             synopsis: jikanAnime.synopsis,
-            session: paheMatch?.session || null,
-            slug: paheMatch?.slug || null,
+            session: null, // No AnimePahe session since it doesn't exist yet
+            slug: null, // No AnimePahe slug since it doesn't exist yet
             // Upcoming specific fields
             aired_from: jikanAnime.aired?.from,
             aired_string: jikanAnime.aired?.string,
@@ -554,22 +519,22 @@ async function scanUpcomingAnime() {
             broadcast: jikanAnime.broadcast,
             // Additional info
             scanned_at: new Date().toISOString(),
-            source: paheMatch ? 'animepahe' : 'jikan'
+            source: 'jikan' // Always jikan for upcoming anime
           };
 
           upcomingAnime.push(animeInfo);
-          console.log(`✅ Found: ${jikanAnime.title} (${jikanAnime.season} ${jikanAnime.year || 'TBA'})${paheMatch ? ' (matched on AnimePahe)' : ' (Jikan only)'}`);
+          console.log(`✅ Found: ${jikanAnime.title} (${jikanAnime.season} ${jikanAnime.year || 'TBA'}) (Jikan only - upcoming)`);
 
         } catch (err) {
           console.error(`❌ Error processing ${jikanAnime.title}:`, err.message);
         }
 
-        // Small delay
-        await new Promise(resolve => setTimeout(resolve, 150));
+        // Small delay - much shorter since we're not making AnimePahe requests
+        await new Promise(resolve => setTimeout(resolve, 50));
       }
 
-      // Delay between pages
-      await new Promise(resolve => setTimeout(resolve, 300));
+      // Delay between pages - shorter since no AnimePahe requests
+      await new Promise(resolve => setTimeout(resolve, 200));
     }
 
     // Sort by popularity (lower number = more popular), then by members
@@ -600,6 +565,7 @@ async function scanUpcomingAnime() {
     return [];
   }
 }
+
 
 // Main scanning function
 async function scanAll() {

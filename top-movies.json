@@ -1,5 +1,5 @@
 {
-  "timestamp": 1757752114118,
+  "timestamp": 1757767332609,
   "total": 75,
   "data": [
     {
@@ -22,7 +22,7 @@
       "popularity": 1516,
       "favorites": 4536,
       "scored_by": 82335,
-      "scanned_at": "2025-09-13T08:26:54.189Z",
+      "scanned_at": "2025-09-13T12:40:53.174Z",
       "source": "jikan"
     },
     {
@@ -45,22 +45,22 @@
       "popularity": 19,
       "favorites": 93562,
       "scored_by": 1736130,
-      "scanned_at": "2025-09-13T08:26:55.456Z",
+      "scanned_at": "2025-09-13T12:40:54.220Z",
       "source": "jikan"
     },
     {
-      "id": null,
+      "id": 1025,
       "malid": "15335",
-      "title": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
-      "type": "Movie",
-      "episodes": 1,
+      "title": "Gintama",
+      "type": "TV",
+      "episodes": 201,
       "status": "Finished Airing",
-      "season": null,
-      "year": null,
-      "score": 8.9,
-      "poster": "https://cdn.myanimelist.net/images/anime/10/51723l.webp",
+      "season": "Spring",
+      "year": 2006,
+      "score": 8.93,
+      "poster": "https://i.animepahe.si/posters/11ac208ef79775638eb1ce7ed23793db47f9beced98521263aed314f244b15d1.jpg",
       "synopsis": "When Gintoki apprehends a movie pirate at a premiere, he checks the camera's footage and finds himself transported to a bleak, post-apocalyptic version of Edo, where a mysterious epidemic called the \"White Plague\" has ravished the world's population. It turns out that the movie pirate wasn't a pirate after all—it was an android time machine, and Gintoki has been hurtled five years into the future! Shinpachi and Kagura, his Yorozuya cohorts, have had a falling out and are now battle-hardened solo vigilantes and he himself has been missing for years, disappearing without a trace after scribbling a strange message in his journal.\n\nSetting out in the disguise given to him by the android time machine, Gintoki haphazardly reunites the Yorozuya team to investigate the White Plague, and soon discovers that the key to saving the future lies in the darkness of his own past. Determined to confront a powerful foe, he makes an important discovery—with a ragtag band of friends and allies at his side, he doesn't have to fight alone.\n\n[Written by MAL Rewrite]",
-      "session": null,
+      "session": "b791a8c5-063d-b8f7-c7b6-d0701227f47a",
       "slug": null,
       "duration": "1 hr 50 min",
       "rating": "PG-13 - Teens 13 or older",
@@ -68,31 +68,8 @@
       "popularity": 1049,
       "favorites": 2143,
       "scored_by": 142101,
-      "scanned_at": "2025-09-13T08:26:56.982Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "37987",
-      "title": "Violet Evergarden Movie",
-      "type": "Movie",
-      "episodes": 1,
-      "status": "Finished Airing",
-      "season": null,
-      "year": null,
-      "score": 8.84,
-      "poster": "https://cdn.myanimelist.net/images/anime/1825/110716l.webp",
-      "synopsis": "Several years have passed since the end of The Great War. As the radio tower in Leidenschaftlich continues to be built, telephones will soon become more relevant, leading to a decline in demand for \"Auto Memory Dolls.\" Even so, Violet Evergarden continues to rise in fame after her constant success with writing letters. However, sometimes the one thing you long for is the one thing that does not appear.\n\nViolet Evergarden Movie follows Violet as she continues to comprehend the concept of emotion and the meaning of love. At the same time, she pursues a glimmer of hope that the man who once told her, \"I love you,\" may still be alive even after the many years that have passed.\n\n[Written by MAL Rewrite]",
-      "session": null,
-      "slug": null,
-      "duration": "2 hr 20 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "rank": 29,
-      "popularity": 331,
-      "favorites": 9436,
-      "scored_by": 320532,
-      "scanned_at": "2025-09-13T08:26:58.240Z",
-      "source": "jikan"
+      "scanned_at": "2025-09-13T12:40:55.430Z",
+      "source": "animepahe"
     },
     {
       "id": 6185,
@@ -111,10 +88,10 @@
       "duration": "2 hr 24 min",
       "rating": "R - 17+ (violence & profanity)",
       "rank": 30,
-      "popularity": 3113,
+      "popularity": 3111,
       "favorites": 443,
-      "scored_by": 22933,
-      "scanned_at": "2025-09-13T08:26:58.861Z",
+      "scored_by": 22984,
+      "scanned_at": "2025-09-13T12:40:56.222Z",
       "source": "animepahe"
     },
     {
@@ -137,7 +114,7 @@
       "popularity": 11,
       "favorites": 94157,
       "scored_by": 2024585,
-      "scanned_at": "2025-09-13T08:26:59.885Z",
+      "scanned_at": "2025-09-13T12:40:56.730Z",
       "source": "animepahe"
     },
     {
@@ -160,22 +137,22 @@
       "popularity": 1360,
       "favorites": 1836,
       "scored_by": 19840,
-      "scanned_at": "2025-09-13T08:27:00.479Z",
+      "scanned_at": "2025-09-13T12:40:57.533Z",
       "source": "animepahe"
     },
     {
-      "id": null,
+      "id": 2251,
       "malid": "31758",
-      "title": "Kizumonogatari III: Reiketsu-hen",
+      "title": "Kizumonogatari Part 3: Cold-Blooded",
       "type": "Movie",
       "episodes": 1,
       "status": "Finished Airing",
-      "season": null,
-      "year": null,
+      "season": "Winter",
+      "year": 2017,
       "score": 8.78,
-      "poster": "https://cdn.myanimelist.net/images/anime/1084/112813l.webp",
+      "poster": "https://i.animepahe.si/posters/52965c19eebcf3fb1853b640713108a426c9e0b810b107fc9a8d93acbd3b6219.jpg",
       "synopsis": "After helping revive the legendary vampire Kiss-shot Acerola-orion Heart-under-blade, Koyomi Araragi has become a vampire himself and her servant. Kiss-shot is certain she can turn him back into a human, but only once regaining her full power. \n\nAraragi has hunted down the three vampire hunters that defeated Kiss-shot and retrieved her limbs to return her to full strength. However, now that Araragi has almost accomplished what he’s been fighting for this whole time, he has to consider if this is what he really wants. Once he revives this powerful immortal vampire, there is no telling what she might do, and there would be no way of stopping her.\n\nBut there is more to the story that Araragi doesn’t understand. If a newborn vampire like him could defeat the hunters, how did they overpower Kiss-shot? Can he trust her to turn him back to a human? And how is that even possible in the first place?\n\nAraragi is at his limit but he must come to a decision, and it may not be possible to resolve this situation without doing something he’ll regret…\n\n[Written by MAL Rewrite]",
-      "session": null,
+      "session": "7336e8fe-dfb6-6db6-8784-4236df47480a",
       "slug": null,
       "duration": "1 hr 23 min",
       "rating": "R - 17+ (violence & profanity)",
@@ -183,8 +160,8 @@
       "popularity": 499,
       "favorites": 7975,
       "scored_by": 289746,
-      "scanned_at": "2025-09-13T08:27:01.777Z",
-      "source": "jikan"
+      "scanned_at": "2025-09-13T12:40:58.029Z",
+      "source": "animepahe"
     },
     {
       "id": null,
@@ -206,7 +183,7 @@
       "popularity": 44,
       "favorites": 34528,
       "scored_by": 1377629,
-      "scanned_at": "2025-09-13T08:27:03.026Z",
+      "scanned_at": "2025-09-13T12:40:59.023Z",
       "source": "jikan"
     },
     {
@@ -229,7 +206,7 @@
       "popularity": 767,
       "favorites": 2208,
       "scored_by": 192473,
-      "scanned_at": "2025-09-13T08:27:04.005Z",
+      "scanned_at": "2025-09-13T12:40:59.831Z",
       "source": "jikan"
     },
     {
@@ -252,8 +229,31 @@
       "popularity": 2884,
       "favorites": 985,
       "scored_by": 31826,
-      "scanned_at": "2025-09-13T08:27:04.705Z",
+      "scanned_at": "2025-09-13T12:41:00.401Z",
       "source": "jikan"
+    },
+    {
+      "id": 2444,
+      "malid": "37987",
+      "title": "Violet Evergarden",
+      "type": "TV",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "season": "Winter",
+      "year": 2018,
+      "score": 8.69,
+      "poster": "https://i.animepahe.si/posters/ae756701284e526c4f90486cec3eb391afa105b79f28e0581dd7344f9a6f29ad.jpg",
+      "synopsis": "Several years have passed since the end of The Great War. As the radio tower in Leidenschaftlich continues to be built, telephones will soon become more relevant, leading to a decline in demand for \"Auto Memory Dolls.\" Even so, Violet Evergarden continues to rise in fame after her constant success with writing letters. However, sometimes the one thing you long for is the one thing that does not appear.\n\nViolet Evergarden Movie follows Violet as she continues to comprehend the concept of emotion and the meaning of love. At the same time, she pursues a glimmer of hope that the man who once told her, \"I love you,\" may still be alive even after the many years that have passed.\n\n[Written by MAL Rewrite]",
+      "session": "db7e133d-2e33-e246-fb6f-f79e0a518d31",
+      "slug": null,
+      "duration": "2 hr 20 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "rank": 29,
+      "popularity": 331,
+      "favorites": 9436,
+      "scored_by": 320532,
+      "scanned_at": "2025-09-13T12:40:55.711Z",
+      "source": "animepahe"
     },
     {
       "id": null,
@@ -275,7 +275,7 @@
       "popularity": 100,
       "favorites": 31037,
       "scored_by": 995641,
-      "scanned_at": "2025-09-13T08:27:05.682Z",
+      "scanned_at": "2025-09-13T12:41:01.183Z",
       "source": "jikan"
     },
     {
@@ -298,7 +298,7 @@
       "popularity": 106,
       "favorites": 23563,
       "scored_by": 864764,
-      "scanned_at": "2025-09-13T08:27:06.936Z",
+      "scanned_at": "2025-09-13T12:41:02.202Z",
       "source": "jikan"
     },
     {
@@ -321,7 +321,7 @@
       "popularity": 669,
       "favorites": 8356,
       "scored_by": 211131,
-      "scanned_at": "2025-09-13T08:27:08.198Z",
+      "scanned_at": "2025-09-13T12:41:03.200Z",
       "source": "jikan"
     },
     {
@@ -344,7 +344,7 @@
       "popularity": 4370,
       "favorites": 439,
       "scored_by": 16915,
-      "scanned_at": "2025-09-13T08:27:09.874Z",
+      "scanned_at": "2025-09-13T12:41:04.554Z",
       "source": "jikan"
     },
     {
@@ -367,7 +367,7 @@
       "popularity": 1384,
       "favorites": 3783,
       "scored_by": 105220,
-      "scanned_at": "2025-09-13T08:27:08.897Z",
+      "scanned_at": "2025-09-13T12:41:03.772Z",
       "source": "jikan"
     },
     {
@@ -390,7 +390,7 @@
       "popularity": 1328,
       "favorites": 1607,
       "scored_by": 88805,
-      "scanned_at": "2025-09-13T08:27:11.126Z",
+      "scanned_at": "2025-09-13T12:41:05.541Z",
       "source": "jikan"
     },
     {
@@ -413,7 +413,7 @@
       "popularity": 474,
       "favorites": 3887,
       "scored_by": 290848,
-      "scanned_at": "2025-09-13T08:27:12.652Z",
+      "scanned_at": "2025-09-13T12:41:06.767Z",
       "source": "jikan"
     },
     {
@@ -436,7 +436,7 @@
       "popularity": 1165,
       "favorites": 1149,
       "scored_by": 109516,
-      "scanned_at": "2025-09-13T08:27:13.904Z",
+      "scanned_at": "2025-09-13T12:41:07.783Z",
       "source": "jikan"
     },
     {
@@ -459,7 +459,7 @@
       "popularity": 277,
       "favorites": 10934,
       "scored_by": 496906,
-      "scanned_at": "2025-09-13T08:27:14.877Z",
+      "scanned_at": "2025-09-13T12:41:08.562Z",
       "source": "jikan"
     },
     {
@@ -482,7 +482,7 @@
       "popularity": 375,
       "favorites": 13995,
       "scored_by": 323555,
-      "scanned_at": "2025-09-13T08:27:16.681Z",
+      "scanned_at": "2025-09-13T12:41:09.993Z",
       "source": "jikan"
     },
     {
@@ -505,7 +505,7 @@
       "popularity": 629,
       "favorites": 8077,
       "scored_by": 182738,
-      "scanned_at": "2025-09-13T08:27:18.761Z",
+      "scanned_at": "2025-09-13T12:41:11.645Z",
       "source": "jikan"
     },
     {
@@ -528,7 +528,7 @@
       "popularity": 1821,
       "favorites": 235,
       "scored_by": 54800,
-      "scanned_at": "2025-09-13T08:27:20.010Z",
+      "scanned_at": "2025-09-13T12:41:12.644Z",
       "source": "jikan"
     },
     {
@@ -551,7 +551,7 @@
       "popularity": 525,
       "favorites": 2439,
       "scored_by": 288391,
-      "scanned_at": "2025-09-13T08:27:21.536Z",
+      "scanned_at": "2025-09-13T12:41:13.868Z",
       "source": "jikan"
     },
     {
@@ -574,7 +574,7 @@
       "popularity": 245,
       "favorites": 11758,
       "scored_by": 478197,
-      "scanned_at": "2025-09-13T08:27:22.787Z",
+      "scanned_at": "2025-09-13T12:41:14.855Z",
       "source": "jikan"
     },
     {
@@ -597,7 +597,7 @@
       "popularity": 179,
       "favorites": 31264,
       "scored_by": 670627,
-      "scanned_at": "2025-09-13T08:27:25.301Z",
+      "scanned_at": "2025-09-13T12:41:16.960Z",
       "source": "jikan"
     },
     {
@@ -618,9 +618,9 @@
       "rating": "R - 17+ (violence & profanity)",
       "rank": 123,
       "popularity": 71,
-      "favorites": 13436,
-      "scored_by": 1129617,
-      "scanned_at": "2025-09-13T08:27:29.643Z",
+      "favorites": 13441,
+      "scored_by": 1129864,
+      "scanned_at": "2025-09-13T12:41:20.422Z",
       "source": "jikan"
     },
     {
@@ -643,7 +643,7 @@
       "popularity": 160,
       "favorites": 22605,
       "scored_by": 639030,
-      "scanned_at": "2025-09-13T08:27:26.829Z",
+      "scanned_at": "2025-09-13T12:41:18.161Z",
       "source": "jikan"
     },
     {
@@ -664,9 +664,9 @@
       "rating": "R+ - Mild Nudity",
       "rank": 125,
       "popularity": 280,
-      "favorites": 21026,
-      "scored_by": 420315,
-      "scanned_at": "2025-09-13T08:27:27.839Z",
+      "favorites": 21029,
+      "scored_by": 420373,
+      "scanned_at": "2025-09-13T12:41:18.970Z",
       "source": "jikan"
     },
     {
@@ -687,9 +687,9 @@
       "rating": "PG-13 - Teens 13 or older",
       "rank": 137,
       "popularity": 297,
-      "favorites": 8863,
-      "scored_by": 441595,
-      "scanned_at": "2025-09-13T08:27:30.899Z",
+      "favorites": 8865,
+      "scored_by": 441649,
+      "scanned_at": "2025-09-13T12:41:21.415Z",
       "source": "jikan"
     },
     {
@@ -712,7 +712,7 @@
       "popularity": 1520,
       "favorites": 626,
       "scored_by": 100195,
-      "scanned_at": "2025-09-13T08:27:32.961Z",
+      "scanned_at": "2025-09-13T12:41:22.820Z",
       "source": "jikan"
     },
     {
@@ -735,7 +735,7 @@
       "popularity": 4880,
       "favorites": 1002,
       "scored_by": 10565,
-      "scanned_at": "2025-09-13T08:27:36.708Z",
+      "scanned_at": "2025-09-13T12:41:26.133Z",
       "source": "jikan"
     },
     {
@@ -758,7 +758,7 @@
       "popularity": 1075,
       "favorites": 4666,
       "scored_by": 137418,
-      "scanned_at": "2025-09-13T08:27:35.726Z",
+      "scanned_at": "2025-09-13T12:41:25.324Z",
       "source": "jikan"
     },
     {
@@ -781,7 +781,7 @@
       "popularity": 8437,
       "favorites": 42,
       "scored_by": 2418,
-      "scanned_at": "2025-09-13T08:27:33.934Z",
+      "scanned_at": "2025-09-13T12:41:23.830Z",
       "source": "jikan"
     },
     {
@@ -804,7 +804,7 @@
       "popularity": 633,
       "favorites": 9451,
       "scored_by": 242064,
-      "scanned_at": "2025-09-13T08:27:38.231Z",
+      "scanned_at": "2025-09-13T12:41:27.395Z",
       "source": "jikan"
     },
     {
@@ -827,7 +827,7 @@
       "popularity": 604,
       "favorites": 3554,
       "scored_by": 249785,
-      "scanned_at": "2025-09-13T08:27:39.479Z",
+      "scanned_at": "2025-09-13T12:41:28.437Z",
       "source": "jikan"
     },
     {
@@ -850,7 +850,7 @@
       "popularity": 4953,
       "favorites": 120,
       "scored_by": 5645,
-      "scanned_at": "2025-09-13T08:27:40.457Z",
+      "scanned_at": "2025-09-13T12:41:29.245Z",
       "source": "jikan"
     },
     {
@@ -873,7 +873,7 @@
       "popularity": 381,
       "favorites": 2781,
       "scored_by": 374233,
-      "scanned_at": "2025-09-13T08:27:41.708Z",
+      "scanned_at": "2025-09-13T12:41:30.271Z",
       "source": "jikan"
     },
     {
@@ -896,7 +896,7 @@
       "popularity": 536,
       "favorites": 1692,
       "scored_by": 273109,
-      "scanned_at": "2025-09-13T08:27:47.251Z",
+      "scanned_at": "2025-09-13T12:41:34.864Z",
       "source": "jikan"
     },
     {
@@ -919,7 +919,7 @@
       "popularity": 3523,
       "favorites": 44,
       "scored_by": 17983,
-      "scanned_at": "2025-09-13T08:27:45.019Z",
+      "scanned_at": "2025-09-13T12:41:32.999Z",
       "source": "jikan"
     },
     {
@@ -942,7 +942,7 @@
       "popularity": 2464,
       "favorites": 764,
       "scored_by": 40707,
-      "scanned_at": "2025-09-13T08:27:45.994Z",
+      "scanned_at": "2025-09-13T12:41:33.809Z",
       "source": "jikan"
     },
     {
@@ -965,7 +965,7 @@
       "popularity": 2625,
       "favorites": 225,
       "scored_by": 29723,
-      "scanned_at": "2025-09-13T08:27:43.227Z",
+      "scanned_at": "2025-09-13T12:41:31.538Z",
       "source": "jikan"
     },
     {
@@ -988,7 +988,7 @@
       "popularity": 1333,
       "favorites": 2731,
       "scored_by": 91525,
-      "scanned_at": "2025-09-13T08:27:48.773Z",
+      "scanned_at": "2025-09-13T12:41:36.112Z",
       "source": "jikan"
     },
     {
@@ -1011,7 +1011,7 @@
       "popularity": 241,
       "favorites": 5009,
       "scored_by": 541939,
-      "scanned_at": "2025-09-13T08:27:50.288Z",
+      "scanned_at": "2025-09-13T12:41:37.386Z",
       "source": "jikan"
     },
     {
@@ -1034,7 +1034,7 @@
       "popularity": 141,
       "favorites": 10884,
       "scored_by": 715243,
-      "scanned_at": "2025-09-13T08:27:54.852Z",
+      "scanned_at": "2025-09-13T12:41:41.152Z",
       "source": "jikan"
     },
     {
@@ -1057,7 +1057,7 @@
       "popularity": 5991,
       "favorites": 226,
       "scored_by": 6877,
-      "scanned_at": "2025-09-13T08:27:53.324Z",
+      "scanned_at": "2025-09-13T12:41:39.882Z",
       "source": "jikan"
     },
     {
@@ -1080,7 +1080,7 @@
       "popularity": 524,
       "favorites": 8272,
       "scored_by": 209281,
-      "scanned_at": "2025-09-13T08:27:51.806Z",
+      "scanned_at": "2025-09-13T12:41:38.635Z",
       "source": "jikan"
     },
     {
@@ -1103,7 +1103,7 @@
       "popularity": 3744,
       "favorites": 420,
       "scored_by": 15473,
-      "scanned_at": "2025-09-13T08:27:55.836Z",
+      "scanned_at": "2025-09-13T12:41:41.961Z",
       "source": "jikan"
     },
     {
@@ -1126,7 +1126,7 @@
       "popularity": 646,
       "favorites": 1733,
       "scored_by": 227113,
-      "scanned_at": "2025-09-13T08:28:00.360Z",
+      "scanned_at": "2025-09-13T12:41:45.773Z",
       "source": "jikan"
     },
     {
@@ -1147,9 +1147,9 @@
       "rating": "PG-13 - Teens 13 or older",
       "rank": 219,
       "popularity": 497,
-      "favorites": 6956,
-      "scored_by": 258194,
-      "scanned_at": "2025-09-13T08:27:58.065Z",
+      "favorites": 6954,
+      "scored_by": 258250,
+      "scanned_at": "2025-09-13T12:41:43.814Z",
       "source": "jikan"
     },
     {
@@ -1172,7 +1172,7 @@
       "popularity": 1640,
       "favorites": 288,
       "scored_by": 65527,
-      "scanned_at": "2025-09-13T08:27:57.089Z",
+      "scanned_at": "2025-09-13T12:41:42.984Z",
       "source": "jikan"
     },
     {
@@ -1195,7 +1195,7 @@
       "popularity": 2444,
       "favorites": 468,
       "scored_by": 33278,
-      "scanned_at": "2025-09-13T08:28:01.614Z",
+      "scanned_at": "2025-09-13T12:41:46.817Z",
       "source": "jikan"
     },
     {
@@ -1218,7 +1218,7 @@
       "popularity": 1977,
       "favorites": 869,
       "scored_by": 47386,
-      "scanned_at": "2025-09-13T08:28:06.493Z",
+      "scanned_at": "2025-09-13T12:41:50.778Z",
       "source": "jikan"
     },
     {
@@ -1241,7 +1241,7 @@
       "popularity": 1244,
       "favorites": 2325,
       "scored_by": 116845,
-      "scanned_at": "2025-09-13T08:28:03.409Z",
+      "scanned_at": "2025-09-13T12:41:48.281Z",
       "source": "jikan"
     },
     {
@@ -1264,7 +1264,7 @@
       "popularity": 1246,
       "favorites": 1096,
       "scored_by": 106030,
-      "scanned_at": "2025-09-13T08:28:05.240Z",
+      "scanned_at": "2025-09-13T12:41:49.547Z",
       "source": "jikan"
     },
     {
@@ -1287,7 +1287,7 @@
       "popularity": 758,
       "favorites": 2951,
       "scored_by": 205063,
-      "scanned_at": "2025-09-13T08:28:08.022Z",
+      "scanned_at": "2025-09-13T12:41:51.979Z",
       "source": "jikan"
     },
     {
@@ -1310,7 +1310,7 @@
       "popularity": 431,
       "favorites": 3869,
       "scored_by": 304076,
-      "scanned_at": "2025-09-13T08:28:10.526Z",
+      "scanned_at": "2025-09-13T12:41:53.962Z",
       "source": "jikan"
     },
     {
@@ -1333,7 +1333,7 @@
       "popularity": 4928,
       "favorites": 113,
       "scored_by": 7666,
-      "scanned_at": "2025-09-13T08:28:09.270Z",
+      "scanned_at": "2025-09-13T12:41:52.968Z",
       "source": "jikan"
     },
     {
@@ -1356,7 +1356,7 @@
       "popularity": 644,
       "favorites": 5840,
       "scored_by": 251876,
-      "scanned_at": "2025-09-13T08:28:13.306Z",
+      "scanned_at": "2025-09-13T12:41:56.195Z",
       "source": "jikan"
     },
     {
@@ -1379,7 +1379,7 @@
       "popularity": 5588,
       "favorites": 117,
       "scored_by": 8555,
-      "scanned_at": "2025-09-13T08:28:11.499Z",
+      "scanned_at": "2025-09-13T12:41:54.744Z",
       "source": "jikan"
     },
     {
@@ -1402,7 +1402,7 @@
       "popularity": 2932,
       "favorites": 441,
       "scored_by": 6186,
-      "scanned_at": "2025-09-13T08:28:14.561Z",
+      "scanned_at": "2025-09-13T12:41:57.199Z",
       "source": "jikan"
     },
     {
@@ -1422,10 +1422,10 @@
       "duration": "25 min per ep",
       "rating": "R - 17+ (violence & profanity)",
       "rank": 277,
-      "popularity": 4817,
+      "popularity": 4816,
       "favorites": 144,
-      "scored_by": 9412,
-      "scanned_at": "2025-09-13T08:28:16.364Z",
+      "scored_by": 9414,
+      "scanned_at": "2025-09-13T12:41:58.607Z",
       "source": "jikan"
     },
     {
@@ -1448,7 +1448,7 @@
       "popularity": 3238,
       "favorites": 381,
       "scored_by": 19432,
-      "scanned_at": "2025-09-13T08:28:19.413Z",
+      "scanned_at": "2025-09-13T12:42:01.014Z",
       "source": "jikan"
     },
     {
@@ -1471,7 +1471,7 @@
       "popularity": 5207,
       "favorites": 175,
       "scored_by": 13410,
-      "scanned_at": "2025-09-13T08:28:20.666Z",
+      "scanned_at": "2025-09-13T12:42:02.000Z",
       "source": "jikan"
     },
     {
@@ -1494,7 +1494,7 @@
       "popularity": 5532,
       "favorites": 71,
       "scored_by": 7006,
-      "scanned_at": "2025-09-13T08:28:18.159Z",
+      "scanned_at": "2025-09-13T12:42:00.019Z",
       "source": "jikan"
     },
     {
@@ -1517,7 +1517,7 @@
       "popularity": 424,
       "favorites": 3548,
       "scored_by": 355545,
-      "scanned_at": "2025-09-13T08:28:25.050Z",
+      "scanned_at": "2025-09-13T12:42:05.392Z",
       "source": "jikan"
     },
     {
@@ -1540,7 +1540,7 @@
       "popularity": 1676,
       "favorites": 581,
       "scored_by": 59299,
-      "scanned_at": "2025-09-13T08:28:21.646Z",
+      "scanned_at": "2025-09-13T12:42:02.784Z",
       "source": "jikan"
     },
     {
@@ -1563,7 +1563,7 @@
       "popularity": 4296,
       "favorites": 425,
       "scored_by": 11191,
-      "scanned_at": "2025-09-13T08:28:23.220Z",
+      "scanned_at": "2025-09-13T12:42:03.982Z",
       "source": "jikan"
     },
     {
@@ -1583,10 +1583,10 @@
       "duration": "1 hr 47 min",
       "rating": "PG-13 - Teens 13 or older",
       "rank": 305,
-      "popularity": 2578,
+      "popularity": 2579,
       "favorites": 281,
-      "scored_by": 49850,
-      "scanned_at": "2025-09-13T08:28:27.589Z",
+      "scored_by": 49857,
+      "scanned_at": "2025-09-13T12:42:07.390Z",
       "source": "jikan"
     },
     {
@@ -1609,7 +1609,7 @@
       "popularity": 621,
       "favorites": 6067,
       "scored_by": 219175,
-      "scanned_at": "2025-09-13T08:28:26.315Z",
+      "scanned_at": "2025-09-13T12:42:06.383Z",
       "source": "jikan"
     },
     {
@@ -1632,7 +1632,7 @@
       "popularity": 849,
       "favorites": 2875,
       "scored_by": 158882,
-      "scanned_at": "2025-09-13T08:28:30.132Z",
+      "scanned_at": "2025-09-13T12:42:09.389Z",
       "source": "jikan"
     },
     {
@@ -1655,7 +1655,7 @@
       "popularity": 4503,
       "favorites": 112,
       "scored_by": 14490,
-      "scanned_at": "2025-09-13T08:28:29.144Z",
+      "scanned_at": "2025-09-13T12:42:08.607Z",
       "source": "jikan"
     },
     {
@@ -1678,7 +1678,7 @@
       "popularity": 925,
       "favorites": 6461,
       "scored_by": 154436,
-      "scanned_at": "2025-09-13T08:28:31.126Z",
+      "scanned_at": "2025-09-13T12:42:10.175Z",
       "source": "jikan"
     },
     {
@@ -1701,7 +1701,7 @@
       "popularity": 235,
       "favorites": 10534,
       "scored_by": 479431,
-      "scanned_at": "2025-09-13T08:28:33.668Z",
+      "scanned_at": "2025-09-13T12:42:12.159Z",
       "source": "jikan"
     },
     {
@@ -1720,11 +1720,11 @@
       "slug": null,
       "duration": "1 hr 22 min",
       "rating": "R+ - Mild Nudity",
-      "rank": 332,
+      "rank": 331,
       "popularity": 342,
-      "favorites": 13879,
-      "scored_by": 351976,
-      "scanned_at": "2025-09-13T08:28:32.401Z",
+      "favorites": 13883,
+      "scored_by": 352000,
+      "scanned_at": "2025-09-13T12:42:11.166Z",
       "source": "jikan"
     }
   ]

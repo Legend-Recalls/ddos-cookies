@@ -1,5 +1,5 @@
 {
-  "timestamp": 1757737662325,
+  "timestamp": 1757752114118,
   "total": 75,
   "data": [
     {
@@ -22,7 +22,7 @@
       "popularity": 1516,
       "favorites": 4536,
       "scored_by": 82335,
-      "scanned_at": "2025-09-13T04:26:04.770Z",
+      "scanned_at": "2025-09-13T08:26:54.189Z",
       "source": "jikan"
     },
     {
@@ -45,7 +45,7 @@
       "popularity": 19,
       "favorites": 93562,
       "scored_by": 1736130,
-      "scanned_at": "2025-09-13T04:26:05.976Z",
+      "scanned_at": "2025-09-13T08:26:55.456Z",
       "source": "jikan"
     },
     {
@@ -68,7 +68,7 @@
       "popularity": 1049,
       "favorites": 2143,
       "scored_by": 142101,
-      "scanned_at": "2025-09-13T04:26:07.425Z",
+      "scanned_at": "2025-09-13T08:26:56.982Z",
       "source": "jikan"
     },
     {
@@ -91,22 +91,22 @@
       "popularity": 331,
       "favorites": 9436,
       "scored_by": 320532,
-      "scanned_at": "2025-09-13T04:26:08.604Z",
+      "scanned_at": "2025-09-13T08:26:58.240Z",
       "source": "jikan"
     },
     {
-      "id": null,
+      "id": 6185,
       "malid": "59571",
-      "title": "Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack",
+      "title": "Attack on Titan: The Last Attack",
       "type": "Movie",
       "episodes": 1,
       "status": "Finished Airing",
-      "season": null,
-      "year": null,
+      "season": "Fall",
+      "year": 2024,
       "score": 8.83,
-      "poster": "https://cdn.myanimelist.net/images/anime/1379/145452l.webp",
+      "poster": "https://i.animepahe.si/posters/2c3070c705daa88fad96c979fac02566349ef90befce79bbd6a4d1050c2168f2.jpg",
       "synopsis": "A compilation movie for Shingeki no Kyojin: The Final Season - Kanketsu-hen.",
-      "session": null,
+      "session": "0f9e8c12-9ca0-da03-df67-e117e0bf3c42",
       "slug": null,
       "duration": "2 hr 24 min",
       "rating": "R - 17+ (violence & profanity)",
@@ -114,22 +114,22 @@
       "popularity": 3113,
       "favorites": 443,
       "scored_by": 22933,
-      "scanned_at": "2025-09-13T04:26:10.015Z",
-      "source": "jikan"
+      "scanned_at": "2025-09-13T08:26:58.861Z",
+      "source": "animepahe"
     },
     {
-      "id": null,
+      "id": 1342,
       "malid": "32281",
-      "title": "Kimi no Na wa.",
+      "title": "Your Name.",
       "type": "Movie",
       "episodes": 1,
       "status": "Finished Airing",
-      "season": null,
-      "year": null,
+      "season": "Summer",
+      "year": 2016,
       "score": 8.83,
-      "poster": "https://cdn.myanimelist.net/images/anime/5/87048l.webp",
+      "poster": "https://i.animepahe.si/posters/3145a08730bb2c65e8ea5fb15bd38228715a109c03b838f1d01b19ea9fb76c28.jpg",
       "synopsis": "Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo—a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture.\n\nOne day, Mitsuha awakens in a room that is not her own and suddenly finds herself living the dream life in Tokyo—but in Taki's body! Elsewhere, Taki finds himself living Mitsuha's life in the humble countryside. In pursuit of an answer to this strange phenomenon, they begin to search for one another.\n\nKimi no Na wa. revolves around Mitsuha and Taki's actions, which begin to have a dramatic impact on each other's lives, weaving them into a fabric held together by fate and circumstance.\n\n[Written by MAL Rewrite]",
-      "session": null,
+      "session": "76ea02f1-3a2d-3911-05cf-f6181a8bbf73",
       "slug": null,
       "duration": "1 hr 46 min",
       "rating": "PG-13 - Teens 13 or older",
@@ -137,31 +137,31 @@
       "popularity": 11,
       "favorites": 94157,
       "scored_by": 2024585,
-      "scanned_at": "2025-09-13T04:26:10.929Z",
-      "source": "jikan"
+      "scanned_at": "2025-09-13T08:26:59.885Z",
+      "source": "animepahe"
     },
     {
-      "id": null,
+      "id": 6211,
       "malid": "59192",
-      "title": "Kimetsu no Yaiba Movie: Mugen Jou-hen",
+      "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle",
       "type": "Movie",
       "episodes": 3,
       "status": "Currently Airing",
-      "season": null,
-      "year": null,
-      "score": 8.79,
-      "poster": "https://cdn.myanimelist.net/images/anime/1681/148216l.webp",
+      "season": "Summer",
+      "year": 2025,
+      "score": 8.78,
+      "poster": "https://i.animepahe.si/uploads/posters/08f262e7aa63e9e31708e190780793aa0b8c5193ab80bab4eeaf046679773350.jpg",
       "synopsis": "Anime movie trilogy adaptation of the Infinity Castle Arc.",
-      "session": null,
+      "session": "b45d57c5-32f8-2eed-4440-319137d71e9a",
       "slug": null,
       "duration": "2 hr 35 min per ep",
       "rating": "R - 17+ (violence & profanity)",
       "rank": 35,
-      "popularity": 1388,
-      "favorites": 1780,
-      "scored_by": 15397,
-      "scanned_at": "2025-09-13T04:26:11.858Z",
-      "source": "jikan"
+      "popularity": 1360,
+      "favorites": 1836,
+      "scored_by": 19840,
+      "scanned_at": "2025-09-13T08:27:00.479Z",
+      "source": "animepahe"
     },
     {
       "id": null,
@@ -183,7 +183,7 @@
       "popularity": 499,
       "favorites": 7975,
       "scored_by": 289746,
-      "scanned_at": "2025-09-13T04:26:13.072Z",
+      "scanned_at": "2025-09-13T08:27:01.777Z",
       "source": "jikan"
     },
     {
@@ -206,7 +206,7 @@
       "popularity": 44,
       "favorites": 34528,
       "scored_by": 1377629,
-      "scanned_at": "2025-09-13T04:26:14.246Z",
+      "scanned_at": "2025-09-13T08:27:03.026Z",
       "source": "jikan"
     },
     {
@@ -228,8 +228,8 @@
       "rank": 50,
       "popularity": 767,
       "favorites": 2208,
-      "scored_by": 192416,
-      "scanned_at": "2025-09-13T04:26:15.169Z",
+      "scored_by": 192473,
+      "scanned_at": "2025-09-13T08:27:04.005Z",
       "source": "jikan"
     },
     {
@@ -252,7 +252,7 @@
       "popularity": 2884,
       "favorites": 985,
       "scored_by": 31826,
-      "scanned_at": "2025-09-13T04:26:15.839Z",
+      "scanned_at": "2025-09-13T08:27:04.705Z",
       "source": "jikan"
     },
     {
@@ -275,7 +275,7 @@
       "popularity": 100,
       "favorites": 31037,
       "scored_by": 995641,
-      "scanned_at": "2025-09-13T04:26:16.754Z",
+      "scanned_at": "2025-09-13T08:27:05.682Z",
       "source": "jikan"
     },
     {
@@ -298,7 +298,7 @@
       "popularity": 106,
       "favorites": 23563,
       "scored_by": 864764,
-      "scanned_at": "2025-09-13T04:26:17.928Z",
+      "scanned_at": "2025-09-13T08:27:06.936Z",
       "source": "jikan"
     },
     {
@@ -321,7 +321,7 @@
       "popularity": 669,
       "favorites": 8356,
       "scored_by": 211131,
-      "scanned_at": "2025-09-13T04:26:19.142Z",
+      "scanned_at": "2025-09-13T08:27:08.198Z",
       "source": "jikan"
     },
     {
@@ -341,10 +341,10 @@
       "duration": "1 hr 47 min",
       "rating": "PG-13 - Teens 13 or older",
       "rank": 87,
-      "popularity": 4382,
-      "favorites": 437,
-      "scored_by": 16843,
-      "scanned_at": "2025-09-13T04:26:20.742Z",
+      "popularity": 4370,
+      "favorites": 439,
+      "scored_by": 16915,
+      "scanned_at": "2025-09-13T08:27:09.874Z",
       "source": "jikan"
     },
     {
@@ -367,7 +367,7 @@
       "popularity": 1384,
       "favorites": 3783,
       "scored_by": 105220,
-      "scanned_at": "2025-09-13T04:26:19.803Z",
+      "scanned_at": "2025-09-13T08:27:08.897Z",
       "source": "jikan"
     },
     {
@@ -390,7 +390,7 @@
       "popularity": 1328,
       "favorites": 1607,
       "scored_by": 88805,
-      "scanned_at": "2025-09-13T04:26:21.943Z",
+      "scanned_at": "2025-09-13T08:27:11.126Z",
       "source": "jikan"
     },
     {
@@ -413,7 +413,7 @@
       "popularity": 474,
       "favorites": 3887,
       "scored_by": 290848,
-      "scanned_at": "2025-09-13T04:26:23.365Z",
+      "scanned_at": "2025-09-13T08:27:12.652Z",
       "source": "jikan"
     },
     {
@@ -436,7 +436,7 @@
       "popularity": 1165,
       "favorites": 1149,
       "scored_by": 109516,
-      "scanned_at": "2025-09-13T04:26:24.549Z",
+      "scanned_at": "2025-09-13T08:27:13.904Z",
       "source": "jikan"
     },
     {
@@ -459,7 +459,7 @@
       "popularity": 277,
       "favorites": 10934,
       "scored_by": 496906,
-      "scanned_at": "2025-09-13T04:26:25.487Z",
+      "scanned_at": "2025-09-13T08:27:14.877Z",
       "source": "jikan"
     },
     {
@@ -482,7 +482,7 @@
       "popularity": 375,
       "favorites": 13995,
       "scored_by": 323555,
-      "scanned_at": "2025-09-13T04:26:27.173Z",
+      "scanned_at": "2025-09-13T08:27:16.681Z",
       "source": "jikan"
     },
     {
@@ -505,7 +505,7 @@
       "popularity": 629,
       "favorites": 8077,
       "scored_by": 182738,
-      "scanned_at": "2025-09-13T04:26:29.168Z",
+      "scanned_at": "2025-09-13T08:27:18.761Z",
       "source": "jikan"
     },
     {
@@ -527,8 +527,8 @@
       "rank": 110,
       "popularity": 1821,
       "favorites": 235,
-      "scored_by": 54797,
-      "scanned_at": "2025-09-13T04:26:30.350Z",
+      "scored_by": 54800,
+      "scanned_at": "2025-09-13T08:27:20.010Z",
       "source": "jikan"
     },
     {
@@ -549,9 +549,9 @@
       "rating": "R - 17+ (violence & profanity)",
       "rank": 113,
       "popularity": 525,
-      "favorites": 2436,
-      "scored_by": 288382,
-      "scanned_at": "2025-09-13T04:26:31.774Z",
+      "favorites": 2439,
+      "scored_by": 288391,
+      "scanned_at": "2025-09-13T08:27:21.536Z",
       "source": "jikan"
     },
     {
@@ -574,7 +574,7 @@
       "popularity": 245,
       "favorites": 11758,
       "scored_by": 478197,
-      "scanned_at": "2025-09-13T04:26:32.949Z",
+      "scanned_at": "2025-09-13T08:27:22.787Z",
       "source": "jikan"
     },
     {
@@ -597,7 +597,7 @@
       "popularity": 179,
       "favorites": 31264,
       "scored_by": 670627,
-      "scanned_at": "2025-09-13T04:26:35.660Z",
+      "scanned_at": "2025-09-13T08:27:25.301Z",
       "source": "jikan"
     },
     {
@@ -620,7 +620,7 @@
       "popularity": 71,
       "favorites": 13436,
       "scored_by": 1129617,
-      "scanned_at": "2025-09-13T04:26:39.681Z",
+      "scanned_at": "2025-09-13T08:27:29.643Z",
       "source": "jikan"
     },
     {
@@ -643,7 +643,7 @@
       "popularity": 160,
       "favorites": 22605,
       "scored_by": 639030,
-      "scanned_at": "2025-09-13T04:26:37.084Z",
+      "scanned_at": "2025-09-13T08:27:26.829Z",
       "source": "jikan"
     },
     {
@@ -666,7 +666,7 @@
       "popularity": 280,
       "favorites": 21026,
       "scored_by": 420315,
-      "scanned_at": "2025-09-13T04:26:37.999Z",
+      "scanned_at": "2025-09-13T08:27:27.839Z",
       "source": "jikan"
     },
     {
@@ -689,7 +689,7 @@
       "popularity": 297,
       "favorites": 8863,
       "scored_by": 441595,
-      "scanned_at": "2025-09-13T04:26:41.465Z",
+      "scanned_at": "2025-09-13T08:27:30.899Z",
       "source": "jikan"
     },
     {
@@ -712,7 +712,7 @@
       "popularity": 1520,
       "favorites": 626,
       "scored_by": 100195,
-      "scanned_at": "2025-09-13T04:26:43.244Z",
+      "scanned_at": "2025-09-13T08:27:32.961Z",
       "source": "jikan"
     },
     {
@@ -735,7 +735,7 @@
       "popularity": 4880,
       "favorites": 1002,
       "scored_by": 10565,
-      "scanned_at": "2025-09-13T04:26:46.887Z",
+      "scanned_at": "2025-09-13T08:27:36.708Z",
       "source": "jikan"
     },
     {
@@ -758,7 +758,7 @@
       "popularity": 1075,
       "favorites": 4666,
       "scored_by": 137418,
-      "scanned_at": "2025-09-13T04:26:45.941Z",
+      "scanned_at": "2025-09-13T08:27:35.726Z",
       "source": "jikan"
     },
     {
@@ -781,7 +781,7 @@
       "popularity": 8437,
       "favorites": 42,
       "scored_by": 2418,
-      "scanned_at": "2025-09-13T04:26:44.189Z",
+      "scanned_at": "2025-09-13T08:27:33.934Z",
       "source": "jikan"
     },
     {
@@ -804,7 +804,7 @@
       "popularity": 633,
       "favorites": 9451,
       "scored_by": 242064,
-      "scanned_at": "2025-09-13T04:26:48.395Z",
+      "scanned_at": "2025-09-13T08:27:38.231Z",
       "source": "jikan"
     },
     {
@@ -827,7 +827,7 @@
       "popularity": 604,
       "favorites": 3554,
       "scored_by": 249785,
-      "scanned_at": "2025-09-13T04:26:49.616Z",
+      "scanned_at": "2025-09-13T08:27:39.479Z",
       "source": "jikan"
     },
     {
@@ -850,7 +850,7 @@
       "popularity": 4953,
       "favorites": 120,
       "scored_by": 5645,
-      "scanned_at": "2025-09-13T04:26:50.564Z",
+      "scanned_at": "2025-09-13T08:27:40.457Z",
       "source": "jikan"
     },
     {
@@ -873,7 +873,7 @@
       "popularity": 381,
       "favorites": 2781,
       "scored_by": 374233,
-      "scanned_at": "2025-09-13T04:26:51.804Z",
+      "scanned_at": "2025-09-13T08:27:41.708Z",
       "source": "jikan"
     },
     {
@@ -896,7 +896,7 @@
       "popularity": 536,
       "favorites": 1692,
       "scored_by": 273109,
-      "scanned_at": "2025-09-13T04:26:57.288Z",
+      "scanned_at": "2025-09-13T08:27:47.251Z",
       "source": "jikan"
     },
     {
@@ -919,7 +919,7 @@
       "popularity": 3523,
       "favorites": 44,
       "scored_by": 17983,
-      "scanned_at": "2025-09-13T04:26:55.072Z",
+      "scanned_at": "2025-09-13T08:27:45.019Z",
       "source": "jikan"
     },
     {
@@ -942,7 +942,7 @@
       "popularity": 2464,
       "favorites": 764,
       "scored_by": 40707,
-      "scanned_at": "2025-09-13T04:26:56.053Z",
+      "scanned_at": "2025-09-13T08:27:45.994Z",
       "source": "jikan"
     },
     {
@@ -965,7 +965,7 @@
       "popularity": 2625,
       "favorites": 225,
       "scored_by": 29723,
-      "scanned_at": "2025-09-13T04:26:53.322Z",
+      "scanned_at": "2025-09-13T08:27:43.227Z",
       "source": "jikan"
     },
     {
@@ -988,7 +988,7 @@
       "popularity": 1333,
       "favorites": 2731,
       "scored_by": 91525,
-      "scanned_at": "2025-09-13T04:26:58.799Z",
+      "scanned_at": "2025-09-13T08:27:48.773Z",
       "source": "jikan"
     },
     {
@@ -1011,7 +1011,7 @@
       "popularity": 241,
       "favorites": 5009,
       "scored_by": 541939,
-      "scanned_at": "2025-09-13T04:27:00.267Z",
+      "scanned_at": "2025-09-13T08:27:50.288Z",
       "source": "jikan"
     },
     {
@@ -1034,7 +1034,7 @@
       "popularity": 141,
       "favorites": 10884,
       "scored_by": 715243,
-      "scanned_at": "2025-09-13T04:27:04.786Z",
+      "scanned_at": "2025-09-13T08:27:54.852Z",
       "source": "jikan"
     },
     {
@@ -1057,7 +1057,7 @@
       "popularity": 5991,
       "favorites": 226,
       "scored_by": 6877,
-      "scanned_at": "2025-09-13T04:27:03.276Z",
+      "scanned_at": "2025-09-13T08:27:53.324Z",
       "source": "jikan"
     },
     {
@@ -1080,7 +1080,7 @@
       "popularity": 524,
       "favorites": 8272,
       "scored_by": 209281,
-      "scanned_at": "2025-09-13T04:27:01.782Z",
+      "scanned_at": "2025-09-13T08:27:51.806Z",
       "source": "jikan"
     },
     {
@@ -1101,9 +1101,9 @@
       "rating": "PG-13 - Teens 13 or older",
       "rank": 215,
       "popularity": 3744,
-      "favorites": 419,
-      "scored_by": 15462,
-      "scanned_at": "2025-09-13T04:27:05.744Z",
+      "favorites": 420,
+      "scored_by": 15473,
+      "scanned_at": "2025-09-13T08:27:55.836Z",
       "source": "jikan"
     },
     {
@@ -1126,7 +1126,7 @@
       "popularity": 646,
       "favorites": 1733,
       "scored_by": 227113,
-      "scanned_at": "2025-09-13T04:27:10.134Z",
+      "scanned_at": "2025-09-13T08:28:00.360Z",
       "source": "jikan"
     },
     {
@@ -1149,7 +1149,7 @@
       "popularity": 497,
       "favorites": 6956,
       "scored_by": 258194,
-      "scanned_at": "2025-09-13T04:27:07.946Z",
+      "scanned_at": "2025-09-13T08:27:58.065Z",
       "source": "jikan"
     },
     {
@@ -1172,7 +1172,7 @@
       "popularity": 1640,
       "favorites": 288,
       "scored_by": 65527,
-      "scanned_at": "2025-09-13T04:27:06.963Z",
+      "scanned_at": "2025-09-13T08:27:57.089Z",
       "source": "jikan"
     },
     {
@@ -1195,7 +1195,7 @@
       "popularity": 2444,
       "favorites": 468,
       "scored_by": 33278,
-      "scanned_at": "2025-09-13T04:27:11.391Z",
+      "scanned_at": "2025-09-13T08:28:01.614Z",
       "source": "jikan"
     },
     {
@@ -1218,7 +1218,7 @@
       "popularity": 1977,
       "favorites": 869,
       "scored_by": 47386,
-      "scanned_at": "2025-09-13T04:27:16.415Z",
+      "scanned_at": "2025-09-13T08:28:06.493Z",
       "source": "jikan"
     },
     {
@@ -1241,7 +1241,7 @@
       "popularity": 1244,
       "favorites": 2325,
       "scored_by": 116845,
-      "scanned_at": "2025-09-13T04:27:13.792Z",
+      "scanned_at": "2025-09-13T08:28:03.409Z",
       "source": "jikan"
     },
     {
@@ -1264,7 +1264,7 @@
       "popularity": 1246,
       "favorites": 1096,
       "scored_by": 106030,
-      "scanned_at": "2025-09-13T04:27:15.219Z",
+      "scanned_at": "2025-09-13T08:28:05.240Z",
       "source": "jikan"
     },
     {
@@ -1287,7 +1287,7 @@
       "popularity": 758,
       "favorites": 2951,
       "scored_by": 205063,
-      "scanned_at": "2025-09-13T04:27:17.845Z",
+      "scanned_at": "2025-09-13T08:28:08.022Z",
       "source": "jikan"
     },
     {
@@ -1310,7 +1310,7 @@
       "popularity": 431,
       "favorites": 3869,
       "scored_by": 304076,
-      "scanned_at": "2025-09-13T04:27:20.214Z",
+      "scanned_at": "2025-09-13T08:28:10.526Z",
       "source": "jikan"
     },
     {
@@ -1333,7 +1333,7 @@
       "popularity": 4928,
       "favorites": 113,
       "scored_by": 7666,
-      "scanned_at": "2025-09-13T04:27:19.023Z",
+      "scanned_at": "2025-09-13T08:28:09.270Z",
       "source": "jikan"
     },
     {
@@ -1356,7 +1356,7 @@
       "popularity": 644,
       "favorites": 5840,
       "scored_by": 251876,
-      "scanned_at": "2025-09-13T04:27:22.819Z",
+      "scanned_at": "2025-09-13T08:28:13.306Z",
       "source": "jikan"
     },
     {
@@ -1379,7 +1379,7 @@
       "popularity": 5588,
       "favorites": 117,
       "scored_by": 8555,
-      "scanned_at": "2025-09-13T04:27:21.142Z",
+      "scanned_at": "2025-09-13T08:28:11.499Z",
       "source": "jikan"
     },
     {
@@ -1402,7 +1402,7 @@
       "popularity": 2932,
       "favorites": 441,
       "scored_by": 6186,
-      "scanned_at": "2025-09-13T04:27:23.987Z",
+      "scanned_at": "2025-09-13T08:28:14.561Z",
       "source": "jikan"
     },
     {
@@ -1425,7 +1425,7 @@
       "popularity": 4817,
       "favorites": 144,
       "scored_by": 9412,
-      "scanned_at": "2025-09-13T04:27:25.680Z",
+      "scanned_at": "2025-09-13T08:28:16.364Z",
       "source": "jikan"
     },
     {
@@ -1448,7 +1448,7 @@
       "popularity": 3238,
       "favorites": 381,
       "scored_by": 19432,
-      "scanned_at": "2025-09-13T04:27:28.558Z",
+      "scanned_at": "2025-09-13T08:28:19.413Z",
       "source": "jikan"
     },
     {
@@ -1471,7 +1471,7 @@
       "popularity": 5207,
       "favorites": 175,
       "scored_by": 13410,
-      "scanned_at": "2025-09-13T04:27:29.751Z",
+      "scanned_at": "2025-09-13T08:28:20.666Z",
       "source": "jikan"
     },
     {
@@ -1494,7 +1494,7 @@
       "popularity": 5532,
       "favorites": 71,
       "scored_by": 7006,
-      "scanned_at": "2025-09-13T04:27:27.386Z",
+      "scanned_at": "2025-09-13T08:28:18.159Z",
       "source": "jikan"
     },
     {
@@ -1517,7 +1517,7 @@
       "popularity": 424,
       "favorites": 3548,
       "scored_by": 355545,
-      "scanned_at": "2025-09-13T04:27:33.816Z",
+      "scanned_at": "2025-09-13T08:28:25.050Z",
       "source": "jikan"
     },
     {
@@ -1540,7 +1540,7 @@
       "popularity": 1676,
       "favorites": 581,
       "scored_by": 59299,
-      "scanned_at": "2025-09-13T04:27:30.661Z",
+      "scanned_at": "2025-09-13T08:28:21.646Z",
       "source": "jikan"
     },
     {
@@ -1562,8 +1562,8 @@
       "rank": 298,
       "popularity": 4296,
       "favorites": 425,
-      "scored_by": 11179,
-      "scanned_at": "2025-09-13T04:27:32.108Z",
+      "scored_by": 11191,
+      "scanned_at": "2025-09-13T08:28:23.220Z",
       "source": "jikan"
     },
     {
@@ -1586,7 +1586,7 @@
       "popularity": 2578,
       "favorites": 281,
       "scored_by": 49850,
-      "scanned_at": "2025-09-13T04:27:36.184Z",
+      "scanned_at": "2025-09-13T08:28:27.589Z",
       "source": "jikan"
     },
     {
@@ -1609,7 +1609,7 @@
       "popularity": 621,
       "favorites": 6067,
       "scored_by": 219175,
-      "scanned_at": "2025-09-13T04:27:35.005Z",
+      "scanned_at": "2025-09-13T08:28:26.315Z",
       "source": "jikan"
     },
     {
@@ -1632,7 +1632,7 @@
       "popularity": 849,
       "favorites": 2875,
       "scored_by": 158882,
-      "scanned_at": "2025-09-13T04:27:38.557Z",
+      "scanned_at": "2025-09-13T08:28:30.132Z",
       "source": "jikan"
     },
     {
@@ -1655,7 +1655,7 @@
       "popularity": 4503,
       "favorites": 112,
       "scored_by": 14490,
-      "scanned_at": "2025-09-13T04:27:37.635Z",
+      "scanned_at": "2025-09-13T08:28:29.144Z",
       "source": "jikan"
     },
     {
@@ -1677,8 +1677,8 @@
       "rank": 322,
       "popularity": 925,
       "favorites": 6461,
-      "scored_by": 154421,
-      "scanned_at": "2025-09-13T04:27:39.481Z",
+      "scored_by": 154436,
+      "scanned_at": "2025-09-13T08:28:31.126Z",
       "source": "jikan"
     },
     {
@@ -1701,7 +1701,7 @@
       "popularity": 235,
       "favorites": 10534,
       "scored_by": 479431,
-      "scanned_at": "2025-09-13T04:27:41.874Z",
+      "scanned_at": "2025-09-13T08:28:33.668Z",
       "source": "jikan"
     },
     {
@@ -1724,7 +1724,7 @@
       "popularity": 342,
       "favorites": 13879,
       "scored_by": 351976,
-      "scanned_at": "2025-09-13T04:27:40.704Z",
+      "scanned_at": "2025-09-13T08:28:32.401Z",
       "source": "jikan"
     }
   ]

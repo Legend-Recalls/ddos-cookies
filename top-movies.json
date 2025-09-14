@@ -1,20 +1,20 @@
 {
-  "timestamp": 1757853744514,
+  "timestamp": 1757867172854,
   "total": 75,
   "data": [
     {
-      "id": 4464,
+      "id": null,
       "malid": "39486",
-      "title": "Gintama: The Very Final",
+      "title": "Gintama: The Final",
       "type": "Movie",
       "episodes": 1,
       "status": "Finished Airing",
-      "season": "Winter",
-      "year": 2021,
+      "season": null,
+      "year": null,
       "score": 9.05,
-      "poster": "https://i.animepahe.si/posters/d788ce89cd093af9b513751fa941e75a4e47ecf20eeb0bc9fcc1cc2875aa8faf.jpg",
+      "poster": "https://cdn.myanimelist.net/images/anime/1245/116760l.webp",
       "synopsis": "Two years have passed following the Tendoshuu's invasion of the O-Edo Central Terminal. Since then, the Yorozuya have gone their separate ways. Foreseeing Utsuro's return, Gintoki Sakata begins surveying Earth's ley lines for traces of the other man's Altana. After an encounter with the remnants of the Tendoshuu—who continue to press on in search of immortality—Gintoki returns to Edo.\n\nLater, the regrouped Shinsengumi and Yorozuya begin an attack on the occupied Central Terminal. With the Altana harvested by the wreckage of the Tendoshuu's ship in danger of detonating, the Yorozuya and their allies fight their enemies while the safety of Edo—and the rest of the world—hangs in the balance. Fulfilling the wishes of their teacher, Shouyou Yoshida's former students unite and relive their pasts one final time in an attempt to save their futures.\n\n[Written by MAL Rewrite]",
-      "session": "94f1a903-78a3-1eb6-4255-830ad4fbddee",
+      "session": null,
       "slug": null,
       "duration": "1 hr 44 min",
       "rating": "PG-13 - Teens 13 or older",
@@ -22,8 +22,8 @@
       "popularity": 1516,
       "favorites": 4537,
       "scored_by": 82347,
-      "scanned_at": "2025-09-14T12:40:47.355Z",
-      "source": "animepahe"
+      "scanned_at": "2025-09-14T16:24:34.541Z",
+      "source": "jikan"
     },
     {
       "id": null,
@@ -45,8 +45,31 @@
       "popularity": 19,
       "favorites": 93571,
       "scored_by": 1736281,
-      "scanned_at": "2025-09-14T12:40:48.594Z",
+      "scanned_at": "2025-09-14T16:24:35.995Z",
       "source": "jikan"
+    },
+    {
+      "id": 1025,
+      "malid": "7472",
+      "title": "Gintama",
+      "type": "TV",
+      "episodes": 201,
+      "status": "Finished Airing",
+      "season": "Spring",
+      "year": 2006,
+      "score": 8.93,
+      "poster": "https://i.animepahe.si/posters/11ac208ef79775638eb1ce7ed23793db47f9beced98521263aed314f244b15d1.jpg",
+      "synopsis": "Gintoki and his Yorozuya friends (or rather, employees suffering under labor violations), Shinpachi and Kagura, continue to scrape by in the futuristic, alien-infested city of Edo. They take on whatever work they can find while trying not to get involved in anything too dangerous. But when Katsura, the leader of the Joui rebels and Gintoki's long-time acquaintance, disappears after being brutally attacked by an unknown assassin, Shinpachi and Kagura begin an investigation into his whereabouts and the identity of the assailant. Meanwhile, Gintoki takes on a seemingly unrelated job: the blacksmith Tetsuya requests that Gin recover a strange and powerful sword called the Benizakura which was recently stolen.\n\nAs the two investigations gradually intersect, the Yorozuya crew find themselves in the midst of a major conspiracy that hinges on the sinister nature of the Benizakura sword. Gintoki resolves to take the fight directly to the enemy headquarters, and together with a few unexpected allies, sets out on one of his most perilous jobs yet.\n\n[Written by MAL Rewrite]",
+      "session": "b791a8c5-063d-b8f7-c7b6-d0701227f47a",
+      "slug": null,
+      "duration": "1 hr 35 min",
+      "rating": "R - 17+ (violence & profanity)",
+      "rank": 140,
+      "popularity": 1520,
+      "favorites": 626,
+      "scored_by": 100204,
+      "scanned_at": "2025-09-14T16:25:14.511Z",
+      "source": "animepahe"
     },
     {
       "id": null,
@@ -68,7 +91,7 @@
       "popularity": 1049,
       "favorites": 2143,
       "scored_by": 142110,
-      "scanned_at": "2025-09-14T12:40:50.083Z",
+      "scanned_at": "2025-09-14T16:24:37.577Z",
       "source": "jikan"
     },
     {
@@ -91,7 +114,7 @@
       "popularity": 331,
       "favorites": 9439,
       "scored_by": 320598,
-      "scanned_at": "2025-09-14T12:40:51.300Z",
+      "scanned_at": "2025-09-14T16:24:39.137Z",
       "source": "jikan"
     },
     {
@@ -114,7 +137,7 @@
       "popularity": 3112,
       "favorites": 443,
       "scored_by": 23057,
-      "scanned_at": "2025-09-14T12:40:52.515Z",
+      "scanned_at": "2025-09-14T16:24:40.395Z",
       "source": "jikan"
     },
     {
@@ -137,7 +160,7 @@
       "popularity": 11,
       "favorites": 94164,
       "scored_by": 2024733,
-      "scanned_at": "2025-09-14T12:40:53.470Z",
+      "scanned_at": "2025-09-14T16:24:41.368Z",
       "source": "jikan"
     },
     {
@@ -160,7 +183,7 @@
       "popularity": 1324,
       "favorites": 1911,
       "scored_by": 26096,
-      "scanned_at": "2025-09-14T12:40:54.428Z",
+      "scanned_at": "2025-09-14T16:24:42.333Z",
       "source": "jikan"
     },
     {
@@ -183,7 +206,7 @@
       "popularity": 499,
       "favorites": 7978,
       "scored_by": 289761,
-      "scanned_at": "2025-09-14T12:40:55.656Z",
+      "scanned_at": "2025-09-14T16:24:43.601Z",
       "source": "jikan"
     },
     {
@@ -206,7 +229,7 @@
       "popularity": 44,
       "favorites": 34535,
       "scored_by": 1377738,
-      "scanned_at": "2025-09-14T12:40:56.887Z",
+      "scanned_at": "2025-09-14T16:24:44.835Z",
       "source": "jikan"
     },
     {
@@ -229,7 +252,7 @@
       "popularity": 767,
       "favorites": 2210,
       "scored_by": 192547,
-      "scanned_at": "2025-09-14T12:40:58.145Z",
+      "scanned_at": "2025-09-14T16:24:45.807Z",
       "source": "jikan"
     },
     {
@@ -252,7 +275,7 @@
       "popularity": 2883,
       "favorites": 985,
       "scored_by": 31844,
-      "scanned_at": "2025-09-14T12:40:58.831Z",
+      "scanned_at": "2025-09-14T16:24:46.509Z",
       "source": "jikan"
     },
     {
@@ -275,7 +298,7 @@
       "popularity": 100,
       "favorites": 31037,
       "scored_by": 995744,
-      "scanned_at": "2025-09-14T12:40:59.792Z",
+      "scanned_at": "2025-09-14T16:24:47.532Z",
       "source": "jikan"
     },
     {
@@ -298,7 +321,7 @@
       "popularity": 106,
       "favorites": 23568,
       "scored_by": 864830,
-      "scanned_at": "2025-09-14T12:41:01.020Z",
+      "scanned_at": "2025-09-14T16:24:48.740Z",
       "source": "jikan"
     },
     {
@@ -317,11 +340,11 @@
       "slug": null,
       "duration": "2 hr 2 min",
       "rating": "R - 17+ (violence & profanity)",
-      "rank": 85,
+      "rank": 82,
       "popularity": 669,
-      "favorites": 8359,
-      "scored_by": 211179,
-      "scanned_at": "2025-09-14T12:41:02.245Z",
+      "favorites": 8358,
+      "scored_by": 211215,
+      "scanned_at": "2025-09-14T16:24:50.019Z",
       "source": "jikan"
     },
     {
@@ -344,7 +367,7 @@
       "popularity": 4363,
       "favorites": 440,
       "scored_by": 17005,
-      "scanned_at": "2025-09-14T12:41:03.891Z",
+      "scanned_at": "2025-09-14T16:24:51.703Z",
       "source": "jikan"
     },
     {
@@ -367,7 +390,7 @@
       "popularity": 1384,
       "favorites": 3785,
       "scored_by": 105299,
-      "scanned_at": "2025-09-14T12:41:02.936Z",
+      "scanned_at": "2025-09-14T16:24:50.719Z",
       "source": "jikan"
     },
     {
@@ -386,11 +409,11 @@
       "slug": null,
       "duration": "1 hr 24 min",
       "rating": "PG-13 - Teens 13 or older",
-      "rank": 98,
+      "rank": 99,
       "popularity": 1328,
       "favorites": 1608,
-      "scored_by": 88858,
-      "scanned_at": "2025-09-14T12:41:05.111Z",
+      "scored_by": 88978,
+      "scanned_at": "2025-09-14T16:24:52.981Z",
       "source": "jikan"
     },
     {
@@ -413,7 +436,7 @@
       "popularity": 474,
       "favorites": 3889,
       "scored_by": 290880,
-      "scanned_at": "2025-09-14T12:41:06.598Z",
+      "scanned_at": "2025-09-14T16:24:54.468Z",
       "source": "jikan"
     },
     {
@@ -434,9 +457,9 @@
       "rating": "R+ - Mild Nudity",
       "rank": 105,
       "popularity": 1165,
-      "favorites": 1150,
-      "scored_by": 109528,
-      "scanned_at": "2025-09-14T12:41:07.819Z",
+      "favorites": 1149,
+      "scored_by": 109549,
+      "scanned_at": "2025-09-14T16:24:55.720Z",
       "source": "jikan"
     },
     {
@@ -459,7 +482,7 @@
       "popularity": 277,
       "favorites": 10936,
       "scored_by": 496965,
-      "scanned_at": "2025-09-14T12:41:08.775Z",
+      "scanned_at": "2025-09-14T16:24:56.693Z",
       "source": "jikan"
     },
     {
@@ -478,11 +501,11 @@
       "slug": null,
       "duration": "2 hr 41 min",
       "rating": "PG-13 - Teens 13 or older",
-      "rank": 107,
+      "rank": 108,
       "popularity": 375,
-      "favorites": 13996,
-      "scored_by": 323566,
-      "scanned_at": "2025-09-14T12:41:10.535Z",
+      "favorites": 13995,
+      "scored_by": 323580,
+      "scanned_at": "2025-09-14T16:24:58.499Z",
       "source": "jikan"
     },
     {
@@ -501,11 +524,11 @@
       "slug": null,
       "duration": "2 hr 35 min",
       "rating": "PG-13 - Teens 13 or older",
-      "rank": 108,
+      "rank": 109,
       "popularity": 629,
       "favorites": 8079,
-      "scored_by": 182762,
-      "scanned_at": "2025-09-14T12:41:12.560Z",
+      "scored_by": 182825,
+      "scanned_at": "2025-09-14T16:25:00.572Z",
       "source": "jikan"
     },
     {
@@ -528,7 +551,7 @@
       "popularity": 1821,
       "favorites": 235,
       "scored_by": 54802,
-      "scanned_at": "2025-09-14T12:41:13.781Z",
+      "scanned_at": "2025-09-14T16:25:01.839Z",
       "source": "jikan"
     },
     {
@@ -551,7 +574,7 @@
       "popularity": 525,
       "favorites": 2439,
       "scored_by": 288412,
-      "scanned_at": "2025-09-14T12:41:15.267Z",
+      "scanned_at": "2025-09-14T16:25:03.360Z",
       "source": "jikan"
     },
     {
@@ -570,11 +593,11 @@
       "slug": null,
       "duration": "1 hr 57 min",
       "rating": "PG-13 - Teens 13 or older",
-      "rank": 116,
+      "rank": 117,
       "popularity": 245,
-      "favorites": 11759,
-      "scored_by": 478219,
-      "scanned_at": "2025-09-14T12:41:16.492Z",
+      "favorites": 11762,
+      "scored_by": 478232,
+      "scanned_at": "2025-09-14T16:25:04.617Z",
       "source": "jikan"
     },
     {
@@ -597,7 +620,7 @@
       "popularity": 179,
       "favorites": 31263,
       "scored_by": 670729,
-      "scanned_at": "2025-09-14T12:41:19.820Z",
+      "scanned_at": "2025-09-14T16:25:07.262Z",
       "source": "jikan"
     },
     {
@@ -620,7 +643,7 @@
       "popularity": 71,
       "favorites": 13446,
       "scored_by": 1130193,
-      "scanned_at": "2025-09-14T12:41:24.024Z",
+      "scanned_at": "2025-09-14T16:25:12.082Z",
       "source": "jikan"
     },
     {
@@ -643,7 +666,7 @@
       "popularity": 160,
       "favorites": 22606,
       "scored_by": 639119,
-      "scanned_at": "2025-09-14T12:41:21.316Z",
+      "scanned_at": "2025-09-14T16:25:08.811Z",
       "source": "jikan"
     },
     {
@@ -666,7 +689,7 @@
       "popularity": 280,
       "favorites": 21032,
       "scored_by": 420428,
-      "scanned_at": "2025-09-14T12:41:22.268Z",
+      "scanned_at": "2025-09-14T16:25:09.825Z",
       "source": "jikan"
     },
     {
@@ -685,72 +708,26 @@
       "slug": null,
       "duration": "1 hr 28 min",
       "rating": "PG-13 - Teens 13 or older",
-      "rank": 137,
+      "rank": 138,
       "popularity": 297,
-      "favorites": 8865,
-      "scored_by": 441649,
-      "scanned_at": "2025-09-14T12:41:25.241Z",
+      "favorites": 8864,
+      "scored_by": 441746,
+      "scanned_at": "2025-09-14T16:25:13.327Z",
       "source": "jikan"
     },
     {
-      "id": null,
-      "malid": "7472",
-      "title": "Gintama Movie 1: Shinyaku Benizakura-hen",
-      "type": "Movie",
-      "episodes": 1,
-      "status": "Finished Airing",
-      "season": null,
-      "year": null,
-      "score": 8.52,
-      "poster": "https://cdn.myanimelist.net/images/anime/4/28803l.webp",
-      "synopsis": "Gintoki and his Yorozuya friends (or rather, employees suffering under labor violations), Shinpachi and Kagura, continue to scrape by in the futuristic, alien-infested city of Edo. They take on whatever work they can find while trying not to get involved in anything too dangerous. But when Katsura, the leader of the Joui rebels and Gintoki's long-time acquaintance, disappears after being brutally attacked by an unknown assassin, Shinpachi and Kagura begin an investigation into his whereabouts and the identity of the assailant. Meanwhile, Gintoki takes on a seemingly unrelated job: the blacksmith Tetsuya requests that Gin recover a strange and powerful sword called the Benizakura which was recently stolen.\n\nAs the two investigations gradually intersect, the Yorozuya crew find themselves in the midst of a major conspiracy that hinges on the sinister nature of the Benizakura sword. Gintoki resolves to take the fight directly to the enemy headquarters, and together with a few unexpected allies, sets out on one of his most perilous jobs yet.\n\n[Written by MAL Rewrite]",
-      "session": null,
-      "slug": null,
-      "duration": "1 hr 35 min",
-      "rating": "R - 17+ (violence & profanity)",
-      "rank": 140,
-      "popularity": 1520,
-      "favorites": 626,
-      "scored_by": 100204,
-      "scanned_at": "2025-09-14T12:41:27.000Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "40664",
-      "title": "Shoujo☆Kageki Revue Starlight Movie",
-      "type": "Movie",
-      "episodes": 1,
-      "status": "Finished Airing",
-      "season": null,
-      "year": null,
-      "score": 8.51,
-      "poster": "https://cdn.myanimelist.net/images/anime/1378/119190l.webp",
-      "synopsis": "With the arrival of a new generation of talented girls, another lively year at Seishou Music Academy begins. The graduating 99th class is already preparing for the much-anticipated rendition of Starlight, a bittersweet story about the parting of two girls.\n\nIt seems like all students in the Actor Training Department have their post-graduation future figured out—except for the cheerful Karen Aijou. Having fulfilled her promise of performing in a play with Hikari Kagura, her ambitious childhood friend, Karen struggles to find her purpose. What lies beyond their promise is a mystery to Karen, as Hikari was the fuel that kept her passion for performing aflame. Now alone, Karen must confront the reality of stage girls and find her way toward the future—her very own stage.\n\n[Written by MAL Rewrite]",
-      "session": null,
-      "slug": null,
-      "duration": "2 hr",
-      "rating": "PG-13 - Teens 13 or older",
-      "rank": 144,
-      "popularity": 4879,
-      "favorites": 1002,
-      "scored_by": 10569,
-      "scanned_at": "2025-09-14T12:41:29.718Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
+      "id": 760,
       "malid": "4282",
-      "title": "Kara no Kyoukai Movie 5: Mujun Rasen",
+      "title": "The Garden of Sinners Chapter 5: Paradox Spiral",
       "type": "Movie",
       "episodes": 1,
       "status": "Finished Airing",
-      "season": null,
-      "year": null,
+      "season": "Summer",
+      "year": 2008,
       "score": 8.51,
-      "poster": "https://cdn.myanimelist.net/images/anime/4/75851l.webp",
+      "poster": "https://i.animepahe.si/posters/a71c822f2b4e99c9524058d0777889ef52dc502f8f6d9cd102b3a10301a38885.jpg",
       "synopsis": "In November 1998, a double homicide occurs at the newly constructed Ogawa apartment complex in the heart of Mifune City. The murderer, Tomoe Enjou, has fled in a panic. To his astonishment, he is not pursued by the police and news of the incident has not been reported through media outlets. After Shiki Ryougi defends Tomoe from a group of thugs, she allows him to use her residence as a hideout. However, a few days later, Tomoe is shaken to discover that his mother is alive, even though he is convinced that he killed her.\n \nCoincidentally, Mikiya Kokutou is investigating a tip that his associate Touko Aozaki receives regarding the murder at the unique apartment complex. As he uncovers more information about the incident, Mikiya takes a particular interest in Tomoe. Deciding to investigate him further, Mikiya soon discovers the disturbing truth of the foreboding Ogawa complex.\n\nThe fifth installment of the Kara no Kyoukai film series, Mujun Rasen combines an intricately constructed mystery with established themes and characters to produce a dark, thought-provoking story.\n\n[Written by MAL Rewrite]",
-      "session": null,
+      "session": "9838f7ae-95d6-5bdc-a0df-022837ee8b08",
       "slug": null,
       "duration": "1 hr 54 min",
       "rating": "R - 17+ (violence & profanity)",
@@ -758,45 +735,22 @@
       "popularity": 1075,
       "favorites": 4666,
       "scored_by": 137424,
-      "scanned_at": "2025-09-14T12:41:28.764Z",
-      "source": "jikan"
+      "scanned_at": "2025-09-14T16:25:15.188Z",
+      "source": "animepahe"
     },
     {
-      "id": null,
-      "malid": "60544",
-      "title": "Nezha Zhi Mo Tong Nao Hai",
-      "type": "Movie",
-      "episodes": 1,
-      "status": "Finished Airing",
-      "season": null,
-      "year": null,
-      "score": 8.5,
-      "poster": "https://cdn.myanimelist.net/images/anime/1616/147002l.webp",
-      "synopsis": "After the heavenly lightning, although Ne Zha and Ao Bing survived by becoming Spirits, they would soon dissipate completely. Taiyi plans to rebuild Ne Zha and Ao Bing's mortal bodies with the Seven-colored Precious Lotus. However, during the process of reconstruction, numerous obstacles arise. What will become of the fate of Ne Zha and Ao Bing? \n\n(Source: AMC)",
-      "session": null,
-      "slug": null,
-      "duration": "2 hr 23 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "rank": 149,
-      "popularity": 8432,
-      "favorites": 43,
-      "scored_by": 2430,
-      "scanned_at": "2025-09-14T12:41:30.948Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
+      "id": 534,
       "malid": "11981",
-      "title": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari",
+      "title": "Puella Magi Madoka Magica the Movie: Rebellion",
       "type": "Movie",
       "episodes": 1,
       "status": "Finished Airing",
-      "season": null,
-      "year": null,
+      "season": "Fall",
+      "year": 2013,
       "score": 8.49,
-      "poster": "https://cdn.myanimelist.net/images/anime/5/54231l.webp",
+      "poster": "https://i.animepahe.si/posters/839a391d096459b24d5ba87da6e0e9684c5a61d7c1b97546c842bb80678f6e13.jpg",
       "synopsis": "The young girls of Mitakihara happily live their lives, occasionally fighting off evil, but otherwise going about their peaceful, everyday routines. However, Homura Akemi feels that something is wrong with this unusually pleasant atmosphere—though the others remain oblivious, she can't help but suspect that there is more to what is going on than meets the eye: someone who should not exist is currently present to join in on their activities.\n\nMahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari follows Homura in her struggle to uncover the painful truth behind the mysterious circumstances, as she selfishly and desperately fights for the sake of her undying love in this despair-ridden conclusion to the story of five magical girls.\n\n[Written by MAL Rewrite]",
-      "session": null,
+      "session": "333263fa-ff75-1a54-c1a8-28a69097f91f",
       "slug": null,
       "duration": "1 hr 56 min",
       "rating": "PG-13 - Teens 13 or older",
@@ -804,8 +758,8 @@
       "popularity": 633,
       "favorites": 9451,
       "scored_by": 242086,
-      "scanned_at": "2025-09-14T12:41:32.434Z",
-      "source": "jikan"
+      "scanned_at": "2025-09-14T16:25:16.831Z",
+      "source": "animepahe"
     },
     {
       "id": null,
@@ -827,7 +781,7 @@
       "popularity": 604,
       "favorites": 3553,
       "scored_by": 249834,
-      "scanned_at": "2025-09-14T12:41:33.652Z",
+      "scanned_at": "2025-09-14T16:25:18.098Z",
       "source": "jikan"
     },
     {
@@ -850,7 +804,7 @@
       "popularity": 4951,
       "favorites": 120,
       "scored_by": 5665,
-      "scanned_at": "2025-09-14T12:41:34.603Z",
+      "scanned_at": "2025-09-14T16:25:19.053Z",
       "source": "jikan"
     },
     {
@@ -873,7 +827,7 @@
       "popularity": 381,
       "favorites": 2782,
       "scored_by": 374253,
-      "scanned_at": "2025-09-14T12:41:35.824Z",
+      "scanned_at": "2025-09-14T16:25:20.315Z",
       "source": "jikan"
     },
     {
@@ -896,7 +850,7 @@
       "popularity": 536,
       "favorites": 1692,
       "scored_by": 273139,
-      "scanned_at": "2025-09-14T12:41:41.235Z",
+      "scanned_at": "2025-09-14T16:25:25.917Z",
       "source": "jikan"
     },
     {
@@ -919,7 +873,7 @@
       "popularity": 3523,
       "favorites": 44,
       "scored_by": 17986,
-      "scanned_at": "2025-09-14T12:41:39.062Z",
+      "scanned_at": "2025-09-14T16:25:23.698Z",
       "source": "jikan"
     },
     {
@@ -942,7 +896,7 @@
       "popularity": 2464,
       "favorites": 763,
       "scored_by": 40715,
-      "scanned_at": "2025-09-14T12:41:40.013Z",
+      "scanned_at": "2025-09-14T16:25:24.654Z",
       "source": "jikan"
     },
     {
@@ -965,7 +919,7 @@
       "popularity": 2625,
       "favorites": 225,
       "scored_by": 29728,
-      "scanned_at": "2025-09-14T12:41:37.316Z",
+      "scanned_at": "2025-09-14T16:25:21.875Z",
       "source": "jikan"
     },
     {
@@ -987,8 +941,8 @@
       "rank": 201,
       "popularity": 241,
       "favorites": 5010,
-      "scored_by": 541988,
-      "scanned_at": "2025-09-14T12:41:44.201Z",
+      "scored_by": 542059,
+      "scanned_at": "2025-09-14T16:25:28.999Z",
       "source": "jikan"
     },
     {
@@ -1011,7 +965,7 @@
       "popularity": 1333,
       "favorites": 2732,
       "scored_by": 91530,
-      "scanned_at": "2025-09-14T12:41:42.719Z",
+      "scanned_at": "2025-09-14T16:25:27.422Z",
       "source": "jikan"
     },
     {
@@ -1034,7 +988,7 @@
       "popularity": 141,
       "favorites": 10885,
       "scored_by": 715422,
-      "scanned_at": "2025-09-14T12:41:48.664Z",
+      "scanned_at": "2025-09-14T16:25:33.627Z",
       "source": "jikan"
     },
     {
@@ -1057,7 +1011,7 @@
       "popularity": 5992,
       "favorites": 226,
       "scored_by": 6882,
-      "scanned_at": "2025-09-14T12:41:47.177Z",
+      "scanned_at": "2025-09-14T16:25:32.072Z",
       "source": "jikan"
     },
     {
@@ -1078,9 +1032,9 @@
       "rating": "PG-13 - Teens 13 or older",
       "rank": 213,
       "popularity": 524,
-      "favorites": 8273,
-      "scored_by": 209316,
-      "scanned_at": "2025-09-14T12:41:45.683Z",
+      "favorites": 8276,
+      "scored_by": 209333,
+      "scanned_at": "2025-09-14T16:25:30.540Z",
       "source": "jikan"
     },
     {
@@ -1103,7 +1057,7 @@
       "popularity": 3744,
       "favorites": 419,
       "scored_by": 15484,
-      "scanned_at": "2025-09-14T12:41:49.620Z",
+      "scanned_at": "2025-09-14T16:25:34.628Z",
       "source": "jikan"
     },
     {
@@ -1126,7 +1080,7 @@
       "popularity": 646,
       "favorites": 1733,
       "scored_by": 227140,
-      "scanned_at": "2025-09-14T12:41:54.099Z",
+      "scanned_at": "2025-09-14T16:25:39.255Z",
       "source": "jikan"
     },
     {
@@ -1147,9 +1101,9 @@
       "rating": "PG-13 - Teens 13 or older",
       "rank": 219,
       "popularity": 497,
-      "favorites": 6954,
-      "scored_by": 258250,
-      "scanned_at": "2025-09-14T12:41:51.784Z",
+      "favorites": 6955,
+      "scored_by": 258315,
+      "scanned_at": "2025-09-14T16:25:36.876Z",
       "source": "jikan"
     },
     {
@@ -1172,7 +1126,7 @@
       "popularity": 1640,
       "favorites": 288,
       "scored_by": 65533,
-      "scanned_at": "2025-09-14T12:41:50.831Z",
+      "scanned_at": "2025-09-14T16:25:35.876Z",
       "source": "jikan"
     },
     {
@@ -1195,7 +1149,7 @@
       "popularity": 2444,
       "favorites": 468,
       "scored_by": 33284,
-      "scanned_at": "2025-09-14T12:41:55.320Z",
+      "scanned_at": "2025-09-14T16:25:40.549Z",
       "source": "jikan"
     },
     {
@@ -1218,7 +1172,7 @@
       "popularity": 1977,
       "favorites": 869,
       "scored_by": 47393,
-      "scanned_at": "2025-09-14T12:41:59.777Z",
+      "scanned_at": "2025-09-14T16:25:45.412Z",
       "source": "jikan"
     },
     {
@@ -1241,7 +1195,7 @@
       "popularity": 1244,
       "favorites": 2325,
       "scored_by": 116849,
-      "scanned_at": "2025-09-14T12:41:57.072Z",
+      "scanned_at": "2025-09-14T16:25:42.369Z",
       "source": "jikan"
     },
     {
@@ -1264,7 +1218,7 @@
       "popularity": 1246,
       "favorites": 1096,
       "scored_by": 106039,
-      "scanned_at": "2025-09-14T12:41:58.550Z",
+      "scanned_at": "2025-09-14T16:25:43.897Z",
       "source": "jikan"
     },
     {
@@ -1287,22 +1241,22 @@
       "popularity": 758,
       "favorites": 2951,
       "scored_by": 205074,
-      "scanned_at": "2025-09-14T12:42:01.277Z",
+      "scanned_at": "2025-09-14T16:25:46.951Z",
       "source": "jikan"
     },
     {
-      "id": 1287,
+      "id": null,
       "malid": "9260",
-      "title": "Kizumonogatari Part 1: Iron-Blooded",
+      "title": "Kizumonogatari I: Tekketsu-hen",
       "type": "Movie",
       "episodes": 1,
       "status": "Finished Airing",
-      "season": "Winter",
-      "year": 2016,
+      "season": null,
+      "year": null,
       "score": 8.36,
-      "poster": "https://i.animepahe.si/posters/31846ea91960b70984b75e17c99816671be1805a9347604ae2894199b20001ae.jpg",
+      "poster": "https://cdn.myanimelist.net/images/anime/1783/112810l.webp",
       "synopsis": "During Koyomi Araragi's second year at Naoetsu Private High School, he has a chance encounter with Tsubasa Hanekawa, the top honor student in his class. When they strike up a conversation, Hanekawa mentions a shocking rumor: a vampire with beautiful blonde hair and freezing cold eyes has been seen lurking around town.\n\nHappy to have made a new friend, Araragi writes off the rumor and goes about the rest of his evening in a carefree manner. However, on his way home, he stumbles across splatters of blood leading down the stairs to the subway. His curiosity pushes him to investigate further, so he follows the gruesome pools into the depths of the station. \n\nWhen he arrives at the source of the blood, he is terrified by what he sees—the rumored blonde vampire herself, completely dismembered. After she calls for his help, Araragi must make a decision, one which carries the potential to change his life forever.\n\n[Written by MAL Rewrite]",
-      "session": "7e3ca461-18de-d4a8-eaed-021404d27a28",
+      "session": null,
       "slug": null,
       "duration": "1 hr 4 min",
       "rating": "R - 17+ (violence & profanity)",
@@ -1310,8 +1264,8 @@
       "popularity": 431,
       "favorites": 3870,
       "scored_by": 304094,
-      "scanned_at": "2025-09-14T12:42:03.436Z",
-      "source": "animepahe"
+      "scanned_at": "2025-09-14T16:25:49.497Z",
+      "source": "jikan"
     },
     {
       "id": null,
@@ -1333,22 +1287,22 @@
       "popularity": 4928,
       "favorites": 113,
       "scored_by": 7668,
-      "scanned_at": "2025-09-14T12:42:02.816Z",
+      "scanned_at": "2025-09-14T16:25:48.208Z",
       "source": "jikan"
     },
     {
-      "id": 604,
+      "id": null,
       "malid": "572",
-      "title": "Nausicaä of the Valley of the Wind",
+      "title": "Kaze no Tani no Nausicaä",
       "type": "Movie",
       "episodes": 1,
       "status": "Finished Airing",
-      "season": "Spring",
-      "year": 1984,
+      "season": null,
+      "year": null,
       "score": 8.35,
-      "poster": "https://i.animepahe.si/uploads/posters/011ff093748127d8bd1d386f8507c4b0664657269c151f688d0d942033179c33.jpg",
+      "poster": "https://cdn.myanimelist.net/images/anime/10/75914l.webp",
       "synopsis": "A millennium has passed since the catastrophic nuclear war named the \"Seven Days of Fire,\" which destroyed nearly all life on Earth. Humanity now lives in a constant struggle against the treacherous jungle that has evolved in response to the destruction caused by mankind. Filled with poisonous spores and enormous insects, the jungle spreads rapidly across the Earth and threatens to swallow the remnants of the human race.\n\nAway from the jungle exists a peaceful farming kingdom known as the \"Valley of the Wind,\" whose placement by the sea frees it from the spread of the jungle's deadly toxins. The Valley's charismatic young princess, Nausicaä, finds her tranquil kingdom disturbed when an airship from the kingdom of Tolmekia crashes violently in the Valley. After Nausicaä and the citizens of the Valley find a sinister pulsating object in the wreckage, the Valley is suddenly invaded by the Tolmekian military, who intend to revive a dangerous weapon from the Seven Days of Fire. Now Nausicaä must fight to stop the Tolmekians from plunging the Earth into a cataclysm which humanity could never survive, while also protecting the Valley from the encroaching forces of the toxic jungle.\n\n[Written by MAL Rewrite]",
-      "session": "992a7399-663e-08c0-41b4-a58040e14d07",
+      "session": null,
       "slug": null,
       "duration": "1 hr 57 min",
       "rating": "PG-13 - Teens 13 or older",
@@ -1356,22 +1310,22 @@
       "popularity": 644,
       "favorites": 5839,
       "scored_by": 251896,
-      "scanned_at": "2025-09-14T12:42:04.395Z",
-      "source": "animepahe"
+      "scanned_at": "2025-09-14T16:25:52.197Z",
+      "source": "jikan"
     },
     {
-      "id": 5414,
+      "id": null,
       "malid": "53540",
       "title": "Meitantei Conan Movie 26: Kurogane no Submarine",
       "type": "Movie",
       "episodes": 1,
       "status": "Finished Airing",
-      "season": "Spring",
-      "year": 2023,
+      "season": null,
+      "year": null,
       "score": 8.35,
-      "poster": "https://i.animepahe.si/posters/9bf2aa39f71f361e6a4b3faf054354ed43a9861daa5bcccdc8e2dd8e4c7f424d.jpg",
+      "poster": "https://cdn.myanimelist.net/images/anime/1138/133101l.webp",
       "synopsis": "This time's location is set in the sea near the Hachijo-jima island, Tokyo. Engineers from around the world have gathered for the full-scale operation of \"Pacific Buoy,\" an offshore facility to connect security cameras owned by the worldwide police forces. A test of a certain \"new technology\" based on a face recognition system is underway there.\n\nMeanwhile, Conan and the Detective Boys visit Hachijo-jima at Sonoko's invitation and receive a phone call from Subaru Okiya informing them that a Europol employee was murdered in Germany by the Black Organization's Jin.\n\nConan, who is disquieted, sneaks into the facility and finds that a female engineer has been kidnapped by the Black Organization...! Furthermore, a USB drive containing certain information in her possession ends up in the hands of the organization... A black shadow also creeps up on Ai Haibara ...\n\n(Source: Crunchyroll, edited)",
-      "session": "30ad81de-10f4-66fb-0a13-a2acc49c98a7",
+      "session": null,
       "slug": null,
       "duration": "1 hr 49 min",
       "rating": "PG-13 - Teens 13 or older",
@@ -1379,8 +1333,8 @@
       "popularity": 5590,
       "favorites": 117,
       "scored_by": 8559,
-      "scanned_at": "2025-09-14T12:42:03.774Z",
-      "source": "animepahe"
+      "scanned_at": "2025-09-14T16:25:50.439Z",
+      "source": "jikan"
     },
     {
       "id": null,
@@ -1402,7 +1356,7 @@
       "popularity": 2933,
       "favorites": 442,
       "scored_by": 6192,
-      "scanned_at": "2025-09-14T12:42:05.618Z",
+      "scanned_at": "2025-09-14T16:25:53.480Z",
       "source": "jikan"
     },
     {
@@ -1425,7 +1379,7 @@
       "popularity": 4817,
       "favorites": 144,
       "scored_by": 9413,
-      "scanned_at": "2025-09-14T12:42:07.382Z",
+      "scanned_at": "2025-09-14T16:25:55.310Z",
       "source": "jikan"
     },
     {
@@ -1448,7 +1402,7 @@
       "popularity": 3236,
       "favorites": 381,
       "scored_by": 19446,
-      "scanned_at": "2025-09-14T12:42:10.365Z",
+      "scanned_at": "2025-09-14T16:25:58.360Z",
       "source": "jikan"
     },
     {
@@ -1471,7 +1425,7 @@
       "popularity": 5208,
       "favorites": 175,
       "scored_by": 13411,
-      "scanned_at": "2025-09-14T12:42:11.583Z",
+      "scanned_at": "2025-09-14T16:25:59.579Z",
       "source": "jikan"
     },
     {
@@ -1494,7 +1448,7 @@
       "popularity": 5533,
       "favorites": 71,
       "scored_by": 7007,
-      "scanned_at": "2025-09-14T12:42:09.143Z",
+      "scanned_at": "2025-09-14T16:25:57.075Z",
       "source": "jikan"
     },
     {
@@ -1516,8 +1470,8 @@
       "rank": 293,
       "popularity": 424,
       "favorites": 3548,
-      "scored_by": 355566,
-      "scanned_at": "2025-09-14T12:42:15.783Z",
+      "scored_by": 355618,
+      "scanned_at": "2025-09-14T16:26:03.880Z",
       "source": "jikan"
     },
     {
@@ -1540,7 +1494,7 @@
       "popularity": 1676,
       "favorites": 582,
       "scored_by": 59380,
-      "scanned_at": "2025-09-14T12:42:12.537Z",
+      "scanned_at": "2025-09-14T16:26:00.575Z",
       "source": "jikan"
     },
     {
@@ -1563,7 +1517,7 @@
       "popularity": 4296,
       "favorites": 425,
       "scored_by": 11194,
-      "scanned_at": "2025-09-14T12:42:14.027Z",
+      "scanned_at": "2025-09-14T16:26:02.121Z",
       "source": "jikan"
     },
     {
@@ -1586,7 +1540,7 @@
       "popularity": 2579,
       "favorites": 281,
       "scored_by": 49861,
-      "scanned_at": "2025-09-14T12:42:18.223Z",
+      "scanned_at": "2025-09-14T16:26:06.396Z",
       "source": "jikan"
     },
     {
@@ -1607,9 +1561,9 @@
       "rating": "R+ - Mild Nudity",
       "rank": 306,
       "popularity": 621,
-      "favorites": 6067,
-      "scored_by": 219195,
-      "scanned_at": "2025-09-14T12:42:17.000Z",
+      "favorites": 6068,
+      "scored_by": 219216,
+      "scanned_at": "2025-09-14T16:26:05.112Z",
       "source": "jikan"
     },
     {
@@ -1632,7 +1586,7 @@
       "popularity": 849,
       "favorites": 2878,
       "scored_by": 158898,
-      "scanned_at": "2025-09-14T12:42:20.675Z",
+      "scanned_at": "2025-09-14T16:26:08.955Z",
       "source": "jikan"
     },
     {
@@ -1655,7 +1609,7 @@
       "popularity": 4503,
       "favorites": 112,
       "scored_by": 14493,
-      "scanned_at": "2025-09-14T12:42:19.715Z",
+      "scanned_at": "2025-09-14T16:26:07.950Z",
       "source": "jikan"
     },
     {
@@ -1678,7 +1632,7 @@
       "popularity": 925,
       "favorites": 6461,
       "scored_by": 154449,
-      "scanned_at": "2025-09-14T12:42:21.624Z",
+      "scanned_at": "2025-09-14T16:26:09.912Z",
       "source": "jikan"
     },
     {
@@ -1701,7 +1655,7 @@
       "popularity": 235,
       "favorites": 10536,
       "scored_by": 479456,
-      "scanned_at": "2025-09-14T12:42:24.063Z",
+      "scanned_at": "2025-09-14T16:26:12.402Z",
       "source": "jikan"
     },
     {
@@ -1724,8 +1678,54 @@
       "popularity": 342,
       "favorites": 13885,
       "scored_by": 352039,
-      "scanned_at": "2025-09-14T12:42:22.843Z",
+      "scanned_at": "2025-09-14T16:26:11.144Z",
       "source": "jikan"
+    },
+    {
+      "id": 3728,
+      "malid": "60544",
+      "title": "Ne Zha",
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "season": "Summer",
+      "year": 2019,
+      "score": 7.67,
+      "poster": "https://i.animepahe.si/posters/bb1af5bab25aeb56c3be74ef4ecb096e9dee68f3619991646cdfce51e5c6dded.jpg",
+      "synopsis": "After the heavenly lightning, although Ne Zha and Ao Bing survived by becoming Spirits, they would soon dissipate completely. Taiyi plans to rebuild Ne Zha and Ao Bing's mortal bodies with the Seven-colored Precious Lotus. However, during the process of reconstruction, numerous obstacles arise. What will become of the fate of Ne Zha and Ao Bing? \n\n(Source: AMC)",
+      "session": "89715e0d-621d-dc30-8853-7e04003501f0",
+      "slug": null,
+      "duration": "2 hr 23 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "rank": 149,
+      "popularity": 8432,
+      "favorites": 43,
+      "scored_by": 2430,
+      "scanned_at": "2025-09-14T16:25:16.180Z",
+      "source": "animepahe"
+    },
+    {
+      "id": 2630,
+      "malid": "40664",
+      "title": "Revue Starlight",
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "season": "Summer",
+      "year": 2018,
+      "score": 7.66,
+      "poster": "https://i.animepahe.si/posters/52c8ca883eb9564c4b5dc1ebcf13540f805d2aeb1073af4ce9e53b6372ec0c8f.jpg",
+      "synopsis": "With the arrival of a new generation of talented girls, another lively year at Seishou Music Academy begins. The graduating 99th class is already preparing for the much-anticipated rendition of Starlight, a bittersweet story about the parting of two girls.\n\nIt seems like all students in the Actor Training Department have their post-graduation future figured out—except for the cheerful Karen Aijou. Having fulfilled her promise of performing in a play with Hikari Kagura, her ambitious childhood friend, Karen struggles to find her purpose. What lies beyond their promise is a mystery to Karen, as Hikari was the fuel that kept her passion for performing aflame. Now alone, Karen must confront the reality of stage girls and find her way toward the future—her very own stage.\n\n[Written by MAL Rewrite]",
+      "session": "0b1de917-bc71-8e06-5e89-eb08659e6267",
+      "slug": null,
+      "duration": "2 hr",
+      "rating": "PG-13 - Teens 13 or older",
+      "rank": 144,
+      "popularity": 4879,
+      "favorites": 1002,
+      "scored_by": 10569,
+      "scanned_at": "2025-09-14T16:25:15.540Z",
+      "source": "animepahe"
     }
   ]
 }

@@ -40,7 +40,7 @@ jobs:
         run: npm ci
       - name: Run cookie harvester
         env:
-          TARGET: 'https://animepahe.ru'
+          TARGET: 'https://animepahe.si'
           MAX_WAIT_MS: '25000'
         run: npm run harvest
       - name: Verify cookies were generated

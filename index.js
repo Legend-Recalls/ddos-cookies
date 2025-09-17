@@ -9,7 +9,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 // Configuration
-const REFERER = "https://animepahe.ru";
+const REFERER = "https://animepahe.si";
 const RECENT_ANIME_FILE = "recent-anime.json";
 const POPULAR_ANIME_FILE = "popular-anime.json";
 const TOP_MOVIES_FILE = "top-movies.json";

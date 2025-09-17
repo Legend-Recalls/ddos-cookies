@@ -70,7 +70,7 @@ async function harvestCookies(url, maxRetries = 3) {
 
 (async () => {
   try {
-    const url = process.env.TARGET || 'https://animepahe.ru';
+    const url = process.env.TARGET || 'https://animepahe.si';
     const { cookies, content } = await harvestCookies(url);
 
     // Save JSON and simple cookie string

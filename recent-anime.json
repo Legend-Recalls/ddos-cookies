@@ -1,115 +1,7 @@
 {
-  "timestamp": 1758140638141,
+  "timestamp": 1758159753359,
   "total": 60,
   "data": [
-    {
-      "id": 6270,
-      "malid": null,
-      "title": "Solo Camping for Two",
-      "type": "TV",
-      "episodes": 24,
-      "status": "Currently Airing",
-      "season": "Summer",
-      "year": 2025,
-      "score": 6.53,
-      "poster": "https://i.animepahe.si/uploads/posters/2be4093f719be354697b72b4ac03444d79931afe4a841e9f9a8d436d5c85b0b0.jpg",
-      "session": "121849f4-890d-db95-3a0b-34e0e9a9360b",
-      "latest_episode": 10,
-      "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/941df50d8de55e074e0b84b275246979baa6d02f2d42ed6364a23aaf4bb69fda.jpg",
-      "latest_fansub": "SubsPlease",
-      "last_updated": "2025-09-11 16:34:30",
-      "scanned_at": "2025-09-17T20:23:58.041Z"
-    },
-    {
-      "id": 6253,
-      "malid": null,
-      "title": "The Water Magician",
-      "type": "TV",
-      "episodes": 0,
-      "status": "Currently Airing",
-      "season": "Summer",
-      "year": 2025,
-      "score": 7.15,
-      "poster": "https://i.animepahe.si/uploads/posters/1ae0c8e560f8031bf217c4d8e49b81987e069040419581c0d48e645c82989964.jpg",
-      "session": "ab79ccc4-e32b-a265-2f43-3ed58bc67206",
-      "latest_episode": 10,
-      "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/2b24c4a47d04f7ca4017c894d7fcb6000c6db68ea16b67110ec40b827116bfc3.jpg",
-      "latest_fansub": "SubsPlease",
-      "last_updated": "2025-09-11 19:03:28",
-      "scanned_at": "2025-09-17T20:23:57.827Z"
-    },
-    {
-      "id": 6281,
-      "malid": null,
-      "title": "Kamitsubaki City Under Construction",
-      "type": "TV",
-      "episodes": 12,
-      "status": "Currently Airing",
-      "season": "Summer",
-      "year": 2025,
-      "score": 5.39,
-      "poster": "https://i.animepahe.si/uploads/posters/6b115735cf604d7a7586f1b2627819b21215cc6e783d00e1481dae20b068b2a4.jpg",
-      "session": "c470361a-1214-a7de-beab-aed10f219b61",
-      "latest_episode": 10,
-      "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/5e68ee45633e63dc2e67ba990fe26231bf6de79877c1dd03a4e1534acc797742.jpg",
-      "latest_fansub": "SubsPlease",
-      "last_updated": "2025-09-11 21:37:03",
-      "scanned_at": "2025-09-17T20:23:57.620Z"
-    },
-    {
-      "id": 6311,
-      "malid": null,
-      "title": "Dragon Raja II: The Mourner's Eyes",
-      "type": "ONA",
-      "episodes": 24,
-      "status": "Currently Airing",
-      "season": "Summer",
-      "year": 2025,
-      "score": 7.61,
-      "poster": "https://i.animepahe.si/uploads/posters/3028742784d39f363944981ac615f55595dd015fcce11352fab0a6d1e9c0daf3.jpg",
-      "session": "fca3ff7b-02dd-b984-baa3-c4021c7f6629",
-      "latest_episode": 11,
-      "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/c8f391295739b085b49abe58e9798717d5790dfb28fb53af3ccbd88a4e6b5619.jpg",
-      "latest_fansub": "SubsPlease",
-      "last_updated": "2025-09-12 02:03:49",
-      "scanned_at": "2025-09-17T20:23:57.413Z"
-    },
-    {
-      "id": 6285,
-      "malid": null,
-      "title": "Harmony of Mille-Feuille",
-      "type": "TV",
-      "episodes": 10,
-      "status": "Currently Airing",
-      "season": "Summer",
-      "year": 2025,
-      "score": 6.09,
-      "poster": "https://i.animepahe.si/uploads/posters/66fe701328a313358205a604df39b5cdbc56f32b6a0a3f30da7fac55804856fa.jpg",
-      "session": "40b8e827-748b-b262-94b2-b72ad4bde65a",
-      "latest_episode": 9,
-      "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/43e6c52756283a488efca9e016606d458c93aead83e87472b427bfae3c7ccf01.jpg",
-      "latest_fansub": "ToonsHub",
-      "last_updated": "2025-09-12 09:44:32",
-      "scanned_at": "2025-09-17T20:23:57.202Z"
-    },
-    {
-      "id": 6244,
-      "malid": null,
-      "title": "Tougen Anki",
-      "type": "TV",
-      "episodes": 0,
-      "status": "Currently Airing",
-      "season": "Summer",
-      "year": 2025,
-      "score": 6.79,
-      "poster": "https://i.animepahe.si/uploads/posters/e1ab7c7c6c07a38ef0299d0cb1e67f3d51535fde302c1d3fefeeba5be70f0ea0.jpg",
-      "session": "3a949d66-f993-e47d-e101-f53cb73cb941",
-      "latest_episode": 10,
-      "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/d0671c69c6cb7a8fe5f8d141c7a05eb5b18d69b015b7274fe24791dab3614ebe.jpg",
-      "latest_fansub": "Yameii",
-      "last_updated": "2025-09-12 15:35:15",
-      "scanned_at": "2025-09-17T20:23:56.981Z"
-    },
     {
       "id": 6337,
       "malid": null,
@@ -119,14 +11,14 @@
       "status": "Finished Airing",
       "season": "Summer",
       "year": 2024,
-      "score": 6.96,
+      "score": 6.95,
       "poster": "https://i.animepahe.si/uploads/posters/53475764f7c3008328d76d8de977914d33893012f11ee92deefec7a9faa0451e.jpg",
       "session": "5cfe3532-2447-c050-ae35-9aa061386f82",
       "latest_episode": 1,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/3e3f8fffa6c6d3494d3ea4a819802ee6bc5480aed819b580dc31352bbb55387f.jpg",
       "latest_fansub": "CBM",
       "last_updated": "2025-09-12 15:44:55",
-      "scanned_at": "2025-09-17T20:23:56.775Z"
+      "scanned_at": "2025-09-18T01:42:33.259Z"
     },
     {
       "id": 6233,
@@ -137,32 +29,32 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 8.32,
+      "score": 8.33,
       "poster": "https://i.animepahe.si/uploads/posters/4998e7926872c4898014eeeb68a2cc76150d15b65045e63213d2ce381755ffe3.jpg",
       "session": "bd82c9e0-73b3-0d9e-8078-a8e01cddaa78",
       "latest_episode": 11,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/783a35eadb504f90a92614d89f00ef52f407ed1cbd4166225d5f0e6db8c82726.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-12 16:04:34",
-      "scanned_at": "2025-09-17T20:23:56.568Z"
+      "scanned_at": "2025-09-18T01:42:32.996Z"
     },
     {
       "id": 6254,
       "malid": null,
       "title": "Watari-kun's ****** Is about to Collapse",
       "type": "TV",
-      "episodes": 13,
+      "episodes": 0,
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 6.26,
+      "score": 6.25,
       "poster": "https://i.animepahe.si/uploads/posters/88621a1767055a38ce62e64ab28e1e2f7acbfd6a337ee73903ec49f3b85c28cd.jpg",
       "session": "3d39e1b4-3351-c2c3-1c50-8308b0f96a5e",
       "latest_episode": 11,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/e48b2e21a2fc3d382834135e7bf8607277ddde47e25b0087baeae181864c98d8.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-12 16:18:35",
-      "scanned_at": "2025-09-17T20:23:56.357Z"
+      "scanned_at": "2025-09-18T01:42:32.731Z"
     },
     {
       "id": 5699,
@@ -173,14 +65,14 @@
       "status": "Currently Airing",
       "season": "Fall",
       "year": 2024,
-      "score": 5.58,
+      "score": 5.59,
       "poster": "https://i.animepahe.si/posters/4ec4aabeb02bc00a17b4c2fe74cca594b4d821c92d7fd81400a9a7c6649dec91.jpg",
       "session": "55e39916-d7f0-d70d-6964-dd149dfbb620",
       "latest_episode": 10,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/86ab7c3f9ebfef0d99297abab72553e53c46803a6f86c6a562f31709abdd31fe.jpg",
       "latest_fansub": "Erai-raws",
       "last_updated": "2025-09-12 16:20:54",
-      "scanned_at": "2025-09-17T20:23:56.146Z"
+      "scanned_at": "2025-09-18T01:42:32.465Z"
     },
     {
       "id": 6246,
@@ -198,7 +90,7 @@
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/a7c02915bafba3522e68f997b709acc0ed614b4f9bf499c0161cf8caa900fee8.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2025-09-12 16:34:46",
-      "scanned_at": "2025-09-17T20:23:55.939Z"
+      "scanned_at": "2025-09-18T01:42:32.205Z"
     },
     {
       "id": 6258,
@@ -216,7 +108,7 @@
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/04ec3e32d00d9d8f50c3ccd9870a253854ea76c4934105fd917d81960853249f.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-12 17:35:18",
-      "scanned_at": "2025-09-17T20:23:55.732Z"
+      "scanned_at": "2025-09-18T01:42:31.944Z"
     },
     {
       "id": 6312,
@@ -227,14 +119,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 7.17,
+      "score": 7.15,
       "poster": "https://i.animepahe.si/uploads/posters/6a57e3029f6bd3898a58b16057c3b0135a5ff638e03330adb89f97d2a664b700.jpg",
       "session": "b8ba421a-aff5-b103-fb10-03a9dc876fb8",
       "latest_episode": 9,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/22ccf5e295ddedfc0ae399bcf6bc3bf01295d37c72ffe8d9dd631678e2b04e6f.jpg",
       "latest_fansub": "OceanVeil",
       "last_updated": "2025-09-12 18:13:59",
-      "scanned_at": "2025-09-17T20:23:55.420Z"
+      "scanned_at": "2025-09-18T01:42:31.679Z"
     },
     {
       "id": 6292,
@@ -245,14 +137,14 @@
       "status": "Finished Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 8.64,
+      "score": 8.66,
       "poster": "https://i.animepahe.si/uploads/posters/fa32d932110784b990e9787736a9dc388fb40cefeabbea5a9957bb2f761c1b6e.jpg",
       "session": "c0a1ce88-ca91-0355-b433-bb31814b0b02",
       "latest_episode": 13,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/898d53054770ff37cc6299523fad7310e783854fdce3ef24a217114d9a55a57f.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-13 03:05:52",
-      "scanned_at": "2025-09-17T20:23:55.212Z"
+      "scanned_at": "2025-09-18T01:42:31.422Z"
     },
     {
       "id": 5255,
@@ -270,7 +162,7 @@
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/4851326ce283ad2d57b19a98f5e8954d1900292045099572a0560a16e9bd7f61.jpg",
       "latest_fansub": "Some-Stuffs",
       "last_updated": "2025-09-13 04:48:11",
-      "scanned_at": "2025-09-17T20:23:55.006Z"
+      "scanned_at": "2025-09-18T01:42:31.162Z"
     },
     {
       "id": 6109,
@@ -281,14 +173,14 @@
       "status": "Currently Airing",
       "season": "Spring",
       "year": 2025,
-      "score": 7.23,
+      "score": 7.22,
       "poster": "https://i.animepahe.si/posters/c6f10976b5054f395818402fd668e6e2bc3fa9ab4f8effc2e0147c0af3ff4f5a.jpg",
       "session": "4127c8a7-223a-ca85-2f3e-b96a3c2d84fe",
       "latest_episode": 22,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/86af7944ef5b3cacf917f1fbc2a7dd1f29047e64f2af8b2251067a07db125659.jpg",
       "latest_fansub": "Netflix",
       "last_updated": "2025-09-13 10:11:50",
-      "scanned_at": "2025-09-17T20:23:54.798Z"
+      "scanned_at": "2025-09-18T01:42:30.893Z"
     },
     {
       "id": 3,
@@ -306,7 +198,7 @@
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/7111749238b99c92618400734f4fe45841aad19cedae191ac4777ff35f39ff3f.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-13 11:33:38",
-      "scanned_at": "2025-09-17T20:23:54.590Z"
+      "scanned_at": "2025-09-18T01:42:30.624Z"
     },
     {
       "id": 6098,
@@ -317,14 +209,14 @@
       "status": "Currently Airing",
       "season": "Spring",
       "year": 2025,
-      "score": 7.77,
+      "score": 7.76,
       "poster": "https://i.animepahe.si/posters/1275504f1f8d7b6308bd33f15643cd66577fc787f8451ecfd2ddfc060912e878.jpg",
       "session": "6fc5d299-a2eb-4a88-40ed-6a08b8bb1dc3",
       "latest_episode": 22,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/1f5e7027cc9238473987ead5217de8b4e020cbd40cd7e9fdd918200b9b04eb95.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-13 13:18:36",
-      "scanned_at": "2025-09-17T20:23:54.382Z"
+      "scanned_at": "2025-09-18T01:42:30.358Z"
     },
     {
       "id": 6232,
@@ -335,14 +227,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 7.87,
+      "score": 7.86,
       "poster": "https://i.animepahe.si/uploads/posters/5dd9f83e31c3c5e0f3b75db4acf90c9f0da27ec2205e0aa786190225c9110f67.jpg",
       "session": "e7f9b554-0f0d-3dbd-e8b1-ae226206aa67",
       "latest_episode": 21,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/3adcc4bba01aaab44e1a7b4f65e9e83c5bb2a0c94c31e010ec95739dfa995bb4.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2025-09-13 14:33:52",
-      "scanned_at": "2025-09-17T20:23:54.175Z"
+      "scanned_at": "2025-09-18T01:42:29.928Z"
     },
     {
       "id": 6267,
@@ -360,7 +252,7 @@
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/29f088ad4cbc7327f567908da86c4b0751ab7f8bd1f5ad48905667f809023b3c.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-13 15:05:53",
-      "scanned_at": "2025-09-17T20:23:53.967Z"
+      "scanned_at": "2025-09-18T01:42:29.659Z"
     },
     {
       "id": 6259,
@@ -371,14 +263,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 6.23,
+      "score": 6.17,
       "poster": "https://i.animepahe.si/uploads/posters/ccb2053709e3b4168c8999e4e84d5c86a53277beb95a74920e66f2e8a2bc06ae.jpg",
       "session": "f56b1608-fea7-6769-3f81-5c6a8ccf4104",
       "latest_episode": 11,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/791ae7a49641671560daae675c8196d4f730034b5643b3c738de522ce6689e48.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-13 15:33:57",
-      "scanned_at": "2025-09-17T20:23:53.752Z"
+      "scanned_at": "2025-09-18T01:42:29.395Z"
     },
     {
       "id": 6264,
@@ -396,7 +288,7 @@
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/577f7b61294e3849e60018834f0d58222c971a4e9a7f5423d8ac724233cc3d2b.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-13 15:36:56",
-      "scanned_at": "2025-09-17T20:23:53.545Z"
+      "scanned_at": "2025-09-18T01:42:29.138Z"
     },
     {
       "id": 6236,
@@ -414,7 +306,7 @@
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/ad42a541b56d1022740d1ead9a40800ec7027f8282fa8750b0251ab109ba477a.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-13 16:04:30",
-      "scanned_at": "2025-09-17T20:23:53.337Z"
+      "scanned_at": "2025-09-18T01:42:28.873Z"
     },
     {
       "id": 6231,
@@ -425,14 +317,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 8.35,
+      "score": 8.34,
       "poster": "https://i.animepahe.si/uploads/posters/542f5b616e395cf08a23f020481d79d1302977ed30d689d51e63f90097dc264f.jpg",
       "session": "809db533-7820-44f9-f859-a195f7cc462e",
       "latest_episode": 23,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/88e0bdc95ea4943fe6f6153d6e5475509b388fec9193c6f9bd1b50fc8907ec2f.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-13 16:34:30",
-      "scanned_at": "2025-09-17T20:23:53.131Z"
+      "scanned_at": "2025-09-18T01:42:28.617Z"
     },
     {
       "id": 6269,
@@ -443,14 +335,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 6.41,
+      "score": 6.39,
       "poster": "https://i.animepahe.si/uploads/posters/80bb863e48ced040e2b4046450e951b0cd7107d0d92f7f30a62ff3efcf5a1f9a.jpg",
       "session": "5c7be1ea-e7c0-8eef-f333-ed885e30475d",
       "latest_episode": 11,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/a15ca0cdd1ff6104fd9852e0aa99186c0d884208cd5f820037724fd61227ed9f.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-13 17:03:37",
-      "scanned_at": "2025-09-17T20:23:52.798Z"
+      "scanned_at": "2025-09-18T01:42:28.351Z"
     },
     {
       "id": 6240,
@@ -461,14 +353,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 8.15,
+      "score": 8.14,
       "poster": "https://i.animepahe.si/uploads/posters/30cbcfecd028da1c9aeb2934ea6d81c568d461261c82494020bab06919439cba.jpg",
       "session": "05da70df-dd24-0a25-0115-e8448a85abfe",
       "latest_episode": 10,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/88f63c5c1953d8095e1ea8eaf93596e63500e0d4e84121d206459918e32390b1.jpg",
       "latest_fansub": "Netflix",
       "last_updated": "2025-09-13 17:11:37",
-      "scanned_at": "2025-09-17T20:23:52.587Z"
+      "scanned_at": "2025-09-18T01:42:28.086Z"
     },
     {
       "id": 6261,
@@ -486,7 +378,7 @@
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/0c03868ecfdbfc5eaffd4a04093f3d488ebb3e44448e476b2b36a26c39375bae.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-13 18:03:30",
-      "scanned_at": "2025-09-17T20:23:52.380Z"
+      "scanned_at": "2025-09-18T01:42:27.822Z"
     },
     {
       "id": 6129,
@@ -504,7 +396,7 @@
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/522384c57a50a7422bb82fe4defc4dd72c2ac9679b1ca399dd5b244d2f1632ba.jpg",
       "latest_fansub": "Piyoko",
       "last_updated": "2025-09-13 23:10:41",
-      "scanned_at": "2025-09-17T20:23:52.172Z"
+      "scanned_at": "2025-09-18T01:42:27.559Z"
     },
     {
       "id": 6234,
@@ -515,14 +407,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 8.69,
+      "score": 8.68,
       "poster": "https://i.animepahe.si/uploads/posters/7103371364ff1310373c89cf444ffc3e6de0b757694a0936ae80e65cfae400b5.jpg",
       "session": "27a95751-0311-47ed-dbce-7f0680d5074a",
       "latest_episode": 11,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/60d9499d2bbb97ca4b1dbfc296bcd53dd8a95dc97a9158719a2557b6605f0c9a.jpg",
       "latest_fansub": "KawaSubs",
       "last_updated": "2025-09-13 23:29:03",
-      "scanned_at": "2025-09-17T20:23:51.966Z"
+      "scanned_at": "2025-09-18T01:42:27.287Z"
     },
     {
       "id": 6035,
@@ -540,7 +432,7 @@
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/fc937cc3317d06fcc4dbd3d719fbf424fe597c596d3709f3c458885ed32907c5.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-14 01:36:05",
-      "scanned_at": "2025-09-17T20:23:51.730Z"
+      "scanned_at": "2025-09-18T01:42:27.025Z"
     },
     {
       "id": 6086,
@@ -551,14 +443,14 @@
       "status": "Finished Airing",
       "season": "Spring",
       "year": 2025,
-      "score": 8.47,
+      "score": 8.71,
       "poster": "https://i.animepahe.si/posters/c361cd57aede81b2e767e05aa9aadd2e28e25b2511a07bece93b5ebcd7c0c1eb.jpg",
       "session": "1d6b96ff-45c4-c842-1a91-45af89eb8474",
       "latest_episode": 24,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/d1634c36f9a6e9ec0e0fdc01989c8ea03dbd446b634687f95e99761f2338c769.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-14 00:38:36",
-      "scanned_at": "2025-09-17T20:23:51.522Z"
+      "scanned_at": "2025-09-18T01:42:26.593Z"
     },
     {
       "id": 6084,
@@ -569,14 +461,14 @@
       "status": "Currently Airing",
       "season": "Spring",
       "year": 2025,
-      "score": 7.35,
+      "score": 7.34,
       "poster": "https://i.animepahe.si/posters/b69a4f8ad9717c5420e686d00507e6575d91422d2e3dd60a2020bf769c3c00c3.jpg",
       "session": "55c1ad8c-4032-44b2-54ca-7fe1365595ae",
       "latest_episode": 23,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/4e997370d9d1771577d853aa32e3f251e8ea9b2f92de0bc11616c6e96ee4e337.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-14 08:35:11",
-      "scanned_at": "2025-09-17T20:23:51.310Z"
+      "scanned_at": "2025-09-18T01:42:26.323Z"
     },
     {
       "id": 6252,
@@ -587,14 +479,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 8.03,
+      "score": 8.04,
       "poster": "https://i.animepahe.si/uploads/posters/65dc9ed70cbc3622a547b4a41389e69560ddb266d255328fac71a859b77341ce.jpg",
       "session": "9be2c61b-755e-f83b-2161-9fb083330396",
       "latest_episode": 23,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/31d57b1da1031c8acff5cc0065474d72fa18dc6fc01e84734faa397b976e3117.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-14 09:04:56",
-      "scanned_at": "2025-09-17T20:23:51.089Z"
+      "scanned_at": "2025-09-18T01:42:26.053Z"
     },
     {
       "id": 6289,
@@ -605,14 +497,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 6.95,
+      "score": 6.98,
       "poster": "https://i.animepahe.si/uploads/posters/274c9b97d66ce4c758801256f0b6155122e1a22ffa4c57d5cfa203c71950dc56.jpg",
       "session": "3f0ef44b-d6e8-d8c9-9cdb-40829a9be655",
       "latest_episode": 23,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/5d5839767ae2acd53849034eb97d834c6f78cc61ff478d2269fb43de361ed114.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-14 10:03:48",
-      "scanned_at": "2025-09-17T20:23:50.880Z"
+      "scanned_at": "2025-09-18T01:42:25.788Z"
     },
     {
       "id": 6271,
@@ -623,14 +515,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 6.23,
+      "score": 6.25,
       "poster": "https://i.animepahe.si/uploads/posters/58ff925845e2dc95477eafa43c8a0fbedfa01055b88c1fd775ed11648dec6b7d.jpg",
       "session": "2e5c8142-7d3c-f529-6305-cad5af2b0e63",
       "latest_episode": 11,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/d4c94cdf3fe52a3226ad3d3b16c467e6be3e386f1efa8bd6ca0f129ee500c27a.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-14 13:19:58",
-      "scanned_at": "2025-09-17T20:23:50.671Z"
+      "scanned_at": "2025-09-18T01:42:25.528Z"
     },
     {
       "id": 6260,
@@ -641,14 +533,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 7.77,
+      "score": 7.79,
       "poster": "https://i.animepahe.si/uploads/posters/b5b466ddf7bed56b798aac72c496efa3aace4d9ae44cf2245815018dcc7a5365.jpg",
       "session": "0b10585b-1cde-b888-ecda-5e12c5392a34",
       "latest_episode": 11,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/e393bce9e37187233044279fe63561101937e24866603aefccbb3122b2ae0758.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-14 13:33:57",
-      "scanned_at": "2025-09-17T20:23:50.465Z"
+      "scanned_at": "2025-09-18T01:42:25.270Z"
     },
     {
       "id": 6249,
@@ -659,14 +551,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 6.84,
+      "score": 6.81,
       "poster": "https://i.animepahe.si/uploads/posters/1c1b47a2f4a5e690a60c863d488da6fb0d363416c2aa7f9c8726606ad07c6c62.jpg",
       "session": "dd98195a-7e30-0146-f0db-b040aeedb461",
       "latest_episode": 11,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/4021b388963ed835eaa61f1c74aa8d4720e6d1a58020e564e459420f4a557957.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-14 13:49:55",
-      "scanned_at": "2025-09-17T20:23:50.153Z"
+      "scanned_at": "2025-09-18T01:42:25.001Z"
     },
     {
       "id": 6265,
@@ -677,14 +569,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 6.18,
+      "score": 6.16,
       "poster": "https://i.animepahe.si/uploads/posters/30336546f0ecebeda8cdcd28ca42d90efca93cbac5ec996d42b9f07b0c7c566a.jpg",
       "session": "6e43baaf-9b64-9ef9-bad2-bfcc3be87071",
       "latest_episode": 11,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/3b094f558f3bf004d49a53786e600db98f4275fb870504fa3de6b12c64028e50.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-14 14:19:49",
-      "scanned_at": "2025-09-17T20:23:49.942Z"
+      "scanned_at": "2025-09-18T01:42:24.735Z"
     },
     {
       "id": 6263,
@@ -695,14 +587,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 6.67,
+      "score": 6.64,
       "poster": "https://i.animepahe.si/uploads/posters/d4334a8bbf3512c1e0ba4a6a5142a38b1ca22600757fb0b890dc74830d46e0c0.jpg",
       "session": "bccca268-6edd-0369-ae31-cd145e76238d",
       "latest_episode": 10,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/73301c1fbc2fdac9201e5eac2a7fe5b27cd469547fc20cc2b3bd85ace7f330c5.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-14 14:49:42",
-      "scanned_at": "2025-09-17T20:23:49.722Z"
+      "scanned_at": "2025-09-18T01:42:24.479Z"
     },
     {
       "id": 6238,
@@ -720,7 +612,7 @@
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/e990e8eabe1f1745bc0cda467b668f183b04202aa42bf1e7b5097992d35b52c7.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2025-09-14 15:05:10",
-      "scanned_at": "2025-09-17T20:23:49.504Z"
+      "scanned_at": "2025-09-18T01:42:24.217Z"
     },
     {
       "id": 6278,
@@ -731,14 +623,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 6.64,
+      "score": 6.63,
       "poster": "https://i.animepahe.si/uploads/posters/087a8436af46e0642a6fb9456740206323321f6a07e778679ebb0810d95bbe55.jpg",
       "session": "9125c841-85da-511a-3fca-8f52a3e8ecac",
       "latest_episode": 10,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/e65c4b2799c0ba61bcf65c50539a8194020834733add7ba835b466b17da89349.jpg",
       "latest_fansub": "ADN",
       "last_updated": "2025-09-14 15:13:19",
-      "scanned_at": "2025-09-17T20:23:49.296Z"
+      "scanned_at": "2025-09-18T01:42:23.961Z"
     },
     {
       "id": 6282,
@@ -749,14 +641,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 5.74,
+      "score": 5.75,
       "poster": "https://i.animepahe.si/uploads/posters/a01cbf7afb2a0885a3b9cff9e99cd47f17d65ebd74824f384a06c6521b9b751e.jpg",
       "session": "4a95f659-6686-f4df-ebd7-8ba4a672d9bb",
       "latest_episode": 11,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/a3530d4ef379b637437d7628e99d92770034f311e17254d31cc307afc3a44d24.jpg",
       "latest_fansub": "Amazon",
       "last_updated": "2025-09-14 15:13:21",
-      "scanned_at": "2025-09-17T20:23:49.085Z"
+      "scanned_at": "2025-09-18T01:42:23.701Z"
     },
     {
       "id": 6275,
@@ -767,14 +659,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 6.29,
+      "score": 6.27,
       "poster": "https://i.animepahe.si/uploads/posters/40710a43a09905a134d3aa622d364c201b28225e97711606c1b850f20b70e943.jpg",
       "session": "e41f275d-54ee-a56d-9f5f-7b34bd31edfb",
       "latest_episode": 11,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/4d7074a86a732601a416ccdf7154614e4aacd81743d55757d7a3a384dd8de691.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-14 15:34:44",
-      "scanned_at": "2025-09-17T20:23:48.865Z"
+      "scanned_at": "2025-09-18T01:42:23.270Z"
     },
     {
       "id": 6248,
@@ -785,14 +677,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 7.91,
+      "score": 7.92,
       "poster": "https://i.animepahe.si/uploads/posters/9c15d1451f14437f5a342de151b758805e72e566d55bf542991f971d128d3fe9.jpg",
       "session": "d957867d-d470-7ce7-72fc-4c23095fafc1",
       "latest_episode": 11,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/8b96796d5dc5af836402b717e1691665bd1aaee5367358f741410fd3b95b1c5e.jpg",
       "latest_fansub": "Amazon",
       "last_updated": "2025-09-14 15:40:11",
-      "scanned_at": "2025-09-17T20:23:48.645Z"
+      "scanned_at": "2025-09-18T01:42:23.010Z"
     },
     {
       "id": 4,
@@ -810,7 +702,7 @@
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/374703ce160073530d46c7a1d28c9581e43f9a8ac98ba7637e0e580a3b1162f1.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-14 16:06:12",
-      "scanned_at": "2025-09-17T20:23:48.432Z"
+      "scanned_at": "2025-09-18T01:42:22.744Z"
     },
     {
       "id": 6277,
@@ -828,7 +720,7 @@
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/5b85e16ee4fc23e26261f1ba5c06f9bfc47dbedf1ac950cc7e6f32467e98d7a4.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-14 16:52:21",
-      "scanned_at": "2025-09-17T20:23:48.220Z"
+      "scanned_at": "2025-09-18T01:42:22.484Z"
     },
     {
       "id": 6290,
@@ -846,7 +738,7 @@
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/3f7b09c6babd79c646d083d4e2f8974e369041c01a0c84065ccd36771ba94217.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-14 19:48:21",
-      "scanned_at": "2025-09-17T20:23:47.998Z"
+      "scanned_at": "2025-09-18T01:42:22.220Z"
     },
     {
       "id": 6093,
@@ -864,7 +756,7 @@
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/ac4ed76570bd7e6757d544c2468eb05f5b6b8872bbe97b1e3fdd05c1f5a2a027.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-15 15:03:38",
-      "scanned_at": "2025-09-17T20:23:47.759Z"
+      "scanned_at": "2025-09-18T01:42:21.955Z"
     },
     {
       "id": 6237,
@@ -875,14 +767,14 @@
       "status": "Finished Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 7.95,
+      "score": 7.96,
       "poster": "https://i.animepahe.si/uploads/posters/ae2d24374a736db79de1d4caeaf7c1a01b5bc97c9657d87b2263ffefa7bdd4a4.jpg",
       "session": "a86c0265-d763-fdb8-ccc6-b5555b241cd6",
       "latest_episode": 22,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/b04906f600a4df420820bd0849175f2e180fbe6c6762065c16c96162b70e189d.jpg",
       "latest_fansub": "Netflix",
       "last_updated": "2025-09-15 15:41:01",
-      "scanned_at": "2025-09-17T20:23:47.437Z"
+      "scanned_at": "2025-09-18T01:42:21.693Z"
     },
     {
       "id": 5754,
@@ -900,7 +792,7 @@
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/0831ae5635dc06a0a0eae955212039054343df3907c9c6945272d18fc7cf266d.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-15 16:34:50",
-      "scanned_at": "2025-09-17T20:23:47.215Z"
+      "scanned_at": "2025-09-18T01:42:21.429Z"
     },
     {
       "id": 6250,
@@ -911,14 +803,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 7.52,
+      "score": 7.53,
       "poster": "https://i.animepahe.si/uploads/posters/ea35ea1eec722f931ad593a16461f7b7cd302f9a12ffbda076ec7acabc8f8adb.jpg",
       "session": "1abdeb23-fe28-dc61-7169-e3d5946718b0",
       "latest_episode": 11,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/8c1c3b850ff309eb1b1283b6a2241962c164c7cbd3b9fb191c18fe351fee1abd.jpg",
       "latest_fansub": "Amazon",
       "last_updated": "2025-09-15 17:23:46",
-      "scanned_at": "2025-09-17T20:23:46.996Z"
+      "scanned_at": "2025-09-18T01:42:21.164Z"
     },
     {
       "id": 6241,
@@ -929,14 +821,14 @@
       "status": "Finished Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 6.14,
+      "score": 6.26,
       "poster": "https://i.animepahe.si/uploads/posters/dd128da72a26a2073a7231fb3e604e9dd5bbb056b3e025b80c22b748094be8df.jpg",
       "session": "4dbb03fa-2eba-1c01-4ca6-67bd46a9dd91",
       "latest_episode": 48,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/b1966365d9f6638f03244716f826a3ff860fd51b6e7f0f92d7152d48be562eaa.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-16 13:35:07",
-      "scanned_at": "2025-09-17T20:23:46.776Z"
+      "scanned_at": "2025-09-18T01:42:20.892Z"
     },
     {
       "id": 6245,
@@ -947,14 +839,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 6.81,
+      "score": 6.79,
       "poster": "https://i.animepahe.si/uploads/posters/c98a7574b8de582fe9b7fcd4f3dc08261677520cd9b0e19f3a96dacc33952fd2.jpg",
       "session": "7feed0ac-e2c9-3a66-9c20-920f4f84d521",
       "latest_episode": 11,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/da67763a4e269994bde69e5be5b42295017b457e5df436829405e67f849cfb4a.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-16 14:37:36",
-      "scanned_at": "2025-09-17T20:23:46.564Z"
+      "scanned_at": "2025-09-18T01:42:20.629Z"
     },
     {
       "id": 6268,
@@ -965,14 +857,14 @@
       "status": "Finished Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 7.15,
+      "score": 7.33,
       "poster": "https://i.animepahe.si/uploads/posters/3186f7f890014da81424da60feb94e2e9917fe72deeaf8d3c911948d1cb922c8.jpg",
       "session": "74e200d2-0ec0-1644-9c89-2ca35345a06d",
       "latest_episode": 12,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/ba1cb0e43374840ed7eff066c1526171ee11897a22169e3e85c01cfc1386998d.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-16 15:08:26",
-      "scanned_at": "2025-09-17T20:23:46.343Z"
+      "scanned_at": "2025-09-18T01:42:20.366Z"
     },
     {
       "id": 6286,
@@ -983,14 +875,14 @@
       "status": "Finished Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 5.57,
+      "score": 6.21,
       "poster": "https://i.animepahe.si/uploads/posters/413781b43ece861af2d54e1df2004fcecfd53f7f8df66895f8f2fcd181dde4bf.jpg",
       "session": "815a5ea2-c426-04dd-9af4-e1bf23c8c2ed",
       "latest_episode": 12,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/56224f99aaebb9b48f5a5da92ec3457a99e500ef76b407dc6ba980c3f46e0435.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-16 15:22:09",
-      "scanned_at": "2025-09-17T20:23:46.121Z"
+      "scanned_at": "2025-09-18T01:42:19.936Z"
     },
     {
       "id": 6257,
@@ -1001,14 +893,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 6.75,
+      "score": 6.77,
       "poster": "https://i.animepahe.si/uploads/posters/fc7c519f517b613b048c5feca8b60521e247d476425ce1178de7e181c52d3651.jpg",
       "session": "6e9c69a4-6719-22ec-78f8-7e9604e91b7a",
       "latest_episode": 11,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/6e57304e8a57fbb2707ff797c04529533eb0030d58c9bc744e994de7c0560645.jpg",
       "latest_fansub": "ADN",
       "last_updated": "2025-09-16 15:50:06",
-      "scanned_at": "2025-09-17T20:23:45.898Z"
+      "scanned_at": "2025-09-18T01:42:19.682Z"
     },
     {
       "id": 6284,
@@ -1019,14 +911,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 6.44,
+      "score": 6.36,
       "poster": "https://i.animepahe.si/uploads/posters/0bf68bf1d77f4d70723b25d6cf5176a9c4c861e040e6157cb52a081829c89938.jpg",
       "session": "ad12e261-8b36-80af-842a-28d955a8dba1",
       "latest_episode": 11,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/e6f721d370b85f1e4c461f10b4e536cc8526bc73dac82cabc08a8cb840001f18.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-16 17:05:10",
-      "scanned_at": "2025-09-17T20:23:45.677Z"
+      "scanned_at": "2025-09-18T01:42:19.416Z"
     },
     {
       "id": 6274,
@@ -1037,32 +929,14 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 6.11,
+      "score": 6.09,
       "poster": "https://i.animepahe.si/uploads/posters/339b8678ec8b1576dd46ba68d1d7eff681c4e86613c074f073dbbb2daff2b56a.jpg",
       "session": "25d65413-3d15-a068-14bf-de80387ff396",
       "latest_episode": 11,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/eb53ba48a7ab359b298a87e8e3998884df2d929a3cc6f33a7022bf7cb64b0d3f.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-09-16 18:34:48",
-      "scanned_at": "2025-09-17T20:23:45.447Z"
-    },
-    {
-      "id": 6262,
-      "malid": null,
-      "title": "Clevatess",
-      "type": "TV",
-      "episodes": 12,
-      "status": "Finished Airing",
-      "season": "Summer",
-      "year": 2025,
-      "score": 7.85,
-      "poster": "https://i.animepahe.si/uploads/posters/b03b8f353643d4f5b5f511bc2c7b0fc9d21e1d9b6f7e59bd35f8580aa0225073.jpg",
-      "session": "79fe94dc-8a14-630c-2760-13ed564ef809",
-      "latest_episode": 12,
-      "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/7ce25f965461b5f9ac92bc9f31485147e8be2caf75e41a1d8d18c9cb0e58bfb9.jpg",
-      "latest_fansub": "Yameii",
-      "last_updated": "2025-09-17 12:16:55",
-      "scanned_at": "2025-09-17T20:23:45.225Z"
+      "scanned_at": "2025-09-18T01:42:19.143Z"
     },
     {
       "id": 6243,
@@ -1073,14 +947,140 @@
       "status": "Currently Airing",
       "season": "Summer",
       "year": 2025,
-      "score": 8.07,
+      "score": 8.06,
       "poster": "https://i.animepahe.si/uploads/posters/48bac0ef735ad9dfba971bad8c5043491c0d7dc1ce3118ebf1a61e7c083fbfed.jpg",
       "session": "72b5b3de-335b-95f9-4733-c2b4a917eb17",
       "latest_episode": 11,
       "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/49be29caaafb2c6701420c6b29679b79325d491bbc4c40ee486695fb5126d2e3.jpg",
       "latest_fansub": "Amazon",
       "last_updated": "2025-09-17 16:19:11",
-      "scanned_at": "2025-09-17T20:23:45.005Z"
+      "scanned_at": "2025-09-18T01:42:18.880Z"
+    },
+    {
+      "id": 6262,
+      "malid": null,
+      "title": "Clevatess",
+      "type": "TV",
+      "episodes": 12,
+      "status": "Currently Airing",
+      "season": "Summer",
+      "year": 2025,
+      "score": 7.85,
+      "poster": "https://i.animepahe.si/uploads/posters/b03b8f353643d4f5b5f511bc2c7b0fc9d21e1d9b6f7e59bd35f8580aa0225073.jpg",
+      "session": "79fe94dc-8a14-630c-2760-13ed564ef809",
+      "latest_episode": 12,
+      "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/7ce25f965461b5f9ac92bc9f31485147e8be2caf75e41a1d8d18c9cb0e58bfb9.jpg",
+      "latest_fansub": "SubsPlease",
+      "last_updated": "2025-09-17 12:16:55",
+      "scanned_at": "2025-09-18T01:42:18.610Z"
+    },
+    {
+      "id": 6235,
+      "malid": null,
+      "title": "The Rising of the Shield Hero Season 4",
+      "type": "TV",
+      "episodes": 12,
+      "status": "Currently Airing",
+      "season": "Summer",
+      "year": 2025,
+      "score": 7.14,
+      "poster": "https://i.animepahe.si/uploads/posters/24501691b8c58e7b1f2d9eab160b2c3d0471e4f7fcbdaf970a2e9766025adb8c.jpg",
+      "session": "75361ccc-cacc-d7c2-8fe0-2f0af0f565ae",
+      "latest_episode": 11,
+      "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/b29fca8c912e211f6b5ef2a245bce669c242bafc4a7ca0264e87eba7f65715c1.jpg",
+      "latest_fansub": "SubsPlease",
+      "last_updated": "2025-09-17 20:56:51",
+      "scanned_at": "2025-09-18T01:42:18.182Z"
+    },
+    {
+      "id": 6247,
+      "malid": null,
+      "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "season": "Summer",
+      "year": 2025,
+      "score": 6.54,
+      "poster": "https://i.animepahe.si/uploads/posters/37049c17a768f1b52dd7acc5225d602a1628b4452ba29604beb725bd6852cd8d.jpg",
+      "session": "750c8203-507c-092c-6060-aab1a1f0638f",
+      "latest_episode": 12,
+      "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/4fd92442effbd70fda0a72f36cad03d8373f9941b8c5a5fcbec49f83022d7dd0.jpg",
+      "latest_fansub": "SubsPlease",
+      "last_updated": "2025-09-17 20:56:57",
+      "scanned_at": "2025-09-18T01:42:17.904Z"
+    },
+    {
+      "id": 6242,
+      "malid": null,
+      "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
+      "type": "TV",
+      "episodes": 12,
+      "status": "Currently Airing",
+      "season": "Summer",
+      "year": 2025,
+      "score": 7.67,
+      "poster": "https://i.animepahe.si/uploads/posters/5d2345826b5c57c349b8e43f122c355a1b80726e343c725449e6a351fce4fa61.jpg",
+      "session": "39f74d0c-55ad-4c14-5af2-2821f91f6eb5",
+      "latest_episode": 23,
+      "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/49890bf0d600b80aa470b02786e23b0068809d42cb7e31d1dad02ddc62b4e511.jpg",
+      "latest_fansub": "SubsPlease",
+      "last_updated": "2025-09-17 20:57:05",
+      "scanned_at": "2025-09-18T01:42:17.640Z"
+    },
+    {
+      "id": 6256,
+      "malid": null,
+      "title": "Dealing with Mikadono Sisters Is a Breeze",
+      "type": "TV",
+      "episodes": 12,
+      "status": "Currently Airing",
+      "season": "Summer",
+      "year": 2025,
+      "score": 7.67,
+      "poster": "https://i.animepahe.si/uploads/posters/15d8d35e156069198533a4e0791551cc9c3426dcb8beda79f4fd9651985892d5.jpg",
+      "session": "37f2f2a8-d2c2-a821-6de0-0d479c4aca20",
+      "latest_episode": 12,
+      "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/bf95fae940fae5df89fc616be4dc07e1caceeeb710ee3b14c2cf77cc2402d422.jpg",
+      "latest_fansub": "SubsPlease",
+      "last_updated": "2025-09-17 21:06:18",
+      "scanned_at": "2025-09-18T01:42:17.201Z"
+    },
+    {
+      "id": 6279,
+      "malid": null,
+      "title": "Onmyo Kaiten Re:Birth Verse",
+      "type": "TV",
+      "episodes": 12,
+      "status": "Currently Airing",
+      "season": "Summer",
+      "year": 2025,
+      "score": 6.49,
+      "poster": "https://i.animepahe.si/uploads/posters/608f9bc83f671a2bc9861ebdd2703ad8607889f48aede43f8fef150632312479.jpg",
+      "session": "1f775d3b-9f1b-4335-ead1-6d57163c3c7a",
+      "latest_episode": 12,
+      "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/66679cda979a33f69b9b53373df9ee4d4aa15604209d9b41c9840c3b643609bf.jpg",
+      "latest_fansub": "SubsPlease",
+      "last_updated": "2025-09-17 21:09:13",
+      "scanned_at": "2025-09-18T01:42:16.753Z"
+    },
+    {
+      "id": 6251,
+      "malid": null,
+      "title": "New Saga",
+      "type": "TV",
+      "episodes": 12,
+      "status": "Currently Airing",
+      "season": "Summer",
+      "year": 2025,
+      "score": 6.58,
+      "poster": "https://i.animepahe.si/uploads/posters/dfaccb086e6dcc6b22d47893ee16dfcc3da0b15fe4e0f6fc019c3b7495299f9c.jpg",
+      "session": "f5135165-7630-6498-ccd8-93954cfef653",
+      "latest_episode": 12,
+      "latest_snapshot": "https://i.animepahe.si/uploads/snapshots/f3035ef810a0c6246721f3d44704628d321129e55d18748959af08a8fcc07031.jpg",
+      "latest_fansub": "SubsPlease",
+      "last_updated": "2025-09-17 21:14:31",
+      "scanned_at": "2025-09-18T01:42:16.230Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": 1759076723354,
+  "timestamp": 1759091021049,
   "total": 75,
   "data": [
     {
@@ -29,7 +29,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Sundays at 23:45 (JST)"
       },
-      "scanned_at": "2025-09-28T16:25:18.494Z",
+      "scanned_at": "2025-09-28T20:23:36.141Z",
       "source": "jikan"
     },
     {
@@ -59,7 +59,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Fridays at 23:00 (JST)"
       },
-      "scanned_at": "2025-09-28T16:25:18.544Z",
+      "scanned_at": "2025-09-28T20:23:36.192Z",
       "source": "jikan"
     },
     {
@@ -89,7 +89,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:18.594Z",
+      "scanned_at": "2025-09-28T20:23:36.242Z",
       "source": "jikan"
     },
     {
@@ -110,16 +110,16 @@
       "aired_string": "Oct 4, 2025 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 1488,
-      "members": 178063,
-      "favorites": 978,
+      "popularity": 1477,
+      "members": 179496,
+      "favorites": 985,
       "broadcast": {
         "day": "Saturdays",
         "time": "23:00",
         "timezone": "Asia/Tokyo",
         "string": "Saturdays at 23:00 (JST)"
       },
-      "scanned_at": "2025-09-28T16:25:18.644Z",
+      "scanned_at": "2025-09-28T20:23:36.292Z",
       "source": "jikan"
     },
     {
@@ -149,7 +149,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:18.695Z",
+      "scanned_at": "2025-09-28T20:23:36.343Z",
       "source": "jikan"
     },
     {
@@ -179,7 +179,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:18.745Z",
+      "scanned_at": "2025-09-28T20:23:36.393Z",
       "source": "jikan"
     },
     {
@@ -200,16 +200,16 @@
       "aired_string": "Jan 2026 to ?",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 1945,
-      "members": 127378,
-      "favorites": 470,
+      "popularity": 1939,
+      "members": 128227,
+      "favorites": 474,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:18.795Z",
+      "scanned_at": "2025-09-28T20:23:36.443Z",
       "source": "jikan"
     },
     {
@@ -230,16 +230,16 @@
       "aired_string": "Oct 4, 2025 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2002,
-      "members": 123192,
-      "favorites": 426,
+      "popularity": 1987,
+      "members": 124280,
+      "favorites": 429,
       "broadcast": {
         "day": "Saturdays",
         "time": "17:30",
         "timezone": "Asia/Tokyo",
         "string": "Saturdays at 17:30 (JST)"
       },
-      "scanned_at": "2025-09-28T16:25:18.845Z",
+      "scanned_at": "2025-09-28T20:23:36.493Z",
       "source": "jikan"
     },
     {
@@ -269,7 +269,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:18.896Z",
+      "scanned_at": "2025-09-28T20:23:36.544Z",
       "source": "jikan"
     },
     {
@@ -299,7 +299,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Saturdays at 23:45 (JST)"
       },
-      "scanned_at": "2025-09-28T16:25:18.946Z",
+      "scanned_at": "2025-09-28T20:23:36.594Z",
       "source": "jikan"
     },
     {
@@ -329,7 +329,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-09-28T16:25:18.996Z",
+      "scanned_at": "2025-09-28T20:23:36.644Z",
       "source": "jikan"
     },
     {
@@ -359,7 +359,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:19.047Z",
+      "scanned_at": "2025-09-28T20:23:36.695Z",
       "source": "jikan"
     },
     {
@@ -389,7 +389,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:19.097Z",
+      "scanned_at": "2025-09-28T20:23:36.745Z",
       "source": "jikan"
     },
     {
@@ -419,7 +419,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:19.147Z",
+      "scanned_at": "2025-09-28T20:23:36.795Z",
       "source": "jikan"
     },
     {
@@ -449,7 +449,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:19.197Z",
+      "scanned_at": "2025-09-28T20:23:36.845Z",
       "source": "jikan"
     },
     {
@@ -479,7 +479,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:19.248Z",
+      "scanned_at": "2025-09-28T20:23:36.896Z",
       "source": "jikan"
     },
     {
@@ -509,7 +509,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:19.298Z",
+      "scanned_at": "2025-09-28T20:23:36.946Z",
       "source": "jikan"
     },
     {
@@ -539,7 +539,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:19.348Z",
+      "scanned_at": "2025-09-28T20:23:36.996Z",
       "source": "jikan"
     },
     {
@@ -560,16 +560,16 @@
       "aired_string": "Oct 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2737,
-      "members": 76200,
-      "favorites": 414,
+      "popularity": 2736,
+      "members": 76221,
+      "favorites": 415,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:19.398Z",
+      "scanned_at": "2025-09-28T20:23:37.047Z",
       "source": "jikan"
     },
     {
@@ -599,7 +599,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-09-28T16:25:19.448Z",
+      "scanned_at": "2025-09-28T20:23:37.097Z",
       "source": "jikan"
     },
     {
@@ -629,7 +629,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:19.499Z",
+      "scanned_at": "2025-09-28T20:23:37.147Z",
       "source": "jikan"
     },
     {
@@ -659,7 +659,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:19.549Z",
+      "scanned_at": "2025-09-28T20:23:37.197Z",
       "source": "jikan"
     },
     {
@@ -680,8 +680,8 @@
       "aired_string": "Jan 3, 2026 to ?",
       "duration": "24 min",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 2868,
-      "members": 70271,
+      "popularity": 2866,
+      "members": 70377,
       "favorites": 264,
       "broadcast": {
         "day": null,
@@ -689,7 +689,7 @@
         "timezone": null,
         "string": "Saturdays at Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:19.599Z",
+      "scanned_at": "2025-09-28T20:23:37.248Z",
       "source": "jikan"
     },
     {
@@ -719,7 +719,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:19.649Z",
+      "scanned_at": "2025-09-28T20:23:37.298Z",
       "source": "jikan"
     },
     {
@@ -749,7 +749,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-09-28T16:25:19.700Z",
+      "scanned_at": "2025-09-28T20:23:37.348Z",
       "source": "jikan"
     },
     {
@@ -779,7 +779,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Sundays at 01:30 (JST)"
       },
-      "scanned_at": "2025-09-28T16:25:20.196Z",
+      "scanned_at": "2025-09-28T20:23:37.871Z",
       "source": "jikan"
     },
     {
@@ -809,7 +809,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:20.246Z",
+      "scanned_at": "2025-09-28T20:23:37.922Z",
       "source": "jikan"
     },
     {
@@ -830,8 +830,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3262,
-      "members": 55181,
+      "popularity": 3261,
+      "members": 55203,
       "favorites": 337,
       "broadcast": {
         "day": null,
@@ -839,7 +839,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:20.297Z",
+      "scanned_at": "2025-09-28T20:23:37.972Z",
       "source": "jikan"
     },
     {
@@ -869,37 +869,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-09-28T16:25:20.347Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "59983",
-      "title": "Tsue to Tsurugi no Wistoria Season 2",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": "spring",
-      "year": 2026,
-      "score": null,
-      "poster": "https://cdn.myanimelist.net/images/anime/1002/151943l.webp",
-      "synopsis": "Second season of Tsue to Tsurugi no Wistoria.",
-      "session": null,
-      "slug": null,
-      "aired_from": "2026-04-01T00:00:00+00:00",
-      "aired_string": "Apr 2026 to ?",
-      "duration": "Unknown",
-      "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3314,
-      "members": 53784,
-      "favorites": 164,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": "Unknown"
-      },
-      "scanned_at": "2025-09-28T16:25:20.397Z",
+      "scanned_at": "2025-09-28T20:23:38.022Z",
       "source": "jikan"
     },
     {
@@ -920,16 +890,16 @@
       "aired_string": "Oct 8, 2025 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3316,
-      "members": 53741,
-      "favorites": 194,
+      "popularity": 3292,
+      "members": 54402,
+      "favorites": 196,
       "broadcast": {
         "day": "Wednesdays",
         "time": "00:00",
         "timezone": "Asia/Tokyo",
         "string": "Wednesdays at 00:00 (JST)"
       },
-      "scanned_at": "2025-09-28T16:25:20.447Z",
+      "scanned_at": "2025-09-28T20:23:38.072Z",
       "source": "jikan"
     },
     {
@@ -950,16 +920,16 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 3358,
-      "members": 52650,
-      "favorites": 90,
+      "popularity": 3301,
+      "members": 54213,
+      "favorites": 93,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:20.498Z",
+      "scanned_at": "2025-09-28T20:23:38.123Z",
       "source": "jikan"
     },
     {
@@ -980,16 +950,46 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 3358,
-      "members": 52650,
-      "favorites": 90,
+      "popularity": 3301,
+      "members": 54213,
+      "favorites": 93,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:20.548Z",
+      "scanned_at": "2025-09-28T20:23:38.173Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "59983",
+      "title": "Tsue to Tsurugi no Wistoria Season 2",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": "spring",
+      "year": 2026,
+      "score": null,
+      "poster": "https://cdn.myanimelist.net/images/anime/1002/151943l.webp",
+      "synopsis": "Second season of Tsue to Tsurugi no Wistoria.",
+      "session": null,
+      "slug": null,
+      "aired_from": "2026-04-01T00:00:00+00:00",
+      "aired_string": "Apr 2026 to ?",
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "popularity": 3313,
+      "members": 53863,
+      "favorites": 164,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "scanned_at": "2025-09-28T20:23:38.223Z",
       "source": "jikan"
     },
     {
@@ -1019,7 +1019,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-09-28T16:25:20.598Z",
+      "scanned_at": "2025-09-28T20:23:38.274Z",
       "source": "jikan"
     },
     {
@@ -1049,7 +1049,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:20.648Z",
+      "scanned_at": "2025-09-28T20:23:38.324Z",
       "source": "jikan"
     },
     {
@@ -1079,7 +1079,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:20.698Z",
+      "scanned_at": "2025-09-28T20:23:38.374Z",
       "source": "jikan"
     },
     {
@@ -1109,7 +1109,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-09-28T16:25:20.749Z",
+      "scanned_at": "2025-09-28T20:23:38.424Z",
       "source": "jikan"
     },
     {
@@ -1139,7 +1139,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-09-28T16:25:20.799Z",
+      "scanned_at": "2025-09-28T20:23:38.475Z",
       "source": "jikan"
     },
     {
@@ -1169,7 +1169,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:20.849Z",
+      "scanned_at": "2025-09-28T20:23:38.525Z",
       "source": "jikan"
     },
     {
@@ -1199,7 +1199,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-09-28T16:25:20.899Z",
+      "scanned_at": "2025-09-28T20:23:38.575Z",
       "source": "jikan"
     },
     {
@@ -1229,7 +1229,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:20.949Z",
+      "scanned_at": "2025-09-28T20:23:38.625Z",
       "source": "jikan"
     },
     {
@@ -1259,7 +1259,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:21.000Z",
+      "scanned_at": "2025-09-28T20:23:38.676Z",
       "source": "jikan"
     },
     {
@@ -1289,7 +1289,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-09-28T16:25:21.049Z",
+      "scanned_at": "2025-09-28T20:23:38.726Z",
       "source": "jikan"
     },
     {
@@ -1310,16 +1310,16 @@
       "aired_string": "Oct 4, 2025 to ?",
       "duration": "Unknown",
       "rating": null,
-      "popularity": 3861,
-      "members": 41243,
-      "favorites": 221,
+      "popularity": 3820,
+      "members": 42018,
+      "favorites": 230,
       "broadcast": {
         "day": "Saturdays",
         "time": "00:00",
         "timezone": "Asia/Tokyo",
         "string": "Saturdays at 00:00 (JST)"
       },
-      "scanned_at": "2025-09-28T16:25:21.100Z",
+      "scanned_at": "2025-09-28T20:23:38.776Z",
       "source": "jikan"
     },
     {
@@ -1349,7 +1349,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-09-28T16:25:21.150Z",
+      "scanned_at": "2025-09-28T20:23:38.826Z",
       "source": "jikan"
     },
     {
@@ -1379,7 +1379,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:21.200Z",
+      "scanned_at": "2025-09-28T20:23:38.876Z",
       "source": "jikan"
     },
     {
@@ -1409,7 +1409,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:21.249Z",
+      "scanned_at": "2025-09-28T20:23:38.927Z",
       "source": "jikan"
     },
     {
@@ -1439,7 +1439,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:21.300Z",
+      "scanned_at": "2025-09-28T20:23:38.977Z",
       "source": "jikan"
     },
     {
@@ -1461,7 +1461,7 @@
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
       "popularity": 3963,
-      "members": 38850,
+      "members": 38896,
       "favorites": 159,
       "broadcast": {
         "day": null,
@@ -1469,7 +1469,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:21.350Z",
+      "scanned_at": "2025-09-28T20:23:39.027Z",
       "source": "jikan"
     },
     {
@@ -1499,7 +1499,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:21.400Z",
+      "scanned_at": "2025-09-28T20:23:39.078Z",
       "source": "jikan"
     },
     {
@@ -1529,7 +1529,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:21.898Z",
+      "scanned_at": "2025-09-28T20:23:39.590Z",
       "source": "jikan"
     },
     {
@@ -1559,7 +1559,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-09-28T16:25:21.948Z",
+      "scanned_at": "2025-09-28T20:23:39.641Z",
       "source": "jikan"
     },
     {
@@ -1580,8 +1580,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4086,
-      "members": 36474,
+      "popularity": 4082,
+      "members": 36553,
       "favorites": 75,
       "broadcast": {
         "day": null,
@@ -1589,7 +1589,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-09-28T16:25:21.998Z",
+      "scanned_at": "2025-09-28T20:23:39.691Z",
       "source": "jikan"
     },
     {
@@ -1619,7 +1619,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:22.049Z",
+      "scanned_at": "2025-09-28T20:23:39.741Z",
       "source": "jikan"
     },
     {
@@ -1649,7 +1649,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-09-28T16:25:22.099Z",
+      "scanned_at": "2025-09-28T20:23:39.792Z",
       "source": "jikan"
     },
     {
@@ -1679,7 +1679,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Sundays at 00:55 (JST)"
       },
-      "scanned_at": "2025-09-28T16:25:22.149Z",
+      "scanned_at": "2025-09-28T20:23:39.842Z",
       "source": "jikan"
     },
     {
@@ -1709,7 +1709,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:22.199Z",
+      "scanned_at": "2025-09-28T20:23:39.892Z",
       "source": "jikan"
     },
     {
@@ -1739,7 +1739,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:22.249Z",
+      "scanned_at": "2025-09-28T20:23:39.942Z",
       "source": "jikan"
     },
     {
@@ -1769,7 +1769,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-09-28T16:25:22.300Z",
+      "scanned_at": "2025-09-28T20:23:39.993Z",
       "source": "jikan"
     },
     {
@@ -1799,7 +1799,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-09-28T16:25:22.350Z",
+      "scanned_at": "2025-09-28T20:23:40.043Z",
       "source": "jikan"
     },
     {
@@ -1820,8 +1820,8 @@
       "aired_string": "Apr 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4296,
-      "members": 32959,
+      "popularity": 4294,
+      "members": 33018,
       "favorites": 110,
       "broadcast": {
         "day": null,
@@ -1829,7 +1829,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:22.400Z",
+      "scanned_at": "2025-09-28T20:23:40.093Z",
       "source": "jikan"
     },
     {
@@ -1859,7 +1859,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:22.450Z",
+      "scanned_at": "2025-09-28T20:23:40.144Z",
       "source": "jikan"
     },
     {
@@ -1889,7 +1889,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:22.501Z",
+      "scanned_at": "2025-09-28T20:23:40.194Z",
       "source": "jikan"
     },
     {
@@ -1919,7 +1919,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:22.551Z",
+      "scanned_at": "2025-09-28T20:23:40.244Z",
       "source": "jikan"
     },
     {
@@ -1941,7 +1941,7 @@
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
       "popularity": 4355,
-      "members": 31745,
+      "members": 31772,
       "favorites": 98,
       "broadcast": {
         "day": null,
@@ -1949,7 +1949,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-09-28T16:25:22.601Z",
+      "scanned_at": "2025-09-28T20:23:40.294Z",
       "source": "jikan"
     },
     {
@@ -1979,7 +1979,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-09-28T16:25:22.651Z",
+      "scanned_at": "2025-09-28T20:23:40.345Z",
       "source": "jikan"
     },
     {
@@ -2009,7 +2009,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Mondays at 23:30 (JST)"
       },
-      "scanned_at": "2025-09-28T16:25:22.701Z",
+      "scanned_at": "2025-09-28T20:23:40.395Z",
       "source": "jikan"
     },
     {
@@ -2039,7 +2039,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:22.751Z",
+      "scanned_at": "2025-09-28T20:23:40.445Z",
       "source": "jikan"
     },
     {
@@ -2069,7 +2069,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Tuesdays at 01:30 (JST)"
       },
-      "scanned_at": "2025-09-28T16:25:22.802Z",
+      "scanned_at": "2025-09-28T20:23:40.496Z",
       "source": "jikan"
     },
     {
@@ -2099,7 +2099,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:22.852Z",
+      "scanned_at": "2025-09-28T20:23:40.546Z",
       "source": "jikan"
     },
     {
@@ -2129,7 +2129,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:22.902Z",
+      "scanned_at": "2025-09-28T20:23:40.596Z",
       "source": "jikan"
     },
     {
@@ -2159,7 +2159,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-09-28T16:25:22.952Z",
+      "scanned_at": "2025-09-28T20:23:40.646Z",
       "source": "jikan"
     },
     {
@@ -2189,7 +2189,37 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-09-28T16:25:23.002Z",
+      "scanned_at": "2025-09-28T20:23:40.698Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "60168",
+      "title": "Watashi wo Tabetai, Hitodenashi",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": "fall",
+      "year": 2025,
+      "score": null,
+      "poster": "https://cdn.myanimelist.net/images/anime/1113/151406l.webp",
+      "synopsis": "\"I've come to eat you,\" so softly utters the mermaid Shiori as she emerges from the sea and takes high school girl Hinako by the hand. Hinako lives alone in a town by the sea and possesses an unusually delicious body that is irresistible to nearby monsters. To ensure that she matures to the best condition, Shiori seeks to protect Hinako—all so that someday, she can devour every piece of her. What will become of Hinako's feelings as this looming unjust death closes in on her...?\n\n(Source: Yen Press)",
+      "session": null,
+      "slug": null,
+      "aired_from": "2025-10-02T00:00:00+00:00",
+      "aired_string": "Oct 2, 2025 to ?",
+      "duration": "Unknown",
+      "rating": null,
+      "popularity": 4571,
+      "members": 28621,
+      "favorites": 117,
+      "broadcast": {
+        "day": "Thursdays",
+        "time": "22:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Thursdays at 22:30 (JST)"
+      },
+      "scanned_at": "2025-09-28T20:23:40.748Z",
       "source": "jikan"
     },
     {
@@ -2219,37 +2249,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-09-28T16:25:23.053Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "60525",
-      "title": "Nozomanu Fushi no Boukensha 2nd Season",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": null,
-      "year": null,
-      "score": null,
-      "poster": "https://cdn.myanimelist.net/images/anime/1569/146966l.webp",
-      "synopsis": "Second season of Nozomanu Fushi no Boukensha.",
-      "session": null,
-      "slug": null,
-      "aired_from": null,
-      "aired_string": "Not available",
-      "duration": "Unknown",
-      "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4607,
-      "members": 28167,
-      "favorites": 53,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": "Unknown"
-      },
-      "scanned_at": "2025-09-28T16:25:23.103Z",
+      "scanned_at": "2025-09-28T20:23:40.798Z",
       "source": "jikan"
     }
   ]

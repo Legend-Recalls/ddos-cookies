@@ -1,5 +1,5 @@
 {
-  "timestamp": 1759595176620,
+  "timestamp": 1759609424587,
   "total": 75,
   "data": [
     {
@@ -29,7 +29,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Sundays at 23:45 (JST)"
       },
-      "scanned_at": "2025-10-04T16:26:11.698Z",
+      "scanned_at": "2025-10-04T20:23:39.631Z",
       "source": "jikan"
     },
     {
@@ -59,37 +59,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Fridays at 23:00 (JST)"
       },
-      "scanned_at": "2025-10-04T16:26:11.748Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "59027",
-      "title": "Spy x Family Season 3",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": "fall",
-      "year": 2025,
-      "score": null,
-      "poster": "https://cdn.myanimelist.net/images/anime/1697/151793l.webp",
-      "synopsis": "Third season of Spy x Family.",
-      "session": null,
-      "slug": null,
-      "aired_from": "2025-10-04T00:00:00+00:00",
-      "aired_string": "Oct 4, 2025 to ?",
-      "duration": "Unknown",
-      "rating": "PG-13 - Teens 13 or older",
-      "popularity": 1433,
-      "members": 185722,
-      "favorites": 1024,
-      "broadcast": {
-        "day": "Saturdays",
-        "time": "23:00",
-        "timezone": "Asia/Tokyo",
-        "string": "Saturdays at 23:00 (JST)"
-      },
-      "scanned_at": "2025-10-04T16:26:11.798Z",
+      "scanned_at": "2025-10-04T20:23:39.681Z",
       "source": "jikan"
     },
     {
@@ -119,7 +89,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:11.849Z",
+      "scanned_at": "2025-10-04T20:23:39.732Z",
       "source": "jikan"
     },
     {
@@ -149,7 +119,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:11.899Z",
+      "scanned_at": "2025-10-04T20:23:39.782Z",
       "source": "jikan"
     },
     {
@@ -179,7 +149,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:11.949Z",
+      "scanned_at": "2025-10-04T20:23:39.832Z",
       "source": "jikan"
     },
     {
@@ -209,37 +179,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:12.000Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "60098",
-      "title": "Boku no Hero Academia: Final Season",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": "fall",
-      "year": 2025,
-      "score": null,
-      "poster": "https://cdn.myanimelist.net/images/anime/1959/151055l.webp",
-      "synopsis": "Final season of Boku no Hero Academia.",
-      "session": null,
-      "slug": null,
-      "aired_from": "2025-10-04T00:00:00+00:00",
-      "aired_string": "Oct 4, 2025 to ?",
-      "duration": "Unknown",
-      "rating": "PG-13 - Teens 13 or older",
-      "popularity": 1937,
-      "members": 128961,
-      "favorites": 458,
-      "broadcast": {
-        "day": "Saturdays",
-        "time": "17:30",
-        "timezone": "Asia/Tokyo",
-        "string": "Saturdays at 17:30 (JST)"
-      },
-      "scanned_at": "2025-10-04T16:26:12.050Z",
+      "scanned_at": "2025-10-04T20:23:39.882Z",
       "source": "jikan"
     },
     {
@@ -269,7 +209,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:12.100Z",
+      "scanned_at": "2025-10-04T20:23:39.933Z",
       "source": "jikan"
     },
     {
@@ -299,7 +239,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Saturdays at 23:45 (JST)"
       },
-      "scanned_at": "2025-10-04T16:26:12.151Z",
+      "scanned_at": "2025-10-04T20:23:39.983Z",
       "source": "jikan"
     },
     {
@@ -329,7 +269,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-10-04T16:26:12.201Z",
+      "scanned_at": "2025-10-04T20:23:40.034Z",
       "source": "jikan"
     },
     {
@@ -359,7 +299,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:12.251Z",
+      "scanned_at": "2025-10-04T20:23:40.084Z",
       "source": "jikan"
     },
     {
@@ -389,7 +329,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:12.302Z",
+      "scanned_at": "2025-10-04T20:23:40.134Z",
       "source": "jikan"
     },
     {
@@ -419,7 +359,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:12.352Z",
+      "scanned_at": "2025-10-04T20:23:40.184Z",
       "source": "jikan"
     },
     {
@@ -449,7 +389,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:12.402Z",
+      "scanned_at": "2025-10-04T20:23:40.235Z",
       "source": "jikan"
     },
     {
@@ -479,7 +419,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:12.452Z",
+      "scanned_at": "2025-10-04T20:23:40.285Z",
       "source": "jikan"
     },
     {
@@ -509,7 +449,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:12.503Z",
+      "scanned_at": "2025-10-04T20:23:40.335Z",
       "source": "jikan"
     },
     {
@@ -539,7 +479,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:12.553Z",
+      "scanned_at": "2025-10-04T20:23:40.386Z",
       "source": "jikan"
     },
     {
@@ -561,7 +501,7 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "popularity": 2737,
-      "members": 76314,
+      "members": 76334,
       "favorites": 416,
       "broadcast": {
         "day": null,
@@ -569,7 +509,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:12.603Z",
+      "scanned_at": "2025-10-04T20:23:40.437Z",
       "source": "jikan"
     },
     {
@@ -599,7 +539,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-10-04T16:26:12.653Z",
+      "scanned_at": "2025-10-04T20:23:40.487Z",
       "source": "jikan"
     },
     {
@@ -629,7 +569,37 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:12.704Z",
+      "scanned_at": "2025-10-04T20:23:40.537Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "55830",
+      "title": "Fate/strange Fake",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": "winter",
+      "year": 2026,
+      "score": null,
+      "poster": "https://cdn.myanimelist.net/images/anime/1752/150192l.webp",
+      "synopsis": "Fate/strange Fake centers around an imperfect copy of a Grail War based on the Third Holy Grail War in Fuyuki. Following the conclusion of the third Grail War, a US-based organization with magi distinct from the London-based Mage Association, used data from Fuyuki's Grail War to plan their own ritual. Seventy years later, they used the city of Snowfield as the Sacred Land for their own Grail War. However, they were unable to successfully replicate every aspect of the ritual, resulting in it acting only as an imitation that has lost the Saber class and allowed for the summoning of strange Servants due to the blurring of the definition of a \"hero.\"\n\nRohngall and his pupil, Faldeus, have been dispatched by the Mage's Association to investigate the city and the state of the war. Faldeus, a US organization spy, has Rohngall sniped upon his arrival, despite knowing that Rohngall is a puppet. He declares that their Holy Grail War has been in development and is real, causing a commotion at the Clock Tower, and that he wishes to \"advertise\" the project to the Association.\n\n(Source: MAL News)",
+      "session": null,
+      "slug": null,
+      "aired_from": "2026-01-03T00:00:00+00:00",
+      "aired_string": "Jan 3, 2026 to ?",
+      "duration": "24 min",
+      "rating": "R - 17+ (violence & profanity)",
+      "popularity": 2853,
+      "members": 70982,
+      "favorites": 268,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Saturdays at Unknown"
+      },
+      "scanned_at": "2025-10-04T20:23:40.588Z",
       "source": "jikan"
     },
     {
@@ -659,37 +629,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:12.754Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "55830",
-      "title": "Fate/strange Fake",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": "winter",
-      "year": 2026,
-      "score": null,
-      "poster": "https://cdn.myanimelist.net/images/anime/1752/150192l.webp",
-      "synopsis": "Fate/strange Fake centers around an imperfect copy of a Grail War based on the Third Holy Grail War in Fuyuki. Following the conclusion of the third Grail War, a US-based organization with magi distinct from the London-based Mage Association, used data from Fuyuki's Grail War to plan their own ritual. Seventy years later, they used the city of Snowfield as the Sacred Land for their own Grail War. However, they were unable to successfully replicate every aspect of the ritual, resulting in it acting only as an imitation that has lost the Saber class and allowed for the summoning of strange Servants due to the blurring of the definition of a \"hero.\"\n\nRohngall and his pupil, Faldeus, have been dispatched by the Mage's Association to investigate the city and the state of the war. Faldeus, a US organization spy, has Rohngall sniped upon his arrival, despite knowing that Rohngall is a puppet. He declares that their Holy Grail War has been in development and is real, causing a commotion at the Clock Tower, and that he wishes to \"advertise\" the project to the Association.\n\n(Source: MAL News)",
-      "session": null,
-      "slug": null,
-      "aired_from": "2026-01-03T00:00:00+00:00",
-      "aired_string": "Jan 3, 2026 to ?",
-      "duration": "24 min",
-      "rating": "R - 17+ (violence & profanity)",
-      "popularity": 2854,
-      "members": 70896,
-      "favorites": 268,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": "Saturdays at Unknown"
-      },
-      "scanned_at": "2025-10-04T16:26:12.804Z",
+      "scanned_at": "2025-10-04T20:23:40.638Z",
       "source": "jikan"
     },
     {
@@ -719,7 +659,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-10-04T16:26:12.854Z",
+      "scanned_at": "2025-10-04T20:23:40.688Z",
       "source": "jikan"
     },
     {
@@ -749,7 +689,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:12.905Z",
+      "scanned_at": "2025-10-04T20:23:40.738Z",
       "source": "jikan"
     },
     {
@@ -779,7 +719,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Sundays at 01:30 (JST)"
       },
-      "scanned_at": "2025-10-04T16:26:13.405Z",
+      "scanned_at": "2025-10-04T20:23:40.789Z",
       "source": "jikan"
     },
     {
@@ -809,7 +749,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:13.455Z",
+      "scanned_at": "2025-10-04T20:23:40.839Z",
       "source": "jikan"
     },
     {
@@ -839,7 +779,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:13.506Z",
+      "scanned_at": "2025-10-04T20:23:41.386Z",
       "source": "jikan"
     },
     {
@@ -869,7 +809,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:13.556Z",
+      "scanned_at": "2025-10-04T20:23:41.437Z",
       "source": "jikan"
     },
     {
@@ -890,16 +830,16 @@
       "aired_string": "Oct 8, 2025 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3200,
-      "members": 57255,
-      "favorites": 206,
+      "popularity": 3186,
+      "members": 57884,
+      "favorites": 208,
       "broadcast": {
         "day": "Wednesdays",
         "time": "00:00",
         "timezone": "Asia/Tokyo",
         "string": "Wednesdays at 00:00 (JST)"
       },
-      "scanned_at": "2025-10-04T16:26:13.606Z",
+      "scanned_at": "2025-10-04T20:23:41.487Z",
       "source": "jikan"
     },
     {
@@ -929,7 +869,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-10-04T16:26:13.656Z",
+      "scanned_at": "2025-10-04T20:23:41.537Z",
       "source": "jikan"
     },
     {
@@ -951,7 +891,7 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "popularity": 3262,
-      "members": 55310,
+      "members": 55335,
       "favorites": 337,
       "broadcast": {
         "day": null,
@@ -959,7 +899,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:13.707Z",
+      "scanned_at": "2025-10-04T20:23:41.587Z",
       "source": "jikan"
     },
     {
@@ -981,7 +921,7 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "popularity": 3303,
-      "members": 54203,
+      "members": 54252,
       "favorites": 164,
       "broadcast": {
         "day": null,
@@ -989,7 +929,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:13.757Z",
+      "scanned_at": "2025-10-04T20:23:41.638Z",
       "source": "jikan"
     },
     {
@@ -1019,7 +959,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-10-04T16:26:13.807Z",
+      "scanned_at": "2025-10-04T20:23:41.688Z",
       "source": "jikan"
     },
     {
@@ -1041,15 +981,15 @@
       "duration": "Unknown",
       "rating": null,
       "popularity": 3473,
-      "members": 49526,
-      "favorites": 317,
+      "members": 49560,
+      "favorites": 316,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:13.857Z",
+      "scanned_at": "2025-10-04T20:23:41.738Z",
       "source": "jikan"
     },
     {
@@ -1079,7 +1019,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:13.907Z",
+      "scanned_at": "2025-10-04T20:23:41.788Z",
       "source": "jikan"
     },
     {
@@ -1100,8 +1040,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3541,
-      "members": 47816,
+      "popularity": 3537,
+      "members": 47910,
       "favorites": 88,
       "broadcast": {
         "day": null,
@@ -1109,7 +1049,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-10-04T16:26:13.957Z",
+      "scanned_at": "2025-10-04T20:23:41.838Z",
       "source": "jikan"
     },
     {
@@ -1139,7 +1079,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:14.008Z",
+      "scanned_at": "2025-10-04T20:23:41.889Z",
       "source": "jikan"
     },
     {
@@ -1169,7 +1109,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-10-04T16:26:14.058Z",
+      "scanned_at": "2025-10-04T20:23:41.939Z",
       "source": "jikan"
     },
     {
@@ -1199,7 +1139,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-10-04T16:26:14.108Z",
+      "scanned_at": "2025-10-04T20:23:41.989Z",
       "source": "jikan"
     },
     {
@@ -1229,7 +1169,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:14.158Z",
+      "scanned_at": "2025-10-04T20:23:42.039Z",
       "source": "jikan"
     },
     {
@@ -1259,7 +1199,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-10-04T16:26:14.208Z",
+      "scanned_at": "2025-10-04T20:23:42.089Z",
       "source": "jikan"
     },
     {
@@ -1289,7 +1229,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:14.259Z",
+      "scanned_at": "2025-10-04T20:23:42.140Z",
       "source": "jikan"
     },
     {
@@ -1319,7 +1259,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:14.309Z",
+      "scanned_at": "2025-10-04T20:23:42.190Z",
       "source": "jikan"
     },
     {
@@ -1349,7 +1289,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-10-04T16:26:14.359Z",
+      "scanned_at": "2025-10-04T20:23:42.240Z",
       "source": "jikan"
     },
     {
@@ -1379,7 +1319,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:14.409Z",
+      "scanned_at": "2025-10-04T20:23:42.290Z",
       "source": "jikan"
     },
     {
@@ -1409,7 +1349,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:14.460Z",
+      "scanned_at": "2025-10-04T20:23:42.340Z",
       "source": "jikan"
     },
     {
@@ -1439,7 +1379,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:14.510Z",
+      "scanned_at": "2025-10-04T20:23:42.391Z",
       "source": "jikan"
     },
     {
@@ -1469,7 +1409,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-10-04T16:26:14.611Z",
+      "scanned_at": "2025-10-04T20:23:42.491Z",
       "source": "jikan"
     },
     {
@@ -1499,7 +1439,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:14.560Z",
+      "scanned_at": "2025-10-04T20:23:42.441Z",
       "source": "jikan"
     },
     {
@@ -1529,7 +1469,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:15.165Z",
+      "scanned_at": "2025-10-04T20:23:42.541Z",
       "source": "jikan"
     },
     {
@@ -1550,16 +1490,16 @@
       "aired_string": "Feb 27, 2026",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4035,
-      "members": 37632,
-      "favorites": 79,
+      "popularity": 4034,
+      "members": 37667,
+      "favorites": 81,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-10-04T16:26:15.215Z",
+      "scanned_at": "2025-10-04T20:23:42.591Z",
       "source": "jikan"
     },
     {
@@ -1589,7 +1529,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Sundays at 00:55 (JST)"
       },
-      "scanned_at": "2025-10-04T16:26:15.265Z",
+      "scanned_at": "2025-10-04T20:23:43.128Z",
       "source": "jikan"
     },
     {
@@ -1619,7 +1559,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-10-04T16:26:15.315Z",
+      "scanned_at": "2025-10-04T20:23:43.178Z",
       "source": "jikan"
     },
     {
@@ -1649,7 +1589,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:15.365Z",
+      "scanned_at": "2025-10-04T20:23:43.228Z",
       "source": "jikan"
     },
     {
@@ -1679,7 +1619,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-10-04T16:26:15.416Z",
+      "scanned_at": "2025-10-04T20:23:43.279Z",
       "source": "jikan"
     },
     {
@@ -1709,7 +1649,37 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:15.466Z",
+      "scanned_at": "2025-10-04T20:23:43.379Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "61026",
+      "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": "fall",
+      "year": 2025,
+      "score": null,
+      "poster": "https://cdn.myanimelist.net/images/anime/1276/151118l.webp",
+      "synopsis": "Oda Akira is the kind of guy who people forget is even there. His unassuming nature pays off, though, when his entire class is swept away to a fantasy world, and he slips easily into his new role as a silent assassin. Between his suspiciously high starting stats and too many details that don't fit, Akira is sure something is wrong. But digging into royal secrets is a dangerous game, and when Akira uncovers an evil scheme, he also makes a powerful enemy—the very king who brought him to this world! With the help of the elven spirit medium Amelia, can he find the power to set things right, and get his revenge?\n\n(Source: Seven Seas Entertainment)",
+      "session": null,
+      "slug": null,
+      "aired_from": "2025-10-07T00:00:00+00:00",
+      "aired_string": "Oct 7, 2025 to ?",
+      "duration": "Unknown",
+      "rating": null,
+      "popularity": 4216,
+      "members": 34355,
+      "favorites": 121,
+      "broadcast": {
+        "day": "Tuesdays",
+        "time": "01:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Tuesdays at 01:30 (JST)"
+      },
+      "scanned_at": "2025-10-04T20:23:43.329Z",
       "source": "jikan"
     },
     {
@@ -1739,7 +1709,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:15.516Z",
+      "scanned_at": "2025-10-04T20:23:43.430Z",
       "source": "jikan"
     },
     {
@@ -1769,37 +1739,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-10-04T16:26:15.566Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "61026",
-      "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": "fall",
-      "year": 2025,
-      "score": null,
-      "poster": "https://cdn.myanimelist.net/images/anime/1276/151118l.webp",
-      "synopsis": "Oda Akira is the kind of guy who people forget is even there. His unassuming nature pays off, though, when his entire class is swept away to a fantasy world, and he slips easily into his new role as a silent assassin. Between his suspiciously high starting stats and too many details that don't fit, Akira is sure something is wrong. But digging into royal secrets is a dangerous game, and when Akira uncovers an evil scheme, he also makes a powerful enemy—the very king who brought him to this world! With the help of the elven spirit medium Amelia, can he find the power to set things right, and get his revenge?\n\n(Source: Seven Seas Entertainment)",
-      "session": null,
-      "slug": null,
-      "aired_from": "2025-10-07T00:00:00+00:00",
-      "aired_string": "Oct 7, 2025 to ?",
-      "duration": "Unknown",
-      "rating": null,
-      "popularity": 4263,
-      "members": 33631,
-      "favorites": 121,
-      "broadcast": {
-        "day": "Tuesdays",
-        "time": "01:30",
-        "timezone": "Asia/Tokyo",
-        "string": "Tuesdays at 01:30 (JST)"
-      },
-      "scanned_at": "2025-10-04T16:26:15.617Z",
+      "scanned_at": "2025-10-04T20:23:43.480Z",
       "source": "jikan"
     },
     {
@@ -1820,16 +1760,16 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4278,
-      "members": 33343,
-      "favorites": 210,
+      "popularity": 4279,
+      "members": 33357,
+      "favorites": 209,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-10-04T16:26:15.667Z",
+      "scanned_at": "2025-10-04T20:23:43.530Z",
       "source": "jikan"
     },
     {
@@ -1859,7 +1799,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:15.717Z",
+      "scanned_at": "2025-10-04T20:23:43.580Z",
       "source": "jikan"
     },
     {
@@ -1889,7 +1829,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Mondays at 23:30 (JST)"
       },
-      "scanned_at": "2025-10-04T16:26:15.767Z",
+      "scanned_at": "2025-10-04T20:23:43.631Z",
       "source": "jikan"
     },
     {
@@ -1919,7 +1859,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:15.817Z",
+      "scanned_at": "2025-10-04T20:23:43.682Z",
       "source": "jikan"
     },
     {
@@ -1949,7 +1889,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:15.868Z",
+      "scanned_at": "2025-10-04T20:23:43.733Z",
       "source": "jikan"
     },
     {
@@ -1979,7 +1919,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:15.918Z",
+      "scanned_at": "2025-10-04T20:23:43.783Z",
       "source": "jikan"
     },
     {
@@ -2009,7 +1949,67 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-10-04T16:26:15.968Z",
+      "scanned_at": "2025-10-04T20:23:43.833Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "62568",
+      "title": "Dr. Stone: Science Future Part 3",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": null,
+      "year": null,
+      "score": null,
+      "poster": "https://cdn.myanimelist.net/images/anime/1309/152238l.webp",
+      "synopsis": "Third part of Dr. Stone: Science Future.",
+      "session": null,
+      "slug": null,
+      "aired_from": "2026-01-01T00:00:00+00:00",
+      "aired_string": "2026 to ?",
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "popularity": 4397,
+      "members": 31145,
+      "favorites": 49,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "scanned_at": "2025-10-04T20:23:43.884Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "62568",
+      "title": "Dr. Stone: Science Future Part 3",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": null,
+      "year": null,
+      "score": null,
+      "poster": "https://cdn.myanimelist.net/images/anime/1309/152238l.webp",
+      "synopsis": "Third part of Dr. Stone: Science Future.",
+      "session": null,
+      "slug": null,
+      "aired_from": "2026-01-01T00:00:00+00:00",
+      "aired_string": "2026 to ?",
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "popularity": 4397,
+      "members": 31145,
+      "favorites": 49,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "scanned_at": "2025-10-04T20:23:43.934Z",
       "source": "jikan"
     },
     {
@@ -2039,67 +2039,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:16.018Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "62568",
-      "title": "Dr. Stone: Science Future Part 3",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": null,
-      "year": null,
-      "score": null,
-      "poster": "https://cdn.myanimelist.net/images/anime/1309/152238l.webp",
-      "synopsis": "Third part of Dr. Stone: Science Future.",
-      "session": null,
-      "slug": null,
-      "aired_from": "2026-01-01T00:00:00+00:00",
-      "aired_string": "2026 to ?",
-      "duration": "Unknown",
-      "rating": null,
-      "popularity": 4441,
-      "members": 30508,
-      "favorites": 49,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": "Unknown"
-      },
-      "scanned_at": "2025-10-04T16:26:16.068Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "62568",
-      "title": "Dr. Stone: Science Future Part 3",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": null,
-      "year": null,
-      "score": null,
-      "poster": "https://cdn.myanimelist.net/images/anime/1309/152238l.webp",
-      "synopsis": "Third part of Dr. Stone: Science Future.",
-      "session": null,
-      "slug": null,
-      "aired_from": "2026-01-01T00:00:00+00:00",
-      "aired_string": "2026 to ?",
-      "duration": "Unknown",
-      "rating": null,
-      "popularity": 4441,
-      "members": 30508,
-      "favorites": 49,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": "Unknown"
-      },
-      "scanned_at": "2025-10-04T16:26:16.119Z",
+      "scanned_at": "2025-10-04T20:23:43.984Z",
       "source": "jikan"
     },
     {
@@ -2129,7 +2069,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:16.169Z",
+      "scanned_at": "2025-10-04T20:23:44.034Z",
       "source": "jikan"
     },
     {
@@ -2150,8 +2090,8 @@
       "aired_string": "2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4527,
-      "members": 29345,
+      "popularity": 4530,
+      "members": 29383,
       "favorites": 68,
       "broadcast": {
         "day": null,
@@ -2159,7 +2099,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:16.219Z",
+      "scanned_at": "2025-10-04T20:23:44.085Z",
       "source": "jikan"
     },
     {
@@ -2189,7 +2129,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-10-04T16:26:16.269Z",
+      "scanned_at": "2025-10-04T20:23:44.135Z",
       "source": "jikan"
     },
     {
@@ -2219,7 +2159,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-10-04T16:26:16.319Z",
+      "scanned_at": "2025-10-04T20:23:44.185Z",
       "source": "jikan"
     },
     {
@@ -2249,7 +2189,67 @@
         "timezone": "Asia/Tokyo",
         "string": "Tuesdays at 00:00 (JST)"
       },
-      "scanned_at": "2025-10-04T16:26:16.370Z",
+      "scanned_at": "2025-10-04T20:23:44.236Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "61942",
+      "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": "winter",
+      "year": 2026,
+      "score": null,
+      "poster": "https://cdn.myanimelist.net/images/anime/1183/150817l.webp",
+      "synopsis": "Second season of Vigilante: Boku no Hero Academia Illegals.",
+      "session": null,
+      "slug": null,
+      "aired_from": "2026-01-01T00:00:00+00:00",
+      "aired_string": "Jan 2026 to ?",
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "popularity": 4555,
+      "members": 28937,
+      "favorites": 27,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "scanned_at": "2025-10-04T20:23:44.286Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "56008",
+      "title": "Sabikui Bisco Season 2",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": null,
+      "year": null,
+      "score": null,
+      "poster": "https://cdn.myanimelist.net/images/anime/1345/137192l.webp",
+      "synopsis": "Second season of Sabikui Bisco.",
+      "session": null,
+      "slug": null,
+      "aired_from": null,
+      "aired_string": "Not available",
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "popularity": 4574,
+      "members": 28708,
+      "favorites": 59,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "scanned_at": "2025-10-04T20:23:44.336Z",
       "source": "jikan"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "timestamp": 1759955151458,
+  "timestamp": 1759974327157,
   "total": 75,
   "data": [
     {
@@ -22,7 +22,7 @@
       "popularity": 381,
       "favorites": 2786,
       "scored_by": 374978,
-      "scanned_at": "2025-10-08T20:25:36.082Z",
+      "scanned_at": "2025-10-09T01:45:11.158Z",
       "source": "animepahe"
     },
     {
@@ -45,7 +45,7 @@
       "popularity": 1516,
       "favorites": 4548,
       "scored_by": 82794,
-      "scanned_at": "2025-10-08T20:25:20.918Z",
+      "scanned_at": "2025-10-09T01:44:55.252Z",
       "source": "animepahe"
     },
     {
@@ -68,7 +68,7 @@
       "popularity": 19,
       "favorites": 93744,
       "scored_by": 1741103,
-      "scanned_at": "2025-10-08T20:25:21.635Z",
+      "scanned_at": "2025-10-09T01:44:55.985Z",
       "source": "animepahe"
     },
     {
@@ -91,7 +91,7 @@
       "popularity": 1053,
       "favorites": 2143,
       "scored_by": 142382,
-      "scanned_at": "2025-10-08T20:25:21.887Z",
+      "scanned_at": "2025-10-09T01:44:56.245Z",
       "source": "animepahe"
     },
     {
@@ -114,7 +114,7 @@
       "popularity": 1525,
       "favorites": 628,
       "scored_by": 100423,
-      "scanned_at": "2025-10-08T20:25:33.706Z",
+      "scanned_at": "2025-10-09T01:45:08.670Z",
       "source": "animepahe"
     },
     {
@@ -137,7 +137,7 @@
       "popularity": 3056,
       "favorites": 467,
       "scored_by": 24857,
-      "scanned_at": "2025-10-08T20:25:22.593Z",
+      "scanned_at": "2025-10-09T01:44:56.976Z",
       "source": "animepahe"
     },
     {
@@ -158,9 +158,9 @@
       "rating": "PG-13 - Teens 13 or older",
       "rank": 31,
       "popularity": 11,
-      "favorites": 94266,
-      "scored_by": 2029757,
-      "scanned_at": "2025-10-08T20:25:23.048Z",
+      "favorites": 94274,
+      "scored_by": 2029949,
+      "scanned_at": "2025-10-09T01:44:57.446Z",
       "source": "animepahe"
     },
     {
@@ -183,7 +183,7 @@
       "popularity": 499,
       "favorites": 7994,
       "scored_by": 290543,
-      "scanned_at": "2025-10-08T20:25:23.504Z",
+      "scanned_at": "2025-10-09T01:44:57.917Z",
       "source": "animepahe"
     },
     {
@@ -206,7 +206,7 @@
       "popularity": 44,
       "favorites": 34600,
       "scored_by": 1380919,
-      "scanned_at": "2025-10-08T20:25:23.960Z",
+      "scanned_at": "2025-10-09T01:44:58.386Z",
       "source": "animepahe"
     },
     {
@@ -229,30 +229,7 @@
       "popularity": 648,
       "favorites": 1744,
       "scored_by": 227557,
-      "scanned_at": "2025-10-08T20:25:41.472Z",
-      "source": "animepahe"
-    },
-    {
-      "id": 6211,
-      "malid": "59192",
-      "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle",
-      "type": "Movie",
-      "episodes": 1,
-      "status": "Finished Airing",
-      "season": "Summer",
-      "year": 2025,
-      "score": 8.74,
-      "poster": "https://i.animepahe.si/uploads/posters/08f262e7aa63e9e31708e190780793aa0b8c5193ab80bab4eeaf046679773350.jpg",
-      "synopsis": "First anime movie of the trilogy adaptation of the Infinity Castle Arc.",
-      "session": "b45d57c5-32f8-2eed-4440-319137d71e9a",
-      "slug": null,
-      "duration": "2 hr 35 min",
-      "rating": "R - 17+ (violence & profanity)",
-      "rank": 51,
-      "popularity": 1052,
-      "favorites": 2644,
-      "scored_by": 93767,
-      "scanned_at": "2025-10-08T20:25:24.411Z",
+      "scanned_at": "2025-10-09T01:45:16.796Z",
       "source": "animepahe"
     },
     {
@@ -272,10 +249,10 @@
       "duration": "1 hr 22 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "rank": 277,
-      "popularity": 2929,
+      "popularity": 2930,
       "favorites": 439,
-      "scored_by": 6415,
-      "scanned_at": "2025-10-08T20:25:45.208Z",
+      "scored_by": 6425,
+      "scanned_at": "2025-10-09T01:45:20.680Z",
       "source": "animepahe"
     },
     {
@@ -298,8 +275,31 @@
       "popularity": 762,
       "favorites": 2230,
       "scored_by": 194412,
-      "scanned_at": "2025-10-08T20:25:25.065Z",
+      "scanned_at": "2025-10-09T01:44:59.555Z",
       "source": "jikan"
+    },
+    {
+      "id": 6211,
+      "malid": "59192",
+      "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle",
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "season": "Summer",
+      "year": 2025,
+      "score": 8.73,
+      "poster": "https://i.animepahe.si/uploads/posters/08f262e7aa63e9e31708e190780793aa0b8c5193ab80bab4eeaf046679773350.jpg",
+      "synopsis": "First anime movie of the trilogy adaptation of the Infinity Castle Arc.",
+      "session": "b45d57c5-32f8-2eed-4440-319137d71e9a",
+      "slug": null,
+      "duration": "2 hr 35 min",
+      "rating": "R - 17+ (violence & profanity)",
+      "rank": 51,
+      "popularity": 1052,
+      "favorites": 2644,
+      "scored_by": 93767,
+      "scanned_at": "2025-10-09T01:44:58.854Z",
+      "source": "animepahe"
     },
     {
       "id": 5566,
@@ -321,7 +321,7 @@
       "popularity": 2878,
       "favorites": 994,
       "scored_by": 32297,
-      "scanned_at": "2025-10-08T20:25:25.315Z",
+      "scanned_at": "2025-10-09T01:44:59.817Z",
       "source": "animepahe"
     },
     {
@@ -344,7 +344,7 @@
       "popularity": 330,
       "favorites": 9475,
       "scored_by": 322351,
-      "scanned_at": "2025-10-08T20:25:22.139Z",
+      "scanned_at": "2025-10-09T01:44:56.506Z",
       "source": "animepahe"
     },
     {
@@ -367,7 +367,7 @@
       "popularity": 537,
       "favorites": 1696,
       "scored_by": 274048,
-      "scanned_at": "2025-10-08T20:25:37.494Z",
+      "scanned_at": "2025-10-09T01:45:12.633Z",
       "source": "animepahe"
     },
     {
@@ -390,7 +390,7 @@
       "popularity": 100,
       "favorites": 31112,
       "scored_by": 998746,
-      "scanned_at": "2025-10-08T20:25:25.766Z",
+      "scanned_at": "2025-10-09T01:45:00.285Z",
       "source": "animepahe"
     },
     {
@@ -411,9 +411,9 @@
       "rating": "R - 17+ (violence & profanity)",
       "rank": 82,
       "popularity": 670,
-      "favorites": 8377,
-      "scored_by": 212105,
-      "scanned_at": "2025-10-08T20:25:26.471Z",
+      "favorites": 8378,
+      "scored_by": 212149,
+      "scanned_at": "2025-10-09T01:45:01.010Z",
       "source": "animepahe"
     },
     {
@@ -436,7 +436,7 @@
       "popularity": 1164,
       "favorites": 1161,
       "scored_by": 109857,
-      "scanned_at": "2025-10-08T20:25:27.681Z",
+      "scanned_at": "2025-10-09T01:45:02.278Z",
       "source": "animepahe"
     },
     {
@@ -459,7 +459,7 @@
       "popularity": 1367,
       "favorites": 3879,
       "scored_by": 107937,
-      "scanned_at": "2025-10-08T20:25:26.722Z",
+      "scanned_at": "2025-10-09T01:45:01.277Z",
       "source": "animepahe"
     },
     {
@@ -480,9 +480,9 @@
       "rating": "R - 17+ (violence & profanity)",
       "rank": 104,
       "popularity": 473,
-      "favorites": 3893,
-      "scored_by": 292167,
-      "scanned_at": "2025-10-08T20:25:27.933Z",
+      "favorites": 3892,
+      "scored_by": 292219,
+      "scanned_at": "2025-10-09T01:45:02.539Z",
       "source": "animepahe"
     },
     {
@@ -505,7 +505,7 @@
       "popularity": 1640,
       "favorites": 287,
       "scored_by": 65960,
-      "scanned_at": "2025-10-08T20:25:39.868Z",
+      "scanned_at": "2025-10-09T01:45:15.114Z",
       "source": "animepahe"
     },
     {
@@ -525,10 +525,10 @@
       "duration": "1 hr 24 min",
       "rating": "PG-13 - Teens 13 or older",
       "rank": 100,
-      "popularity": 1325,
-      "favorites": 1619,
-      "scored_by": 90860,
-      "scanned_at": "2025-10-08T20:25:27.427Z",
+      "popularity": 1326,
+      "favorites": 1618,
+      "scored_by": 90924,
+      "scanned_at": "2025-10-09T01:45:02.017Z",
       "source": "animepahe"
     },
     {
@@ -547,11 +547,11 @@
       "slug": null,
       "duration": "1 hr 30 min",
       "rating": "PG-13 - Teens 13 or older",
-      "rank": 107,
+      "rank": 108,
       "popularity": 275,
-      "favorites": 10972,
-      "scored_by": 499616,
-      "scanned_at": "2025-10-08T20:25:28.388Z",
+      "favorites": 10975,
+      "scored_by": 499701,
+      "scanned_at": "2025-10-09T01:45:03.015Z",
       "source": "animepahe"
     },
     {
@@ -574,7 +574,7 @@
       "popularity": 375,
       "favorites": 14014,
       "scored_by": 324061,
-      "scanned_at": "2025-10-08T20:25:28.846Z",
+      "scanned_at": "2025-10-09T01:45:03.498Z",
       "source": "animepahe"
     },
     {
@@ -595,9 +595,9 @@
       "rating": "PG-13 - Teens 13 or older",
       "rank": 110,
       "popularity": 630,
-      "favorites": 8090,
-      "scored_by": 183638,
-      "scanned_at": "2025-10-08T20:25:29.324Z",
+      "favorites": 8092,
+      "scored_by": 183676,
+      "scanned_at": "2025-10-09T01:45:03.983Z",
       "source": "animepahe"
     },
     {
@@ -619,8 +619,8 @@
       "rank": 112,
       "popularity": 1828,
       "favorites": 234,
-      "scored_by": 54932,
-      "scanned_at": "2025-10-08T20:25:29.576Z",
+      "scored_by": 54935,
+      "scanned_at": "2025-10-09T01:45:04.246Z",
       "source": "animepahe"
     },
     {
@@ -643,7 +643,7 @@
       "popularity": 525,
       "favorites": 2437,
       "scored_by": 289147,
-      "scanned_at": "2025-10-08T20:25:30.029Z",
+      "scanned_at": "2025-10-09T01:45:04.718Z",
       "source": "animepahe"
     },
     {
@@ -664,9 +664,9 @@
       "rating": "PG-13 - Teens 13 or older",
       "rank": 118,
       "popularity": 245,
-      "favorites": 11757,
-      "scored_by": 478893,
-      "scanned_at": "2025-10-08T20:25:31.392Z",
+      "favorites": 11758,
+      "scored_by": 478924,
+      "scanned_at": "2025-10-09T01:45:06.184Z",
       "source": "animepahe"
     },
     {
@@ -689,7 +689,7 @@
       "popularity": 178,
       "favorites": 31349,
       "scored_by": 672817,
-      "scanned_at": "2025-10-08T20:25:31.846Z",
+      "scanned_at": "2025-10-09T01:45:06.669Z",
       "source": "animepahe"
     },
     {
@@ -712,7 +712,7 @@
       "popularity": 71,
       "favorites": 13463,
       "scored_by": 1137106,
-      "scanned_at": "2025-10-08T20:25:33.003Z",
+      "scanned_at": "2025-10-09T01:45:07.931Z",
       "source": "animepahe"
     },
     {
@@ -735,7 +735,7 @@
       "popularity": 161,
       "favorites": 22658,
       "scored_by": 641353,
-      "scanned_at": "2025-10-08T20:25:32.298Z",
+      "scanned_at": "2025-10-09T01:45:07.145Z",
       "source": "animepahe"
     },
     {
@@ -758,7 +758,7 @@
       "popularity": 280,
       "favorites": 21131,
       "scored_by": 422545,
-      "scanned_at": "2025-10-08T20:25:32.550Z",
+      "scanned_at": "2025-10-09T01:45:07.409Z",
       "source": "animepahe"
     },
     {
@@ -780,8 +780,8 @@
       "rank": 135,
       "popularity": 297,
       "favorites": 8904,
-      "scored_by": 443547,
-      "scanned_at": "2025-10-08T20:25:33.453Z",
+      "scored_by": 443620,
+      "scanned_at": "2025-10-09T01:45:08.406Z",
       "source": "animepahe"
     },
     {
@@ -804,7 +804,7 @@
       "popularity": 1080,
       "favorites": 4676,
       "scored_by": 137631,
-      "scanned_at": "2025-10-08T20:25:34.611Z",
+      "scanned_at": "2025-10-09T01:45:09.617Z",
       "source": "animepahe"
     },
     {
@@ -827,7 +827,7 @@
       "popularity": 636,
       "favorites": 9480,
       "scored_by": 242689,
-      "scanned_at": "2025-10-08T20:25:35.066Z",
+      "scanned_at": "2025-10-09T01:45:10.098Z",
       "source": "animepahe"
     },
     {
@@ -850,7 +850,7 @@
       "popularity": 606,
       "favorites": 3548,
       "scored_by": 250666,
-      "scanned_at": "2025-10-08T20:25:35.827Z",
+      "scanned_at": "2025-10-09T01:45:10.895Z",
       "source": "animepahe"
     },
     {
@@ -862,7 +862,7 @@
       "status": "Finished Airing",
       "season": "Fall",
       "year": 2024,
-      "score": 8.46,
+      "score": 8.47,
       "poster": "https://i.animepahe.si/posters/e517bd54e4bb525b67bc1b69485fef0441fa507e58f1a9d3257a1bd25afe7fce.jpg",
       "synopsis": "Second part of Given Movie: Hiiragi Mix.",
       "session": "5070eec6-17cc-d4db-f80f-12774e8017f4",
@@ -873,7 +873,7 @@
       "popularity": 4924,
       "favorites": 125,
       "scored_by": 6210,
-      "scanned_at": "2025-10-08T20:25:35.575Z",
+      "scanned_at": "2025-10-09T01:45:10.629Z",
       "source": "animepahe"
     },
     {
@@ -893,10 +893,10 @@
       "duration": "1 hr 41 min",
       "rating": "R - 17+ (violence & profanity)",
       "rank": 7,
-      "popularity": 1607,
-      "favorites": 1325,
-      "scored_by": 10732,
-      "scanned_at": "2025-10-08T20:25:21.181Z",
+      "popularity": 1606,
+      "favorites": 1348,
+      "scored_by": 11160,
+      "scanned_at": "2025-10-09T01:44:55.515Z",
       "source": "animepahe"
     },
     {
@@ -919,7 +919,7 @@
       "popularity": 3537,
       "favorites": 44,
       "scored_by": 18021,
-      "scanned_at": "2025-10-08T20:25:36.786Z",
+      "scanned_at": "2025-10-09T01:45:11.897Z",
       "source": "animepahe"
     },
     {
@@ -942,7 +942,7 @@
       "popularity": 2466,
       "favorites": 762,
       "scored_by": 40997,
-      "scanned_at": "2025-10-08T20:25:37.241Z",
+      "scanned_at": "2025-10-09T01:45:12.371Z",
       "source": "animepahe"
     },
     {
@@ -965,7 +965,7 @@
       "popularity": 2626,
       "favorites": 224,
       "scored_by": 29841,
-      "scanned_at": "2025-10-08T20:25:36.536Z",
+      "scanned_at": "2025-10-09T01:45:11.634Z",
       "source": "animepahe"
     },
     {
@@ -988,7 +988,7 @@
       "popularity": 106,
       "favorites": 23651,
       "scored_by": 867107,
-      "scanned_at": "2025-10-08T20:25:26.219Z",
+      "scanned_at": "2025-10-09T01:45:00.749Z",
       "source": "animepahe"
     },
     {
@@ -1011,7 +1011,7 @@
       "popularity": 1339,
       "favorites": 2735,
       "scored_by": 91843,
-      "scanned_at": "2025-10-08T20:25:37.948Z",
+      "scanned_at": "2025-10-09T01:45:13.110Z",
       "source": "animepahe"
     },
     {
@@ -1034,7 +1034,7 @@
       "popularity": 241,
       "favorites": 5006,
       "scored_by": 543650,
-      "scanned_at": "2025-10-08T20:25:38.405Z",
+      "scanned_at": "2025-10-09T01:45:13.589Z",
       "source": "animepahe"
     },
     {
@@ -1057,7 +1057,7 @@
       "popularity": 140,
       "favorites": 10911,
       "scored_by": 720981,
-      "scanned_at": "2025-10-08T20:25:39.364Z",
+      "scanned_at": "2025-10-09T01:45:14.583Z",
       "source": "animepahe"
     },
     {
@@ -1077,33 +1077,10 @@
       "duration": "2 hr 15 min",
       "rating": "G - All Ages",
       "rank": 216,
-      "popularity": 6014,
+      "popularity": 6015,
       "favorites": 226,
       "scored_by": 6921,
-      "scanned_at": "2025-10-08T20:25:39.112Z",
-      "source": "animepahe"
-    },
-    {
-      "id": 2890,
-      "malid": "35851",
-      "title": "Maquia: When the Promised Flower Blooms",
-      "type": "Movie",
-      "episodes": 1,
-      "status": "Finished Airing",
-      "season": "Winter",
-      "year": 2018,
-      "score": 8.39,
-      "poster": "https://i.animepahe.si/uploads/posters/987991c2b07611c744ee402b6d4e6b59897b0a18c03164de6ea65ee38aa08c68.jpg",
-      "synopsis": "Maquia is a member of a special race called the Iorph—mystical beings who can live for hundreds of years and remain separate from the lives and daily troubles of mankind. However, Maquia has always felt lonely despite being surrounded by her people, as she was orphaned from a young age. She daydreams about the outside world, but dares not travel from her home due to the warnings of the clan's chief.\n\nOne day however, the outside world finds her, as the power-hungry kingdom of Mezarte invades her homeland. They already have what is left of the giant dragons, the Renato, under their control, and now their king wishes to add the immortality of the Iorph to his bloodline.\n\nThe humans and their Renato ravage the Iorph homeland and kill most of its inhabitants. Caught in the midst of the attack, Maquia is carried off by one of the Renato that has gone berserk. It soon dies, and she is left deserted in a forest far from home, now truly alone save for the cries of a single baby off in the distance. Maquia finds the baby in a destroyed village and decides to raise him as her own, naming him Ariel. Although she knows nothing of the human world, how to raise a child that ages much faster than her, or how to live with the smoldering loneliness inside, she is determined to make it all work somehow.\n\n[Written by MAL Rewrite]",
-      "session": "ff02b545-a9a5-07ef-9df1-b69ea54c94d9",
-      "slug": null,
-      "duration": "1 hr 54 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "rank": 217,
-      "popularity": 523,
-      "favorites": 8263,
-      "scored_by": 209951,
-      "scanned_at": "2025-10-08T20:25:38.861Z",
+      "scanned_at": "2025-10-09T01:45:14.320Z",
       "source": "animepahe"
     },
     {
@@ -1126,7 +1103,30 @@
       "popularity": 3740,
       "favorites": 430,
       "scored_by": 15719,
-      "scanned_at": "2025-10-08T20:25:39.614Z",
+      "scanned_at": "2025-10-09T01:45:14.847Z",
+      "source": "animepahe"
+    },
+    {
+      "id": 2890,
+      "malid": "35851",
+      "title": "Maquia: When the Promised Flower Blooms",
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "season": "Winter",
+      "year": 2018,
+      "score": 8.39,
+      "poster": "https://i.animepahe.si/uploads/posters/987991c2b07611c744ee402b6d4e6b59897b0a18c03164de6ea65ee38aa08c68.jpg",
+      "synopsis": "Maquia is a member of a special race called the Iorph—mystical beings who can live for hundreds of years and remain separate from the lives and daily troubles of mankind. However, Maquia has always felt lonely despite being surrounded by her people, as she was orphaned from a young age. She daydreams about the outside world, but dares not travel from her home due to the warnings of the clan's chief.\n\nOne day however, the outside world finds her, as the power-hungry kingdom of Mezarte invades her homeland. They already have what is left of the giant dragons, the Renato, under their control, and now their king wishes to add the immortality of the Iorph to his bloodline.\n\nThe humans and their Renato ravage the Iorph homeland and kill most of its inhabitants. Caught in the midst of the attack, Maquia is carried off by one of the Renato that has gone berserk. It soon dies, and she is left deserted in a forest far from home, now truly alone save for the cries of a single baby off in the distance. Maquia finds the baby in a destroyed village and decides to raise him as her own, naming him Ariel. Although she knows nothing of the human world, how to raise a child that ages much faster than her, or how to live with the smoldering loneliness inside, she is determined to make it all work somehow.\n\n[Written by MAL Rewrite]",
+      "session": "ff02b545-a9a5-07ef-9df1-b69ea54c94d9",
+      "slug": null,
+      "duration": "1 hr 54 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "rank": 220,
+      "popularity": 523,
+      "favorites": 8264,
+      "scored_by": 209996,
+      "scanned_at": "2025-10-09T01:45:14.059Z",
       "source": "animepahe"
     },
     {
@@ -1149,7 +1149,7 @@
       "popularity": 2443,
       "favorites": 467,
       "scored_by": 33481,
-      "scanned_at": "2025-10-08T20:25:41.927Z",
+      "scanned_at": "2025-10-09T01:45:17.270Z",
       "source": "animepahe"
     },
     {
@@ -1172,7 +1172,7 @@
       "popularity": 495,
       "favorites": 6965,
       "scored_by": 259963,
-      "scanned_at": "2025-10-08T20:25:41.222Z",
+      "scanned_at": "2025-10-09T01:45:16.532Z",
       "source": "animepahe"
     },
     {
@@ -1195,7 +1195,30 @@
       "popularity": 1980,
       "favorites": 871,
       "scored_by": 47682,
-      "scanned_at": "2025-10-08T20:25:43.338Z",
+      "scanned_at": "2025-10-09T01:45:18.747Z",
+      "source": "animepahe"
+    },
+    {
+      "id": 5800,
+      "malid": "39167",
+      "title": "Girls & Panzer: Saishuushou Part 4",
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "season": "Fall",
+      "year": 2023,
+      "score": 8.37,
+      "poster": "https://i.animepahe.si/posters/c9a3224a583528980540e4a1589d99e930f285babd26371b70ba143c14f2cd86.jpg",
+      "synopsis": "The Winter Continuous Track Cup semifinals are underway and Ooarai Girls’ Academy find themselves in deep trouble early in their match against Continuation High School. The Anglerfish Team are knocked out by Continuation's sharpshooter, forcing the rest of the team to use a different game plan. Stepping up in the absence of her star teammates, Azusa Sawa shows her leadership potential by temporarily taking over as Ooarai's commander. However, the match proves that it will take more than a new strategy for Ooarai to survive this time around.\n\nOn the other side of the tournament, Kuromorimine Girls' Academy and St. Gloriana Girls' College are locked in a fiery desert battle. Having developed her own unorthodox tactical style, Erika Itsumi rallies Kuromorimine from the brink of defeat into a fierce showdown against their opponent's veteran commander, Darjeeling. But St. Gloriana have bolstered their ranks with a familiar face who recently transferred to their school, hampering Kuromorimine's quest for victory.\n\nThe championship round is within striking distance for these four schools, but only two will have what it takes to move on!\n\n[Written by MAL Rewrite]",
+      "session": "f56182ab-5af4-f18e-9d45-5e062be1312d",
+      "slug": null,
+      "duration": "54 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "rank": 236,
+      "popularity": 4945,
+      "favorites": 120,
+      "scored_by": 7859,
+      "scanned_at": "2025-10-09T01:45:17.536Z",
       "source": "animepahe"
     },
     {
@@ -1218,30 +1241,7 @@
       "popularity": 1249,
       "favorites": 2324,
       "scored_by": 117026,
-      "scanned_at": "2025-10-08T20:25:42.631Z",
-      "source": "animepahe"
-    },
-    {
-      "id": 5800,
-      "malid": "39167",
-      "title": "Girls & Panzer: Saishuushou Part 4",
-      "type": "Movie",
-      "episodes": 1,
-      "status": "Finished Airing",
-      "season": "Fall",
-      "year": 2023,
-      "score": 8.37,
-      "poster": "https://i.animepahe.si/posters/c9a3224a583528980540e4a1589d99e930f285babd26371b70ba143c14f2cd86.jpg",
-      "synopsis": "The Winter Continuous Track Cup semifinals are underway and Ooarai Girls’ Academy find themselves in deep trouble early in their match against Continuation High School. The Anglerfish Team are knocked out by Continuation's sharpshooter, forcing the rest of the team to use a different game plan. Stepping up in the absence of her star teammates, Azusa Sawa shows her leadership potential by temporarily taking over as Ooarai's commander. However, the match proves that it will take more than a new strategy for Ooarai to survive this time around.\n\nOn the other side of the tournament, Kuromorimine Girls' Academy and St. Gloriana Girls' College are locked in a fiery desert battle. Having developed her own unorthodox tactical style, Erika Itsumi rallies Kuromorimine from the brink of defeat into a fierce showdown against their opponent's veteran commander, Darjeeling. But St. Gloriana have bolstered their ranks with a familiar face who recently transferred to their school, hampering Kuromorimine's quest for victory.\n\nThe championship round is within striking distance for these four schools, but only two will have what it takes to move on!\n\n[Written by MAL Rewrite]",
-      "session": "f56182ab-5af4-f18e-9d45-5e062be1312d",
-      "slug": null,
-      "duration": "54 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "rank": 242,
-      "popularity": 4943,
-      "favorites": 119,
-      "scored_by": 7856,
-      "scanned_at": "2025-10-08T20:25:42.177Z",
+      "scanned_at": "2025-10-09T01:45:18.010Z",
       "source": "animepahe"
     },
     {
@@ -1264,7 +1264,7 @@
       "popularity": 1252,
       "favorites": 1097,
       "scored_by": 106213,
-      "scanned_at": "2025-10-08T20:25:43.086Z",
+      "scanned_at": "2025-10-09T01:45:18.488Z",
       "source": "animepahe"
     },
     {
@@ -1287,7 +1287,7 @@
       "popularity": 759,
       "favorites": 2959,
       "scored_by": 205447,
-      "scanned_at": "2025-10-08T20:25:43.790Z",
+      "scanned_at": "2025-10-09T01:45:19.219Z",
       "source": "animepahe"
     },
     {
@@ -1310,7 +1310,7 @@
       "popularity": 645,
       "favorites": 5863,
       "scored_by": 252520,
-      "scanned_at": "2025-10-08T20:25:44.701Z",
+      "scanned_at": "2025-10-09T01:45:20.158Z",
       "source": "animepahe"
     },
     {
@@ -1333,7 +1333,7 @@
       "popularity": 431,
       "favorites": 3880,
       "scored_by": 304882,
-      "scanned_at": "2025-10-08T20:25:44.243Z",
+      "scanned_at": "2025-10-09T01:45:19.689Z",
       "source": "animepahe"
     },
     {
@@ -1356,7 +1356,7 @@
       "popularity": 5600,
       "favorites": 118,
       "scored_by": 8681,
-      "scanned_at": "2025-10-08T20:25:44.956Z",
+      "scanned_at": "2025-10-09T01:45:20.419Z",
       "source": "animepahe"
     },
     {
@@ -1379,7 +1379,7 @@
       "popularity": 4838,
       "favorites": 144,
       "scored_by": 9465,
-      "scanned_at": "2025-10-08T20:25:45.661Z",
+      "scanned_at": "2025-10-09T01:45:21.156Z",
       "source": "animepahe"
     },
     {
@@ -1402,7 +1402,7 @@
       "popularity": 3239,
       "favorites": 380,
       "scored_by": 19738,
-      "scanned_at": "2025-10-08T20:25:46.574Z",
+      "scanned_at": "2025-10-09T01:45:22.103Z",
       "source": "animepahe"
     },
     {
@@ -1425,7 +1425,7 @@
       "popularity": 5223,
       "favorites": 176,
       "scored_by": 13527,
-      "scanned_at": "2025-10-08T20:25:47.531Z",
+      "scanned_at": "2025-10-09T01:45:23.096Z",
       "source": "jikan"
     },
     {
@@ -1448,7 +1448,7 @@
       "popularity": 5560,
       "favorites": 71,
       "scored_by": 7054,
-      "scanned_at": "2025-10-08T20:25:46.118Z",
+      "scanned_at": "2025-10-09T01:45:21.629Z",
       "source": "animepahe"
     },
     {
@@ -1471,7 +1471,7 @@
       "popularity": 4291,
       "favorites": 432,
       "scored_by": 11343,
-      "scanned_at": "2025-10-08T20:25:48.435Z",
+      "scanned_at": "2025-10-09T01:45:24.035Z",
       "source": "animepahe"
     },
     {
@@ -1494,7 +1494,7 @@
       "popularity": 1646,
       "favorites": 603,
       "scored_by": 63094,
-      "scanned_at": "2025-10-08T20:25:47.984Z",
+      "scanned_at": "2025-10-09T01:45:23.565Z",
       "source": "animepahe"
     },
     {
@@ -1516,8 +1516,8 @@
       "rank": 303,
       "popularity": 424,
       "favorites": 3554,
-      "scored_by": 356446,
-      "scanned_at": "2025-10-08T20:25:48.890Z",
+      "scored_by": 356492,
+      "scanned_at": "2025-10-09T01:45:24.512Z",
       "source": "animepahe"
     },
     {
@@ -1540,7 +1540,7 @@
       "popularity": 2585,
       "favorites": 283,
       "scored_by": 49979,
-      "scanned_at": "2025-10-08T20:25:49.391Z",
+      "scanned_at": "2025-10-09T01:45:25.036Z",
       "source": "animepahe"
     },
     {
@@ -1561,9 +1561,9 @@
       "rating": "R+ - Mild Nudity",
       "rank": 313,
       "popularity": 622,
-      "favorites": 6088,
-      "scored_by": 219811,
-      "scanned_at": "2025-10-08T20:25:49.139Z",
+      "favorites": 6087,
+      "scored_by": 219838,
+      "scanned_at": "2025-10-09T01:45:24.776Z",
       "source": "animepahe"
     },
     {
@@ -1586,7 +1586,7 @@
       "popularity": 850,
       "favorites": 2890,
       "scored_by": 159272,
-      "scanned_at": "2025-10-08T20:25:50.100Z",
+      "scanned_at": "2025-10-09T01:45:25.767Z",
       "source": "animepahe"
     },
     {
@@ -1609,7 +1609,7 @@
       "popularity": 4521,
       "favorites": 109,
       "scored_by": 14542,
-      "scanned_at": "2025-10-08T20:25:49.847Z",
+      "scanned_at": "2025-10-09T01:45:25.506Z",
       "source": "animepahe"
     },
     {
@@ -1632,7 +1632,7 @@
       "popularity": 924,
       "favorites": 6482,
       "scored_by": 154838,
-      "scanned_at": "2025-10-08T20:25:50.553Z",
+      "scanned_at": "2025-10-09T01:45:26.237Z",
       "source": "animepahe"
     },
     {
@@ -1655,7 +1655,7 @@
       "popularity": 8121,
       "favorites": 46,
       "scored_by": 2857,
-      "scanned_at": "2025-10-08T20:25:34.157Z",
+      "scanned_at": "2025-10-09T01:45:09.142Z",
       "source": "animepahe"
     },
     {
@@ -1678,7 +1678,7 @@
       "popularity": 4891,
       "favorites": 1007,
       "scored_by": 10657,
-      "scanned_at": "2025-10-08T20:25:35.323Z",
+      "scanned_at": "2025-10-09T01:45:10.367Z",
       "source": "animepahe"
     },
     {
@@ -1701,7 +1701,7 @@
       "popularity": 342,
       "favorites": 13952,
       "scored_by": 352842,
-      "scanned_at": "2025-10-08T20:25:51.007Z",
+      "scanned_at": "2025-10-09T01:45:26.706Z",
       "source": "animepahe"
     },
     {
@@ -1724,7 +1724,7 @@
       "popularity": 4211,
       "favorites": 494,
       "scored_by": 19159,
-      "scanned_at": "2025-10-08T20:25:26.974Z",
+      "scanned_at": "2025-10-09T01:45:01.542Z",
       "source": "animepahe"
     }
   ]

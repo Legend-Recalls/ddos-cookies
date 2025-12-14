@@ -1,61 +1,7 @@
 {
-  "timestamp": 1765657572343,
+  "timestamp": 1765687165295,
   "total": 59,
   "data": [
-    {
-      "id": 6238,
-      "malid": null,
-      "title": "Gachiakuta",
-      "type": "TV",
-      "episodes": 24,
-      "status": "Currently Airing",
-      "season": "Summer",
-      "year": 2025,
-      "score": 8.08,
-      "poster": "https://i.animepahe.si/uploads/posters/66e945f94d0c115f5227d6fffd571618b7fe4022aec0c75fb9809daa59a49845.jpg",
-      "session": "42dd67ed-699c-d2d4-194a-3f2365652272",
-      "latest_episode": 22,
-      "latest_snapshot": "https://i.animepahe.si/snapshots/5cfdefa84853076c35538781be9dd7c9bdc43b98c008c9c479988284eb0bfb14.jpg",
-      "latest_fansub": "SubsPlease",
-      "last_updated": "2025-12-07 15:08:18",
-      "scanned_at": "2025-12-13T20:26:12.243Z"
-    },
-    {
-      "id": 6357,
-      "malid": null,
-      "title": "Dad is a Hero, Mom is a Spirit, I'm a Reincarnator",
-      "type": "TV",
-      "episodes": 12,
-      "status": "Currently Airing",
-      "season": "Fall",
-      "year": 2025,
-      "score": 6.7,
-      "poster": "https://i.animepahe.si/uploads/posters/59193cf66cc793cf71bc630f32c00fd1e3d4fcd57b67a9d4112599edb20abb7c.jpg",
-      "session": "b8c26a1f-4c2d-2465-6c91-6aed6b41a022",
-      "latest_episode": 10,
-      "latest_snapshot": "https://i.animepahe.si/snapshots/4437b344756e44f81afd88df6da2b1c74d75fcf0db2c815e5c1d1c12665efe05.jpg",
-      "latest_fansub": "SubsPlease",
-      "last_updated": "2025-12-07 15:37:28",
-      "scanned_at": "2025-12-13T20:26:12.027Z"
-    },
-    {
-      "id": 4,
-      "malid": null,
-      "title": "One Piece",
-      "type": "TV",
-      "episodes": 0,
-      "status": "Currently Airing",
-      "season": "Fall",
-      "year": 1999,
-      "score": 8.73,
-      "poster": "https://i.animepahe.si/posters/14fdc4bb11b03ddd1e803582730fea4ab4782e7974ccf54e558dd50cd207f639.jpg",
-      "session": "d58fc9f8-582e-fdf0-3618-112cd54ed5ab",
-      "latest_episode": 1152,
-      "latest_snapshot": "https://i.animepahe.si/snapshots/28970ab1f1959da279c455c5a6b0fdf7f2f54fe70d6b9f84224c6b03a11777ac.jpg",
-      "latest_fansub": "SubsPlease",
-      "last_updated": "2025-12-07 16:07:13",
-      "scanned_at": "2025-12-13T20:26:11.805Z"
-    },
     {
       "id": 6400,
       "malid": null,
@@ -72,7 +18,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/54c456858698df4bb69cb711d52b7adcaf6bc42c27fcca8b31b606e3224f010c.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-07 16:37:25",
-      "scanned_at": "2025-12-13T20:26:11.585Z"
+      "scanned_at": "2025-12-14T04:39:25.194Z"
     },
     {
       "id": 6374,
@@ -90,7 +36,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/36d8e8fc438cd69f0a60d7f345d90623cdd3f05a86ce1a71fdee6376fcda88eb.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-07 16:40:05",
-      "scanned_at": "2025-12-13T20:26:11.363Z"
+      "scanned_at": "2025-12-14T04:39:24.943Z"
     },
     {
       "id": 5753,
@@ -108,7 +54,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/f05beef897cfc7840d35bfe752c36729fb2a8b7cf5236ff57f82b875e229466c.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-07 17:24:30",
-      "scanned_at": "2025-12-13T20:26:11.138Z"
+      "scanned_at": "2025-12-14T04:39:24.692Z"
     },
     {
       "id": 6375,
@@ -126,7 +72,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/d25786081b28215f60f80b769a468d6b06f1be5f492e52d731a4b18522b7865e.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-08 13:04:10",
-      "scanned_at": "2025-12-13T20:26:10.914Z"
+      "scanned_at": "2025-12-14T04:39:24.444Z"
     },
     {
       "id": 6412,
@@ -144,7 +90,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/eb35da5994374b297fdd0363201142e6338491876ccdb52bd8e85752b04470bf.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-08 14:32:53",
-      "scanned_at": "2025-12-13T20:26:10.694Z"
+      "scanned_at": "2025-12-14T04:39:24.192Z"
     },
     {
       "id": 6297,
@@ -162,7 +108,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/960238a0d1658b12f7f0a5856c32bf8c687acefd268cfdd98017f98ea4587d7f.jpg",
       "latest_fansub": "Amazon",
       "last_updated": "2025-12-08 14:56:17",
-      "scanned_at": "2025-12-13T20:26:10.472Z"
+      "scanned_at": "2025-12-14T04:39:23.944Z"
     },
     {
       "id": 6380,
@@ -180,7 +126,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/3edd0a64214b5c8489a550b341fd09e88d940cd097cf5de9bce47be0c1a2fa24.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-08 15:05:03",
-      "scanned_at": "2025-12-13T20:26:10.254Z"
+      "scanned_at": "2025-12-14T04:39:23.701Z"
     },
     {
       "id": 6370,
@@ -198,7 +144,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/e5e9d454db3a1dc526fcac8f12f533ae51c3d75d37351c87a461228a0491928a.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-08 16:12:40",
-      "scanned_at": "2025-12-13T20:26:10.029Z"
+      "scanned_at": "2025-12-14T04:39:23.449Z"
     },
     {
       "id": 6345,
@@ -216,7 +162,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/97b729ee5525b67b270cb78d268663cb65738ced03ea6cc5934d5f96fd7bd85a.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-08 16:14:17",
-      "scanned_at": "2025-12-13T20:26:09.806Z"
+      "scanned_at": "2025-12-14T04:39:23.199Z"
     },
     {
       "id": 6347,
@@ -234,7 +180,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/32da877a1e555c06175bee9f0ea67a6e63e8b806f1191ee011bfdb19b24f46d6.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2025-12-08 17:04:44",
-      "scanned_at": "2025-12-13T20:26:09.456Z"
+      "scanned_at": "2025-12-14T04:39:22.950Z"
     },
     {
       "id": 6369,
@@ -252,7 +198,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/5b5a6924863174f8a71af5b30e33fb8e2c3665612a774312f90159b109d00f37.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-09 15:04:29",
-      "scanned_at": "2025-12-13T20:26:09.234Z"
+      "scanned_at": "2025-12-14T04:39:22.702Z"
     },
     {
       "id": 6341,
@@ -270,7 +216,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/ea9d996559c15bb9c8a44c8249991c46612af4334056430131b174ab980e3c34.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2025-12-09 15:34:41",
-      "scanned_at": "2025-12-13T20:26:08.990Z"
+      "scanned_at": "2025-12-14T04:39:22.452Z"
     },
     {
       "id": 6387,
@@ -288,7 +234,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/448ed3947e7cfcc1888a0f8bcde7389ffc97b64c43f5d142ac9e8fcfc65c67d3.jpg",
       "latest_fansub": "Disney_Plus",
       "last_updated": "2025-12-09 16:13:56",
-      "scanned_at": "2025-12-13T20:26:08.770Z"
+      "scanned_at": "2025-12-14T04:39:22.056Z"
     },
     {
       "id": 6352,
@@ -306,7 +252,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/18d3a413448297ec992eb62f95455c25f96d9113a5d7e19cf00c513586c02818.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-09 16:34:37",
-      "scanned_at": "2025-12-13T20:26:08.543Z"
+      "scanned_at": "2025-12-14T04:39:21.806Z"
     },
     {
       "id": 6363,
@@ -324,7 +270,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/fbf85fba9880f347bbda0b60b94ea4ba114ce17a1179280fe55b1bd5232677ef.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-09 17:44:58",
-      "scanned_at": "2025-12-13T20:26:08.316Z"
+      "scanned_at": "2025-12-14T04:39:21.554Z"
     },
     {
       "id": 6383,
@@ -342,7 +288,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/887b371ab5d0adadb699974da31f112053d2a01425a8fb46421a51132ad9de26.jpg",
       "latest_fansub": "Amazon",
       "last_updated": "2025-12-09 17:45:03",
-      "scanned_at": "2025-12-13T20:26:08.092Z"
+      "scanned_at": "2025-12-14T04:39:21.305Z"
     },
     {
       "id": 6358,
@@ -360,7 +306,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/c17041ca703a6bd021eab284bd2dd736d3f2d25c38ce8cfeced96b7d3cded77c.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-10 13:04:28",
-      "scanned_at": "2025-12-13T20:26:07.869Z"
+      "scanned_at": "2025-12-14T04:39:21.057Z"
     },
     {
       "id": 6355,
@@ -378,7 +324,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/55a61d8d24b2a1e17ef60afdb7b5b52fc68c0bdc4986856a3f600480ba959a7a.jpg",
       "latest_fansub": "Disney_Plus",
       "last_updated": "2025-12-10 15:37:14",
-      "scanned_at": "2025-12-13T20:26:07.529Z"
+      "scanned_at": "2025-12-14T04:39:20.673Z"
     },
     {
       "id": 6365,
@@ -396,7 +342,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/1ab62169c620f47b15fe86b1a9b56d175f7468211a3dd0f58a9baeaaf693360d.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-10 16:04:30",
-      "scanned_at": "2025-12-13T20:26:07.311Z"
+      "scanned_at": "2025-12-14T04:39:20.432Z"
     },
     {
       "id": 6379,
@@ -414,7 +360,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/56bfc9670fbc143c2d305f065c69159d8be35f883f82b14d98f79309d4a47827.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-10 17:01:25",
-      "scanned_at": "2025-12-13T20:26:07.084Z"
+      "scanned_at": "2025-12-14T04:39:20.179Z"
     },
     {
       "id": 6120,
@@ -432,7 +378,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/18ee2a304d4c8bbf2b3f83cb87a4d8c6677b07519b78ee611aa9a118644cc151.jpg",
       "latest_fansub": "WakuTomete",
       "last_updated": "2025-12-11 10:18:05",
-      "scanned_at": "2025-12-13T20:26:06.731Z"
+      "scanned_at": "2025-12-14T04:39:19.927Z"
     },
     {
       "id": 6351,
@@ -450,7 +396,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/cb63d153332814804a0531bd87f531f90c25c3e3e2f6411d943b7629235226b2.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-11 14:04:11",
-      "scanned_at": "2025-12-13T20:26:06.512Z"
+      "scanned_at": "2025-12-14T04:39:19.677Z"
     },
     {
       "id": 6346,
@@ -468,7 +414,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/dd9ae22ffb0389999688358b340374792efa818ba0f530bafcb7f47a5465b149.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-11 14:34:28",
-      "scanned_at": "2025-12-13T20:26:06.286Z"
+      "scanned_at": "2025-12-14T04:39:19.429Z"
     },
     {
       "id": 6364,
@@ -486,7 +432,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/bd14afb356b02f646a68e072d8d3dd5b7d0fd7b2dcdf050aa95411faf1132eb9.jpg",
       "latest_fansub": "ToonsHub",
       "last_updated": "2025-12-11 15:59:14",
-      "scanned_at": "2025-12-13T20:26:06.060Z"
+      "scanned_at": "2025-12-14T04:39:19.023Z"
     },
     {
       "id": 6367,
@@ -504,7 +450,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/07f6b6692856d86a11f987978b9161df49568acdc6673d3c409361af100699f9.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-11 16:04:12",
-      "scanned_at": "2025-12-13T20:26:05.831Z"
+      "scanned_at": "2025-12-14T04:39:18.774Z"
     },
     {
       "id": 6372,
@@ -522,7 +468,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/3ffb0349bf5a9ef05ef84b07de83ac6e6df7f03f78688c06d75709f636c30478.jpg",
       "latest_fansub": "Amazon",
       "last_updated": "2025-12-11 16:22:23",
-      "scanned_at": "2025-12-13T20:26:05.582Z"
+      "scanned_at": "2025-12-14T04:39:18.524Z"
     },
     {
       "id": 6270,
@@ -540,7 +486,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/a0679fe1d142acd7caec3d3a2b7488355f884204d4142be4720cf154da02fcf8.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-11 16:36:28",
-      "scanned_at": "2025-12-13T20:26:05.356Z"
+      "scanned_at": "2025-12-14T04:39:18.275Z"
     },
     {
       "id": 6356,
@@ -558,7 +504,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/1361dba695a0703f91cc9ea6471af408fd63b6ff5a1e2388bdbd3b79b0322c83.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-11 17:05:02",
-      "scanned_at": "2025-12-13T20:26:05.132Z"
+      "scanned_at": "2025-12-14T04:39:18.025Z"
     },
     {
       "id": 6384,
@@ -576,7 +522,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/6f5bfab8279bc018b4fc464cf4358c8fb12a59fcc5d87c7fb0aa1df6e3b8ac6d.jpg",
       "latest_fansub": "Amazon",
       "last_updated": "2025-12-11 17:46:41",
-      "scanned_at": "2025-12-13T20:26:04.909Z"
+      "scanned_at": "2025-12-14T04:39:17.778Z"
     },
     {
       "id": 6349,
@@ -594,7 +540,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/ca602a227d9fd105a6175797b7f47491182703e0a1459ae1432ca29299f2a44f.jpg",
       "latest_fansub": "Amazon",
       "last_updated": "2025-12-13 00:10:37",
-      "scanned_at": "2025-12-13T20:26:04.674Z"
+      "scanned_at": "2025-12-14T04:39:17.527Z"
     },
     {
       "id": 5481,
@@ -612,7 +558,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/aa2bac3adafcd9847400ab3c955314a2b7f09a31c4d12df0812179f565570ac1.jpg",
       "latest_fansub": "HnY",
       "last_updated": "2025-12-13 00:14:22",
-      "scanned_at": "2025-12-13T20:26:04.452Z"
+      "scanned_at": "2025-12-14T04:39:17.280Z"
     },
     {
       "id": 6311,
@@ -630,7 +576,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/327c64f6606ed5b56a0962c53401f5337517a2ff9dd1333ccca5567c9adb7e3f.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-13 00:19:09",
-      "scanned_at": "2025-12-13T20:26:04.230Z"
+      "scanned_at": "2025-12-14T04:39:17.038Z"
     },
     {
       "id": 6361,
@@ -648,7 +594,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/ef4be8b06bb6d44eec907abeee525f8fe184816af81ac5060f6dd1fbde00d063.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-13 00:22:48",
-      "scanned_at": "2025-12-13T20:26:03.880Z"
+      "scanned_at": "2025-12-14T04:39:16.788Z"
     },
     {
       "id": 6342,
@@ -666,7 +612,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/9f6231a46a81ddb56e84de741ab9c59753166900e582daf59a97491c8aeabd47.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2025-12-13 00:26:34",
-      "scanned_at": "2025-12-13T20:26:03.659Z"
+      "scanned_at": "2025-12-14T04:39:16.541Z"
     },
     {
       "id": 6382,
@@ -684,7 +630,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/fc862bdef197279139af4ed76234d77cc6c7b7f5b8a4c6057bc8c621e3f928b8.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-13 00:28:52",
-      "scanned_at": "2025-12-13T20:26:03.436Z"
+      "scanned_at": "2025-12-14T04:39:16.293Z"
     },
     {
       "id": 6420,
@@ -702,7 +648,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/4fbafac9a558beddf589dbb500ff0a2e2d3173a846039a904a9028f9eed6f8ee.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-13 00:31:19",
-      "scanned_at": "2025-12-13T20:26:03.212Z"
+      "scanned_at": "2025-12-14T04:39:15.892Z"
     },
     {
       "id": 6244,
@@ -720,7 +666,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/88bbf2300774beaed02a4f4a29e4868d852b46f8a99733f779cf6fdc1534330c.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2025-12-13 00:35:31",
-      "scanned_at": "2025-12-13T20:26:02.985Z"
+      "scanned_at": "2025-12-14T04:39:15.641Z"
     },
     {
       "id": 6254,
@@ -738,7 +684,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/2468f94ce0d039482fd27a5696eca3c315c392f47cc14a760dadf2c4dd6ca57c.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-13 00:38:20",
-      "scanned_at": "2025-12-13T20:26:02.764Z"
+      "scanned_at": "2025-12-14T04:39:15.396Z"
     },
     {
       "id": 6129,
@@ -756,7 +702,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/1ad50d3134eab2590d7422e7c18826df26dee5ad21d15687e58fcb8d7d7a53e3.jpg",
       "latest_fansub": "Piyoko",
       "last_updated": "2025-12-13 00:57:06",
-      "scanned_at": "2025-12-13T20:26:02.532Z"
+      "scanned_at": "2025-12-14T04:39:15.146Z"
     },
     {
       "id": 6413,
@@ -774,7 +720,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/c5c4faf376888a9c996d572cb5f54f532b16dc39c6a0d0ac7877d0b72f0505d9.jpg",
       "latest_fansub": "Seigyoku",
       "last_updated": "2025-12-13 03:06:01",
-      "scanned_at": "2025-12-13T20:26:02.309Z"
+      "scanned_at": "2025-12-14T04:39:14.892Z"
     },
     {
       "id": 5255,
@@ -792,7 +738,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/978e63361b123affb6e10b50da4a46fb97d29f21db6553eb2e4a2895b8899697.jpg",
       "latest_fansub": "Some-Stuffs",
       "last_updated": "2025-12-13 04:31:42",
-      "scanned_at": "2025-12-13T20:26:02.084Z"
+      "scanned_at": "2025-12-14T04:39:14.643Z"
     },
     {
       "id": 6163,
@@ -810,7 +756,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/167e1b07ca1d188f6c9e82da4d6743dcfa93906fd01d07a29b27e330663d613d.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-13 09:34:43",
-      "scanned_at": "2025-12-13T20:26:01.857Z"
+      "scanned_at": "2025-12-14T04:39:14.393Z"
     },
     {
       "id": 3,
@@ -828,7 +774,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/2faae6af7aa93511101daae2353b7df306df919a64f29b3ca9f0d8609bda6041.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-13 12:33:57",
-      "scanned_at": "2025-12-13T20:26:01.633Z"
+      "scanned_at": "2025-12-14T04:39:14.145Z"
     },
     {
       "id": 6362,
@@ -846,7 +792,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/a1d63c9e41b1d42686ca52e1044a7aa55b5f27b920c69e27fdcd4308624365a4.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-13 13:05:11",
-      "scanned_at": "2025-12-13T20:26:01.410Z"
+      "scanned_at": "2025-12-14T04:39:13.895Z"
     },
     {
       "id": 6348,
@@ -864,7 +810,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/5cbe5a67460928beb170f73c412c79f84d254093310db176403f0aa676c497df.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-13 13:08:42",
-      "scanned_at": "2025-12-13T20:26:01.060Z"
+      "scanned_at": "2025-12-14T04:39:13.490Z"
     },
     {
       "id": 6360,
@@ -882,7 +828,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/a144843dee9c5b0538e903972f148f54f82e09b8e26237307703352eafcdb9b1.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-13 14:04:57",
-      "scanned_at": "2025-12-13T20:26:00.667Z"
+      "scanned_at": "2025-12-14T04:39:13.238Z"
     },
     {
       "id": 6338,
@@ -900,7 +846,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/bc59ace80abf0b013e2e687c2210e8b3edefbad9ee2bf4aa7db9e666e56c965e.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-13 15:06:50",
-      "scanned_at": "2025-12-13T20:26:00.422Z"
+      "scanned_at": "2025-12-14T04:39:12.991Z"
     },
     {
       "id": 6368,
@@ -918,7 +864,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/c99da466aa0d113c8f48e0c28e54b1df396a8d49213e8d6108763977d4d3f619.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-13 15:11:16",
-      "scanned_at": "2025-12-13T20:26:00.200Z"
+      "scanned_at": "2025-12-14T04:39:12.433Z"
     },
     {
       "id": 6344,
@@ -936,7 +882,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/1389e84565c47f049eb5493234a8066cd784a2e93472acaacf5420bc2236eb79.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-13 15:35:34",
-      "scanned_at": "2025-12-13T20:25:59.981Z"
+      "scanned_at": "2025-12-14T04:39:12.187Z"
     },
     {
       "id": 6339,
@@ -952,9 +898,9 @@
       "session": "91d4e25f-8b9f-f4ee-7c42-362e96cff87b",
       "latest_episode": 11,
       "latest_snapshot": "https://i.animepahe.si/snapshots/b95f1cb58a7e336248060981dec0d68d0a127e3e9c93228fe0b1e6cf730cde1a.jpg",
-      "latest_fansub": "SubsPlease",
+      "latest_fansub": "Yameii",
       "last_updated": "2025-12-13 15:49:48",
-      "scanned_at": "2025-12-13T20:25:59.599Z"
+      "scanned_at": "2025-12-14T04:39:11.939Z"
     },
     {
       "id": 6376,
@@ -972,7 +918,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/f604610c1ec9df0b936a0f2895f7c2103b26c4997203ad8b5541436e588ef6c0.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-13 16:04:57",
-      "scanned_at": "2025-12-13T20:25:59.209Z"
+      "scanned_at": "2025-12-14T04:39:11.687Z"
     },
     {
       "id": 6377,
@@ -990,7 +936,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/66c0e79d2cf835ef1c6ecf5ee0bb8c78d65ca19bc844b2e8586f96c8e9414589.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-13 16:42:14",
-      "scanned_at": "2025-12-13T20:25:58.989Z"
+      "scanned_at": "2025-12-14T04:39:11.442Z"
     },
     {
       "id": 6378,
@@ -1008,7 +954,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/43c3b2cf216f055bff9976ab6512c000d149f2b2af80b7d9b1439d1678f01fe6.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-13 17:05:02",
-      "scanned_at": "2025-12-13T20:25:58.608Z"
+      "scanned_at": "2025-12-14T04:39:11.200Z"
     },
     {
       "id": 6343,
@@ -1026,7 +972,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/7d15de608c74b03479b8c174fccc231a7cfc957494d2b7f4ebe0a2b185592b0d.jpg",
       "latest_fansub": "Netflix",
       "last_updated": "2025-12-13 17:17:34",
-      "scanned_at": "2025-12-13T20:25:58.387Z"
+      "scanned_at": "2025-12-14T04:39:10.956Z"
     },
     {
       "id": 6340,
@@ -1044,7 +990,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/136f0307ad36257217f5c9ef0be8e44ee7177f86c404824474eeeb66fdd8ee8d.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-13 17:35:00",
-      "scanned_at": "2025-12-13T20:25:57.992Z"
+      "scanned_at": "2025-12-14T04:39:10.705Z"
     },
     {
       "id": 6354,
@@ -1062,7 +1008,61 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/d204d3334f2d6563b2d0c4a8b442d11549982cb1b449626fe9dcc3e251e4ec98.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2025-12-13 19:10:05",
-      "scanned_at": "2025-12-13T20:25:57.622Z"
+      "scanned_at": "2025-12-14T04:39:10.458Z"
+    },
+    {
+      "id": 6035,
+      "malid": null,
+      "title": "You and Idol Precure♪",
+      "type": "TV",
+      "episodes": 49,
+      "status": "Currently Airing",
+      "season": "Winter",
+      "year": 2025,
+      "score": 7.31,
+      "poster": "https://i.animepahe.si/posters/ca23bbd22c61aecedc8cf3bd64a7711e13eabd8fec3ef2127f2ca152438d362a.jpg",
+      "session": "56a7bc00-e3af-df58-d755-8cb081686539",
+      "latest_episode": 44,
+      "latest_snapshot": "https://i.animepahe.si/snapshots/1b429f87554426ad6f95f7503591fdbff42c63a7ca2f79f4922f14ec3992fb18.jpg",
+      "latest_fansub": "SubsPlease",
+      "last_updated": "2025-12-14 01:34:00",
+      "scanned_at": "2025-12-14T04:39:10.207Z"
+    },
+    {
+      "id": 6404,
+      "malid": null,
+      "title": "SI-VIS: The Sound of Heroes",
+      "type": "TV",
+      "episodes": 24,
+      "status": "Currently Airing",
+      "season": "Fall",
+      "year": 2025,
+      "score": 6.04,
+      "poster": "https://i.animepahe.si/uploads/posters/47894324f0427581850d6c7d4b2cdf100bdb350d2b0d981fa70a46b2060c5941.jpg",
+      "session": "30c57a4b-bc4b-6516-b77e-86aef3ae5bb8",
+      "latest_episode": 11,
+      "latest_snapshot": "https://i.animepahe.si/snapshots/019a5dd80a8326fbeb72fd51a74e04fe5c6d8f078b4866e923e7d490d52092ea.jpg",
+      "latest_fansub": "SubsPlease",
+      "last_updated": "2025-12-14 02:03:30",
+      "scanned_at": "2025-12-14T04:39:09.782Z"
+    },
+    {
+      "id": 6394,
+      "malid": null,
+      "title": "Digimon Beatbreak",
+      "type": "TV",
+      "episodes": 0,
+      "status": "Currently Airing",
+      "season": "Fall",
+      "year": 2025,
+      "score": 7.11,
+      "poster": "https://i.animepahe.si/uploads/posters/ebb9a5bd9ed0d661744e059e9ee14c8bfaabb8fac20843ceaa5d2e1438af3857.jpg",
+      "session": "e308e5cb-1c1a-3f2c-0519-27ade6aa47df",
+      "latest_episode": 11,
+      "latest_snapshot": "https://i.animepahe.si/snapshots/029c9473517390a372c7e709568b68f1ebe837e358f7b0574778173d546ecdac.jpg",
+      "latest_fansub": "SubsPlease",
+      "last_updated": "2025-12-14 03:04:46",
+      "scanned_at": "2025-12-14T04:39:09.308Z"
     }
   ]
 }

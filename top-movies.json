@@ -1,5 +1,5 @@
 {
-  "timestamp": 1766408027076,
+  "timestamp": 1766421220834,
   "total": 75,
   "data": [
     {
@@ -22,7 +22,7 @@
       "popularity": 382,
       "favorites": 2804,
       "scored_by": 377198,
-      "scanned_at": "2025-12-22T12:53:31.701Z",
+      "scanned_at": "2025-12-22T16:33:25.347Z",
       "source": "animepahe"
     },
     {
@@ -45,7 +45,7 @@
       "popularity": 1512,
       "favorites": 4594,
       "scored_by": 84072,
-      "scanned_at": "2025-12-22T12:53:15.866Z",
+      "scanned_at": "2025-12-22T16:33:09.654Z",
       "source": "animepahe"
     },
     {
@@ -68,7 +68,7 @@
       "popularity": 19,
       "favorites": 94464,
       "scored_by": 1757444,
-      "scanned_at": "2025-12-22T12:53:16.343Z",
+      "scanned_at": "2025-12-22T16:33:10.110Z",
       "source": "animepahe"
     },
     {
@@ -91,7 +91,7 @@
       "popularity": 1059,
       "favorites": 2153,
       "scored_by": 143126,
-      "scanned_at": "2025-12-22T12:53:16.616Z",
+      "scanned_at": "2025-12-22T16:33:10.366Z",
       "source": "animepahe"
     },
     {
@@ -110,11 +110,34 @@
       "slug": null,
       "duration": "1 hr 35 min",
       "rating": "R - 17+ (violence & profanity)",
-      "rank": 144,
+      "rank": 143,
       "popularity": 1535,
       "favorites": 634,
-      "scored_by": 100994,
-      "scanned_at": "2025-12-22T12:53:28.819Z",
+      "scored_by": 101003,
+      "scanned_at": "2025-12-22T16:33:22.477Z",
+      "source": "animepahe"
+    },
+    {
+      "id": 1342,
+      "malid": "32281",
+      "title": "Your Name.",
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "season": "Summer",
+      "year": 2016,
+      "score": 8.83,
+      "poster": "https://i.animepahe.si/posters/3145a08730bb2c65e8ea5fb15bd38228715a109c03b838f1d01b19ea9fb76c28.jpg",
+      "synopsis": "Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo—a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture.\n\nOne day, Mitsuha awakens in a room that is not her own and suddenly finds herself living the dream life in Tokyo—but in Taki's body! Elsewhere, Taki finds himself living Mitsuha's life in the humble countryside. In pursuit of an answer to this strange phenomenon, they begin to search for one another.\n\nKimi no Na wa. revolves around Mitsuha and Taki's actions, which begin to have a dramatic impact on each other's lives, weaving them into a fabric held together by fate and circumstance.\n\n[Written by MAL Rewrite]",
+      "session": "76ea02f1-3a2d-3911-05cf-f6181a8bbf73",
+      "slug": null,
+      "duration": "1 hr 46 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "rank": 32,
+      "popularity": 11,
+      "favorites": 94593,
+      "scored_by": 2045382,
+      "scanned_at": "2025-12-22T16:33:11.546Z",
       "source": "animepahe"
     },
     {
@@ -137,30 +160,7 @@
       "popularity": 2882,
       "favorites": 521,
       "scored_by": 30129,
-      "scanned_at": "2025-12-22T12:53:17.405Z",
-      "source": "animepahe"
-    },
-    {
-      "id": 1342,
-      "malid": "32281",
-      "title": "Your Name.",
-      "type": "Movie",
-      "episodes": 1,
-      "status": "Finished Airing",
-      "season": "Summer",
-      "year": 2016,
-      "score": 8.83,
-      "poster": "https://i.animepahe.si/posters/3145a08730bb2c65e8ea5fb15bd38228715a109c03b838f1d01b19ea9fb76c28.jpg",
-      "synopsis": "Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo—a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture.\n\nOne day, Mitsuha awakens in a room that is not her own and suddenly finds herself living the dream life in Tokyo—but in Taki's body! Elsewhere, Taki finds himself living Mitsuha's life in the humble countryside. In pursuit of an answer to this strange phenomenon, they begin to search for one another.\n\nKimi no Na wa. revolves around Mitsuha and Taki's actions, which begin to have a dramatic impact on each other's lives, weaving them into a fabric held together by fate and circumstance.\n\n[Written by MAL Rewrite]",
-      "session": "76ea02f1-3a2d-3911-05cf-f6181a8bbf73",
-      "slug": null,
-      "duration": "1 hr 46 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "rank": 33,
-      "popularity": 11,
-      "favorites": 94587,
-      "scored_by": 2045167,
-      "scanned_at": "2025-12-22T12:53:17.891Z",
+      "scanned_at": "2025-12-22T16:33:11.087Z",
       "source": "animepahe"
     },
     {
@@ -183,7 +183,7 @@
       "popularity": 499,
       "favorites": 8059,
       "scored_by": 292972,
-      "scanned_at": "2025-12-22T12:53:18.366Z",
+      "scanned_at": "2025-12-22T16:33:11.999Z",
       "source": "animepahe"
     },
     {
@@ -206,7 +206,7 @@
       "popularity": 44,
       "favorites": 34750,
       "scored_by": 1390496,
-      "scanned_at": "2025-12-22T12:53:19.055Z",
+      "scanned_at": "2025-12-22T16:33:12.695Z",
       "source": "animepahe"
     },
     {
@@ -229,7 +229,7 @@
       "popularity": 651,
       "favorites": 1756,
       "scored_by": 228896,
-      "scanned_at": "2025-12-22T12:53:37.606Z",
+      "scanned_at": "2025-12-22T16:33:31.237Z",
       "source": "animepahe"
     },
     {
@@ -252,7 +252,7 @@
       "popularity": 2924,
       "favorites": 442,
       "scored_by": 7079,
-      "scanned_at": "2025-12-22T12:53:43.274Z",
+      "scanned_at": "2025-12-22T16:33:36.976Z",
       "source": "animepahe"
     },
     {
@@ -275,7 +275,7 @@
       "popularity": 752,
       "favorites": 2269,
       "scored_by": 199797,
-      "scanned_at": "2025-12-22T12:53:19.818Z",
+      "scanned_at": "2025-12-22T16:33:13.458Z",
       "source": "jikan"
     },
     {
@@ -298,7 +298,7 @@
       "popularity": 2850,
       "favorites": 1023,
       "scored_by": 33662,
-      "scanned_at": "2025-12-22T12:53:20.074Z",
+      "scanned_at": "2025-12-22T16:33:13.713Z",
       "source": "animepahe"
     },
     {
@@ -321,7 +321,7 @@
       "popularity": 909,
       "favorites": 3043,
       "scored_by": 130385,
-      "scanned_at": "2025-12-22T12:53:20.533Z",
+      "scanned_at": "2025-12-22T16:33:14.174Z",
       "source": "animepahe"
     },
     {
@@ -340,11 +340,11 @@
       "slug": null,
       "duration": "2 hr 20 min",
       "rating": "PG-13 - Teens 13 or older",
-      "rank": 31,
+      "rank": 30,
       "popularity": 328,
-      "favorites": 9574,
-      "scored_by": 327856,
-      "scanned_at": "2025-12-22T12:53:16.882Z",
+      "favorites": 9580,
+      "scored_by": 327944,
+      "scanned_at": "2025-12-22T16:33:10.622Z",
       "source": "animepahe"
     },
     {
@@ -367,7 +367,7 @@
       "popularity": 535,
       "favorites": 1710,
       "scored_by": 276956,
-      "scanned_at": "2025-12-22T12:53:32.678Z",
+      "scanned_at": "2025-12-22T16:33:26.319Z",
       "source": "animepahe"
     },
     {
@@ -390,7 +390,7 @@
       "popularity": 99,
       "favorites": 31297,
       "scored_by": 1007102,
-      "scanned_at": "2025-12-22T12:53:20.986Z",
+      "scanned_at": "2025-12-22T16:33:14.629Z",
       "source": "animepahe"
     },
     {
@@ -413,7 +413,7 @@
       "popularity": 668,
       "favorites": 8411,
       "scored_by": 214933,
-      "scanned_at": "2025-12-22T12:53:21.755Z",
+      "scanned_at": "2025-12-22T16:33:15.398Z",
       "source": "animepahe"
     },
     {
@@ -436,7 +436,7 @@
       "popularity": 1173,
       "favorites": 1178,
       "scored_by": 110737,
-      "scanned_at": "2025-12-22T12:53:22.729Z",
+      "scanned_at": "2025-12-22T16:33:16.377Z",
       "source": "animepahe"
     },
     {
@@ -459,7 +459,7 @@
       "popularity": 1285,
       "favorites": 4293,
       "scored_by": 118301,
-      "scanned_at": "2025-12-22T12:53:22.011Z",
+      "scanned_at": "2025-12-22T16:33:15.657Z",
       "source": "animepahe"
     },
     {
@@ -482,7 +482,7 @@
       "popularity": 471,
       "favorites": 3919,
       "scored_by": 296245,
-      "scanned_at": "2025-12-22T12:53:22.986Z",
+      "scanned_at": "2025-12-22T16:33:16.634Z",
       "source": "animepahe"
     },
     {
@@ -502,10 +502,10 @@
       "duration": "1 hr 45 min",
       "rating": "R - 17+ (violence & profanity)",
       "rank": 229,
-      "popularity": 1643,
+      "popularity": 1644,
       "favorites": 290,
-      "scored_by": 67072,
-      "scanned_at": "2025-12-22T12:53:35.276Z",
+      "scored_by": 67093,
+      "scanned_at": "2025-12-22T16:33:28.908Z",
       "source": "animepahe"
     },
     {
@@ -528,7 +528,7 @@
       "popularity": 1294,
       "favorites": 1655,
       "scored_by": 96321,
-      "scanned_at": "2025-12-22T12:53:22.473Z",
+      "scanned_at": "2025-12-22T16:33:16.120Z",
       "source": "animepahe"
     },
     {
@@ -551,7 +551,7 @@
       "popularity": 274,
       "favorites": 11052,
       "scored_by": 506235,
-      "scanned_at": "2025-12-22T12:53:23.447Z",
+      "scanned_at": "2025-12-22T16:33:17.095Z",
       "source": "animepahe"
     },
     {
@@ -573,8 +573,8 @@
       "rank": 110,
       "popularity": 375,
       "favorites": 14064,
-      "scored_by": 325595,
-      "scanned_at": "2025-12-22T12:53:23.912Z",
+      "scored_by": 325617,
+      "scanned_at": "2025-12-22T16:33:17.557Z",
       "source": "animepahe"
     },
     {
@@ -597,7 +597,7 @@
       "popularity": 628,
       "favorites": 8153,
       "scored_by": 186437,
-      "scanned_at": "2025-12-22T12:53:24.375Z",
+      "scanned_at": "2025-12-22T16:33:18.022Z",
       "source": "animepahe"
     },
     {
@@ -620,7 +620,7 @@
       "popularity": 1837,
       "favorites": 235,
       "scored_by": 55290,
-      "scanned_at": "2025-12-22T12:53:24.627Z",
+      "scanned_at": "2025-12-22T16:33:18.275Z",
       "source": "animepahe"
     },
     {
@@ -643,7 +643,7 @@
       "popularity": 178,
       "favorites": 31657,
       "scored_by": 679774,
-      "scanned_at": "2025-12-22T12:53:26.915Z",
+      "scanned_at": "2025-12-22T16:33:20.563Z",
       "source": "animepahe"
     },
     {
@@ -666,7 +666,7 @@
       "popularity": 527,
       "favorites": 2457,
       "scored_by": 291407,
-      "scanned_at": "2025-12-22T12:53:25.083Z",
+      "scanned_at": "2025-12-22T16:33:18.728Z",
       "source": "animepahe"
     },
     {
@@ -689,7 +689,7 @@
       "popularity": 247,
       "favorites": 11798,
       "scored_by": 481025,
-      "scanned_at": "2025-12-22T12:53:26.451Z",
+      "scanned_at": "2025-12-22T16:33:20.098Z",
       "source": "animepahe"
     },
     {
@@ -712,7 +712,7 @@
       "popularity": 68,
       "favorites": 13491,
       "scored_by": 1151352,
-      "scanned_at": "2025-12-22T12:53:28.097Z",
+      "scanned_at": "2025-12-22T16:33:21.753Z",
       "source": "animepahe"
     },
     {
@@ -735,7 +735,7 @@
       "popularity": 160,
       "favorites": 22833,
       "scored_by": 649123,
-      "scanned_at": "2025-12-22T12:53:27.377Z",
+      "scanned_at": "2025-12-22T16:33:21.025Z",
       "source": "animepahe"
     },
     {
@@ -754,11 +754,11 @@
       "slug": null,
       "duration": "1 hr 21 min",
       "rating": "R+ - Mild Nudity",
-      "rank": 132,
+      "rank": 127,
       "popularity": 277,
-      "favorites": 21435,
-      "scored_by": 429256,
-      "scanned_at": "2025-12-22T12:53:27.634Z",
+      "favorites": 21439,
+      "scored_by": 429392,
+      "scanned_at": "2025-12-22T16:33:21.280Z",
       "source": "animepahe"
     },
     {
@@ -781,7 +781,7 @@
       "popularity": 300,
       "favorites": 8980,
       "scored_by": 448523,
-      "scanned_at": "2025-12-22T12:53:28.559Z",
+      "scanned_at": "2025-12-22T16:33:22.218Z",
       "source": "animepahe"
     },
     {
@@ -802,9 +802,9 @@
       "rating": "R - 17+ (violence & profanity)",
       "rank": 147,
       "popularity": 1088,
-      "favorites": 4686,
-      "scored_by": 138216,
-      "scanned_at": "2025-12-22T12:53:29.750Z",
+      "favorites": 4687,
+      "scored_by": 138228,
+      "scanned_at": "2025-12-22T16:33:23.396Z",
       "source": "animepahe"
     },
     {
@@ -827,7 +827,7 @@
       "popularity": 635,
       "favorites": 9569,
       "scored_by": 244695,
-      "scanned_at": "2025-12-22T12:53:30.219Z",
+      "scanned_at": "2025-12-22T16:33:23.865Z",
       "source": "animepahe"
     },
     {
@@ -850,7 +850,7 @@
       "popularity": 4783,
       "favorites": 137,
       "scored_by": 7578,
-      "scanned_at": "2025-12-22T12:53:30.730Z",
+      "scanned_at": "2025-12-22T16:33:24.374Z",
       "source": "animepahe"
     },
     {
@@ -873,7 +873,7 @@
       "popularity": 608,
       "favorites": 3556,
       "scored_by": 253218,
-      "scanned_at": "2025-12-22T12:53:31.444Z",
+      "scanned_at": "2025-12-22T16:33:25.091Z",
       "source": "animepahe"
     },
     {
@@ -896,7 +896,7 @@
       "popularity": 860,
       "favorites": 9033,
       "scored_by": 170875,
-      "scanned_at": "2025-12-22T12:53:15.383Z",
+      "scanned_at": "2025-12-22T16:33:09.079Z",
       "source": "animepahe"
     },
     {
@@ -915,11 +915,11 @@
       "slug": null,
       "duration": "1 hr 44 min",
       "rating": "PG-13 - Teens 13 or older",
-      "rank": 205,
-      "popularity": 2634,
+      "rank": 207,
+      "popularity": 2633,
       "favorites": 226,
-      "scored_by": 30203,
-      "scanned_at": "2025-12-22T12:53:32.167Z",
+      "scored_by": 30208,
+      "scanned_at": "2025-12-22T16:33:25.809Z",
       "source": "animepahe"
     },
     {
@@ -942,7 +942,7 @@
       "popularity": 3573,
       "favorites": 44,
       "scored_by": 18132,
-      "scanned_at": "2025-12-22T12:53:32.422Z",
+      "scanned_at": "2025-12-22T16:33:26.063Z",
       "source": "animepahe"
     },
     {
@@ -965,7 +965,7 @@
       "popularity": 106,
       "favorites": 23840,
       "scored_by": 873705,
-      "scanned_at": "2025-12-22T12:53:21.241Z",
+      "scanned_at": "2025-12-22T16:33:14.884Z",
       "source": "animepahe"
     },
     {
@@ -988,7 +988,7 @@
       "popularity": 2461,
       "favorites": 762,
       "scored_by": 41875,
-      "scanned_at": "2025-12-22T12:53:33.140Z",
+      "scanned_at": "2025-12-22T16:33:26.777Z",
       "source": "animepahe"
     },
     {
@@ -1011,7 +1011,7 @@
       "popularity": 1349,
       "favorites": 2750,
       "scored_by": 92714,
-      "scanned_at": "2025-12-22T12:53:33.596Z",
+      "scanned_at": "2025-12-22T16:33:27.230Z",
       "source": "animepahe"
     },
     {
@@ -1030,11 +1030,11 @@
       "slug": null,
       "duration": "1 hr 30 min",
       "rating": "PG-13 - Teens 13 or older",
-      "rank": 212,
+      "rank": 209,
       "popularity": 241,
-      "favorites": 5020,
-      "scored_by": 548580,
-      "scanned_at": "2025-12-22T12:53:34.063Z",
+      "favorites": 5021,
+      "scored_by": 548671,
+      "scanned_at": "2025-12-22T16:33:27.694Z",
       "source": "animepahe"
     },
     {
@@ -1057,7 +1057,7 @@
       "popularity": 138,
       "favorites": 10981,
       "scored_by": 739434,
-      "scanned_at": "2025-12-22T12:53:35.021Z",
+      "scanned_at": "2025-12-22T16:33:28.653Z",
       "source": "animepahe"
     },
     {
@@ -1080,7 +1080,7 @@
       "popularity": 6024,
       "favorites": 227,
       "scored_by": 7019,
-      "scanned_at": "2025-12-22T12:53:34.769Z",
+      "scanned_at": "2025-12-22T16:33:28.400Z",
       "source": "animepahe"
     },
     {
@@ -1103,7 +1103,7 @@
       "popularity": 522,
       "favorites": 8347,
       "scored_by": 212257,
-      "scanned_at": "2025-12-22T12:53:34.519Z",
+      "scanned_at": "2025-12-22T16:33:28.150Z",
       "source": "animepahe"
     },
     {
@@ -1126,7 +1126,7 @@
       "popularity": 488,
       "favorites": 7011,
       "scored_by": 264956,
-      "scanned_at": "2025-12-22T12:53:37.096Z",
+      "scanned_at": "2025-12-22T16:33:30.731Z",
       "source": "animepahe"
     },
     {
@@ -1149,7 +1149,7 @@
       "popularity": 1258,
       "favorites": 1101,
       "scored_by": 106789,
-      "scanned_at": "2025-12-22T12:53:36.646Z",
+      "scanned_at": "2025-12-22T16:33:30.279Z",
       "source": "animepahe"
     },
     {
@@ -1172,7 +1172,7 @@
       "popularity": 3702,
       "favorites": 451,
       "scored_by": 16429,
-      "scanned_at": "2025-12-22T12:53:37.354Z",
+      "scanned_at": "2025-12-22T16:33:30.986Z",
       "source": "animepahe"
     },
     {
@@ -1195,7 +1195,7 @@
       "popularity": 2454,
       "favorites": 468,
       "scored_by": 34064,
-      "scanned_at": "2025-12-22T12:53:38.069Z",
+      "scanned_at": "2025-12-22T16:33:31.699Z",
       "source": "animepahe"
     },
     {
@@ -1218,7 +1218,7 @@
       "popularity": 763,
       "favorites": 2970,
       "scored_by": 206585,
-      "scanned_at": "2025-12-22T12:53:38.530Z",
+      "scanned_at": "2025-12-22T16:33:32.194Z",
       "source": "animepahe"
     },
     {
@@ -1241,7 +1241,7 @@
       "popularity": 1261,
       "favorites": 2337,
       "scored_by": 117509,
-      "scanned_at": "2025-12-22T12:53:39.247Z",
+      "scanned_at": "2025-12-22T16:33:32.911Z",
       "source": "animepahe"
     },
     {
@@ -1262,9 +1262,9 @@
       "rating": "PG-13 - Teens 13 or older",
       "rank": 245,
       "popularity": 645,
-      "favorites": 5950,
-      "scored_by": 254201,
-      "scanned_at": "2025-12-22T12:53:40.414Z",
+      "favorites": 5949,
+      "scored_by": 254225,
+      "scanned_at": "2025-12-22T16:33:34.080Z",
       "source": "animepahe"
     },
     {
@@ -1287,7 +1287,7 @@
       "popularity": 432,
       "favorites": 3908,
       "scored_by": 307192,
-      "scanned_at": "2025-12-22T12:53:39.702Z",
+      "scanned_at": "2025-12-22T16:33:33.365Z",
       "source": "animepahe"
     },
     {
@@ -1310,7 +1310,7 @@
       "popularity": 1975,
       "favorites": 871,
       "scored_by": 48518,
-      "scanned_at": "2025-12-22T12:53:39.958Z",
+      "scanned_at": "2025-12-22T16:33:33.622Z",
       "source": "animepahe"
     },
     {
@@ -1333,7 +1333,7 @@
       "popularity": 4917,
       "favorites": 124,
       "scored_by": 8363,
-      "scanned_at": "2025-12-22T12:53:38.786Z",
+      "scanned_at": "2025-12-22T16:33:32.451Z",
       "source": "animepahe"
     },
     {
@@ -1356,7 +1356,7 @@
       "popularity": 5580,
       "favorites": 119,
       "scored_by": 8988,
-      "scanned_at": "2025-12-22T12:53:40.670Z",
+      "scanned_at": "2025-12-22T16:33:34.339Z",
       "source": "animepahe"
     },
     {
@@ -1379,7 +1379,7 @@
       "popularity": 9106,
       "favorites": 34,
       "scored_by": 833,
-      "scanned_at": "2025-12-22T12:53:31.187Z",
+      "scanned_at": "2025-12-22T16:33:24.833Z",
       "source": "animepahe"
     },
     {
@@ -1402,7 +1402,7 @@
       "popularity": 4127,
       "favorites": 463,
       "scored_by": 12297,
-      "scanned_at": "2025-12-22T12:53:41.591Z",
+      "scanned_at": "2025-12-22T16:33:35.265Z",
       "source": "animepahe"
     },
     {
@@ -1425,7 +1425,7 @@
       "popularity": 5213,
       "favorites": 179,
       "scored_by": 13883,
-      "scanned_at": "2025-12-22T12:53:42.557Z",
+      "scanned_at": "2025-12-22T16:33:36.261Z",
       "source": "jikan"
     },
     {
@@ -1447,8 +1447,8 @@
       "rank": 285,
       "popularity": 4853,
       "favorites": 144,
-      "scored_by": 9660,
-      "scanned_at": "2025-12-22T12:53:43.022Z",
+      "scored_by": 9661,
+      "scanned_at": "2025-12-22T16:33:36.725Z",
       "source": "animepahe"
     },
     {
@@ -1468,10 +1468,10 @@
       "duration": "25 min per ep",
       "rating": "R - 17+ (violence & profanity)",
       "rank": 286,
-      "popularity": 5567,
+      "popularity": 5568,
       "favorites": 70,
       "scored_by": 7216,
-      "scanned_at": "2025-12-22T12:53:41.134Z",
+      "scanned_at": "2025-12-22T16:33:34.808Z",
       "source": "animepahe"
     },
     {
@@ -1494,7 +1494,7 @@
       "popularity": 3227,
       "favorites": 387,
       "scored_by": 20619,
-      "scanned_at": "2025-12-22T12:53:43.737Z",
+      "scanned_at": "2025-12-22T16:33:37.440Z",
       "source": "animepahe"
     },
     {
@@ -1517,7 +1517,7 @@
       "popularity": 423,
       "favorites": 3571,
       "scored_by": 359220,
-      "scanned_at": "2025-12-22T12:53:44.206Z",
+      "scanned_at": "2025-12-22T16:33:37.900Z",
       "source": "animepahe"
     },
     {
@@ -1539,8 +1539,8 @@
       "rank": 305,
       "popularity": 623,
       "favorites": 6143,
-      "scored_by": 221749,
-      "scanned_at": "2025-12-22T12:53:45.136Z",
+      "scored_by": 221770,
+      "scanned_at": "2025-12-22T16:33:38.784Z",
       "source": "animepahe"
     },
     {
@@ -1563,7 +1563,7 @@
       "popularity": 1601,
       "favorites": 633,
       "scored_by": 70521,
-      "scanned_at": "2025-12-22T12:53:44.666Z",
+      "scanned_at": "2025-12-22T16:33:38.360Z",
       "source": "animepahe"
     },
     {
@@ -1586,7 +1586,7 @@
       "popularity": 2599,
       "favorites": 286,
       "scored_by": 50272,
-      "scanned_at": "2025-12-22T12:53:45.400Z",
+      "scanned_at": "2025-12-22T16:33:39.036Z",
       "source": "animepahe"
     },
     {
@@ -1608,8 +1608,8 @@
       "rank": 320,
       "popularity": 4548,
       "favorites": 111,
-      "scored_by": 14703,
-      "scanned_at": "2025-12-22T12:53:45.880Z",
+      "scored_by": 14705,
+      "scanned_at": "2025-12-22T16:33:39.643Z",
       "source": "animepahe"
     },
     {
@@ -1632,7 +1632,7 @@
       "popularity": 843,
       "favorites": 2928,
       "scored_by": 161044,
-      "scanned_at": "2025-12-22T12:53:46.148Z",
+      "scanned_at": "2025-12-22T16:33:39.899Z",
       "source": "animepahe"
     },
     {
@@ -1653,9 +1653,9 @@
       "rating": "PG-13 - Teens 13 or older",
       "rank": 330,
       "popularity": 929,
-      "favorites": 6511,
-      "scored_by": 155967,
-      "scanned_at": "2025-12-22T12:53:46.625Z",
+      "favorites": 6516,
+      "scored_by": 155987,
+      "scanned_at": "2025-12-22T16:33:40.383Z",
       "source": "animepahe"
     },
     {
@@ -1678,7 +1678,7 @@
       "popularity": 7538,
       "favorites": 56,
       "scored_by": 3816,
-      "scanned_at": "2025-12-22T12:53:29.283Z",
+      "scanned_at": "2025-12-22T16:33:22.932Z",
       "source": "animepahe"
     },
     {
@@ -1701,7 +1701,7 @@
       "popularity": 4889,
       "favorites": 1027,
       "scored_by": 10864,
-      "scanned_at": "2025-12-22T12:53:30.473Z",
+      "scanned_at": "2025-12-22T16:33:24.116Z",
       "source": "animepahe"
     },
     {
@@ -1724,7 +1724,7 @@
       "popularity": 3870,
       "favorites": 683,
       "scored_by": 24232,
-      "scanned_at": "2025-12-22T12:53:21.498Z",
+      "scanned_at": "2025-12-22T16:33:15.140Z",
       "source": "animepahe"
     }
   ]

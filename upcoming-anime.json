@@ -1,5 +1,5 @@
 {
-  "timestamp": 1766608134810,
+  "timestamp": 1766628120886,
   "total": 75,
   "data": [
     {
@@ -29,7 +29,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Fridays at 23:00 (JST)"
       },
-      "scanned_at": "2025-12-24T20:28:49.907Z",
+      "scanned_at": "2025-12-25T02:01:55.951Z",
       "source": "jikan"
     },
     {
@@ -50,16 +50,16 @@
       "aired_string": "Jan 11, 2026 to ?",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 1331,
-      "members": 204975,
-      "favorites": 1920,
+      "popularity": 1324,
+      "members": 205928,
+      "favorites": 1923,
       "broadcast": {
         "day": "Sundays",
         "time": "23:45",
         "timezone": "Asia/Tokyo",
         "string": "Sundays at 23:45 (JST)"
       },
-      "scanned_at": "2025-12-24T20:28:49.957Z",
+      "scanned_at": "2025-12-25T02:01:56.001Z",
       "source": "jikan"
     },
     {
@@ -89,7 +89,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:50.007Z",
+      "scanned_at": "2025-12-25T02:01:56.052Z",
       "source": "jikan"
     },
     {
@@ -119,7 +119,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Fridays at 00:26 (JST)"
       },
-      "scanned_at": "2025-12-24T20:28:50.058Z",
+      "scanned_at": "2025-12-25T02:01:56.102Z",
       "source": "jikan"
     },
     {
@@ -149,7 +149,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:50.108Z",
+      "scanned_at": "2025-12-25T02:01:56.152Z",
       "source": "jikan"
     },
     {
@@ -179,7 +179,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Wednesdays at 23:00 (JST)"
       },
-      "scanned_at": "2025-12-24T20:28:50.158Z",
+      "scanned_at": "2025-12-25T02:01:56.202Z",
       "source": "jikan"
     },
     {
@@ -209,7 +209,37 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-12-24T20:28:50.209Z",
+      "scanned_at": "2025-12-25T02:01:56.252Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "61316",
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": "spring",
+      "year": 2026,
+      "score": null,
+      "poster": "https://cdn.myanimelist.net/images/anime/1040/153636l.webp",
+      "synopsis": "In the deadly battle at the Watergate City of Priestella, Subaru and his allies barely emerged victorious—but their triumph came at a great cost. Through the \"Authority of Gluttony,\" Rem was put into suspended animation, while Crusch's memories and even Julius’s name were devoured. As he searches for a way to save them, Subaru learns of the \"wise man\" Shaula—an all-seeing being said to possess every form of knowledge. His next destination is the Pleiades Watchtower, home to a wise man, the farthest tower standing in the vast, uncharted desert known as the Auguria Dunes—a place so perilous that even the mightiest \"Sword Saint,\" Reinhard, failed to conquer it. The fury of nature, unknown magical beasts, and unimaginable dangers lie ahead. Together with his friends, Subaru embarks on a life-risking journey to reclaim what was lost.\n\n(Source: Kadokawa)",
+      "session": null,
+      "slug": null,
+      "aired_from": "2026-04-01T00:00:00+00:00",
+      "aired_string": "Apr 2026 to ?",
+      "duration": "Unknown",
+      "rating": "R - 17+ (violence & profanity)",
+      "popularity": 2373,
+      "members": 97678,
+      "favorites": 503,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "scanned_at": "2025-12-25T02:01:56.303Z",
       "source": "jikan"
     },
     {
@@ -239,37 +269,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:50.259Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "61316",
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": "spring",
-      "year": 2026,
-      "score": null,
-      "poster": "https://cdn.myanimelist.net/images/anime/1040/153636l.webp",
-      "synopsis": "In the deadly battle at the Watergate City of Priestella, Subaru and his allies barely emerged victorious—but their triumph came at a great cost. Through the \"Authority of Gluttony,\" Rem was put into suspended animation, while Crusch's memories and even Julius’s name were devoured. As he searches for a way to save them, Subaru learns of the \"wise man\" Shaula—an all-seeing being said to possess every form of knowledge. His next destination is the Pleiades Watchtower, home to a wise man, the farthest tower standing in the vast, uncharted desert known as the Auguria Dunes—a place so perilous that even the mightiest \"Sword Saint,\" Reinhard, failed to conquer it. The fury of nature, unknown magical beasts, and unimaginable dangers lie ahead. Together with his friends, Subaru embarks on a life-risking journey to reclaim what was lost.\n\n(Source: Kadokawa)",
-      "session": null,
-      "slug": null,
-      "aired_from": "2026-04-01T00:00:00+00:00",
-      "aired_string": "Apr 2026 to ?",
-      "duration": "Unknown",
-      "rating": "R - 17+ (violence & profanity)",
-      "popularity": 2378,
-      "members": 97137,
-      "favorites": 503,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": "Unknown"
-      },
-      "scanned_at": "2025-12-24T20:28:50.309Z",
+      "scanned_at": "2025-12-25T02:01:56.353Z",
       "source": "jikan"
     },
     {
@@ -299,7 +299,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Saturdays at 01:53 (JST)"
       },
-      "scanned_at": "2025-12-24T20:28:50.360Z",
+      "scanned_at": "2025-12-25T02:01:56.403Z",
       "source": "jikan"
     },
     {
@@ -329,7 +329,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:50.410Z",
+      "scanned_at": "2025-12-25T02:01:56.453Z",
       "source": "jikan"
     },
     {
@@ -350,8 +350,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2457,
-      "members": 92388,
+      "popularity": 2456,
+      "members": 92474,
       "favorites": 432,
       "broadcast": {
         "day": null,
@@ -359,7 +359,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:50.460Z",
+      "scanned_at": "2025-12-25T02:01:56.504Z",
       "source": "jikan"
     },
     {
@@ -380,16 +380,16 @@
       "aired_string": "Apr 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2490,
-      "members": 90787,
-      "favorites": 447,
+      "popularity": 2486,
+      "members": 91025,
+      "favorites": 448,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:50.510Z",
+      "scanned_at": "2025-12-25T02:01:56.554Z",
       "source": "jikan"
     },
     {
@@ -419,7 +419,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:50.561Z",
+      "scanned_at": "2025-12-25T02:01:56.604Z",
       "source": "jikan"
     },
     {
@@ -449,7 +449,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:50.611Z",
+      "scanned_at": "2025-12-25T02:01:56.655Z",
       "source": "jikan"
     },
     {
@@ -479,7 +479,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:50.661Z",
+      "scanned_at": "2025-12-25T02:01:56.705Z",
       "source": "jikan"
     },
     {
@@ -509,7 +509,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:50.712Z",
+      "scanned_at": "2025-12-25T02:01:56.755Z",
       "source": "jikan"
     },
     {
@@ -539,7 +539,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Saturdays at 23:30 (JST)"
       },
-      "scanned_at": "2025-12-24T20:28:50.762Z",
+      "scanned_at": "2025-12-25T02:01:56.805Z",
       "source": "jikan"
     },
     {
@@ -561,7 +561,7 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "popularity": 2720,
-      "members": 78193,
+      "members": 78214,
       "favorites": 424,
       "broadcast": {
         "day": null,
@@ -569,7 +569,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:50.812Z",
+      "scanned_at": "2025-12-25T02:01:56.856Z",
       "source": "jikan"
     },
     {
@@ -590,8 +590,8 @@
       "aired_string": "Feb 2026",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2757,
-      "members": 76656,
+      "popularity": 2756,
+      "members": 76712,
       "favorites": 395,
       "broadcast": {
         "day": null,
@@ -599,7 +599,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-12-24T20:28:50.862Z",
+      "scanned_at": "2025-12-25T02:01:56.906Z",
       "source": "jikan"
     },
     {
@@ -629,7 +629,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:50.913Z",
+      "scanned_at": "2025-12-25T02:01:56.956Z",
       "source": "jikan"
     },
     {
@@ -659,7 +659,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-12-24T20:28:50.963Z",
+      "scanned_at": "2025-12-25T02:01:57.006Z",
       "source": "jikan"
     },
     {
@@ -680,16 +680,16 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2986,
-      "members": 66748,
-      "favorites": 317,
+      "popularity": 2982,
+      "members": 66792,
+      "favorites": 318,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:51.013Z",
+      "scanned_at": "2025-12-25T02:01:57.057Z",
       "source": "jikan"
     },
     {
@@ -711,15 +711,15 @@
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
       "popularity": 3026,
-      "members": 64770,
-      "favorites": 332,
+      "members": 64915,
+      "favorites": 334,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:51.064Z",
+      "scanned_at": "2025-12-25T02:01:57.107Z",
       "source": "jikan"
     },
     {
@@ -749,7 +749,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:51.115Z",
+      "scanned_at": "2025-12-25T02:01:57.158Z",
       "source": "jikan"
     },
     {
@@ -779,7 +779,37 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-12-24T20:28:51.644Z",
+      "scanned_at": "2025-12-25T02:01:57.668Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "51553",
+      "title": "Tongari Boushi no Atelier",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": "spring",
+      "year": 2026,
+      "score": null,
+      "poster": "https://cdn.myanimelist.net/images/anime/1892/152471l.webp",
+      "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
+      "session": null,
+      "slug": null,
+      "aired_from": "2026-04-01T00:00:00+00:00",
+      "aired_string": "Apr 2026 to ?",
+      "duration": "Unknown",
+      "rating": null,
+      "popularity": 3148,
+      "members": 60452,
+      "favorites": 406,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "scanned_at": "2025-12-25T02:01:57.718Z",
       "source": "jikan"
     },
     {
@@ -809,37 +839,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:51.694Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "51553",
-      "title": "Tongari Boushi no Atelier",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": "spring",
-      "year": 2026,
-      "score": null,
-      "poster": "https://cdn.myanimelist.net/images/anime/1892/152471l.webp",
-      "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
-      "session": null,
-      "slug": null,
-      "aired_from": "2026-04-01T00:00:00+00:00",
-      "aired_string": "Apr 2026 to ?",
-      "duration": "Unknown",
-      "rating": null,
-      "popularity": 3155,
-      "members": 60218,
-      "favorites": 406,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": "Unknown"
-      },
-      "scanned_at": "2025-12-24T20:28:51.744Z",
+      "scanned_at": "2025-12-25T02:01:57.769Z",
       "source": "jikan"
     },
     {
@@ -869,7 +869,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-12-24T20:28:51.794Z",
+      "scanned_at": "2025-12-25T02:01:57.819Z",
       "source": "jikan"
     },
     {
@@ -899,7 +899,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:51.845Z",
+      "scanned_at": "2025-12-25T02:01:57.869Z",
       "source": "jikan"
     },
     {
@@ -929,7 +929,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:51.895Z",
+      "scanned_at": "2025-12-25T02:01:57.919Z",
       "source": "jikan"
     },
     {
@@ -959,7 +959,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:51.945Z",
+      "scanned_at": "2025-12-25T02:01:57.969Z",
       "source": "jikan"
     },
     {
@@ -989,7 +989,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-12-24T20:28:51.995Z",
+      "scanned_at": "2025-12-25T02:01:58.020Z",
       "source": "jikan"
     },
     {
@@ -1019,7 +1019,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Thursdays at 23:00 (JST)"
       },
-      "scanned_at": "2025-12-24T20:28:52.046Z",
+      "scanned_at": "2025-12-25T02:01:58.070Z",
       "source": "jikan"
     },
     {
@@ -1049,7 +1049,37 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-12-24T20:28:52.096Z",
+      "scanned_at": "2025-12-25T02:01:58.120Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "56009",
+      "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+      "type": "TV",
+      "episodes": 12,
+      "status": "Not yet aired",
+      "season": "winter",
+      "year": 2026,
+      "score": null,
+      "poster": "https://cdn.myanimelist.net/images/anime/1062/151911l.webp",
+      "synopsis": "\"Hero\" is the worst punishment in the world. Those convicted of heinous crimes are sentenced to become \"Heroes\" and forced to enter the mandatory military service in the war against the Demon Lords. These convicts are not even allowed to die—if killed, they will be resurrected to fight another day.\n\nHero Xylo Forbartz, former head of the Order of the Holy Knights, leads a penal unit of deplorables fighting on the front lines. It is in these direst of circumstances that he meets Teoritta, one of the world's strongest weapons. \"When every last enemy has been defeated, you are to shower me with praise and pat my head.\" In order to survive and to take revenge on those who wronged him, he makes a pact with the goddess and launches headfirst into a maelstrom of war and intrigue.\n\n(Source: Official site, edited)",
+      "session": null,
+      "slug": null,
+      "aired_from": "2026-01-03T00:00:00+00:00",
+      "aired_string": "Jan 3, 2026 to ?",
+      "duration": "Unknown",
+      "rating": null,
+      "popularity": 3515,
+      "members": 49571,
+      "favorites": 168,
+      "broadcast": {
+        "day": "Thursdays",
+        "time": "22:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Thursdays at 22:30 (JST)"
+      },
+      "scanned_at": "2025-12-25T02:01:58.170Z",
       "source": "jikan"
     },
     {
@@ -1079,7 +1109,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:52.146Z",
+      "scanned_at": "2025-12-25T02:01:58.220Z",
       "source": "jikan"
     },
     {
@@ -1109,7 +1139,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:52.197Z",
+      "scanned_at": "2025-12-25T02:01:58.271Z",
       "source": "jikan"
     },
     {
@@ -1139,37 +1169,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:52.247Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "56009",
-      "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
-      "type": "TV",
-      "episodes": 12,
-      "status": "Not yet aired",
-      "season": "winter",
-      "year": 2026,
-      "score": null,
-      "poster": "https://cdn.myanimelist.net/images/anime/1062/151911l.webp",
-      "synopsis": "\"Hero\" is the worst punishment in the world. Those convicted of heinous crimes are sentenced to become \"Heroes\" and forced to enter the mandatory military service in the war against the Demon Lords. These convicts are not even allowed to die—if killed, they will be resurrected to fight another day.\n\nHero Xylo Forbartz, former head of the Order of the Holy Knights, leads a penal unit of deplorables fighting on the front lines. It is in these direst of circumstances that he meets Teoritta, one of the world's strongest weapons. \"When every last enemy has been defeated, you are to shower me with praise and pat my head.\" In order to survive and to take revenge on those who wronged him, he makes a pact with the goddess and launches headfirst into a maelstrom of war and intrigue.\n\n(Source: Official site, edited)",
-      "session": null,
-      "slug": null,
-      "aired_from": "2026-01-03T00:00:00+00:00",
-      "aired_string": "Jan 3, 2026 to ?",
-      "duration": "Unknown",
-      "rating": null,
-      "popularity": 3543,
-      "members": 48801,
-      "favorites": 168,
-      "broadcast": {
-        "day": "Thursdays",
-        "time": "22:30",
-        "timezone": "Asia/Tokyo",
-        "string": "Thursdays at 22:30 (JST)"
-      },
-      "scanned_at": "2025-12-24T20:28:52.298Z",
+      "scanned_at": "2025-12-25T02:01:58.321Z",
       "source": "jikan"
     },
     {
@@ -1190,8 +1190,8 @@
       "aired_string": "2027 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3598,
-      "members": 47797,
+      "popularity": 3595,
+      "members": 47846,
       "favorites": 131,
       "broadcast": {
         "day": null,
@@ -1199,7 +1199,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-12-24T20:28:52.349Z",
+      "scanned_at": "2025-12-25T02:01:58.371Z",
       "source": "jikan"
     },
     {
@@ -1229,7 +1229,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:52.399Z",
+      "scanned_at": "2025-12-25T02:01:58.421Z",
       "source": "jikan"
     },
     {
@@ -1259,7 +1259,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:52.449Z",
+      "scanned_at": "2025-12-25T02:01:58.471Z",
       "source": "jikan"
     },
     {
@@ -1280,16 +1280,16 @@
       "aired_string": "Oct 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3780,
-      "members": 43833,
-      "favorites": 151,
+      "popularity": 3776,
+      "members": 43886,
+      "favorites": 152,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:52.499Z",
+      "scanned_at": "2025-12-25T02:01:58.522Z",
       "source": "jikan"
     },
     {
@@ -1319,7 +1319,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Mondays at 22:00 (JST)"
       },
-      "scanned_at": "2025-12-24T20:28:52.549Z",
+      "scanned_at": "2025-12-25T02:01:58.572Z",
       "source": "jikan"
     },
     {
@@ -1349,7 +1349,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-12-24T20:28:52.600Z",
+      "scanned_at": "2025-12-25T02:01:58.622Z",
       "source": "jikan"
     },
     {
@@ -1370,16 +1370,16 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3886,
-      "members": 41683,
-      "favorites": 122,
+      "popularity": 3882,
+      "members": 41717,
+      "favorites": 121,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:52.650Z",
+      "scanned_at": "2025-12-25T02:01:58.672Z",
       "source": "jikan"
     },
     {
@@ -1409,7 +1409,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:52.700Z",
+      "scanned_at": "2025-12-25T02:01:58.722Z",
       "source": "jikan"
     },
     {
@@ -1439,7 +1439,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-12-24T20:28:52.750Z",
+      "scanned_at": "2025-12-25T02:01:58.773Z",
       "source": "jikan"
     },
     {
@@ -1469,7 +1469,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-12-24T20:28:52.801Z",
+      "scanned_at": "2025-12-25T02:01:58.823Z",
       "source": "jikan"
     },
     {
@@ -1499,7 +1499,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-12-24T20:28:52.851Z",
+      "scanned_at": "2025-12-25T02:01:58.873Z",
       "source": "jikan"
     },
     {
@@ -1529,7 +1529,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-12-24T20:28:53.352Z",
+      "scanned_at": "2025-12-25T02:01:59.431Z",
       "source": "jikan"
     },
     {
@@ -1559,7 +1559,37 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:53.402Z",
+      "scanned_at": "2025-12-25T02:01:59.481Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "54863",
+      "title": "Trigun Stargaze",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": "winter",
+      "year": 2026,
+      "score": null,
+      "poster": "https://cdn.myanimelist.net/images/anime/1219/154541l.webp",
+      "synopsis": "Two and a half years have passed since the Lost July incident, a catastrophe that reduced an entire city to ruins and sent shockwaves across the world.\n\nOn the desert planet of No Man's Land, Vash the Stampede, a gunslinger who swore never to take a life, faces his final confrontation with his brother, Millions Knives, who seeks the complete destruction of humanity. As their fates collide, the battle that will determine the future of both mankind and the planet begins.\n\n(Source: MAL News)",
+      "session": null,
+      "slug": null,
+      "aired_from": "2026-01-10T00:00:00+00:00",
+      "aired_string": "Jan 10, 2026 to ?",
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "popularity": 3961,
+      "members": 39987,
+      "favorites": 98,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "23:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 23:00 (JST)"
+      },
+      "scanned_at": "2025-12-25T02:01:59.531Z",
       "source": "jikan"
     },
     {
@@ -1589,37 +1619,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:53.452Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "54863",
-      "title": "Trigun Stargaze",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": "winter",
-      "year": 2026,
-      "score": null,
-      "poster": "https://cdn.myanimelist.net/images/anime/1219/154541l.webp",
-      "synopsis": "Two and a half years have passed since the Lost July incident, a catastrophe that reduced an entire city to ruins and sent shockwaves across the world.\n\nOn the desert planet of No Man's Land, Vash the Stampede, a gunslinger who swore never to take a life, faces his final confrontation with his brother, Millions Knives, who seeks the complete destruction of humanity. As their fates collide, the battle that will determine the future of both mankind and the planet begins.\n\n(Source: MAL News)",
-      "session": null,
-      "slug": null,
-      "aired_from": "2026-01-10T00:00:00+00:00",
-      "aired_string": "Jan 10, 2026 to ?",
-      "duration": "Unknown",
-      "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3982,
-      "members": 39576,
-      "favorites": 98,
-      "broadcast": {
-        "day": "Saturdays",
-        "time": "23:00",
-        "timezone": "Asia/Tokyo",
-        "string": "Saturdays at 23:00 (JST)"
-      },
-      "scanned_at": "2025-12-24T20:28:53.503Z",
+      "scanned_at": "2025-12-25T02:01:59.581Z",
       "source": "jikan"
     },
     {
@@ -1649,7 +1649,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:53.554Z",
+      "scanned_at": "2025-12-25T02:01:59.631Z",
       "source": "jikan"
     },
     {
@@ -1679,7 +1679,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:53.604Z",
+      "scanned_at": "2025-12-25T02:01:59.682Z",
       "source": "jikan"
     },
     {
@@ -1709,7 +1709,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:53.654Z",
+      "scanned_at": "2025-12-25T02:01:59.732Z",
       "source": "jikan"
     },
     {
@@ -1739,7 +1739,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:53.705Z",
+      "scanned_at": "2025-12-25T02:01:59.782Z",
       "source": "jikan"
     },
     {
@@ -1761,7 +1761,7 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "popularity": 4175,
-      "members": 35856,
+      "members": 35861,
       "favorites": 84,
       "broadcast": {
         "day": null,
@@ -1769,7 +1769,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-12-24T20:28:53.755Z",
+      "scanned_at": "2025-12-25T02:01:59.832Z",
       "source": "jikan"
     },
     {
@@ -1799,7 +1799,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:53.805Z",
+      "scanned_at": "2025-12-25T02:01:59.882Z",
       "source": "jikan"
     },
     {
@@ -1829,7 +1829,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:53.855Z",
+      "scanned_at": "2025-12-25T02:01:59.933Z",
       "source": "jikan"
     },
     {
@@ -1859,7 +1859,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:53.906Z",
+      "scanned_at": "2025-12-25T02:01:59.983Z",
       "source": "jikan"
     },
     {
@@ -1889,7 +1889,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-12-24T20:28:53.956Z",
+      "scanned_at": "2025-12-25T02:02:00.033Z",
       "source": "jikan"
     },
     {
@@ -1919,7 +1919,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Mondays at 23:00 (JST)"
       },
-      "scanned_at": "2025-12-24T20:28:54.006Z",
+      "scanned_at": "2025-12-25T02:02:00.083Z",
       "source": "jikan"
     },
     {
@@ -1949,7 +1949,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-12-24T20:28:54.056Z",
+      "scanned_at": "2025-12-25T02:02:00.133Z",
       "source": "jikan"
     },
     {
@@ -1979,7 +1979,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:54.106Z",
+      "scanned_at": "2025-12-25T02:02:00.184Z",
       "source": "jikan"
     },
     {
@@ -2009,7 +2009,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:54.157Z",
+      "scanned_at": "2025-12-25T02:02:00.234Z",
       "source": "jikan"
     },
     {
@@ -2039,7 +2039,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:54.207Z",
+      "scanned_at": "2025-12-25T02:02:00.284Z",
       "source": "jikan"
     },
     {
@@ -2069,7 +2069,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:54.257Z",
+      "scanned_at": "2025-12-25T02:02:00.334Z",
       "source": "jikan"
     },
     {
@@ -2099,7 +2099,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:54.308Z",
+      "scanned_at": "2025-12-25T02:02:00.384Z",
       "source": "jikan"
     },
     {
@@ -2129,7 +2129,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-12-24T20:28:54.358Z",
+      "scanned_at": "2025-12-25T02:02:00.435Z",
       "source": "jikan"
     },
     {
@@ -2159,7 +2159,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:54.408Z",
+      "scanned_at": "2025-12-25T02:02:00.485Z",
       "source": "jikan"
     },
     {
@@ -2189,7 +2189,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-12-24T20:28:54.458Z",
+      "scanned_at": "2025-12-25T02:02:00.535Z",
       "source": "jikan"
     },
     {
@@ -2219,7 +2219,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2025-12-24T20:28:54.509Z",
+      "scanned_at": "2025-12-25T02:02:00.585Z",
       "source": "jikan"
     },
     {
@@ -2249,7 +2249,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2025-12-24T20:28:54.559Z",
+      "scanned_at": "2025-12-25T02:02:00.636Z",
       "source": "jikan"
     }
   ]

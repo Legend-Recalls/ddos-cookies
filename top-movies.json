@@ -1,5 +1,5 @@
 {
-  "timestamp": 1767185631655,
+  "timestamp": 1767198785022,
   "total": 75,
   "data": [
     {
@@ -22,7 +22,7 @@
       "popularity": 383,
       "favorites": 2810,
       "scored_by": 377552,
-      "scanned_at": "2025-12-31T12:53:35.149Z",
+      "scanned_at": "2025-12-31T16:32:49.707Z",
       "source": "animepahe"
     },
     {
@@ -45,7 +45,7 @@
       "popularity": 1511,
       "favorites": 4594,
       "scored_by": 84253,
-      "scanned_at": "2025-12-31T12:53:18.459Z",
+      "scanned_at": "2025-12-31T16:32:34.321Z",
       "source": "animepahe"
     },
     {
@@ -68,7 +68,7 @@
       "popularity": 19,
       "favorites": 94586,
       "scored_by": 1760097,
-      "scanned_at": "2025-12-31T12:53:18.951Z",
+      "scanned_at": "2025-12-31T16:32:34.783Z",
       "source": "animepahe"
     },
     {
@@ -88,10 +88,10 @@
       "duration": "1 hr 50 min",
       "rating": "PG-13 - Teens 13 or older",
       "rank": 23,
-      "popularity": 1060,
+      "popularity": 1061,
       "favorites": 2151,
-      "scored_by": 143221,
-      "scanned_at": "2025-12-31T12:53:19.229Z",
+      "scored_by": 143239,
+      "scanned_at": "2025-12-31T16:32:35.038Z",
       "source": "animepahe"
     },
     {
@@ -114,7 +114,30 @@
       "popularity": 1535,
       "favorites": 633,
       "scored_by": 101081,
-      "scanned_at": "2025-12-31T12:53:32.557Z",
+      "scanned_at": "2025-12-31T16:32:47.309Z",
+      "source": "animepahe"
+    },
+    {
+      "id": 1342,
+      "malid": "32281",
+      "title": "Your Name.",
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "season": "Summer",
+      "year": 2016,
+      "score": 8.83,
+      "poster": "https://i.animepahe.si/posters/3145a08730bb2c65e8ea5fb15bd38228715a109c03b838f1d01b19ea9fb76c28.jpg",
+      "synopsis": "Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo—a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture.\n\nOne day, Mitsuha awakens in a room that is not her own and suddenly finds herself living the dream life in Tokyo—but in Taki's body! Elsewhere, Taki finds himself living Mitsuha's life in the humble countryside. In pursuit of an answer to this strange phenomenon, they begin to search for one another.\n\nKimi no Na wa. revolves around Mitsuha and Taki's actions, which begin to have a dramatic impact on each other's lives, weaving them into a fabric held together by fate and circumstance.\n\n[Written by MAL Rewrite]",
+      "session": "76ea02f1-3a2d-3911-05cf-f6181a8bbf73",
+      "slug": null,
+      "duration": "1 hr 46 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "rank": 32,
+      "popularity": 11,
+      "favorites": 94634,
+      "scored_by": 2047925,
+      "scanned_at": "2025-12-31T16:32:36.214Z",
       "source": "animepahe"
     },
     {
@@ -137,30 +160,7 @@
       "popularity": 2857,
       "favorites": 529,
       "scored_by": 30809,
-      "scanned_at": "2025-12-31T12:53:20.010Z",
-      "source": "animepahe"
-    },
-    {
-      "id": 1342,
-      "malid": "32281",
-      "title": "Your Name.",
-      "type": "Movie",
-      "episodes": 1,
-      "status": "Finished Airing",
-      "season": "Summer",
-      "year": 2016,
-      "score": 8.83,
-      "poster": "https://i.animepahe.si/posters/3145a08730bb2c65e8ea5fb15bd38228715a109c03b838f1d01b19ea9fb76c28.jpg",
-      "synopsis": "Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo—a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture.\n\nOne day, Mitsuha awakens in a room that is not her own and suddenly finds herself living the dream life in Tokyo—but in Taki's body! Elsewhere, Taki finds himself living Mitsuha's life in the humble countryside. In pursuit of an answer to this strange phenomenon, they begin to search for one another.\n\nKimi no Na wa. revolves around Mitsuha and Taki's actions, which begin to have a dramatic impact on each other's lives, weaving them into a fabric held together by fate and circumstance.\n\n[Written by MAL Rewrite]",
-      "session": "76ea02f1-3a2d-3911-05cf-f6181a8bbf73",
-      "slug": null,
-      "duration": "1 hr 46 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "rank": 33,
-      "popularity": 11,
-      "favorites": 94632,
-      "scored_by": 2047653,
-      "scanned_at": "2025-12-31T12:53:20.509Z",
+      "scanned_at": "2025-12-31T16:32:35.755Z",
       "source": "animepahe"
     },
     {
@@ -183,7 +183,7 @@
       "popularity": 499,
       "favorites": 8074,
       "scored_by": 293379,
-      "scanned_at": "2025-12-31T12:53:20.997Z",
+      "scanned_at": "2025-12-31T16:32:36.667Z",
       "source": "animepahe"
     },
     {
@@ -206,7 +206,7 @@
       "popularity": 44,
       "favorites": 34764,
       "scored_by": 1392041,
-      "scanned_at": "2025-12-31T12:53:21.498Z",
+      "scanned_at": "2025-12-31T16:32:37.127Z",
       "source": "animepahe"
     },
     {
@@ -229,7 +229,7 @@
       "popularity": 651,
       "favorites": 1757,
       "scored_by": 229104,
-      "scanned_at": "2025-12-31T12:53:41.540Z",
+      "scanned_at": "2025-12-31T16:32:55.579Z",
       "source": "animepahe"
     },
     {
@@ -252,7 +252,7 @@
       "popularity": 2925,
       "favorites": 442,
       "scored_by": 7197,
-      "scanned_at": "2025-12-31T12:53:47.862Z",
+      "scanned_at": "2025-12-31T16:33:01.495Z",
       "source": "animepahe"
     },
     {
@@ -275,7 +275,7 @@
       "popularity": 752,
       "favorites": 2274,
       "scored_by": 200707,
-      "scanned_at": "2025-12-31T12:53:22.323Z",
+      "scanned_at": "2025-12-31T16:32:37.883Z",
       "source": "jikan"
     },
     {
@@ -298,7 +298,7 @@
       "popularity": 2850,
       "favorites": 1027,
       "scored_by": 33877,
-      "scanned_at": "2025-12-31T12:53:22.598Z",
+      "scanned_at": "2025-12-31T16:32:38.138Z",
       "source": "animepahe"
     },
     {
@@ -321,7 +321,7 @@
       "popularity": 902,
       "favorites": 3078,
       "scored_by": 134595,
-      "scanned_at": "2025-12-31T12:53:23.094Z",
+      "scanned_at": "2025-12-31T16:32:38.600Z",
       "source": "animepahe"
     },
     {
@@ -340,11 +340,11 @@
       "slug": null,
       "duration": "2 hr 20 min",
       "rating": "PG-13 - Teens 13 or older",
-      "rank": 31,
+      "rank": 29,
       "popularity": 327,
-      "favorites": 9595,
-      "scored_by": 328702,
-      "scanned_at": "2025-12-31T12:53:19.504Z",
+      "favorites": 9596,
+      "scored_by": 328795,
+      "scanned_at": "2025-12-31T16:32:35.293Z",
       "source": "animepahe"
     },
     {
@@ -367,7 +367,7 @@
       "popularity": 535,
       "favorites": 1713,
       "scored_by": 277418,
-      "scanned_at": "2025-12-31T12:53:36.205Z",
+      "scanned_at": "2025-12-31T16:32:50.685Z",
       "source": "animepahe"
     },
     {
@@ -390,7 +390,7 @@
       "popularity": 99,
       "favorites": 31320,
       "scored_by": 1008279,
-      "scanned_at": "2025-12-31T12:53:23.583Z",
+      "scanned_at": "2025-12-31T16:32:39.055Z",
       "source": "animepahe"
     },
     {
@@ -413,7 +413,7 @@
       "popularity": 668,
       "favorites": 8422,
       "scored_by": 215393,
-      "scanned_at": "2025-12-31T12:53:24.408Z",
+      "scanned_at": "2025-12-31T16:32:39.823Z",
       "source": "animepahe"
     },
     {
@@ -436,7 +436,7 @@
       "popularity": 1175,
       "favorites": 1179,
       "scored_by": 110897,
-      "scanned_at": "2025-12-31T12:53:25.457Z",
+      "scanned_at": "2025-12-31T16:32:40.795Z",
       "source": "animepahe"
     },
     {
@@ -459,7 +459,7 @@
       "popularity": 1274,
       "favorites": 4357,
       "scored_by": 119968,
-      "scanned_at": "2025-12-31T12:53:24.681Z",
+      "scanned_at": "2025-12-31T16:32:40.079Z",
       "source": "animepahe"
     },
     {
@@ -482,7 +482,7 @@
       "popularity": 470,
       "favorites": 3927,
       "scored_by": 296819,
-      "scanned_at": "2025-12-31T12:53:25.733Z",
+      "scanned_at": "2025-12-31T16:32:41.051Z",
       "source": "animepahe"
     },
     {
@@ -505,7 +505,7 @@
       "popularity": 1644,
       "favorites": 291,
       "scored_by": 67241,
-      "scanned_at": "2025-12-31T12:53:38.737Z",
+      "scanned_at": "2025-12-31T16:32:53.018Z",
       "source": "animepahe"
     },
     {
@@ -528,7 +528,7 @@
       "popularity": 1292,
       "favorites": 1666,
       "scored_by": 97162,
-      "scanned_at": "2025-12-31T12:53:25.183Z",
+      "scanned_at": "2025-12-31T16:32:40.540Z",
       "source": "animepahe"
     },
     {
@@ -551,7 +551,7 @@
       "popularity": 274,
       "favorites": 11059,
       "scored_by": 507215,
-      "scanned_at": "2025-12-31T12:53:26.230Z",
+      "scanned_at": "2025-12-31T16:32:41.508Z",
       "source": "animepahe"
     },
     {
@@ -574,7 +574,7 @@
       "popularity": 376,
       "favorites": 14094,
       "scored_by": 325895,
-      "scanned_at": "2025-12-31T12:53:26.730Z",
+      "scanned_at": "2025-12-31T16:32:41.971Z",
       "source": "animepahe"
     },
     {
@@ -597,7 +597,7 @@
       "popularity": 628,
       "favorites": 8167,
       "scored_by": 186881,
-      "scanned_at": "2025-12-31T12:53:27.231Z",
+      "scanned_at": "2025-12-31T16:32:42.433Z",
       "source": "animepahe"
     },
     {
@@ -620,7 +620,7 @@
       "popularity": 1840,
       "favorites": 235,
       "scored_by": 55351,
-      "scanned_at": "2025-12-31T12:53:27.500Z",
+      "scanned_at": "2025-12-31T16:32:42.684Z",
       "source": "animepahe"
     },
     {
@@ -643,7 +643,7 @@
       "popularity": 178,
       "favorites": 31707,
       "scored_by": 680830,
-      "scanned_at": "2025-12-31T12:53:30.009Z",
+      "scanned_at": "2025-12-31T16:32:44.954Z",
       "source": "animepahe"
     },
     {
@@ -666,7 +666,7 @@
       "popularity": 528,
       "favorites": 2458,
       "scored_by": 291769,
-      "scanned_at": "2025-12-31T12:53:27.991Z",
+      "scanned_at": "2025-12-31T16:32:43.140Z",
       "source": "animepahe"
     },
     {
@@ -688,8 +688,8 @@
       "rank": 125,
       "popularity": 247,
       "favorites": 11798,
-      "scored_by": 481336,
-      "scanned_at": "2025-12-31T12:53:29.486Z",
+      "scored_by": 481362,
+      "scanned_at": "2025-12-31T16:32:44.490Z",
       "source": "animepahe"
     },
     {
@@ -712,7 +712,7 @@
       "popularity": 68,
       "favorites": 13481,
       "scored_by": 1153441,
-      "scanned_at": "2025-12-31T12:53:31.782Z",
+      "scanned_at": "2025-12-31T16:32:46.593Z",
       "source": "animepahe"
     },
     {
@@ -735,7 +735,7 @@
       "popularity": 160,
       "favorites": 22861,
       "scored_by": 650292,
-      "scanned_at": "2025-12-31T12:53:31.006Z",
+      "scanned_at": "2025-12-31T16:32:45.872Z",
       "source": "animepahe"
     },
     {
@@ -758,7 +758,7 @@
       "popularity": 277,
       "favorites": 21455,
       "scored_by": 430134,
-      "scanned_at": "2025-12-31T12:53:31.280Z",
+      "scanned_at": "2025-12-31T16:32:46.132Z",
       "source": "animepahe"
     },
     {
@@ -781,7 +781,7 @@
       "popularity": 300,
       "favorites": 8998,
       "scored_by": 449342,
-      "scanned_at": "2025-12-31T12:53:32.281Z",
+      "scanned_at": "2025-12-31T16:32:47.053Z",
       "source": "animepahe"
     },
     {
@@ -804,7 +804,7 @@
       "popularity": 1092,
       "favorites": 4685,
       "scored_by": 138298,
-      "scanned_at": "2025-12-31T12:53:33.057Z",
+      "scanned_at": "2025-12-31T16:32:47.770Z",
       "source": "animepahe"
     },
     {
@@ -823,11 +823,11 @@
       "slug": null,
       "duration": "1 hr 56 min",
       "rating": "PG-13 - Teens 13 or older",
-      "rank": 156,
+      "rank": 152,
       "popularity": 636,
-      "favorites": 9582,
-      "scored_by": 244973,
-      "scanned_at": "2025-12-31T12:53:34.053Z",
+      "favorites": 9585,
+      "scored_by": 245030,
+      "scanned_at": "2025-12-31T16:32:48.687Z",
       "source": "animepahe"
     },
     {
@@ -850,7 +850,7 @@
       "popularity": 4773,
       "favorites": 141,
       "scored_by": 7738,
-      "scanned_at": "2025-12-31T12:53:34.600Z",
+      "scanned_at": "2025-12-31T16:32:49.195Z",
       "source": "animepahe"
     },
     {
@@ -873,7 +873,7 @@
       "popularity": 608,
       "favorites": 3556,
       "scored_by": 253655,
-      "scanned_at": "2025-12-31T12:53:34.875Z",
+      "scanned_at": "2025-12-31T16:32:49.451Z",
       "source": "animepahe"
     },
     {
@@ -896,7 +896,7 @@
       "popularity": 806,
       "favorites": 9555,
       "scored_by": 187387,
-      "scanned_at": "2025-12-31T12:53:17.959Z",
+      "scanned_at": "2025-12-31T16:32:33.862Z",
       "source": "animepahe"
     },
     {
@@ -919,7 +919,7 @@
       "popularity": 2635,
       "favorites": 226,
       "scored_by": 30246,
-      "scanned_at": "2025-12-31T12:53:35.654Z",
+      "scanned_at": "2025-12-31T16:32:50.174Z",
       "source": "animepahe"
     },
     {
@@ -942,7 +942,7 @@
       "popularity": 3578,
       "favorites": 44,
       "scored_by": 18148,
-      "scanned_at": "2025-12-31T12:53:35.929Z",
+      "scanned_at": "2025-12-31T16:32:50.429Z",
       "source": "animepahe"
     },
     {
@@ -965,7 +965,7 @@
       "popularity": 106,
       "favorites": 23859,
       "scored_by": 874735,
-      "scanned_at": "2025-12-31T12:53:23.858Z",
+      "scanned_at": "2025-12-31T16:32:39.312Z",
       "source": "animepahe"
     },
     {
@@ -988,30 +988,7 @@
       "popularity": 1349,
       "favorites": 2756,
       "scored_by": 92859,
-      "scanned_at": "2025-12-31T12:53:37.198Z",
-      "source": "animepahe"
-    },
-    {
-      "id": 3873,
-      "malid": "38040",
-      "title": "KonoSuba: God's Blessing on This Wonderful World! - Legend of Crimson",
-      "type": "Movie",
-      "episodes": 1,
-      "status": "Finished Airing",
-      "season": "Summer",
-      "year": 2019,
-      "score": 8.41,
-      "poster": "https://i.animepahe.si/posters/907715e3d3ae4c5ff757f56977f1f3e7aee355a4f87150604ea939a5072d549d.jpg",
-      "synopsis": "It is not strange that the Demon Lord's forces fear the Crimson Demons, the clan from which Megumin and Yunyun originate. Even if the Demon Lord's generals attack their village, the Crimson Demons can just easily brush them off with their supreme mastery of advanced and overpowered magic.\n\nWhen Yunyun receives a seemingly serious letter regarding a potential disaster coming to her hometown, she immediately informs Kazuma Satou and the rest of his party. After a series of wacky misunderstandings, it turns out to be a mere prank by her fellow demon who wants to be an author. Even so, Megumin becomes worried about her family and sets out toward the Crimson Demons' village with the gang.\n\nThere, Kazuma and the others decide to sightsee the wonders of Megumin's birthplace. However, they soon come to realize that the nonsense threat they received might have been more than just a joke.\n\n[Written by MAL Rewrite]",
-      "session": "89850e73-38a8-3718-bcd7-77414c8da221",
-      "slug": null,
-      "duration": "1 hr 30 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "rank": 209,
-      "popularity": 241,
-      "favorites": 5022,
-      "scored_by": 549353,
-      "scanned_at": "2025-12-31T12:53:37.700Z",
+      "scanned_at": "2025-12-31T16:32:51.594Z",
       "source": "animepahe"
     },
     {
@@ -1034,7 +1011,30 @@
       "popularity": 2462,
       "favorites": 762,
       "scored_by": 42019,
-      "scanned_at": "2025-12-31T12:53:36.708Z",
+      "scanned_at": "2025-12-31T16:32:51.141Z",
+      "source": "animepahe"
+    },
+    {
+      "id": 3873,
+      "malid": "38040",
+      "title": "KonoSuba: God's Blessing on This Wonderful World! - Legend of Crimson",
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "season": "Summer",
+      "year": 2019,
+      "score": 8.41,
+      "poster": "https://i.animepahe.si/posters/907715e3d3ae4c5ff757f56977f1f3e7aee355a4f87150604ea939a5072d549d.jpg",
+      "synopsis": "It is not strange that the Demon Lord's forces fear the Crimson Demons, the clan from which Megumin and Yunyun originate. Even if the Demon Lord's generals attack their village, the Crimson Demons can just easily brush them off with their supreme mastery of advanced and overpowered magic.\n\nWhen Yunyun receives a seemingly serious letter regarding a potential disaster coming to her hometown, she immediately informs Kazuma Satou and the rest of his party. After a series of wacky misunderstandings, it turns out to be a mere prank by her fellow demon who wants to be an author. Even so, Megumin becomes worried about her family and sets out toward the Crimson Demons' village with the gang.\n\nThere, Kazuma and the others decide to sightsee the wonders of Megumin's birthplace. However, they soon come to realize that the nonsense threat they received might have been more than just a joke.\n\n[Written by MAL Rewrite]",
+      "session": "89850e73-38a8-3718-bcd7-77414c8da221",
+      "slug": null,
+      "duration": "1 hr 30 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "rank": 212,
+      "popularity": 241,
+      "favorites": 5022,
+      "scored_by": 549416,
+      "scanned_at": "2025-12-31T16:32:52.058Z",
       "source": "animepahe"
     },
     {
@@ -1057,7 +1057,7 @@
       "popularity": 6039,
       "favorites": 227,
       "scored_by": 7033,
-      "scanned_at": "2025-12-31T12:53:38.462Z",
+      "scanned_at": "2025-12-31T16:32:52.763Z",
       "source": "animepahe"
     },
     {
@@ -1080,7 +1080,30 @@
       "popularity": 522,
       "favorites": 8356,
       "scored_by": 212603,
-      "scanned_at": "2025-12-31T12:53:38.193Z",
+      "scanned_at": "2025-12-31T16:32:52.513Z",
+      "source": "animepahe"
+    },
+    {
+      "id": 4412,
+      "malid": "40787",
+      "title": "Josee, the Tiger and the Fish",
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "season": "Winter",
+      "year": 2021,
+      "score": 8.38,
+      "poster": "https://i.animepahe.si/uploads/posters/0f011400fd4e400ca34fbc1121817fdfb86a38c8ba1fc061f8e66b29a7060703.jpg",
+      "synopsis": "Equipped with his passion for diving and admiration for marine biology, university student Tsuneo Suzukawa tries his best to juggle several part-time jobs to earn enough money to study abroad. But one night, in a fateful accident, he meets a girl in a wheelchair, driving his current path into a detour.\n\nThe girl, Kumiko—who prefers to be called \"Josee\"—initially comes off as rude. Tsuneo, however, is then convinced by Josee's grandmother to take on the paid job to be Josee's caretaker. Despite being annoyed with her bossy demeanor, Tsuneo sees the opportunity to save more funds to support his academic dream. Nonetheless, after putting up with Josee's behavior for some time, Tsuneo tries to quit, only to discover Josee's dreams of traversing the outside world—to experience a life free from her crippling condition.\n\nChanging his mind, Tsuneo decides to accompany Josee in exploring the wonders that the world has to offer. Through their time together, the two begin to realize that the traits that bind them may be vital toward fulfilling their respective aspirations.\n\n[Written by MAL Rewrite]",
+      "session": "37c5ee07-1695-bd8a-6044-9a92dd0c017d",
+      "slug": null,
+      "duration": "1 hr 38 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "rank": 226,
+      "popularity": 488,
+      "favorites": 7024,
+      "scored_by": 265765,
+      "scanned_at": "2025-12-31T16:32:55.074Z",
       "source": "animepahe"
     },
     {
@@ -1103,30 +1126,7 @@
       "popularity": 2456,
       "favorites": 468,
       "scored_by": 34174,
-      "scanned_at": "2025-12-31T12:53:42.040Z",
-      "source": "animepahe"
-    },
-    {
-      "id": 4412,
-      "malid": "40787",
-      "title": "Josee, the Tiger and the Fish",
-      "type": "Movie",
-      "episodes": 1,
-      "status": "Finished Airing",
-      "season": "Winter",
-      "year": 2021,
-      "score": 8.38,
-      "poster": "https://i.animepahe.si/uploads/posters/0f011400fd4e400ca34fbc1121817fdfb86a38c8ba1fc061f8e66b29a7060703.jpg",
-      "synopsis": "Equipped with his passion for diving and admiration for marine biology, university student Tsuneo Suzukawa tries his best to juggle several part-time jobs to earn enough money to study abroad. But one night, in a fateful accident, he meets a girl in a wheelchair, driving his current path into a detour.\n\nThe girl, Kumiko—who prefers to be called \"Josee\"—initially comes off as rude. Tsuneo, however, is then convinced by Josee's grandmother to take on the paid job to be Josee's caretaker. Despite being annoyed with her bossy demeanor, Tsuneo sees the opportunity to save more funds to support his academic dream. Nonetheless, after putting up with Josee's behavior for some time, Tsuneo tries to quit, only to discover Josee's dreams of traversing the outside world—to experience a life free from her crippling condition.\n\nChanging his mind, Tsuneo decides to accompany Josee in exploring the wonders that the world has to offer. Through their time together, the two begin to realize that the traits that bind them may be vital toward fulfilling their respective aspirations.\n\n[Written by MAL Rewrite]",
-      "session": "37c5ee07-1695-bd8a-6044-9a92dd0c017d",
-      "slug": null,
-      "duration": "1 hr 38 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "rank": 227,
-      "popularity": 488,
-      "favorites": 7024,
-      "scored_by": 265691,
-      "scanned_at": "2025-12-31T12:53:40.996Z",
+      "scanned_at": "2025-12-31T16:32:56.037Z",
       "source": "animepahe"
     },
     {
@@ -1149,7 +1149,7 @@
       "popularity": 138,
       "favorites": 10986,
       "scored_by": 742437,
-      "scanned_at": "2025-12-31T12:53:40.503Z",
+      "scanned_at": "2025-12-31T16:32:54.623Z",
       "source": "animepahe"
     },
     {
@@ -1168,11 +1168,11 @@
       "slug": null,
       "duration": "1 hr 51 min",
       "rating": "PG-13 - Teens 13 or older",
-      "rank": 232,
+      "rank": 231,
       "popularity": 1258,
       "favorites": 1101,
-      "scored_by": 106865,
-      "scanned_at": "2025-12-31T12:53:39.237Z",
+      "scored_by": 106881,
+      "scanned_at": "2025-12-31T16:32:53.481Z",
       "source": "animepahe"
     },
     {
@@ -1195,7 +1195,7 @@
       "popularity": 3697,
       "favorites": 453,
       "scored_by": 16536,
-      "scanned_at": "2025-12-31T12:53:41.270Z",
+      "scanned_at": "2025-12-31T16:32:55.328Z",
       "source": "animepahe"
     },
     {
@@ -1218,7 +1218,7 @@
       "popularity": 762,
       "favorites": 2975,
       "scored_by": 206811,
-      "scanned_at": "2025-12-31T12:53:42.539Z",
+      "scanned_at": "2025-12-31T16:32:56.496Z",
       "source": "animepahe"
     },
     {
@@ -1241,7 +1241,7 @@
       "popularity": 1262,
       "favorites": 2338,
       "scored_by": 117582,
-      "scanned_at": "2025-12-31T12:53:43.316Z",
+      "scanned_at": "2025-12-31T16:32:57.213Z",
       "source": "animepahe"
     },
     {
@@ -1264,7 +1264,7 @@
       "popularity": 645,
       "favorites": 5958,
       "scored_by": 254485,
-      "scanned_at": "2025-12-31T12:53:44.573Z",
+      "scanned_at": "2025-12-31T16:32:58.374Z",
       "source": "animepahe"
     },
     {
@@ -1287,7 +1287,7 @@
       "popularity": 432,
       "favorites": 3914,
       "scored_by": 307570,
-      "scanned_at": "2025-12-31T12:53:43.804Z",
+      "scanned_at": "2025-12-31T16:32:57.665Z",
       "source": "animepahe"
     },
     {
@@ -1310,7 +1310,7 @@
       "popularity": 1979,
       "favorites": 872,
       "scored_by": 48641,
-      "scanned_at": "2025-12-31T12:53:44.078Z",
+      "scanned_at": "2025-12-31T16:32:57.921Z",
       "source": "animepahe"
     },
     {
@@ -1333,7 +1333,7 @@
       "popularity": 4917,
       "favorites": 123,
       "scored_by": 8465,
-      "scanned_at": "2025-12-31T12:53:42.815Z",
+      "scanned_at": "2025-12-31T16:32:56.754Z",
       "source": "animepahe"
     },
     {
@@ -1356,7 +1356,7 @@
       "popularity": 5581,
       "favorites": 119,
       "scored_by": 9049,
-      "scanned_at": "2025-12-31T12:53:44.852Z",
+      "scanned_at": "2025-12-31T16:32:58.628Z",
       "source": "animepahe"
     },
     {
@@ -1379,31 +1379,8 @@
       "popularity": 8773,
       "favorites": 45,
       "scored_by": 1041,
-      "scanned_at": "2025-12-31T12:53:30.505Z",
+      "scanned_at": "2025-12-31T16:32:45.412Z",
       "source": "animepahe"
-    },
-    {
-      "id": null,
-      "malid": "10534",
-      "title": "Doraemon Movie 31: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi",
-      "type": "Movie",
-      "episodes": 1,
-      "status": "Finished Airing",
-      "season": null,
-      "year": null,
-      "score": 8.32,
-      "poster": "https://cdn.myanimelist.net/images/anime/7/72436l.webp",
-      "synopsis": "Jealous of Suneo's new robot toy, Nobita asks Doraemon to build him an even better one. Doraemon initially refuses, until Nobita accidentally discovers pieces of a mysterious robot that falls from the sky. After gathering all the robot parts and assembled them together, the giant robot, Zanda Claus, is soon completed. The duo soon learn that the robot is not a mere toy, but a powerful weapon in the fight against the coming Robot Army that is going to attack Earth and enslave the human inhabitants of it. An invasion is near, as a mysterious girl Riruru (リルル, Alternative spelling: Lilulu, Lillele [Doko Demo Doa Scanlations]) shows up, looking for the robot.\n\n(Source: Wikipedia)",
-      "session": null,
-      "slug": null,
-      "duration": "1 hr 48 min",
-      "rating": "PG - Children",
-      "rank": 278,
-      "popularity": 5215,
-      "favorites": 177,
-      "scored_by": 13934,
-      "scanned_at": "2025-12-31T12:53:47.095Z",
-      "source": "jikan"
     },
     {
       "id": 4262,
@@ -1425,7 +1402,7 @@
       "popularity": 4092,
       "favorites": 476,
       "scored_by": 12511,
-      "scanned_at": "2025-12-31T12:53:46.062Z",
+      "scanned_at": "2025-12-31T16:32:59.814Z",
       "source": "animepahe"
     },
     {
@@ -1448,8 +1425,31 @@
       "popularity": 5575,
       "favorites": 70,
       "scored_by": 7236,
-      "scanned_at": "2025-12-31T12:53:45.573Z",
+      "scanned_at": "2025-12-31T16:32:59.362Z",
       "source": "animepahe"
+    },
+    {
+      "id": null,
+      "malid": "10534",
+      "title": "Doraemon Movie 31: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi",
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "season": null,
+      "year": null,
+      "score": 8.32,
+      "poster": "https://cdn.myanimelist.net/images/anime/7/72436l.webp",
+      "synopsis": "Jealous of Suneo's new robot toy, Nobita asks Doraemon to build him an even better one. Doraemon initially refuses, until Nobita accidentally discovers pieces of a mysterious robot that falls from the sky. After gathering all the robot parts and assembled them together, the giant robot, Zanda Claus, is soon completed. The duo soon learn that the robot is not a mere toy, but a powerful weapon in the fight against the coming Robot Army that is going to attack Earth and enslave the human inhabitants of it. An invasion is near, as a mysterious girl Riruru (リルル, Alternative spelling: Lilulu, Lillele [Doko Demo Doa Scanlations]) shows up, looking for the robot.\n\n(Source: Wikipedia)",
+      "session": null,
+      "slug": null,
+      "duration": "1 hr 48 min",
+      "rating": "PG - Children",
+      "rank": 283,
+      "popularity": 5217,
+      "favorites": 177,
+      "scored_by": 13938,
+      "scanned_at": "2025-12-31T16:33:00.774Z",
+      "source": "jikan"
     },
     {
       "id": 4714,
@@ -1471,7 +1471,7 @@
       "popularity": 4860,
       "favorites": 144,
       "scored_by": 9685,
-      "scanned_at": "2025-12-31T12:53:47.593Z",
+      "scanned_at": "2025-12-31T16:33:01.241Z",
       "source": "animepahe"
     },
     {
@@ -1490,11 +1490,11 @@
       "slug": null,
       "duration": "51 min",
       "rating": "PG-13 - Teens 13 or older",
-      "rank": 288,
-      "popularity": 3228,
+      "rank": 292,
+      "popularity": 3227,
       "favorites": 385,
-      "scored_by": 20731,
-      "scanned_at": "2025-12-31T12:53:48.366Z",
+      "scored_by": 20749,
+      "scanned_at": "2025-12-31T16:33:01.959Z",
       "source": "animepahe"
     },
     {
@@ -1517,7 +1517,30 @@
       "popularity": 423,
       "favorites": 3573,
       "scored_by": 359672,
-      "scanned_at": "2025-12-31T12:53:48.896Z",
+      "scanned_at": "2025-12-31T16:33:02.426Z",
+      "source": "animepahe"
+    },
+    {
+      "id": 5815,
+      "malid": "54870",
+      "title": "Rascal Does Not Dream of a Knapsack Kid",
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "season": "Winter",
+      "year": 2024,
+      "score": 8.29,
+      "poster": "https://i.animepahe.si/posters/1e95f0dd438c0db0b4b83b94e7ee3faf39bf7e61f1a9db62964ae794f35d77dd.jpg",
+      "synopsis": "As Sakuta Azusagawa waits for Mai Sakurajima at the beach on her high school graduation day, he encounters a version of Mai from her child acting days. However, when Mai finally arrives, her younger self disappears, leaving him confused. Sakuta spots an unfamiliar scar on his body when he returns home, which confirms his suspicion—he is involved in another case of the inexplicable Puberty Syndrome.\n\nNot long after, Sakuta and his sister, Kaede, receive a call from their father. He tells them that their mother, who had been recently discharged from the hospital, wants to see her daughter once more. Experiencing strange occurrences while visiting his mother with Kaede, Sakuta must find a way to solve the Puberty Syndrome abnormalities.\n\n[Written by MAL Rewrite]",
+      "session": "96cf2f1e-d4bd-4e44-e43a-5dfc358d8205",
+      "slug": null,
+      "duration": "1 hr 14 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "rank": 307,
+      "popularity": 1591,
+      "favorites": 637,
+      "scored_by": 71526,
+      "scanned_at": "2025-12-31T16:33:02.889Z",
       "source": "animepahe"
     },
     {
@@ -1540,30 +1563,7 @@
       "popularity": 623,
       "favorites": 6147,
       "scored_by": 222026,
-      "scanned_at": "2025-12-31T12:53:49.662Z",
-      "source": "animepahe"
-    },
-    {
-      "id": 5815,
-      "malid": "54870",
-      "title": "Rascal Does Not Dream of a Knapsack Kid",
-      "type": "Movie",
-      "episodes": 1,
-      "status": "Finished Airing",
-      "season": "Winter",
-      "year": 2024,
-      "score": 8.29,
-      "poster": "https://i.animepahe.si/posters/1e95f0dd438c0db0b4b83b94e7ee3faf39bf7e61f1a9db62964ae794f35d77dd.jpg",
-      "synopsis": "As Sakuta Azusagawa waits for Mai Sakurajima at the beach on her high school graduation day, he encounters a version of Mai from her child acting days. However, when Mai finally arrives, her younger self disappears, leaving him confused. Sakuta spots an unfamiliar scar on his body when he returns home, which confirms his suspicion—he is involved in another case of the inexplicable Puberty Syndrome.\n\nNot long after, Sakuta and his sister, Kaede, receive a call from their father. He tells them that their mother, who had been recently discharged from the hospital, wants to see her daughter once more. Experiencing strange occurrences while visiting his mother with Kaede, Sakuta must find a way to solve the Puberty Syndrome abnormalities.\n\n[Written by MAL Rewrite]",
-      "session": "96cf2f1e-d4bd-4e44-e43a-5dfc358d8205",
-      "slug": null,
-      "duration": "1 hr 14 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "rank": 315,
-      "popularity": 1591,
-      "favorites": 635,
-      "scored_by": 71424,
-      "scanned_at": "2025-12-31T12:53:49.393Z",
+      "scanned_at": "2025-12-31T16:33:03.140Z",
       "source": "animepahe"
     },
     {
@@ -1586,7 +1586,7 @@
       "popularity": 2605,
       "favorites": 286,
       "scored_by": 50311,
-      "scanned_at": "2025-12-31T12:53:49.940Z",
+      "scanned_at": "2025-12-31T16:33:03.398Z",
       "source": "animepahe"
     },
     {
@@ -1609,7 +1609,7 @@
       "popularity": 842,
       "favorites": 2949,
       "scored_by": 162182,
-      "scanned_at": "2025-12-31T12:53:50.717Z",
+      "scanned_at": "2025-12-31T16:33:04.119Z",
       "source": "animepahe"
     },
     {
@@ -1632,7 +1632,7 @@
       "popularity": 4553,
       "favorites": 111,
       "scored_by": 14720,
-      "scanned_at": "2025-12-31T12:53:50.439Z",
+      "scanned_at": "2025-12-31T16:33:03.863Z",
       "source": "animepahe"
     },
     {
@@ -1655,7 +1655,7 @@
       "popularity": 929,
       "favorites": 6522,
       "scored_by": 156132,
-      "scanned_at": "2025-12-31T12:53:51.204Z",
+      "scanned_at": "2025-12-31T16:33:04.571Z",
       "source": "animepahe"
     },
     {
@@ -1678,7 +1678,7 @@
       "popularity": 7463,
       "favorites": 56,
       "scored_by": 3987,
-      "scanned_at": "2025-12-31T12:53:33.550Z",
+      "scanned_at": "2025-12-31T16:32:48.226Z",
       "source": "animepahe"
     },
     {
@@ -1701,7 +1701,7 @@
       "popularity": 4894,
       "favorites": 1033,
       "scored_by": 10910,
-      "scanned_at": "2025-12-31T12:53:34.324Z",
+      "scanned_at": "2025-12-31T16:32:48.940Z",
       "source": "animepahe"
     },
     {
@@ -1724,7 +1724,7 @@
       "popularity": 3813,
       "favorites": 712,
       "scored_by": 25168,
-      "scanned_at": "2025-12-31T12:53:24.133Z",
+      "scanned_at": "2025-12-31T16:32:39.567Z",
       "source": "animepahe"
     }
   ]

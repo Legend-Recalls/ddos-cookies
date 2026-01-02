@@ -1,5 +1,5 @@
 {
-  "timestamp": 1767358384653,
+  "timestamp": 1767371573462,
   "total": 75,
   "data": [
     {
@@ -29,7 +29,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Fridays at 23:00 (JST)"
       },
-      "scanned_at": "2026-01-02T12:52:59.722Z",
+      "scanned_at": "2026-01-02T16:32:48.586Z",
       "source": "jikan"
     },
     {
@@ -59,7 +59,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Sundays at 23:45 (JST)"
       },
-      "scanned_at": "2026-01-02T12:52:59.772Z",
+      "scanned_at": "2026-01-02T16:32:48.636Z",
       "source": "jikan"
     },
     {
@@ -89,7 +89,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Fridays at 00:26 (JST)"
       },
-      "scanned_at": "2026-01-02T12:52:59.822Z",
+      "scanned_at": "2026-01-02T16:32:48.686Z",
       "source": "jikan"
     },
     {
@@ -119,7 +119,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:52:59.873Z",
+      "scanned_at": "2026-01-02T16:32:48.737Z",
       "source": "jikan"
     },
     {
@@ -149,7 +149,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Wednesdays at 23:00 (JST)"
       },
-      "scanned_at": "2026-01-02T12:52:59.923Z",
+      "scanned_at": "2026-01-02T16:32:48.787Z",
       "source": "jikan"
     },
     {
@@ -179,7 +179,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:52:59.974Z",
+      "scanned_at": "2026-01-02T16:32:48.837Z",
       "source": "jikan"
     },
     {
@@ -209,7 +209,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:00.024Z",
+      "scanned_at": "2026-01-02T16:32:48.888Z",
       "source": "jikan"
     },
     {
@@ -231,15 +231,15 @@
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
       "popularity": 2335,
-      "members": 100647,
-      "favorites": 706,
+      "members": 100735,
+      "favorites": 707,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-02T12:53:00.074Z",
+      "scanned_at": "2026-01-02T16:32:48.938Z",
       "source": "jikan"
     },
     {
@@ -269,7 +269,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Saturdays at 01:53 (JST)"
       },
-      "scanned_at": "2026-01-02T12:53:00.125Z",
+      "scanned_at": "2026-01-02T16:32:48.988Z",
       "source": "jikan"
     },
     {
@@ -299,7 +299,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:00.175Z",
+      "scanned_at": "2026-01-02T16:32:49.038Z",
       "source": "jikan"
     },
     {
@@ -329,7 +329,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:00.226Z",
+      "scanned_at": "2026-01-02T16:32:49.089Z",
       "source": "jikan"
     },
     {
@@ -359,7 +359,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:00.276Z",
+      "scanned_at": "2026-01-02T16:32:49.139Z",
       "source": "jikan"
     },
     {
@@ -389,7 +389,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:00.326Z",
+      "scanned_at": "2026-01-02T16:32:49.189Z",
       "source": "jikan"
     },
     {
@@ -419,7 +419,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:00.376Z",
+      "scanned_at": "2026-01-02T16:32:49.239Z",
       "source": "jikan"
     },
     {
@@ -449,7 +449,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:00.427Z",
+      "scanned_at": "2026-01-02T16:32:49.289Z",
       "source": "jikan"
     },
     {
@@ -479,7 +479,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:00.477Z",
+      "scanned_at": "2026-01-02T16:32:49.340Z",
       "source": "jikan"
     },
     {
@@ -509,7 +509,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Saturdays at 23:30 (JST)"
       },
-      "scanned_at": "2026-01-02T12:53:00.527Z",
+      "scanned_at": "2026-01-02T16:32:49.390Z",
       "source": "jikan"
     },
     {
@@ -539,7 +539,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:00.578Z",
+      "scanned_at": "2026-01-02T16:32:49.440Z",
       "source": "jikan"
     },
     {
@@ -569,7 +569,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:00.628Z",
+      "scanned_at": "2026-01-02T16:32:49.491Z",
       "source": "jikan"
     },
     {
@@ -599,7 +599,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:00.678Z",
+      "scanned_at": "2026-01-02T16:32:49.541Z",
       "source": "jikan"
     },
     {
@@ -629,7 +629,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-02T12:53:00.729Z",
+      "scanned_at": "2026-01-02T16:32:49.591Z",
       "source": "jikan"
     },
     {
@@ -650,8 +650,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 2846,
-      "members": 72896,
+      "popularity": 2841,
+      "members": 73025,
       "favorites": 204,
       "broadcast": {
         "day": null,
@@ -659,7 +659,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-02T12:53:00.779Z",
+      "scanned_at": "2026-01-02T16:32:49.641Z",
       "source": "jikan"
     },
     {
@@ -689,7 +689,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:00.830Z",
+      "scanned_at": "2026-01-02T16:32:49.692Z",
       "source": "jikan"
     },
     {
@@ -710,16 +710,16 @@
       "aired_string": "Mar 19, 2026 to ?",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 2995,
-      "members": 66414,
-      "favorites": 755,
+      "popularity": 2981,
+      "members": 66911,
+      "favorites": 756,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-02T12:53:00.880Z",
+      "scanned_at": "2026-01-02T16:32:49.742Z",
       "source": "jikan"
     },
     {
@@ -749,7 +749,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:00.930Z",
+      "scanned_at": "2026-01-02T16:32:49.793Z",
       "source": "jikan"
     },
     {
@@ -779,7 +779,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:01.473Z",
+      "scanned_at": "2026-01-02T16:32:50.282Z",
       "source": "jikan"
     },
     {
@@ -809,7 +809,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:01.523Z",
+      "scanned_at": "2026-01-02T16:32:50.333Z",
       "source": "jikan"
     },
     {
@@ -839,7 +839,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:01.574Z",
+      "scanned_at": "2026-01-02T16:32:50.383Z",
       "source": "jikan"
     },
     {
@@ -869,7 +869,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-02T12:53:01.624Z",
+      "scanned_at": "2026-01-02T16:32:50.433Z",
       "source": "jikan"
     },
     {
@@ -890,16 +890,16 @@
       "aired_string": "2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3187,
-      "members": 59082,
-      "favorites": 334,
+      "popularity": 3183,
+      "members": 59293,
+      "favorites": 335,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:01.674Z",
+      "scanned_at": "2026-01-02T16:32:50.483Z",
       "source": "jikan"
     },
     {
@@ -920,8 +920,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3252,
-      "members": 56924,
+      "popularity": 3254,
+      "members": 56949,
       "favorites": 347,
       "broadcast": {
         "day": null,
@@ -929,7 +929,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:01.725Z",
+      "scanned_at": "2026-01-02T16:32:50.534Z",
       "source": "jikan"
     },
     {
@@ -959,7 +959,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Thursdays at 22:30 (JST)"
       },
-      "scanned_at": "2026-01-02T12:53:01.775Z",
+      "scanned_at": "2026-01-02T16:32:50.584Z",
       "source": "jikan"
     },
     {
@@ -989,7 +989,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:01.825Z",
+      "scanned_at": "2026-01-02T16:32:50.634Z",
       "source": "jikan"
     },
     {
@@ -1019,7 +1019,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Thursdays at 23:00 (JST)"
       },
-      "scanned_at": "2026-01-02T12:53:01.876Z",
+      "scanned_at": "2026-01-02T16:32:50.684Z",
       "source": "jikan"
     },
     {
@@ -1049,7 +1049,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-02T12:53:01.926Z",
+      "scanned_at": "2026-01-02T16:32:50.735Z",
       "source": "jikan"
     },
     {
@@ -1079,7 +1079,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:01.976Z",
+      "scanned_at": "2026-01-02T16:32:50.785Z",
       "source": "jikan"
     },
     {
@@ -1109,7 +1109,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:02.027Z",
+      "scanned_at": "2026-01-02T16:32:50.835Z",
       "source": "jikan"
     },
     {
@@ -1139,7 +1139,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-02T12:53:02.127Z",
+      "scanned_at": "2026-01-02T16:32:50.936Z",
       "source": "jikan"
     },
     {
@@ -1169,7 +1169,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:02.077Z",
+      "scanned_at": "2026-01-02T16:32:50.886Z",
       "source": "jikan"
     },
     {
@@ -1199,7 +1199,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-02T12:53:02.178Z",
+      "scanned_at": "2026-01-02T16:32:50.986Z",
       "source": "jikan"
     },
     {
@@ -1229,7 +1229,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:02.228Z",
+      "scanned_at": "2026-01-02T16:32:51.037Z",
       "source": "jikan"
     },
     {
@@ -1259,7 +1259,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:02.278Z",
+      "scanned_at": "2026-01-02T16:32:51.087Z",
       "source": "jikan"
     },
     {
@@ -1289,7 +1289,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Mondays at 22:00 (JST)"
       },
-      "scanned_at": "2026-01-02T12:53:02.329Z",
+      "scanned_at": "2026-01-02T16:32:51.137Z",
       "source": "jikan"
     },
     {
@@ -1319,7 +1319,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-02T12:53:02.379Z",
+      "scanned_at": "2026-01-02T16:32:51.187Z",
       "source": "jikan"
     },
     {
@@ -1349,7 +1349,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:02.430Z",
+      "scanned_at": "2026-01-02T16:32:51.238Z",
       "source": "jikan"
     },
     {
@@ -1379,7 +1379,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Saturdays at 23:00 (JST)"
       },
-      "scanned_at": "2026-01-02T12:53:02.480Z",
+      "scanned_at": "2026-01-02T16:32:51.288Z",
       "source": "jikan"
     },
     {
@@ -1409,7 +1409,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-02T12:53:02.530Z",
+      "scanned_at": "2026-01-02T16:32:51.338Z",
       "source": "jikan"
     },
     {
@@ -1430,8 +1430,8 @@
       "aired_string": "2026 to ?",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 3878,
-      "members": 41990,
+      "popularity": 3877,
+      "members": 42039,
       "favorites": 168,
       "broadcast": {
         "day": null,
@@ -1439,7 +1439,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:02.581Z",
+      "scanned_at": "2026-01-02T16:32:51.389Z",
       "source": "jikan"
     },
     {
@@ -1469,7 +1469,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:02.631Z",
+      "scanned_at": "2026-01-02T16:32:51.439Z",
       "source": "jikan"
     },
     {
@@ -1499,7 +1499,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-02T12:53:02.680Z",
+      "scanned_at": "2026-01-02T16:32:51.489Z",
       "source": "jikan"
     },
     {
@@ -1529,7 +1529,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-02T12:53:03.195Z",
+      "scanned_at": "2026-01-02T16:32:52.004Z",
       "source": "jikan"
     },
     {
@@ -1559,7 +1559,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-02T12:53:03.246Z",
+      "scanned_at": "2026-01-02T16:32:52.055Z",
       "source": "jikan"
     },
     {
@@ -1589,7 +1589,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:03.296Z",
+      "scanned_at": "2026-01-02T16:32:52.105Z",
       "source": "jikan"
     },
     {
@@ -1619,7 +1619,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:03.346Z",
+      "scanned_at": "2026-01-02T16:32:52.155Z",
       "source": "jikan"
     },
     {
@@ -1649,7 +1649,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:03.396Z",
+      "scanned_at": "2026-01-02T16:32:52.205Z",
       "source": "jikan"
     },
     {
@@ -1670,8 +1670,8 @@
       "aired_string": "Apr 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4040,
-      "members": 38615,
+      "popularity": 4036,
+      "members": 38735,
       "favorites": 154,
       "broadcast": {
         "day": null,
@@ -1679,7 +1679,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:03.447Z",
+      "scanned_at": "2026-01-02T16:32:52.256Z",
       "source": "jikan"
     },
     {
@@ -1709,7 +1709,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:03.497Z",
+      "scanned_at": "2026-01-02T16:32:52.306Z",
       "source": "jikan"
     },
     {
@@ -1739,7 +1739,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:03.547Z",
+      "scanned_at": "2026-01-02T16:32:52.356Z",
       "source": "jikan"
     },
     {
@@ -1769,7 +1769,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Mondays at 23:00 (JST)"
       },
-      "scanned_at": "2026-01-02T12:53:03.598Z",
+      "scanned_at": "2026-01-02T16:32:52.406Z",
       "source": "jikan"
     },
     {
@@ -1799,7 +1799,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-02T12:53:03.648Z",
+      "scanned_at": "2026-01-02T16:32:52.457Z",
       "source": "jikan"
     },
     {
@@ -1820,8 +1820,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4191,
-      "members": 35707,
+      "popularity": 4187,
+      "members": 35810,
       "favorites": 73,
       "broadcast": {
         "day": null,
@@ -1829,7 +1829,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:03.698Z",
+      "scanned_at": "2026-01-02T16:32:52.508Z",
       "source": "jikan"
     },
     {
@@ -1850,8 +1850,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4191,
-      "members": 35707,
+      "popularity": 4187,
+      "members": 35810,
       "favorites": 73,
       "broadcast": {
         "day": null,
@@ -1859,7 +1859,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:03.749Z",
+      "scanned_at": "2026-01-02T16:32:52.558Z",
       "source": "jikan"
     },
     {
@@ -1889,7 +1889,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:03.799Z",
+      "scanned_at": "2026-01-02T16:32:52.608Z",
       "source": "jikan"
     },
     {
@@ -1919,7 +1919,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:03.849Z",
+      "scanned_at": "2026-01-02T16:32:52.659Z",
       "source": "jikan"
     },
     {
@@ -1949,7 +1949,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:03.900Z",
+      "scanned_at": "2026-01-02T16:32:52.709Z",
       "source": "jikan"
     },
     {
@@ -1979,7 +1979,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-02T12:53:03.950Z",
+      "scanned_at": "2026-01-02T16:32:52.759Z",
       "source": "jikan"
     },
     {
@@ -2001,7 +2001,7 @@
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
       "popularity": 4277,
-      "members": 34366,
+      "members": 34409,
       "favorites": 115,
       "broadcast": {
         "day": null,
@@ -2009,7 +2009,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-02T12:53:04.000Z",
+      "scanned_at": "2026-01-02T16:32:52.809Z",
       "source": "jikan"
     },
     {
@@ -2039,7 +2039,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:04.050Z",
+      "scanned_at": "2026-01-02T16:32:52.860Z",
       "source": "jikan"
     },
     {
@@ -2069,7 +2069,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:04.101Z",
+      "scanned_at": "2026-01-02T16:32:52.910Z",
       "source": "jikan"
     },
     {
@@ -2099,7 +2099,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:04.151Z",
+      "scanned_at": "2026-01-02T16:32:52.960Z",
       "source": "jikan"
     },
     {
@@ -2129,7 +2129,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:04.201Z",
+      "scanned_at": "2026-01-02T16:32:53.010Z",
       "source": "jikan"
     },
     {
@@ -2159,7 +2159,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-02T12:53:04.251Z",
+      "scanned_at": "2026-01-02T16:32:53.061Z",
       "source": "jikan"
     },
     {
@@ -2189,7 +2189,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-02T12:53:04.302Z",
+      "scanned_at": "2026-01-02T16:32:53.111Z",
       "source": "jikan"
     },
     {
@@ -2219,7 +2219,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:04.352Z",
+      "scanned_at": "2026-01-02T16:32:53.161Z",
       "source": "jikan"
     },
     {
@@ -2249,7 +2249,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-02T12:53:04.402Z",
+      "scanned_at": "2026-01-02T16:32:53.212Z",
       "source": "jikan"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "timestamp": 1768812098138,
+  "timestamp": 1768827671333,
   "total": 75,
   "data": [
     {
@@ -21,15 +21,15 @@
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
       "popularity": 1432,
-      "members": 189745,
-      "favorites": 3105,
+      "members": 189846,
+      "favorites": 3110,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:33.204Z",
+      "scanned_at": "2026-01-19T13:01:06.428Z",
       "source": "jikan"
     },
     {
@@ -50,16 +50,16 @@
       "aired_string": "Jul 2026 to ?",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 1713,
-      "members": 152763,
-      "favorites": 1188,
+      "popularity": 1707,
+      "members": 153063,
+      "favorites": 1193,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:33.255Z",
+      "scanned_at": "2026-01-19T13:01:06.479Z",
       "source": "jikan"
     },
     {
@@ -80,16 +80,16 @@
       "aired_string": "Apr 2026 to ?",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 2216,
-      "members": 108411,
-      "favorites": 594,
+      "popularity": 2213,
+      "members": 108917,
+      "favorites": 603,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:33.305Z",
+      "scanned_at": "2026-01-19T13:01:06.529Z",
       "source": "jikan"
     },
     {
@@ -119,37 +119,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:33.355Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "59068",
-      "title": "Dungeon Meshi 2nd Season",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": null,
-      "year": null,
-      "score": null,
-      "poster": "https://cdn.myanimelist.net/images/anime/1796/143572l.webp",
-      "synopsis": "Second season of Dungeon Meshi.",
-      "session": null,
-      "slug": null,
-      "aired_from": null,
-      "aired_string": "Not available",
-      "duration": "Unknown",
-      "rating": "R - 17+ (violence & profanity)",
-      "popularity": 2342,
-      "members": 100744,
-      "favorites": 305,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": "Unknown"
-      },
-      "scanned_at": "2026-01-19T08:41:33.406Z",
+      "scanned_at": "2026-01-19T13:01:06.580Z",
       "source": "jikan"
     },
     {
@@ -170,8 +140,8 @@
       "aired_string": "Apr 3, 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2342,
-      "members": 100731,
+      "popularity": 2341,
+      "members": 101040,
       "favorites": 445,
       "broadcast": {
         "day": "Fridays",
@@ -179,7 +149,37 @@
         "timezone": "Asia/Tokyo",
         "string": "Fridays at 23:00 (JST)"
       },
-      "scanned_at": "2026-01-19T08:41:33.456Z",
+      "scanned_at": "2026-01-19T13:01:06.630Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "59068",
+      "title": "Dungeon Meshi 2nd Season",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": null,
+      "year": null,
+      "score": null,
+      "poster": "https://cdn.myanimelist.net/images/anime/1796/143572l.webp",
+      "synopsis": "Second season of Dungeon Meshi.",
+      "session": null,
+      "slug": null,
+      "aired_from": null,
+      "aired_string": "Not available",
+      "duration": "Unknown",
+      "rating": "R - 17+ (violence & profanity)",
+      "popularity": 2343,
+      "members": 100892,
+      "favorites": 306,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "scanned_at": "2026-01-19T13:01:06.680Z",
       "source": "jikan"
     },
     {
@@ -200,16 +200,16 @@
       "aired_string": "Apr 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2373,
-      "members": 98641,
-      "favorites": 493,
+      "popularity": 2371,
+      "members": 98931,
+      "favorites": 495,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:33.506Z",
+      "scanned_at": "2026-01-19T13:01:06.730Z",
       "source": "jikan"
     },
     {
@@ -231,15 +231,15 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "popularity": 2405,
-      "members": 95894,
-      "favorites": 454,
+      "members": 96059,
+      "favorites": 456,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:33.557Z",
+      "scanned_at": "2026-01-19T13:01:06.780Z",
       "source": "jikan"
     },
     {
@@ -260,16 +260,16 @@
       "aired_string": "2027 to ?",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 2475,
-      "members": 92327,
-      "favorites": 171,
+      "popularity": 2470,
+      "members": 92673,
+      "favorites": 172,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:33.607Z",
+      "scanned_at": "2026-01-19T13:01:06.832Z",
       "source": "jikan"
     },
     {
@@ -290,16 +290,16 @@
       "aired_string": "2027 to ?",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 2475,
-      "members": 92327,
-      "favorites": 171,
+      "popularity": 2470,
+      "members": 92673,
+      "favorites": 172,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:33.657Z",
+      "scanned_at": "2026-01-19T13:01:06.882Z",
       "source": "jikan"
     },
     {
@@ -320,16 +320,16 @@
       "aired_string": "2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2530,
-      "members": 88785,
-      "favorites": 584,
+      "popularity": 2529,
+      "members": 89019,
+      "favorites": 587,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:33.708Z",
+      "scanned_at": "2026-01-19T13:01:06.932Z",
       "source": "jikan"
     },
     {
@@ -351,7 +351,7 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "popularity": 2674,
-      "members": 81285,
+      "members": 81327,
       "favorites": 306,
       "broadcast": {
         "day": null,
@@ -359,7 +359,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:33.758Z",
+      "scanned_at": "2026-01-19T13:01:06.982Z",
       "source": "jikan"
     },
     {
@@ -380,16 +380,16 @@
       "aired_string": "Apr 3, 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2688,
-      "members": 80635,
-      "favorites": 1325,
+      "popularity": 2686,
+      "members": 80795,
+      "favorites": 1326,
       "broadcast": {
         "day": "Fridays",
         "time": "22:30",
         "timezone": "Asia/Tokyo",
         "string": "Fridays at 22:30 (JST)"
       },
-      "scanned_at": "2026-01-19T08:41:33.808Z",
+      "scanned_at": "2026-01-19T13:01:07.033Z",
       "source": "jikan"
     },
     {
@@ -410,8 +410,8 @@
       "aired_string": "Oct 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2710,
-      "members": 79121,
+      "popularity": 2712,
+      "members": 79167,
       "favorites": 427,
       "broadcast": {
         "day": null,
@@ -419,7 +419,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:33.858Z",
+      "scanned_at": "2026-01-19T13:01:07.083Z",
       "source": "jikan"
     },
     {
@@ -440,8 +440,8 @@
       "aired_string": "Feb 2026",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2727,
-      "members": 78631,
+      "popularity": 2724,
+      "members": 78692,
       "favorites": 397,
       "broadcast": {
         "day": null,
@@ -449,7 +449,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:33.909Z",
+      "scanned_at": "2026-01-19T13:01:07.134Z",
       "source": "jikan"
     },
     {
@@ -479,7 +479,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:33.959Z",
+      "scanned_at": "2026-01-19T13:01:07.184Z",
       "source": "jikan"
     },
     {
@@ -509,7 +509,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:34.009Z",
+      "scanned_at": "2026-01-19T13:01:07.235Z",
       "source": "jikan"
     },
     {
@@ -539,37 +539,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:34.060Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "60636",
-      "title": "Bleach: Sennen Kessen-hen - Kashin-tan",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": "summer",
-      "year": 2026,
-      "score": null,
-      "poster": "https://cdn.myanimelist.net/images/anime/1653/154517l.webp",
-      "synopsis": "Final part of Bleach: Sennen Kessen-hen.",
-      "session": null,
-      "slug": null,
-      "aired_from": "2026-07-01T00:00:00+00:00",
-      "aired_string": "Jul 2026 to ?",
-      "duration": "Unknown",
-      "rating": "R - 17+ (violence & profanity)",
-      "popularity": 2953,
-      "members": 68705,
-      "favorites": 356,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": "Unknown"
-      },
-      "scanned_at": "2026-01-19T08:41:34.110Z",
+      "scanned_at": "2026-01-19T13:01:07.285Z",
       "source": "jikan"
     },
     {
@@ -590,16 +560,46 @@
       "aired_string": "Apr 2026 to ?",
       "duration": "Unknown",
       "rating": null,
-      "popularity": 2956,
-      "members": 68559,
-      "favorites": 441,
+      "popularity": 2951,
+      "members": 68860,
+      "favorites": 442,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:34.160Z",
+      "scanned_at": "2026-01-19T13:01:07.335Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "60636",
+      "title": "Bleach: Sennen Kessen-hen - Kashin-tan",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": "summer",
+      "year": 2026,
+      "score": null,
+      "poster": "https://cdn.myanimelist.net/images/anime/1653/154517l.webp",
+      "synopsis": "Final part of Bleach: Sennen Kessen-hen.",
+      "session": null,
+      "slug": null,
+      "aired_from": "2026-07-01T00:00:00+00:00",
+      "aired_string": "Jul 2026 to ?",
+      "duration": "Unknown",
+      "rating": "R - 17+ (violence & profanity)",
+      "popularity": 2952,
+      "members": 68849,
+      "favorites": 357,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "scanned_at": "2026-01-19T13:01:07.385Z",
       "source": "jikan"
     },
     {
@@ -620,8 +620,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2972,
-      "members": 68119,
+      "popularity": 2970,
+      "members": 68193,
       "favorites": 319,
       "broadcast": {
         "day": null,
@@ -629,7 +629,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:34.210Z",
+      "scanned_at": "2026-01-19T13:01:07.435Z",
       "source": "jikan"
     },
     {
@@ -650,8 +650,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 3001,
-      "members": 66855,
+      "popularity": 2992,
+      "members": 67141,
       "favorites": 97,
       "broadcast": {
         "day": null,
@@ -659,7 +659,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:34.261Z",
+      "scanned_at": "2026-01-19T13:01:07.485Z",
       "source": "jikan"
     },
     {
@@ -680,8 +680,8 @@
       "aired_string": "Apr 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3029,
-      "members": 65769,
+      "popularity": 3021,
+      "members": 65957,
       "favorites": 215,
       "broadcast": {
         "day": null,
@@ -689,7 +689,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:34.311Z",
+      "scanned_at": "2026-01-19T13:01:07.536Z",
       "source": "jikan"
     },
     {
@@ -719,7 +719,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:34.361Z",
+      "scanned_at": "2026-01-19T13:01:07.586Z",
       "source": "jikan"
     },
     {
@@ -740,16 +740,16 @@
       "aired_string": "Apr 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3207,
-      "members": 58942,
-      "favorites": 95,
+      "popularity": 3196,
+      "members": 59290,
+      "favorites": 96,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:34.412Z",
+      "scanned_at": "2026-01-19T13:01:07.637Z",
       "source": "jikan"
     },
     {
@@ -770,16 +770,16 @@
       "aired_string": "Apr 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3207,
-      "members": 58942,
-      "favorites": 95,
+      "popularity": 3196,
+      "members": 59290,
+      "favorites": 96,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:34.923Z",
+      "scanned_at": "2026-01-19T13:01:08.154Z",
       "source": "jikan"
     },
     {
@@ -809,7 +809,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:34.973Z",
+      "scanned_at": "2026-01-19T13:01:08.204Z",
       "source": "jikan"
     },
     {
@@ -830,8 +830,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3298,
-      "members": 56151,
+      "popularity": 3295,
+      "members": 56226,
       "favorites": 157,
       "broadcast": {
         "day": null,
@@ -839,7 +839,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:35.023Z",
+      "scanned_at": "2026-01-19T13:01:08.255Z",
       "source": "jikan"
     },
     {
@@ -869,7 +869,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:35.074Z",
+      "scanned_at": "2026-01-19T13:01:08.305Z",
       "source": "jikan"
     },
     {
@@ -899,7 +899,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:35.124Z",
+      "scanned_at": "2026-01-19T13:01:08.355Z",
       "source": "jikan"
     },
     {
@@ -920,8 +920,8 @@
       "aired_string": "2027 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3432,
-      "members": 52562,
+      "popularity": 3428,
+      "members": 52700,
       "favorites": 108,
       "broadcast": {
         "day": null,
@@ -929,7 +929,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:35.174Z",
+      "scanned_at": "2026-01-19T13:01:08.405Z",
       "source": "jikan"
     },
     {
@@ -950,8 +950,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3455,
-      "members": 51992,
+      "popularity": 3450,
+      "members": 52177,
       "favorites": 50,
       "broadcast": {
         "day": null,
@@ -959,7 +959,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:35.225Z",
+      "scanned_at": "2026-01-19T13:01:08.455Z",
       "source": "jikan"
     },
     {
@@ -981,7 +981,7 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "popularity": 3564,
-      "members": 48839,
+      "members": 48883,
       "favorites": 136,
       "broadcast": {
         "day": null,
@@ -989,7 +989,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:35.275Z",
+      "scanned_at": "2026-01-19T13:01:08.506Z",
       "source": "jikan"
     },
     {
@@ -1019,7 +1019,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:35.326Z",
+      "scanned_at": "2026-01-19T13:01:08.556Z",
       "source": "jikan"
     },
     {
@@ -1041,7 +1041,7 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "popularity": 3635,
-      "members": 47286,
+      "members": 47306,
       "favorites": 320,
       "broadcast": {
         "day": null,
@@ -1049,7 +1049,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:35.376Z",
+      "scanned_at": "2026-01-19T13:01:08.606Z",
       "source": "jikan"
     },
     {
@@ -1070,16 +1070,16 @@
       "aired_string": "Oct 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3712,
-      "members": 45660,
-      "favorites": 157,
+      "popularity": 3709,
+      "members": 45733,
+      "favorites": 158,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:35.426Z",
+      "scanned_at": "2026-01-19T13:01:08.656Z",
       "source": "jikan"
     },
     {
@@ -1109,7 +1109,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:35.477Z",
+      "scanned_at": "2026-01-19T13:01:08.706Z",
       "source": "jikan"
     },
     {
@@ -1130,8 +1130,8 @@
       "aired_string": "Dec 2026",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3821,
-      "members": 43567,
+      "popularity": 3815,
+      "members": 43664,
       "favorites": 83,
       "broadcast": {
         "day": null,
@@ -1139,7 +1139,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:35.527Z",
+      "scanned_at": "2026-01-19T13:01:08.757Z",
       "source": "jikan"
     },
     {
@@ -1160,8 +1160,8 @@
       "aired_string": "Dec 2026",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3821,
-      "members": 43567,
+      "popularity": 3815,
+      "members": 43664,
       "favorites": 83,
       "broadcast": {
         "day": null,
@@ -1169,7 +1169,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:35.577Z",
+      "scanned_at": "2026-01-19T13:01:08.807Z",
       "source": "jikan"
     },
     {
@@ -1199,7 +1199,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:35.627Z",
+      "scanned_at": "2026-01-19T13:01:08.857Z",
       "source": "jikan"
     },
     {
@@ -1220,8 +1220,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3874,
-      "members": 42527,
+      "popularity": 3873,
+      "members": 42567,
       "favorites": 123,
       "broadcast": {
         "day": null,
@@ -1229,7 +1229,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:35.679Z",
+      "scanned_at": "2026-01-19T13:01:08.907Z",
       "source": "jikan"
     },
     {
@@ -1251,7 +1251,7 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "popularity": 3912,
-      "members": 41765,
+      "members": 41779,
       "favorites": 117,
       "broadcast": {
         "day": null,
@@ -1259,7 +1259,37 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:35.729Z",
+      "scanned_at": "2026-01-19T13:01:08.957Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "63147",
+      "title": "Gachiakuta 2nd Season",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": null,
+      "year": null,
+      "score": null,
+      "poster": "https://cdn.myanimelist.net/images/anime/1224/154534l.webp",
+      "synopsis": "Second season of Gachiakuta.",
+      "session": null,
+      "slug": null,
+      "aired_from": null,
+      "aired_string": "Not available",
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "popularity": 3920,
+      "members": 41643,
+      "favorites": 70,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "scanned_at": "2026-01-19T13:01:09.008Z",
       "source": "jikan"
     },
     {
@@ -1289,37 +1319,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:35.779Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "63147",
-      "title": "Gachiakuta 2nd Season",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": null,
-      "year": null,
-      "score": null,
-      "poster": "https://cdn.myanimelist.net/images/anime/1224/154534l.webp",
-      "synopsis": "Second season of Gachiakuta.",
-      "session": null,
-      "slug": null,
-      "aired_from": null,
-      "aired_string": "Not available",
-      "duration": "Unknown",
-      "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3943,
-      "members": 41142,
-      "favorites": 69,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": "Unknown"
-      },
-      "scanned_at": "2026-01-19T08:41:35.830Z",
+      "scanned_at": "2026-01-19T13:01:09.058Z",
       "source": "jikan"
     },
     {
@@ -1349,7 +1349,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:35.930Z",
+      "scanned_at": "2026-01-19T13:01:09.158Z",
       "source": "jikan"
     },
     {
@@ -1379,37 +1379,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:35.880Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "54688",
-      "title": "Naruto (Shinsaku Anime)",
-      "type": "TV",
-      "episodes": 4,
-      "status": "Not yet aired",
-      "season": null,
-      "year": null,
-      "score": null,
-      "poster": "https://cdn.myanimelist.net/images/anime/1378/137310l.webp",
-      "synopsis": "A new anime project in celebration of Naruto's 20th anniversary.",
-      "session": null,
-      "slug": null,
-      "aired_from": null,
-      "aired_string": "Not available",
-      "duration": "Unknown",
-      "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3978,
-      "members": 40153,
-      "favorites": 248,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": "Unknown"
-      },
-      "scanned_at": "2026-01-19T08:41:35.980Z",
+      "scanned_at": "2026-01-19T13:01:09.108Z",
       "source": "jikan"
     },
     {
@@ -1430,8 +1400,8 @@
       "aired_string": "Apr 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3982,
-      "members": 40105,
+      "popularity": 3976,
+      "members": 40264,
       "favorites": 152,
       "broadcast": {
         "day": null,
@@ -1439,7 +1409,37 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:36.031Z",
+      "scanned_at": "2026-01-19T13:01:09.209Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "54688",
+      "title": "Naruto (Shinsaku Anime)",
+      "type": "TV",
+      "episodes": 4,
+      "status": "Not yet aired",
+      "season": null,
+      "year": null,
+      "score": null,
+      "poster": "https://cdn.myanimelist.net/images/anime/1378/137310l.webp",
+      "synopsis": "A new anime project in celebration of Naruto's 20th anniversary.",
+      "session": null,
+      "slug": null,
+      "aired_from": null,
+      "aired_string": "Not available",
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "popularity": 3979,
+      "members": 40182,
+      "favorites": 248,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "scanned_at": "2026-01-19T13:01:09.259Z",
       "source": "jikan"
     },
     {
@@ -1469,7 +1469,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:36.081Z",
+      "scanned_at": "2026-01-19T13:01:09.309Z",
       "source": "jikan"
     },
     {
@@ -1499,67 +1499,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:36.131Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "62542",
-      "title": "Grand Blue Season 3",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": null,
-      "year": null,
-      "score": null,
-      "poster": "https://cdn.myanimelist.net/images/anime/1079/152172l.webp",
-      "synopsis": "Third season of Grand Blue.",
-      "session": null,
-      "slug": null,
-      "aired_from": null,
-      "aired_string": "Not available",
-      "duration": "Unknown",
-      "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4120,
-      "members": 37395,
-      "favorites": 79,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": "Unknown"
-      },
-      "scanned_at": "2026-01-19T08:41:36.682Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "62542",
-      "title": "Grand Blue Season 3",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": null,
-      "year": null,
-      "score": null,
-      "poster": "https://cdn.myanimelist.net/images/anime/1079/152172l.webp",
-      "synopsis": "Third season of Grand Blue.",
-      "session": null,
-      "slug": null,
-      "aired_from": null,
-      "aired_string": "Not available",
-      "duration": "Unknown",
-      "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4120,
-      "members": 37395,
-      "favorites": 79,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": "Unknown"
-      },
-      "scanned_at": "2026-01-19T08:41:36.732Z",
+      "scanned_at": "2026-01-19T13:01:09.359Z",
       "source": "jikan"
     },
     {
@@ -1580,8 +1520,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4122,
-      "members": 37370,
+      "popularity": 4120,
+      "members": 37409,
       "favorites": 60,
       "broadcast": {
         "day": null,
@@ -1589,7 +1529,67 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:36.782Z",
+      "scanned_at": "2026-01-19T13:01:09.877Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "62542",
+      "title": "Grand Blue Season 3",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": null,
+      "year": null,
+      "score": null,
+      "poster": "https://cdn.myanimelist.net/images/anime/1079/152172l.webp",
+      "synopsis": "Third season of Grand Blue.",
+      "session": null,
+      "slug": null,
+      "aired_from": null,
+      "aired_string": "Not available",
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "popularity": 4120,
+      "members": 37395,
+      "favorites": 79,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "scanned_at": "2026-01-19T13:01:09.927Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "62542",
+      "title": "Grand Blue Season 3",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": null,
+      "year": null,
+      "score": null,
+      "poster": "https://cdn.myanimelist.net/images/anime/1079/152172l.webp",
+      "synopsis": "Third season of Grand Blue.",
+      "session": null,
+      "slug": null,
+      "aired_from": null,
+      "aired_string": "Not available",
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "popularity": 4120,
+      "members": 37395,
+      "favorites": 79,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "scanned_at": "2026-01-19T13:01:09.978Z",
       "source": "jikan"
     },
     {
@@ -1610,8 +1610,8 @@
       "aired_string": "Jul 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4180,
-      "members": 36341,
+      "popularity": 4179,
+      "members": 36378,
       "favorites": 89,
       "broadcast": {
         "day": null,
@@ -1619,7 +1619,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:36.833Z",
+      "scanned_at": "2026-01-19T13:01:10.028Z",
       "source": "jikan"
     },
     {
@@ -1640,8 +1640,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4193,
-      "members": 36115,
+      "popularity": 4194,
+      "members": 36121,
       "favorites": 85,
       "broadcast": {
         "day": null,
@@ -1649,7 +1649,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:36.883Z",
+      "scanned_at": "2026-01-19T13:01:10.078Z",
       "source": "jikan"
     },
     {
@@ -1679,7 +1679,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:36.933Z",
+      "scanned_at": "2026-01-19T13:01:10.128Z",
       "source": "jikan"
     },
     {
@@ -1709,7 +1709,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:36.983Z",
+      "scanned_at": "2026-01-19T13:01:10.178Z",
       "source": "jikan"
     },
     {
@@ -1739,7 +1739,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:37.033Z",
+      "scanned_at": "2026-01-19T13:01:10.229Z",
       "source": "jikan"
     },
     {
@@ -1760,16 +1760,16 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": null,
-      "popularity": 4337,
-      "members": 33835,
-      "favorites": 432,
+      "popularity": 4336,
+      "members": 33877,
+      "favorites": 431,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:37.084Z",
+      "scanned_at": "2026-01-19T13:01:10.279Z",
       "source": "jikan"
     },
     {
@@ -1790,8 +1790,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4347,
-      "members": 33649,
+      "popularity": 4346,
+      "members": 33664,
       "favorites": 306,
       "broadcast": {
         "day": null,
@@ -1799,7 +1799,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:37.134Z",
+      "scanned_at": "2026-01-19T13:01:10.329Z",
       "source": "jikan"
     },
     {
@@ -1829,7 +1829,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:37.184Z",
+      "scanned_at": "2026-01-19T13:01:10.379Z",
       "source": "jikan"
     },
     {
@@ -1850,8 +1850,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4365,
-      "members": 33251,
+      "popularity": 4362,
+      "members": 33343,
       "favorites": 31,
       "broadcast": {
         "day": null,
@@ -1859,7 +1859,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:37.234Z",
+      "scanned_at": "2026-01-19T13:01:10.430Z",
       "source": "jikan"
     },
     {
@@ -1880,8 +1880,8 @@
       "aired_string": "Mar 2026",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4375,
-      "members": 33155,
+      "popularity": 4371,
+      "members": 33192,
       "favorites": 106,
       "broadcast": {
         "day": null,
@@ -1889,7 +1889,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:37.285Z",
+      "scanned_at": "2026-01-19T13:01:10.480Z",
       "source": "jikan"
     },
     {
@@ -1919,7 +1919,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:37.335Z",
+      "scanned_at": "2026-01-19T13:01:10.530Z",
       "source": "jikan"
     },
     {
@@ -1949,7 +1949,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:37.385Z",
+      "scanned_at": "2026-01-19T13:01:10.580Z",
       "source": "jikan"
     },
     {
@@ -1979,7 +1979,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:37.435Z",
+      "scanned_at": "2026-01-19T13:01:10.630Z",
       "source": "jikan"
     },
     {
@@ -2009,7 +2009,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:37.485Z",
+      "scanned_at": "2026-01-19T13:01:10.680Z",
       "source": "jikan"
     },
     {
@@ -2030,8 +2030,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 4549,
-      "members": 30373,
+      "popularity": 4545,
+      "members": 30437,
       "favorites": 47,
       "broadcast": {
         "day": null,
@@ -2039,37 +2039,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:37.536Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "56008",
-      "title": "Sabikui Bisco Season 2",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": null,
-      "year": null,
-      "score": null,
-      "poster": "https://cdn.myanimelist.net/images/anime/1345/137192l.webp",
-      "synopsis": "Second season of Sabikui Bisco.",
-      "session": null,
-      "slug": null,
-      "aired_from": null,
-      "aired_string": "Not available",
-      "duration": "Unknown",
-      "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4595,
-      "members": 29687,
-      "favorites": 62,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": "Unknown"
-      },
-      "scanned_at": "2026-01-19T08:41:37.586Z",
+      "scanned_at": "2026-01-19T13:01:10.731Z",
       "source": "jikan"
     },
     {
@@ -2099,7 +2069,37 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:37.636Z",
+      "scanned_at": "2026-01-19T13:01:10.831Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "56008",
+      "title": "Sabikui Bisco Season 2",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": null,
+      "year": null,
+      "score": null,
+      "poster": "https://cdn.myanimelist.net/images/anime/1345/137192l.webp",
+      "synopsis": "Second season of Sabikui Bisco.",
+      "session": null,
+      "slug": null,
+      "aired_from": null,
+      "aired_string": "Not available",
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "popularity": 4597,
+      "members": 29697,
+      "favorites": 62,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "scanned_at": "2026-01-19T13:01:10.781Z",
       "source": "jikan"
     },
     {
@@ -2120,8 +2120,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": null,
-      "popularity": 4605,
-      "members": 29573,
+      "popularity": 4604,
+      "members": 29589,
       "favorites": 140,
       "broadcast": {
         "day": null,
@@ -2129,7 +2129,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:37.686Z",
+      "scanned_at": "2026-01-19T13:01:10.881Z",
       "source": "jikan"
     },
     {
@@ -2159,7 +2159,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:37.736Z",
+      "scanned_at": "2026-01-19T13:01:10.931Z",
       "source": "jikan"
     },
     {
@@ -2189,7 +2189,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:37.787Z",
+      "scanned_at": "2026-01-19T13:01:10.982Z",
       "source": "jikan"
     },
     {
@@ -2219,7 +2219,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-01-19T08:41:37.837Z",
+      "scanned_at": "2026-01-19T13:01:11.032Z",
       "source": "jikan"
     },
     {
@@ -2240,8 +2240,8 @@
       "aired_string": "2027 to ?",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 4767,
-      "members": 27405,
+      "popularity": 4748,
+      "members": 27621,
       "favorites": 15,
       "broadcast": {
         "day": null,
@@ -2249,7 +2249,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-01-19T08:41:37.887Z",
+      "scanned_at": "2026-01-19T13:01:11.082Z",
       "source": "jikan"
     }
   ]

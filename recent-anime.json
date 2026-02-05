@@ -1,5 +1,5 @@
 {
-  "timestamp": 1770237611164,
+  "timestamp": 1770258699334,
   "total": 60,
   "data": [
     {
@@ -18,7 +18,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/0fef444b61769e5099e7b88e9c76b4db08038b6140865b20c78ed774c361cc6a.jpg",
       "latest_fansub": "ADN",
       "last_updated": "2026-01-30 16:44:37",
-      "scanned_at": "2026-02-04T20:40:11.063Z"
+      "scanned_at": "2026-02-05T02:31:39.234Z"
     },
     {
       "id": 6433,
@@ -36,7 +36,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/a1922df74c3a494b7d4bdcdf862e11132247f1f6ec8e8d8b6d8bf21f7e81a775.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2026-01-30 17:39:00",
-      "scanned_at": "2026-02-04T20:40:10.830Z"
+      "scanned_at": "2026-02-05T02:31:38.951Z"
     },
     {
       "id": 6129,
@@ -47,14 +47,14 @@
       "status": "Currently Airing",
       "season": "Spring",
       "year": 2025,
-      "score": 6.88,
+      "score": 6.87,
       "poster": "https://i.animepahe.si/posters/284b04e5e19f6322705268ad1806382873b2ff1aea3b059971f1443ce29ab198.jpg",
       "session": "972f4fa2-4598-a6ec-0f7f-4c3e680661b9",
       "latest_episode": 42,
       "latest_snapshot": "https://i.animepahe.si/snapshots/7e8bc296b221c5e62e86938b6ef44e07feb2788500f712eecbfd8705801df880.jpg",
       "latest_fansub": "Piyoko",
       "last_updated": "2026-01-30 23:09:29",
-      "scanned_at": "2026-02-04T20:40:10.580Z"
+      "scanned_at": "2026-02-05T02:31:38.669Z"
     },
     {
       "id": 6480,
@@ -65,14 +65,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 5.49,
+      "score": 5.39,
       "poster": "https://i.animepahe.si/posters/c08d478cb78967a6da21fdb25bd8b747aec28979a746f70cf26afa370bc53044.jpg",
       "session": "0cdbfacd-9d4f-bd38-d603-f6c336dec88b",
       "latest_episode": 4,
       "latest_snapshot": "https://i.animepahe.si/snapshots/cfff8fc7610a243b80e4f362f8fc2d267e6a74edf1c014809b44931da0a24f79.jpg",
       "latest_fansub": "Amazon",
       "last_updated": "2026-01-31 03:08:20",
-      "scanned_at": "2026-02-04T20:40:10.346Z"
+      "scanned_at": "2026-02-05T02:31:38.383Z"
     },
     {
       "id": 6483,
@@ -83,14 +83,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 6.45,
+      "score": 6.44,
       "poster": "https://i.animepahe.si/posters/b295ad34eeab0d2ab5bf9792fc66d01c567c9c1845a5192ab0c73a41d241d118.jpg",
       "session": "119d5fae-6667-48d1-84be-5394d9b29a5f",
       "latest_episode": 4,
       "latest_snapshot": "https://i.animepahe.si/snapshots/d5887697b90d850bd5c7ef3e128b8932f268fee2ae0881eba6d4e35a895d3004.jpg",
       "latest_fansub": "Bird",
       "last_updated": "2026-01-31 04:21:14",
-      "scanned_at": "2026-02-04T20:40:10.111Z"
+      "scanned_at": "2026-02-05T02:31:38.099Z"
     },
     {
       "id": 5255,
@@ -108,7 +108,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/27ad19b75599b6365d84fdb6934c80fc2cefbc6f17f25ade0c7dc3af159c8ccc.jpg",
       "latest_fansub": "Some-Stuffs",
       "last_updated": "2026-01-31 05:27:17",
-      "scanned_at": "2026-02-04T20:40:09.875Z"
+      "scanned_at": "2026-02-05T02:31:37.816Z"
     },
     {
       "id": 6471,
@@ -119,14 +119,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 6.92,
+      "score": 6.95,
       "poster": "https://i.animepahe.si/posters/1e11308f238fdfb4c414cfc7e3ac32224846dc131d3e223c9b97fd66d6288713.jpg",
       "session": "f96a716c-c2a3-c7f4-5767-18bb0d2cea02",
       "latest_episode": 6,
       "latest_snapshot": "https://i.animepahe.si/snapshots/ee655b8ca5196953ec47e669604f9b83a016e2a08fe16241730ac4775fb19fc3.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-01-31 09:34:30",
-      "scanned_at": "2026-02-04T20:40:09.641Z"
+      "scanned_at": "2026-02-05T02:31:37.520Z"
     },
     {
       "id": 3,
@@ -144,7 +144,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/4840af19cb37aee69f2fe04d1e1f20d97b7e27ea2f4f74f15ff565aa66a90492.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-01-31 12:36:51",
-      "scanned_at": "2026-02-04T20:40:09.407Z"
+      "scanned_at": "2026-02-05T02:31:37.236Z"
     },
     {
       "id": 6473,
@@ -155,14 +155,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 6.63,
+      "score": 6.61,
       "poster": "https://i.animepahe.si/posters/8baf0884321f2c6b51bc3ab1d6a115cb55a4e01af64b86e722569f44806c6c82.jpg",
       "session": "e7126afb-a545-c3a8-7137-2a6e29fe5193",
       "latest_episode": 4,
       "latest_snapshot": "https://i.animepahe.si/snapshots/1faa47631e5c373cf50c5668128329d6196e40234ab1c38a52a30edeb9da5ab7.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-01-31 13:05:47",
-      "scanned_at": "2026-02-04T20:40:09.167Z"
+      "scanned_at": "2026-02-05T02:31:36.916Z"
     },
     {
       "id": 6459,
@@ -173,14 +173,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 6.46,
+      "score": 6.45,
       "poster": "https://i.animepahe.si/posters/f1ccce1877ec4b239051d80df4df2bd212288b9fbbbf407f2f818077319d0d90.jpg",
       "session": "1862f028-9976-8e88-237a-edd5053ebf2a",
       "latest_episode": 4,
       "latest_snapshot": "https://i.animepahe.si/snapshots/137134d01ccbb9c14f160991ca712efdb09916e400bcf90e21e9324c218f7b96.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-01-31 15:05:52",
-      "scanned_at": "2026-02-04T20:40:08.930Z"
+      "scanned_at": "2026-02-05T02:31:36.635Z"
     },
     {
       "id": 6437,
@@ -191,14 +191,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 7.4,
+      "score": 7.38,
       "poster": "https://i.animepahe.si/posters/0743097c3ad02bb4931edcffd3381463d751da443faaace5f40750d95d39814e.jpg",
       "session": "45d0a98b-3515-ee03-6d99-aa23ac9b0f17",
       "latest_episode": 16,
       "latest_snapshot": "https://i.animepahe.si/snapshots/d00959929c7cabcd2c8fef1b0e85fc56c64c4bd04392202b3fb3b15bd9b48539.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-01-31 15:10:00",
-      "scanned_at": "2026-02-04T20:40:08.696Z"
+      "scanned_at": "2026-02-05T02:31:36.354Z"
     },
     {
       "id": 6475,
@@ -209,14 +209,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 6.26,
+      "score": 6.27,
       "poster": "https://i.animepahe.si/posters/21605a6cb3f5b3eaa02aeeb6f56561c7e833b4da60b7cc486fb9e557f7749735.jpg",
       "session": "d6ef56e2-6455-5349-6b03-73bae92fa7e8",
       "latest_episode": 4,
       "latest_snapshot": "https://i.animepahe.si/snapshots/6f41de85dcce0a5b0550307e83b8ad36b474e2962da786114a8ecc718ad0325a.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-01-31 15:36:00",
-      "scanned_at": "2026-02-04T20:40:08.469Z"
+      "scanned_at": "2026-02-05T02:31:36.081Z"
     },
     {
       "id": 6339,
@@ -227,14 +227,14 @@
       "status": "Currently Airing",
       "season": "Fall",
       "year": 2025,
-      "score": 7.68,
+      "score": 7.67,
       "poster": "https://i.animepahe.si/posters/c3e7ac7f55ae640bea522ff95dafde4bb57fa9c411ddd2333be12d1b152cb45c.jpg",
       "session": "91d4e25f-8b9f-f4ee-7c42-362e96cff87b",
       "latest_episode": 16,
       "latest_snapshot": "https://i.animepahe.si/snapshots/485923e5fd546895ab617a8a6dd4bad5323876ffd1c9a64aa3815724e23eacba.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2026-01-31 15:50:50",
-      "scanned_at": "2026-02-04T20:40:08.098Z"
+      "scanned_at": "2026-02-05T02:31:35.609Z"
     },
     {
       "id": 5859,
@@ -245,14 +245,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 8.51,
+      "score": 8.5,
       "poster": "https://i.animepahe.si/posters/8a38df9d9dcdbc20b209ee2104df8a5c09cccf2f2c6387ec65c51e254e5a5718.jpg",
       "session": "530a0f10-ca5e-3849-aea2-de8636e08316",
       "latest_episode": 5,
       "latest_snapshot": "https://i.animepahe.si/snapshots/f611d8641c8e3543cd653176aec4c114ee2dde5fdb03d0e9a5f7ad12bb326c51.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2026-01-31 16:08:50",
-      "scanned_at": "2026-02-04T20:40:07.865Z"
+      "scanned_at": "2026-02-05T02:31:35.312Z"
     },
     {
       "id": 6377,
@@ -263,14 +263,14 @@
       "status": "Currently Airing",
       "season": "Fall",
       "year": 2025,
-      "score": 7.49,
+      "score": 7.51,
       "poster": "https://i.animepahe.si/posters/8e4618a09db68d7136e0d124e38722fe1ca459929ee2955ce259156a0daf5c42.jpg",
       "session": "09fa0559-a573-4425-5110-70fbf2c09d0d",
       "latest_episode": 16,
       "latest_snapshot": "https://i.animepahe.si/snapshots/0d5b6ddfdf8ea6575a385bc3e3ad15c96d6c07eaafc5fc032fde976619011d0a.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-01-31 16:35:58",
-      "scanned_at": "2026-02-04T20:40:07.631Z"
+      "scanned_at": "2026-02-05T02:31:35.032Z"
     },
     {
       "id": 6378,
@@ -281,14 +281,14 @@
       "status": "Currently Airing",
       "season": "Fall",
       "year": 2025,
-      "score": 7.59,
+      "score": 7.58,
       "poster": "https://i.animepahe.si/posters/7ead6f43f81804e97c40c05acb70dd91a3cb349e24b0e800ef65db9480424778.jpg",
       "session": "c042ba75-c528-d9d6-1985-64be9734788f",
       "latest_episode": 17,
       "latest_snapshot": "https://i.animepahe.si/snapshots/7e3b0c0d29f20c735105a578975e32da629321e7af34bdc09201a2ec4247874a.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-01-31 17:05:25",
-      "scanned_at": "2026-02-04T20:40:07.402Z"
+      "scanned_at": "2026-02-05T02:31:34.747Z"
     },
     {
       "id": 5143,
@@ -306,7 +306,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/4f3ccbad8fec60353148722c6f6da72df10525b2791d0514bd7b971a0c3240bd.jpg",
       "latest_fansub": "MaruChanSubs",
       "last_updated": "2026-01-31 17:05:33",
-      "scanned_at": "2026-02-04T20:40:07.167Z"
+      "scanned_at": "2026-02-05T02:31:34.471Z"
     },
     {
       "id": 6472,
@@ -317,14 +317,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 6.57,
+      "score": 6.54,
       "poster": "https://i.animepahe.si/posters/bfdd090af53d5098d3556bd2eaf34e1f899df506a5430c4407c544b747afec1b.jpg",
       "session": "e2cf881c-74ae-1523-936b-e6f16b786df1",
       "latest_episode": 4,
       "latest_snapshot": "https://i.animepahe.si/snapshots/53f496f26eac12dd2404b08886e50d36c1d0d956a50993dae39be5601265e31e.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-01-31 17:13:13",
-      "scanned_at": "2026-02-04T20:40:06.937Z"
+      "scanned_at": "2026-02-05T02:31:34.188Z"
     },
     {
       "id": 6441,
@@ -335,14 +335,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 8.12,
+      "score": 8.21,
       "poster": "https://i.animepahe.si/posters/0a058377a7c97cd7afa90037278da43555382513ed2f92bf3d5ab8bdbf43e514.jpg",
       "session": "72282ff1-5fe3-29db-d148-efa8ebd1dc8b",
       "latest_episode": 15,
       "latest_snapshot": "https://i.animepahe.si/snapshots/92f2bce4858a08085f5d4d12faaade30bd93ebb674ab47c08909c815d320c003.jpg",
       "latest_fansub": "Disney_Plus",
       "last_updated": "2026-01-31 17:19:52",
-      "scanned_at": "2026-02-04T20:40:06.694Z"
+      "scanned_at": "2026-02-05T02:31:33.913Z"
     },
     {
       "id": 6404,
@@ -353,14 +353,14 @@
       "status": "Currently Airing",
       "season": "Fall",
       "year": 2025,
-      "score": 5.96,
+      "score": 5.97,
       "poster": "https://i.animepahe.si/posters/2e7fa77936517c430f289b67aaa4220b6b4978d68b64078a695a15cfa9998eda.jpg",
       "session": "30c57a4b-bc4b-6516-b77e-86aef3ae5bb8",
       "latest_episode": 17,
       "latest_snapshot": "https://i.animepahe.si/snapshots/18eaf2932f3ee85478e147bd6635989a94436b3548976ca4490ad05ef1047d6e.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-01 02:04:42",
-      "scanned_at": "2026-02-04T20:40:06.452Z"
+      "scanned_at": "2026-02-05T02:31:33.637Z"
     },
     {
       "id": 6486,
@@ -371,14 +371,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 7.51,
+      "score": 7.52,
       "poster": "https://i.animepahe.si/posters/a3128348cb99d04f165f273dbab05fd2889b1ea0ef979ff6487dede0f9b9d5d1.jpg",
       "session": "2a541bf9-b6a4-03be-61ef-9061778f782a",
       "latest_episode": 9,
       "latest_snapshot": "https://i.animepahe.si/snapshots/152ffa8c387fa1fa93bc1fd323fbe2dcf078c9a0d07a6eb7d14ebd7b016a2a6b.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-01 02:33:15",
-      "scanned_at": "2026-02-04T20:40:06.220Z"
+      "scanned_at": "2026-02-05T02:31:33.356Z"
     },
     {
       "id": 6394,
@@ -389,32 +389,32 @@
       "status": "Currently Airing",
       "season": "Fall",
       "year": 2025,
-      "score": 7.04,
+      "score": 7.03,
       "poster": "https://i.animepahe.si/posters/ebb9a5bd9ed0d661744e059e9ee14c8bfaabb8fac20843ceaa5d2e1438af3857.jpg",
       "session": "e308e5cb-1c1a-3f2c-0519-27ade6aa47df",
       "latest_episode": 17,
       "latest_snapshot": "https://i.animepahe.si/snapshots/6b5815b853c054b4b699520fe35dbfb047c2a061b34fd6766061be33dc71f7fc.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-01 03:04:51",
-      "scanned_at": "2026-02-04T20:40:05.986Z"
+      "scanned_at": "2026-02-05T02:31:33.071Z"
     },
     {
       "id": 6561,
       "malid": null,
       "title": "Meitantei Precure!",
       "type": "TV",
-      "episodes": 12,
+      "episodes": 0,
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": null,
+      "score": 7.34,
       "poster": "https://i.animepahe.si/posters/c80389f6f27360cb092cffa233be3a0b970353e5bb697f2dbf3519604cb1d021.jpg",
       "session": "f1dc115e-a79d-d85b-e3ef-83218935abbc",
       "latest_episode": 1,
       "latest_snapshot": "https://i.animepahe.si/snapshots/ad904aaf266b9171ad914795d84123b508a60e73eb1ec3779bfdc98fe4e4e78b.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-01 06:25:14",
-      "scanned_at": "2026-02-04T20:40:05.754Z"
+      "scanned_at": "2026-02-05T02:31:32.787Z"
     },
     {
       "id": 6440,
@@ -425,14 +425,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 7.53,
+      "score": 7.52,
       "poster": "https://i.animepahe.si/posters/68c88e3da378c995a86fc31cccd11f2d3f7dedcb5e4022629ef3e47a86edc623.jpg",
       "session": "4eeec3f8-42c2-85dd-11ce-18e687207b80",
       "latest_episode": 4,
       "latest_snapshot": "https://i.animepahe.si/snapshots/ec36307a95002bee112796ae99672d43a535914d6e14d1ff6138ac5208490a9b.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-01 08:04:33",
-      "scanned_at": "2026-02-04T20:40:05.514Z"
+      "scanned_at": "2026-02-05T02:31:32.501Z"
     },
     {
       "id": 6439,
@@ -443,14 +443,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 8.12,
+      "score": 8.13,
       "poster": "https://i.animepahe.si/posters/2c1068e3f59d77254be3c75ff4131567ea1e05c02d27e81154e9c2db4445e53a.jpg",
       "session": "76b6affb-cb5e-d7ae-7b97-aa761e9719b1",
       "latest_episode": 4,
       "latest_snapshot": "https://i.animepahe.si/snapshots/a2155abdb339ca06593e84124258faf1e626ff1cb3bfff55866a96c82d2b49b9.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2026-02-01 08:35:42",
-      "scanned_at": "2026-02-04T20:40:05.148Z"
+      "scanned_at": "2026-02-05T02:31:32.020Z"
     },
     {
       "id": 6461,
@@ -468,25 +468,25 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/539868ce540d4eaadb86a504ccb5277c524dc08f08098bbed7d67e0c2a277170.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2026-02-01 09:04:52",
-      "scanned_at": "2026-02-04T20:40:04.913Z"
+      "scanned_at": "2026-02-05T02:31:31.741Z"
     },
     {
       "id": 6463,
       "malid": null,
       "title": "Kunon the Sorcerer Can See",
       "type": "TV",
-      "episodes": 0,
+      "episodes": 13,
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 6.64,
+      "score": 6.62,
       "poster": "https://i.animepahe.si/posters/a0166d719265e4e64cb99cbfc0e4df9deb2e4975e16ecd00093efdd4ba37cd2e.jpg",
       "session": "2a2c0932-36ab-9d20-0e37-b14489d08232",
       "latest_episode": 6,
       "latest_snapshot": "https://i.animepahe.si/snapshots/bbccba1b53c38b2d6a58eb4de5ff396905d43f9c2816dd72ce1eb7f381e31205.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-01 14:06:06",
-      "scanned_at": "2026-02-04T20:40:04.677Z"
+      "scanned_at": "2026-02-05T02:31:31.464Z"
     },
     {
       "id": 6455,
@@ -497,14 +497,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 7.08,
+      "score": 7.06,
       "poster": "https://i.animepahe.si/posters/073a0580245302305cb0f8eb21ef37cd0886b30d8b06296c46fb9f75a640f10c.jpg",
       "session": "897652cd-5fe5-fae7-b087-fe43cc619770",
       "latest_episode": 6,
       "latest_snapshot": "https://i.animepahe.si/snapshots/a7beb3ca3c147cb306087de3329a70b9c81928d4bdd1c09358379c59a31e08b3.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2026-02-01 14:09:35",
-      "scanned_at": "2026-02-04T20:40:04.443Z"
+      "scanned_at": "2026-02-05T02:31:31.180Z"
     },
     {
       "id": 6453,
@@ -515,14 +515,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 6.4,
+      "score": 6.34,
       "poster": "https://i.animepahe.si/posters/51de63cdc03a7e3dc2432f658909b303b71c4942e3883267011d7c68be44eac4.jpg",
       "session": "82302df0-b421-5e12-841f-9846360f820d",
       "latest_episode": 4,
       "latest_snapshot": "https://i.animepahe.si/snapshots/02b8dd0e37f197faa89109343606a7bdc13e970b36a6f1c0ca340c3f2f59169b.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-01 14:36:02",
-      "scanned_at": "2026-02-04T20:40:04.210Z"
+      "scanned_at": "2026-02-05T02:31:30.896Z"
     },
     {
       "id": 6456,
@@ -533,14 +533,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 6.34,
+      "score": 6.29,
       "poster": "https://i.animepahe.si/posters/b09ccbe5ff4f60c3948b3061b1879378f1511420b880ffed070e9825c3765e8b.jpg",
       "session": "a361b5dd-e478-b40e-972d-1bf414b39668",
       "latest_episode": 5,
       "latest_snapshot": "https://i.animepahe.si/snapshots/254ac886ee3dd31d38fc007927fe760dc4586f77b8ceaab8cdda450a2e9ae338.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-01 15:06:54",
-      "scanned_at": "2026-02-04T20:40:03.981Z"
+      "scanned_at": "2026-02-05T02:31:30.616Z"
     },
     {
       "id": 6431,
@@ -551,14 +551,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 8.18,
+      "score": 8.19,
       "poster": "https://i.animepahe.si/posters/b704a34a1ed0957b82b91f6a8004283f315c0412391da4633193896455f66743.jpg",
       "session": "6465800e-c85e-cf6c-f95c-848e187315f4",
       "latest_episode": 17,
       "latest_snapshot": "https://i.animepahe.si/snapshots/e0cb2c330c49e546dd4112082e0f524c22a052618c0eadc59b024cf9640e6eb6.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-01 15:22:13",
-      "scanned_at": "2026-02-04T20:40:03.744Z"
+      "scanned_at": "2026-02-05T02:31:30.335Z"
     },
     {
       "id": 6474,
@@ -569,14 +569,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 5.64,
+      "score": 5.66,
       "poster": "https://i.animepahe.si/posters/a728d20fe9b03448af8a73b61e534342e2d9defe982bce10a4de3427cf47c828.jpg",
       "session": "8643e7a4-3d72-12f8-3094-c769d5a30527",
       "latest_episode": 5,
       "latest_snapshot": "https://i.animepahe.si/snapshots/e660a4c0a5879d99bd619ec9cecfdd03d069e467baa76363efac805937dfcea5.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-01 15:36:46",
-      "scanned_at": "2026-02-04T20:40:03.510Z"
+      "scanned_at": "2026-02-05T02:31:30.052Z"
     },
     {
       "id": 6446,
@@ -587,14 +587,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 8.32,
+      "score": 8.41,
       "poster": "https://i.animepahe.si/posters/7901c97163379a6413f31e7a34b7801e3de2ae01126e0d3d5017f1bda2f412d4.jpg",
       "session": "2383da24-221b-915c-48c4-bcd910cdda99",
       "latest_episode": 5,
       "latest_snapshot": "https://i.animepahe.si/snapshots/a2ceb209bfac853c2ba4124927c4415c55c74fd53839dca206e87457f984b5a2.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-01 15:39:56",
-      "scanned_at": "2026-02-04T20:40:03.278Z"
+      "scanned_at": "2026-02-05T02:31:29.771Z"
     },
     {
       "id": 6477,
@@ -605,14 +605,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 4.86,
+      "score": 4.84,
       "poster": "https://i.animepahe.si/posters/ab763237d31d7b6db4f658b7e427dbee14a2075f35e0feaf9657cc40dc187166.jpg",
       "session": "2286d713-06ae-7af3-b3e1-f3b0efacf67b",
       "latest_episode": 4,
       "latest_snapshot": "https://i.animepahe.si/snapshots/7714a3fcc8b82251371e332fdf871bd911c74d71e756169fabe45124c42f401e.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-01 16:07:28",
-      "scanned_at": "2026-02-04T20:40:03.034Z"
+      "scanned_at": "2026-02-05T02:31:29.491Z"
     },
     {
       "id": 6514,
@@ -623,14 +623,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 5.94,
+      "score": 6.01,
       "poster": "https://i.animepahe.si/posters/c0bafb048b634f7f6248df61614dd7b201ee56298058b1f804e41f3419e07b9a.jpg",
       "session": "a0bebbce-3ba2-048f-96ec-9ec0f79a316e",
       "latest_episode": 4,
       "latest_snapshot": "https://i.animepahe.si/snapshots/cf40ddc6d79e028268d3587b2d538130e3ea811511f501a348f9208d785447ef.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-01 19:48:03",
-      "scanned_at": "2026-02-04T20:40:02.807Z"
+      "scanned_at": "2026-02-05T02:31:28.890Z"
     },
     {
       "id": 6516,
@@ -641,14 +641,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 5.65,
+      "score": 5.62,
       "poster": "https://i.animepahe.si/posters/01f70dc13b6044db98a450aa33d908557405b26a4680459bd9755319be5241db.jpg",
       "session": "9f503f34-522b-8067-1d8d-3577e70cec75",
       "latest_episode": 4,
       "latest_snapshot": "https://i.animepahe.si/snapshots/f7ba13ac8cabe9fa0a3681a29756ba4609efb4969a8e6c8bad62d2e2e0a34c18.jpg",
       "latest_fansub": "Amazon",
       "last_updated": "2026-02-02 13:12:38",
-      "scanned_at": "2026-02-04T20:40:02.575Z"
+      "scanned_at": "2026-02-05T02:31:28.611Z"
     },
     {
       "id": 6466,
@@ -659,14 +659,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 6.93,
+      "score": 6.92,
       "poster": "https://i.animepahe.si/posters/1877fa0247f88c04490a02b75e0ab34071cb3f8f7a9dd700fe2a68117b04e1df.jpg",
       "session": "31d30f30-f3cf-5df8-4fc6-f9412b5cf7f3",
       "latest_episode": 5,
       "latest_snapshot": "https://i.animepahe.si/snapshots/fd8b349e35e1d050565a13e675fb083319512448afaa8eb1b963af8b8924ff67.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-02 13:34:11",
-      "scanned_at": "2026-02-04T20:40:02.202Z"
+      "scanned_at": "2026-02-05T02:31:28.145Z"
     },
     {
       "id": 6436,
@@ -677,14 +677,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 7.39,
+      "score": 7.37,
       "poster": "https://i.animepahe.si/posters/532e94f15261bf7fbd4fc8d49240f30ac08871c74c99f6c69617996396cd0e2f.jpg",
       "session": "84b53295-7754-45d0-d652-a5a88088eefb",
       "latest_episode": 18,
       "latest_snapshot": "https://i.animepahe.si/snapshots/a6e8b2f8866f045c396851e27f45445ed87f045e939f3726dd02fe8226f0cf38.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2026-02-02 14:04:15",
-      "scanned_at": "2026-02-04T20:40:01.970Z"
+      "scanned_at": "2026-02-05T02:31:27.870Z"
     },
     {
       "id": 6438,
@@ -695,14 +695,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 8.21,
+      "score": 8.24,
       "poster": "https://i.animepahe.si/posters/80f244fc55538c4e06bac74470805bff4b60b2602cf5d2fb8fa8fd36cfc31f48.jpg",
       "session": "3cd5eab2-f9b7-5b5d-e2cd-2538436c6761",
       "latest_episode": 54,
       "latest_snapshot": "https://i.animepahe.si/snapshots/190aa5fcadf4a9524509f33f2230fb0558c992c6d0fd527b07d00b14430f6c40.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-02 14:34:29",
-      "scanned_at": "2026-02-04T20:40:01.737Z"
+      "scanned_at": "2026-02-05T02:31:27.589Z"
     },
     {
       "id": 6467,
@@ -713,14 +713,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 6.52,
+      "score": 6.51,
       "poster": "https://i.animepahe.si/posters/6f28c8daa661f02d4811da60ad01850969b8cd2fe40762f47b1bb8470066bd2c.jpg",
       "session": "ee9ee25c-94bc-0008-8bdf-195e28a95302",
       "latest_episode": 5,
       "latest_snapshot": "https://i.animepahe.si/snapshots/3f1282451c7c9ba3ad782ebb8f4587b336e523e55db7af9cbf39b800c5956665.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-02 15:46:18",
-      "scanned_at": "2026-02-04T20:40:01.502Z"
+      "scanned_at": "2026-02-05T02:31:27.306Z"
     },
     {
       "id": 6445,
@@ -731,14 +731,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 7.63,
+      "score": 7.66,
       "poster": "https://i.animepahe.si/posters/1747a0dacdbcadc3cacdc78eb5d9a0bcfed8f9e530d746dab21701a27a21922c.jpg",
       "session": "524c3afb-3a3a-44f9-e76f-6d9bf34cc385",
       "latest_episode": 16,
       "latest_snapshot": "https://i.animepahe.si/snapshots/0e34762800059a2648ac63f8eb0415110038f32025e3223fe6c7f073a30c88c5.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-02 16:06:24",
-      "scanned_at": "2026-02-04T20:40:01.272Z"
+      "scanned_at": "2026-02-05T02:31:27.020Z"
     },
     {
       "id": 6567,
@@ -749,14 +749,14 @@
       "status": "Finished Airing",
       "season": "Fall",
       "year": 2025,
-      "score": 5.72,
+      "score": 5.73,
       "poster": "https://i.animepahe.si/posters/5569d57def45eaed3e479d1e7e14d563cf66b4b481d942799ebf80d9180d04c1.jpg",
       "session": "ef965350-bded-cca5-5b70-459bb28f845a",
       "latest_episode": 1,
       "latest_snapshot": "https://i.animepahe.si/snapshots/4f3c6c9d0e877d53b8fa55c8591624ec321a7ccf2fc91e3583e795157dbd04c1.jpg",
       "latest_fansub": "CicakRumah",
       "last_updated": "2026-02-03 04:14:53",
-      "scanned_at": "2026-02-04T20:40:01.040Z"
+      "scanned_at": "2026-02-05T02:31:26.739Z"
     },
     {
       "id": 6568,
@@ -774,7 +774,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/4599f8e786fc5e326a06290e7cd1fe19f68ebcbfec4b29ecd696e5014153941a.jpg",
       "latest_fansub": "CicakRumah",
       "last_updated": "2026-02-03 04:41:15",
-      "scanned_at": "2026-02-04T20:40:00.813Z"
+      "scanned_at": "2026-02-05T02:31:26.466Z"
     },
     {
       "id": 6476,
@@ -785,14 +785,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 7.23,
+      "score": 7.21,
       "poster": "https://i.animepahe.si/posters/d7ad973bb6d5f7427f9fa6e03585134b8aa34f25c075ed7ed6ba3d58e6f1abea.jpg",
       "session": "f7a3de17-d75b-d8cc-af75-88e84a193cfc",
       "latest_episode": 6,
       "latest_snapshot": "https://i.animepahe.si/snapshots/62a51be622069e9ccdb9b2ddce3ca4acb271f7d23886bffc8523a909d49a0155.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-03 13:05:47",
-      "scanned_at": "2026-02-04T20:40:00.557Z"
+      "scanned_at": "2026-02-05T02:31:26.182Z"
     },
     {
       "id": 6128,
@@ -803,14 +803,14 @@
       "status": "Finished Airing",
       "season": "Spring",
       "year": 2025,
-      "score": 5.99,
+      "score": 6.01,
       "poster": "https://i.animepahe.si/posters/c682f8588f27fa599c263c1fab64c9efd570f3033e8cfd7cf1dba74707851a27.jpg",
       "session": "157a0c20-ef2e-a183-a13f-82eaf890ad99",
       "latest_episode": 19,
       "latest_snapshot": "https://i.animepahe.si/snapshots/ae8ceb1d36d0e0afe8c6d40f0f0be9d1035b4ca430a92519d2226eead6e81211.jpg",
       "latest_fansub": "CicakRumah",
       "last_updated": "2026-02-03 12:43:27",
-      "scanned_at": "2026-02-04T20:40:00.303Z"
+      "scanned_at": "2026-02-05T02:31:25.901Z"
     },
     {
       "id": 6442,
@@ -821,14 +821,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 7.21,
+      "score": 7.22,
       "poster": "https://i.animepahe.si/posters/109677344ff58542e86e21918670ac7fa8c65f279147f18c6b47a692c9b3befe.jpg",
       "session": "b527331c-d9b1-49cc-633a-2b5a926b41fc",
       "latest_episode": 5,
       "latest_snapshot": "https://i.animepahe.si/snapshots/8e40b37499ffcee4ff4e079713bd9e24056494a05e4a29a9aabef61552b303d7.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-03 14:12:24",
-      "scanned_at": "2026-02-04T20:40:00.075Z"
+      "scanned_at": "2026-02-05T02:31:25.625Z"
     },
     {
       "id": 6458,
@@ -839,14 +839,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 7.06,
+      "score": 7.03,
       "poster": "https://i.animepahe.si/posters/2a2d35a2711fbe15e0433c676129161b87f649411124301bc8f282d734a1586c.jpg",
       "session": "7d3e3c1e-78d2-7089-b36f-c0893db0b1ff",
       "latest_episode": 5,
       "latest_snapshot": "https://i.animepahe.si/snapshots/d8c261aa1935a798e5d2b028586bd0fe530813b126b6b5f0e5bec99e9a49e19a.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-03 14:38:00",
-      "scanned_at": "2026-02-04T20:39:59.841Z"
+      "scanned_at": "2026-02-05T02:31:25.162Z"
     },
     {
       "id": 6479,
@@ -857,14 +857,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 6.41,
+      "score": 6.36,
       "poster": "https://i.animepahe.si/posters/f29d2a026a51069e14f1e817a4c97c9dd75bb2a073e1d3cdefc92ad736400094.jpg",
       "session": "c3164753-ad47-38ea-5934-479f87408968",
       "latest_episode": 5,
       "latest_snapshot": "https://i.animepahe.si/snapshots/db7d3ede44f26904bd77799c36e228fc3c4aee0ecaf9a57a63b40056e6f75f0d.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-03 15:10:33",
-      "scanned_at": "2026-02-04T20:39:59.609Z"
+      "scanned_at": "2026-02-05T02:31:24.880Z"
     },
     {
       "id": 6452,
@@ -875,14 +875,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 6.69,
+      "score": 6.6,
       "poster": "https://i.animepahe.si/posters/4d5a7e7176abea9891a9d621ba7fddc362d2cea734f1b81527b3ecedb4300912.jpg",
       "session": "9f2d9f52-f412-2b7b-e8f9-9cc0a09738dd",
       "latest_episode": 5,
       "latest_snapshot": "https://i.animepahe.si/snapshots/83835d0621517906f11ac49eca35629b740c6fd7f3ed9256dd23e133f7958a3b.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-03 15:15:47",
-      "scanned_at": "2026-02-04T20:39:59.227Z"
+      "scanned_at": "2026-02-05T02:31:24.396Z"
     },
     {
       "id": 6448,
@@ -893,14 +893,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 6.73,
+      "score": 6.67,
       "poster": "https://i.animepahe.si/posters/de9f3d8f30a3ec746430a9cbaf6c74d8c3e3b52a91e64e900862eb52e7ab0e5c.jpg",
       "session": "007b1900-a1c4-ffdb-5c5c-b2980ccad8df",
       "latest_episode": 5,
       "latest_snapshot": "https://i.animepahe.si/snapshots/9d6746fb01888995a469456747cb81fd15948595274d653ab97b319b13ca6a7f.jpg",
       "latest_fansub": "Amazon",
       "last_updated": "2026-02-03 15:56:18",
-      "scanned_at": "2026-02-04T20:39:58.997Z"
+      "scanned_at": "2026-02-05T02:31:24.113Z"
     },
     {
       "id": 6469,
@@ -911,14 +911,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 6.39,
+      "score": 6.35,
       "poster": "https://i.animepahe.si/posters/59ad1edf9158b25ed099e7ef77d30146897152a221005d91711801681fb8bb65.jpg",
       "session": "66ce33ff-272c-6c23-6403-6ac1ad135acb",
       "latest_episode": 5,
       "latest_snapshot": "https://i.animepahe.si/snapshots/a8c1b36da4df6732d8913d48ce6ec58ed751f32e916e73d90070b7503a3c05fa.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-03 17:52:47",
-      "scanned_at": "2026-02-04T20:39:58.753Z"
+      "scanned_at": "2026-02-05T02:31:23.613Z"
     },
     {
       "id": 6470,
@@ -929,14 +929,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 6.3,
+      "score": 6.26,
       "poster": "https://i.animepahe.si/posters/55cb2b6ec4f851c3e1a1c2ceab636dbcbd2bb860a9e684cacda98e3b83107bb0.jpg",
       "session": "e321fac9-cbc6-3e39-9278-1d6bca837ab5",
       "latest_episode": 5,
       "latest_snapshot": "https://i.animepahe.si/snapshots/521430c8af518a59fb1690523eb84ba651a7afb751e03f71927e85ef7428a9e6.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-04 13:09:23",
-      "scanned_at": "2026-02-04T20:39:58.520Z"
+      "scanned_at": "2026-02-05T02:31:23.331Z"
     },
     {
       "id": 6465,
@@ -954,7 +954,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/cfe88b546d0164bcc07033f2114df14b077ae0fa4ef4a7baa77648c771bcf709.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-04 13:09:25",
-      "scanned_at": "2026-02-04T20:39:58.279Z"
+      "scanned_at": "2026-02-05T02:31:22.862Z"
     },
     {
       "id": 6432,
@@ -965,14 +965,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 8.44,
+      "score": 8.43,
       "poster": "https://i.animepahe.si/posters/cead9e813326abd9b5879f692f7d4e27406a213ec045fec8a020a1fdb11303be.jpg",
       "session": "4a50eb04-ca62-59b2-3a2d-dc9b86d4fbdb",
       "latest_episode": 28,
       "latest_snapshot": "https://i.animepahe.si/snapshots/114d8f7d6c9dda7a05dc1f765672668b62edaa29243bcfac0ab6902f210939dd.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-04 15:07:35",
-      "scanned_at": "2026-02-04T20:39:58.042Z"
+      "scanned_at": "2026-02-05T02:31:22.581Z"
     },
     {
       "id": 6451,
@@ -983,14 +983,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 6.69,
+      "score": 6.7,
       "poster": "https://i.animepahe.si/posters/94f85cafe8c395a82c7a0f58b1f55c00308335e468377085f468b1fc47c74c9a.jpg",
       "session": "a688235b-021a-ef3d-9bf1-da361e93e53e",
       "latest_episode": 6,
       "latest_snapshot": "https://i.animepahe.si/snapshots/a5cff7b9791b5772b4af533814b6459e943a87c0d4fe646bfc83bfd7acf3c7c8.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-04 15:11:39",
-      "scanned_at": "2026-02-04T20:39:57.786Z"
+      "scanned_at": "2026-02-05T02:31:22.090Z"
     },
     {
       "id": 6457,
@@ -1001,14 +1001,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 6.62,
+      "score": 6.61,
       "poster": "https://i.animepahe.si/posters/894dfcb52621e005cb5c860950cb0363530abb4eb719c37237158e0bc35f0efe.jpg",
       "session": "a86710e8-1b1f-0f9d-531a-1f08949536f5",
       "latest_episode": 5,
       "latest_snapshot": "https://i.animepahe.si/snapshots/ed3b07c35c6a831104e3ff54f8c19e313ef970d82bc1712d321a86b56f5990e6.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-04 15:20:19",
-      "scanned_at": "2026-02-04T20:39:57.528Z"
+      "scanned_at": "2026-02-05T02:31:21.807Z"
     },
     {
       "id": 6449,
@@ -1019,14 +1019,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 7.84,
+      "score": 7.81,
       "poster": "https://i.animepahe.si/posters/c7a052696886733a9163a5670b8674f3274d52b9b1c5448f22cba4bb51d31465.jpg",
       "session": "e00e2abb-09cd-673b-06da-18a477686101",
       "latest_episode": 5,
       "latest_snapshot": "https://i.animepahe.si/snapshots/62a9a1cec07b3d2dcd0581f64622d34b9ea525da6b688dc2dbdcd595f717e6ab.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-04 17:32:17",
-      "scanned_at": "2026-02-04T20:39:57.273Z"
+      "scanned_at": "2026-02-05T02:31:21.513Z"
     },
     {
       "id": 6444,
@@ -1037,14 +1037,14 @@
       "status": "Currently Airing",
       "season": "Winter",
       "year": 2026,
-      "score": 7.96,
+      "score": 7.95,
       "poster": "https://i.animepahe.si/posters/ad6d2348bd0bb563a16c0803e1dc8afc7fdfbeed2af0d5495a56a78f88a19fca.jpg",
       "session": "99c9e7db-403a-f564-bc74-52d7ea781f91",
       "latest_episode": 6,
       "latest_snapshot": "https://i.animepahe.si/snapshots/51d8b991de508a88120838ab967bdcf5817c81d85d2bb1f4ccdd735a65e3b63c.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-02-04 17:32:45",
-      "scanned_at": "2026-02-04T20:39:57.022Z"
+      "scanned_at": "2026-02-05T02:31:21.216Z"
     },
     {
       "id": 6302,
@@ -1062,7 +1062,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/c921396c72e128cabae793ce4c749f122bc4a79e424ed49db9e2356cbd878631.jpg",
       "latest_fansub": "Amazon",
       "last_updated": "2026-02-04 17:34:43",
-      "scanned_at": "2026-02-04T20:39:56.793Z"
+      "scanned_at": "2026-02-05T02:31:20.719Z"
     },
     {
       "id": 6364,
@@ -1080,7 +1080,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/6ba563516dd9230b6990ee54e5968c564b6098085ff9353128917c63e793ae5a.jpg",
       "latest_fansub": "ToonsHub",
       "last_updated": "2026-02-04 19:46:54",
-      "scanned_at": "2026-02-04T20:39:56.416Z"
+      "scanned_at": "2026-02-05T02:31:20.224Z"
     }
   ]
 }

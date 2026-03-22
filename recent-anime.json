@@ -1,151 +1,7 @@
 {
-  "timestamp": 1774168846047,
+  "timestamp": 1774197416439,
   "total": 60,
   "data": [
-    {
-      "id": 6466,
-      "malid": null,
-      "title": "Wash It All Away",
-      "type": "TV",
-      "episodes": 12,
-      "status": "Currently Airing",
-      "season": "Winter",
-      "year": 2026,
-      "score": 6.85,
-      "poster": "https://i.animepahe.si/posters/1877fa0247f88c04490a02b75e0ab34071cb3f8f7a9dd700fe2a68117b04e1df.jpg",
-      "session": "31d30f30-f3cf-5df8-4fc6-f9412b5cf7f3",
-      "latest_episode": 11,
-      "latest_snapshot": "https://i.animepahe.si/snapshots/18a0e9383b3cac1dd1ee70dfc2848336ff22c0fc009b7b24f840986880884475.jpg",
-      "latest_fansub": "SubsPlease",
-      "last_updated": "2026-03-16 13:35:25",
-      "scanned_at": "2026-03-22T08:40:45.947Z"
-    },
-    {
-      "id": 6436,
-      "malid": null,
-      "title": "My Hero Academia: Vigilantes Season 2",
-      "type": "TV",
-      "episodes": 13,
-      "status": "Currently Airing",
-      "season": "Winter",
-      "year": 2026,
-      "score": 7.35,
-      "poster": "https://i.animepahe.si/posters/532e94f15261bf7fbd4fc8d49240f30ac08871c74c99f6c69617996396cd0e2f.jpg",
-      "session": "84b53295-7754-45d0-d652-a5a88088eefb",
-      "latest_episode": 24,
-      "latest_snapshot": "https://i.animepahe.si/snapshots/6615776c104e4114bc9fab6d41b9a377605d9065436c04b9c0a89ef84f2363c1.jpg",
-      "latest_fansub": "SubsPlease",
-      "last_updated": "2026-03-16 14:05:55",
-      "scanned_at": "2026-03-22T08:40:45.694Z"
-    },
-    {
-      "id": 6438,
-      "malid": null,
-      "title": "Golden Kamuy Final Season",
-      "type": "TV",
-      "episodes": 13,
-      "status": "Currently Airing",
-      "season": "Winter",
-      "year": 2026,
-      "score": 8.39,
-      "poster": "https://i.animepahe.si/posters/80f244fc55538c4e06bac74470805bff4b60b2602cf5d2fb8fa8fd36cfc31f48.jpg",
-      "session": "3cd5eab2-f9b7-5b5d-e2cd-2538436c6761",
-      "latest_episode": 60,
-      "latest_snapshot": "https://i.animepahe.si/snapshots/530c2cfe88f9f4c33602ed0d0c2b009ca8750ebb80948e1e0a6412021777a5d9.jpg",
-      "latest_fansub": "SubsPlease",
-      "last_updated": "2026-03-16 14:37:45",
-      "scanned_at": "2026-03-22T08:40:45.446Z"
-    },
-    {
-      "id": 6467,
-      "malid": null,
-      "title": "You Can't Be In a Rom-Com with Your Childhood Friends!",
-      "type": "TV",
-      "episodes": 12,
-      "status": "Currently Airing",
-      "season": "Winter",
-      "year": 2026,
-      "score": 6.43,
-      "poster": "https://i.animepahe.si/posters/6f28c8daa661f02d4811da60ad01850969b8cd2fe40762f47b1bb8470066bd2c.jpg",
-      "session": "ee9ee25c-94bc-0008-8bdf-195e28a95302",
-      "latest_episode": 11,
-      "latest_snapshot": "https://i.animepahe.si/snapshots/491da55cd6ff8f485ebe1eec3ff78bf0605b83da8b366f0a4a58d0b65f3be47b.jpg",
-      "latest_fansub": "SubsPlease",
-      "last_updated": "2026-03-16 15:37:44",
-      "scanned_at": "2026-03-22T08:40:45.193Z"
-    },
-    {
-      "id": 6445,
-      "malid": null,
-      "title": "'Tis Time for \"Torture,\" Princess Season 2",
-      "type": "TV",
-      "episodes": 12,
-      "status": "Currently Airing",
-      "season": "Winter",
-      "year": 2026,
-      "score": 7.67,
-      "poster": "https://i.animepahe.si/posters/1747a0dacdbcadc3cacdc78eb5d9a0bcfed8f9e530d746dab21701a27a21922c.jpg",
-      "session": "524c3afb-3a3a-44f9-e76f-6d9bf34cc385",
-      "latest_episode": 22,
-      "latest_snapshot": "https://i.animepahe.si/snapshots/3730235dd566d0b94420fb843cd16266122be9ac1fa37321a8e65ca19c0dcfb2.jpg",
-      "latest_fansub": "SubsPlease",
-      "last_updated": "2026-03-16 16:07:09",
-      "scanned_at": "2026-03-22T08:40:44.942Z"
-    },
-    {
-      "id": 6605,
-      "malid": null,
-      "title": "Release that Witch",
-      "type": "ONA",
-      "episodes": 8,
-      "status": "Currently Airing",
-      "season": "Spring",
-      "year": 2026,
-      "score": 7.81,
-      "poster": "https://i.animepahe.si/posters/0901d4860c811c5d9fe70a118c5b18ae0dc1c8b9c9b36b7fd76cc24bf11a4618.jpg",
-      "session": "a492c77e-70c4-d977-6ce6-0d5130a71c0c",
-      "latest_episode": 3,
-      "latest_snapshot": "https://i.animepahe.si/snapshots/39046c05cb8797cd5d4832de4da5eb7e6361cd96781f837d91806b80c011d80b.jpg",
-      "latest_fansub": "SubsPlease",
-      "last_updated": "2026-03-16 17:07:19",
-      "scanned_at": "2026-03-22T08:40:44.690Z"
-    },
-    {
-      "id": 6476,
-      "malid": null,
-      "title": "The Demon King's Daughter Is Too Kind!!",
-      "type": "TV",
-      "episodes": 12,
-      "status": "Finished Airing",
-      "season": "Winter",
-      "year": 2026,
-      "score": 7.4,
-      "poster": "https://i.animepahe.si/posters/d7ad973bb6d5f7427f9fa6e03585134b8aa34f25c075ed7ed6ba3d58e6f1abea.jpg",
-      "session": "f7a3de17-d75b-d8cc-af75-88e84a193cfc",
-      "latest_episode": 12,
-      "latest_snapshot": "https://i.animepahe.si/snapshots/156856e7bb99f46236ecdb17ec6ba8498183c709c68cf32909f6b0108cead2be.jpg",
-      "latest_fansub": "SubsPlease",
-      "last_updated": "2026-03-17 13:07:12",
-      "scanned_at": "2026-03-22T08:40:44.439Z"
-    },
-    {
-      "id": 6442,
-      "malid": null,
-      "title": "Tune In to the Midnight Heart",
-      "type": "TV",
-      "episodes": 12,
-      "status": "Currently Airing",
-      "season": "Winter",
-      "year": 2026,
-      "score": 7.26,
-      "poster": "https://i.animepahe.si/posters/109677344ff58542e86e21918670ac7fa8c65f279147f18c6b47a692c9b3befe.jpg",
-      "session": "b527331c-d9b1-49cc-633a-2b5a926b41fc",
-      "latest_episode": 11,
-      "latest_snapshot": "https://i.animepahe.si/snapshots/6f407457c3dd6e59d3eeda1897e7d234d6ce8257ad2ae38f154e4ee7c6d611e2.jpg",
-      "latest_fansub": "SubsPlease",
-      "last_updated": "2026-03-17 14:07:20",
-      "scanned_at": "2026-03-22T08:40:44.186Z"
-    },
     {
       "id": 6458,
       "malid": null,
@@ -162,7 +18,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/f7afcb0cbbf5c7f5c4bff13524638383158c7126d7d303eb993083b484fcc4c3.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-17 14:35:44",
-      "scanned_at": "2026-03-22T08:40:43.934Z"
+      "scanned_at": "2026-03-22T16:36:56.339Z"
     },
     {
       "id": 6452,
@@ -180,7 +36,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/ad1aaa5942c4483b86684c0b46bd3d0cdfc56f54299ab6b23df092bb6fa258d2.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-17 15:09:14",
-      "scanned_at": "2026-03-22T08:40:43.682Z"
+      "scanned_at": "2026-03-22T16:36:56.115Z"
     },
     {
       "id": 6479,
@@ -198,7 +54,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/0379a1e1f877bf5e62bb2c9db94beba13d8aa10a0110aa743dc5feedff04837e.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-17 15:12:40",
-      "scanned_at": "2026-03-22T08:40:43.430Z"
+      "scanned_at": "2026-03-22T16:36:55.889Z"
     },
     {
       "id": 6469,
@@ -216,7 +72,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/02f847ccd21257174702ce7b6dd2617eac1abe48b856d760c961feed96ba6111.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-17 18:05:43",
-      "scanned_at": "2026-03-22T08:40:43.170Z"
+      "scanned_at": "2026-03-22T16:36:55.662Z"
     },
     {
       "id": 6590,
@@ -234,7 +90,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/729df6f39180a576a566935a2cb243c1bd6890ad931efb63af972962c36fc7d6.jpg",
       "latest_fansub": "Amazon",
       "last_updated": "2026-03-17 19:59:49",
-      "scanned_at": "2026-03-22T08:40:42.768Z"
+      "scanned_at": "2026-03-22T16:36:55.421Z"
     },
     {
       "id": 6465,
@@ -252,7 +108,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/9abc58c9aa1ecfefd845d56439b24f38813797ed209b73d48e64f2cc09ffff81.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-18 13:11:53",
-      "scanned_at": "2026-03-22T08:40:42.513Z"
+      "scanned_at": "2026-03-22T16:36:55.195Z"
     },
     {
       "id": 6470,
@@ -270,7 +126,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/03abefa2e4b6fc9ed5459630613116c8868bca76b09923c7f60f880527f83bcd.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-18 13:11:55",
-      "scanned_at": "2026-03-22T08:40:42.259Z"
+      "scanned_at": "2026-03-22T16:36:54.968Z"
     },
     {
       "id": 6451,
@@ -288,7 +144,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/193b0f4c618b3b63a89c0a1a2d751cd63e3d50b88f7bb8bd72097bc54bc3711a.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-18 15:15:17",
-      "scanned_at": "2026-03-22T08:40:41.971Z"
+      "scanned_at": "2026-03-22T16:36:54.740Z"
     },
     {
       "id": 6432,
@@ -306,7 +162,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/24644dd95b5d125ea7d7c14a10eee34c61bb1daa8ec3a73b9cfe11be092b6b94.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-18 15:15:19",
-      "scanned_at": "2026-03-22T08:40:41.721Z"
+      "scanned_at": "2026-03-22T16:36:54.516Z"
     },
     {
       "id": 6457,
@@ -324,7 +180,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/4e131a4b83051743d32e984ddbb052f48bae33f7b1e8e532e3c3e3c85876285c.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-18 15:19:19",
-      "scanned_at": "2026-03-22T08:40:41.468Z"
+      "scanned_at": "2026-03-22T16:36:54.288Z"
     },
     {
       "id": 6449,
@@ -342,7 +198,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/c3df78cd4c76d862241625813c7260c21021079c3f248888693528f709fe67da.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2026-03-18 15:37:23",
-      "scanned_at": "2026-03-22T08:40:41.210Z"
+      "scanned_at": "2026-03-22T16:36:54.060Z"
     },
     {
       "id": 6444,
@@ -360,7 +216,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/a3289c479651ebb05008263fa8bb8bc324503b84d1e1f47a2776bc1ed5be4a11.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-18 16:07:22",
-      "scanned_at": "2026-03-22T08:40:40.966Z"
+      "scanned_at": "2026-03-22T16:36:53.837Z"
     },
     {
       "id": 6302,
@@ -378,7 +234,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/d5c48b0fdde1e160ca45dda52a77ec55e042afb2e384ce0f2a2aa5dba18cbac6.jpg",
       "latest_fansub": "Amazon",
       "last_updated": "2026-03-18 16:47:34",
-      "scanned_at": "2026-03-22T08:40:40.721Z"
+      "scanned_at": "2026-03-22T16:36:53.489Z"
     },
     {
       "id": 6402,
@@ -396,7 +252,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/96e53f923dfecc8780c5ecdc4565e0ba3fe6fa3c06d76d90816bceb4675563d6.jpg",
       "latest_fansub": "Amazon",
       "last_updated": "2026-03-19 13:05:47",
-      "scanned_at": "2026-03-22T08:40:40.466Z"
+      "scanned_at": "2026-03-22T16:36:53.252Z"
     },
     {
       "id": 6632,
@@ -414,7 +270,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/ce5be19fc520b650ec2a278746b2a191e59ae568d64df143745fe6e40d7f11fe.jpg",
       "latest_fansub": "Netflix",
       "last_updated": "2026-03-19 14:06:24",
-      "scanned_at": "2026-03-22T08:40:40.206Z"
+      "scanned_at": "2026-03-22T16:36:53.026Z"
     },
     {
       "id": 6435,
@@ -432,7 +288,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/3588a66db1d33e482cdc11ad0cf264f66837ea8de3bbecc2f1d556d71d72a553.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2026-03-19 14:11:03",
-      "scanned_at": "2026-03-22T08:40:39.953Z"
+      "scanned_at": "2026-03-22T16:36:52.796Z"
     },
     {
       "id": 6443,
@@ -450,7 +306,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/11f9f4eb33864f1b13a0f77e5845f266a85f92e87eb7276542e0f9ff519d5bb1.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-19 14:36:13",
-      "scanned_at": "2026-03-22T08:40:39.550Z"
+      "scanned_at": "2026-03-22T16:36:52.568Z"
     },
     {
       "id": 6450,
@@ -468,7 +324,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/230a5f1b7db312cfc150bdaa844e92b665ebc31752df4faf065f81b2a992855c.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-19 15:10:53",
-      "scanned_at": "2026-03-22T08:40:39.286Z"
+      "scanned_at": "2026-03-22T16:36:52.339Z"
     },
     {
       "id": 6447,
@@ -486,7 +342,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/175645b481554212921b198ed81c18035e190a59ad5d0398020cb292aff8fdca.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-19 15:10:55",
-      "scanned_at": "2026-03-22T08:40:39.033Z"
+      "scanned_at": "2026-03-22T16:36:52.114Z"
     },
     {
       "id": 6434,
@@ -504,7 +360,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/41e55125513fa3f8e3ba3e4c3fc02efd3645bdca986969baa9924f766ca50cd8.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-19 15:38:31",
-      "scanned_at": "2026-03-22T08:40:38.782Z"
+      "scanned_at": "2026-03-22T16:36:51.886Z"
     },
     {
       "id": 6464,
@@ -522,7 +378,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/a19a797dcca11d24a43ef454f4da40d9101f321767b4fc8a9cf0b87ae9e41b57.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-19 16:07:38",
-      "scanned_at": "2026-03-22T08:40:38.540Z"
+      "scanned_at": "2026-03-22T16:36:51.666Z"
     },
     {
       "id": 5469,
@@ -540,7 +396,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/decc3d54aba0ed157a7e9cede4476face667136fd6b3de5da3749e47890898af.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-19 16:51:36",
-      "scanned_at": "2026-03-22T08:40:38.286Z"
+      "scanned_at": "2026-03-22T16:36:51.444Z"
     },
     {
       "id": 6468,
@@ -558,7 +414,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/735de0f6f43d425e54674c573ea05d90c79aca8679f6144b3934c4840e52ced8.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-19 17:07:24",
-      "scanned_at": "2026-03-22T08:40:38.041Z"
+      "scanned_at": "2026-03-22T16:36:51.222Z"
     },
     {
       "id": 6460,
@@ -576,7 +432,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/8af9ee6264389960678021f80ae36f80fb1eb8e594f7c32810c650d5d0f2572c.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-19 18:06:54",
-      "scanned_at": "2026-03-22T08:40:37.784Z"
+      "scanned_at": "2026-03-22T16:36:50.996Z"
     },
     {
       "id": 5481,
@@ -594,7 +450,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/bc4aef70d054631122e68c795099c12eda3ab2d066e4166ca12b1ecb766b40a0.jpg",
       "latest_fansub": "HnY",
       "last_updated": "2026-03-20 00:55:02",
-      "scanned_at": "2026-03-22T08:40:37.521Z"
+      "scanned_at": "2026-03-22T16:36:50.643Z"
     },
     {
       "id": 6511,
@@ -612,7 +468,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/e29f83c9cfbac5a15da147a62d30fcb6e3f6e7bcb590d75450c2b1468c098d2d.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-20 02:06:55",
-      "scanned_at": "2026-03-22T08:40:37.275Z"
+      "scanned_at": "2026-03-22T16:36:50.423Z"
     },
     {
       "id": 6430,
@@ -630,7 +486,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/c8074f1be9c2a30bcf327767fa3ff905b739b33f3dc74aa065a3b4cce4ad9326.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-20 15:05:35",
-      "scanned_at": "2026-03-22T08:40:37.012Z"
+      "scanned_at": "2026-03-22T16:36:50.192Z"
     },
     {
       "id": 6462,
@@ -648,7 +504,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/71448155d2b6addbc0139effda646bffd090f463bb8e24bb337aeaf0b5ebcdfb.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2026-03-20 16:37:42",
-      "scanned_at": "2026-03-22T08:40:36.767Z"
+      "scanned_at": "2026-03-22T16:36:49.973Z"
     },
     {
       "id": 6454,
@@ -666,7 +522,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/56719197c56ca99002c31ab3b30ced5b5abcb2345db0282f5539d377f31cc252.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-20 16:43:05",
-      "scanned_at": "2026-03-22T08:40:36.362Z"
+      "scanned_at": "2026-03-22T16:36:49.747Z"
     },
     {
       "id": 6433,
@@ -684,7 +540,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/988b401aa800f4cb621efc6a8694dd87cee91c7287879927a1169176af3ca2ac.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2026-03-20 17:38:14",
-      "scanned_at": "2026-03-22T08:40:36.112Z"
+      "scanned_at": "2026-03-22T16:36:49.520Z"
     },
     {
       "id": 6129,
@@ -702,7 +558,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/26e80c2ba3164cdaf50779e5b0d0dc0e66f2380e0514eacc4bcae687cac5c333.jpg",
       "latest_fansub": "Piyoko",
       "last_updated": "2026-03-20 23:46:08",
-      "scanned_at": "2026-03-22T08:40:35.863Z"
+      "scanned_at": "2026-03-22T16:36:49.274Z"
     },
     {
       "id": 6448,
@@ -720,7 +576,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/3abf0f81aadeb6c27588c769f488989c4ff2a84ec1607173bc3f3fe0c3b0001f.jpg",
       "latest_fansub": "Amazon",
       "last_updated": "2026-03-21 01:02:17",
-      "scanned_at": "2026-03-22T08:40:35.612Z"
+      "scanned_at": "2026-03-22T16:36:49.041Z"
     },
     {
       "id": 6480,
@@ -738,7 +594,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/a63fc3c43c8d6744d7a8a42c9c1709f9f22d303ea7ecbc5275ffb84b200ae209.jpg",
       "latest_fansub": "Amazon",
       "last_updated": "2026-03-21 03:11:11",
-      "scanned_at": "2026-03-22T08:40:35.351Z"
+      "scanned_at": "2026-03-22T16:36:48.816Z"
     },
     {
       "id": 5255,
@@ -756,7 +612,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/a7e129ca2ddcc5d6dce167e7124f8385070f844f9b5909ef0a258657bd8c16cf.jpg",
       "latest_fansub": "Some-Stuffs",
       "last_updated": "2026-03-21 05:43:02",
-      "scanned_at": "2026-03-22T08:40:35.092Z"
+      "scanned_at": "2026-03-22T16:36:48.588Z"
     },
     {
       "id": 6471,
@@ -774,7 +630,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/4f7c5af04d6cffd438214fcde39ff8db24f943fefe89e9b257b8c2e23dfc141a.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-21 09:35:43",
-      "scanned_at": "2026-03-22T08:40:34.835Z"
+      "scanned_at": "2026-03-22T16:36:48.365Z"
     },
     {
       "id": 6483,
@@ -792,7 +648,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/365dd2050504dd5c343bef0f393a2516d39683f648e8e062d4b5bbde6c23906d.jpg",
       "latest_fansub": "Bird",
       "last_updated": "2026-03-21 09:56:15",
-      "scanned_at": "2026-03-22T08:40:34.583Z"
+      "scanned_at": "2026-03-22T16:36:48.138Z"
     },
     {
       "id": 3,
@@ -810,7 +666,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/85aeb03eb8366ce4b4755bd8565bba2b5b0ce6d03ed709d9f0b515a3e351b610.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-21 11:35:49",
-      "scanned_at": "2026-03-22T08:40:34.330Z"
+      "scanned_at": "2026-03-22T16:36:47.764Z"
     },
     {
       "id": 6473,
@@ -828,7 +684,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/c18fdcc901773f22946d4392115dcb95555180d702a861540e25782c21f2cc52.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-21 13:06:32",
-      "scanned_at": "2026-03-22T08:40:34.067Z"
+      "scanned_at": "2026-03-22T16:36:47.518Z"
     },
     {
       "id": 6459,
@@ -846,7 +702,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/adb1cde20295c0bc0441eb9dfd53bd7e39fef9144b1aa59c632b3cabeaa46a85.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-21 15:07:14",
-      "scanned_at": "2026-03-22T08:40:33.804Z"
+      "scanned_at": "2026-03-22T16:36:47.291Z"
     },
     {
       "id": 6437,
@@ -864,7 +720,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/a1eec160eb3b1d8a24c9112f755ce92dd96f92e13f4a51b4ed0684a6c0eb59c1.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-21 15:13:02",
-      "scanned_at": "2026-03-22T08:40:33.547Z"
+      "scanned_at": "2026-03-22T16:36:47.066Z"
     },
     {
       "id": 6475,
@@ -882,7 +738,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/dbc4ebe39a02c82054ed6e5c26e794e10f3bb171615eb842b4a0b2917c718bde.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-21 15:37:38",
-      "scanned_at": "2026-03-22T08:40:33.136Z"
+      "scanned_at": "2026-03-22T16:36:46.844Z"
     },
     {
       "id": 6339,
@@ -900,7 +756,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/05a27fb09a0b7b1ec10e3315fc486c08b1f1758208d2fe4a348ac119b30362c8.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2026-03-21 15:53:03",
-      "scanned_at": "2026-03-22T08:40:32.880Z"
+      "scanned_at": "2026-03-22T16:36:46.617Z"
     },
     {
       "id": 5859,
@@ -918,7 +774,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/9273777169c0dec178878df88a55293cca4472d7690dbfa9ff2eca9dd8b49e9c.jpg",
       "latest_fansub": "Yameii",
       "last_updated": "2026-03-21 16:06:52",
-      "scanned_at": "2026-03-22T08:40:32.624Z"
+      "scanned_at": "2026-03-22T16:36:46.389Z"
     },
     {
       "id": 6378,
@@ -936,7 +792,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/9ea1a2780c6b1130af5008d978958d63ee335418fc6e50ad580de65ad526026b.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-21 17:06:22",
-      "scanned_at": "2026-03-22T08:40:32.373Z"
+      "scanned_at": "2026-03-22T16:36:46.162Z"
     },
     {
       "id": 6472,
@@ -954,7 +810,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/77ee8145422313f7355f4a15d2b310c45747844dc73011243715fdf1be2e225c.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-21 17:14:46",
-      "scanned_at": "2026-03-22T08:40:32.122Z"
+      "scanned_at": "2026-03-22T16:36:45.938Z"
     },
     {
       "id": 6441,
@@ -972,7 +828,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/e37b2b2ce3be3a3b73aafb06344fb146bd7cb85c384b3a10535d2ef3a08e969b.jpg",
       "latest_fansub": "Disney_Plus",
       "last_updated": "2026-03-21 17:14:58",
-      "scanned_at": "2026-03-22T08:40:31.825Z"
+      "scanned_at": "2026-03-22T16:36:45.717Z"
     },
     {
       "id": 6561,
@@ -990,7 +846,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/8721c6eeb2eccfdcf190f8ed0135cd97746fdf33aa10159dd5f872d2c0840b1d.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-22 01:36:10",
-      "scanned_at": "2026-03-22T08:40:31.577Z"
+      "scanned_at": "2026-03-22T16:36:45.498Z"
     },
     {
       "id": 6404,
@@ -1008,7 +864,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/99901b68e404a4b0fa4d837624ee173d1a6c41e174793f54b76809a6960c8f55.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-22 02:05:37",
-      "scanned_at": "2026-03-22T08:40:31.322Z"
+      "scanned_at": "2026-03-22T16:36:45.269Z"
     },
     {
       "id": 6394,
@@ -1026,7 +882,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/afc42b56ea419155a534756d3f970af6a934ec3c01c26f379a5f4f49916b015d.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-22 03:06:53",
-      "scanned_at": "2026-03-22T08:40:31.011Z"
+      "scanned_at": "2026-03-22T16:36:44.903Z"
     },
     {
       "id": 6440,
@@ -1044,7 +900,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/a055b647f53dc19de6ca757a0637b302ab1e75c5e3cb5f1eb3ebb186e754d031.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-22 08:07:26",
-      "scanned_at": "2026-03-22T08:40:30.758Z"
+      "scanned_at": "2026-03-22T16:36:44.677Z"
     },
     {
       "id": 6625,
@@ -1062,7 +918,7 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/f2a7ac94e76d4bbdddcef25f0e9b6959de35919aaacdb3635d46671aad1ddaeb.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-22 08:09:18",
-      "scanned_at": "2026-03-22T08:40:30.316Z"
+      "scanned_at": "2026-03-22T16:36:44.448Z"
     },
     {
       "id": 6439,
@@ -1080,7 +936,151 @@
       "latest_snapshot": "https://i.animepahe.si/snapshots/d2c6845465612cbda85015844c7ac6916a64e515e9b6867603860be218740db4.jpg",
       "latest_fansub": "SubsPlease",
       "last_updated": "2026-03-22 08:37:00",
-      "scanned_at": "2026-03-22T08:40:30.002Z"
+      "scanned_at": "2026-03-22T16:36:44.223Z"
+    },
+    {
+      "id": 6461,
+      "malid": null,
+      "title": "Kaya-chan Isn't Scary",
+      "type": "TV",
+      "episodes": 12,
+      "status": "Currently Airing",
+      "season": "Winter",
+      "year": 2026,
+      "score": 7.28,
+      "poster": "https://i.animepahe.si/posters/49e7f9835aac0ce84afbf11574e8a9c67961cd721d9e484c3d2f4d39b6ef3725.jpg",
+      "session": "3547a620-7e0c-c4bf-8994-b0a4762e4866",
+      "latest_episode": 11,
+      "latest_snapshot": "https://i.animepahe.si/snapshots/4faec3ca8d8fa2274221b6d484554e56c7f7f17d9514ecc3d5eb3d2d34f0482a.jpg",
+      "latest_fansub": "SubsPlease",
+      "last_updated": "2026-03-22 09:07:34",
+      "scanned_at": "2026-03-22T16:36:43.997Z"
+    },
+    {
+      "id": 6463,
+      "malid": null,
+      "title": "Kunon the Sorcerer Can See",
+      "type": "TV",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "season": "Winter",
+      "year": 2026,
+      "score": 6.57,
+      "poster": "https://i.animepahe.si/posters/a0166d719265e4e64cb99cbfc0e4df9deb2e4975e16ecd00093efdd4ba37cd2e.jpg",
+      "session": "2a2c0932-36ab-9d20-0e37-b14489d08232",
+      "latest_episode": 13,
+      "latest_snapshot": "https://i.animepahe.si/snapshots/ab6c622e7a7beb33c18e85a650c9d5420c40b6fc653568e801df36f6a3ea891a.jpg",
+      "latest_fansub": "SubsPlease",
+      "last_updated": "2026-03-22 14:06:29",
+      "scanned_at": "2026-03-22T16:36:43.768Z"
+    },
+    {
+      "id": 6453,
+      "malid": null,
+      "title": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
+      "type": "TV",
+      "episodes": 12,
+      "status": "Currently Airing",
+      "season": "Winter",
+      "year": 2026,
+      "score": 6.08,
+      "poster": "https://i.animepahe.si/posters/51de63cdc03a7e3dc2432f658909b303b71c4942e3883267011d7c68be44eac4.jpg",
+      "session": "82302df0-b421-5e12-841f-9846360f820d",
+      "latest_episode": 11,
+      "latest_snapshot": "https://i.animepahe.si/snapshots/4528e871155c095501c58177257175f07dab0953655e7bac798b5e0af4e513e1.jpg",
+      "latest_fansub": "SubsPlease",
+      "last_updated": "2026-03-22 14:36:11",
+      "scanned_at": "2026-03-22T16:36:43.517Z"
+    },
+    {
+      "id": 6456,
+      "malid": null,
+      "title": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "season": "Winter",
+      "year": 2026,
+      "score": 6.25,
+      "poster": "https://i.animepahe.si/posters/b09ccbe5ff4f60c3948b3061b1879378f1511420b880ffed070e9825c3765e8b.jpg",
+      "session": "a361b5dd-e478-b40e-972d-1bf414b39668",
+      "latest_episode": 12,
+      "latest_snapshot": "https://i.animepahe.si/snapshots/aed66f3c1d0f8bddac3e00bed3d7f6ec8059cf41dec3ad35675386c48d5fcc2e.jpg",
+      "latest_fansub": "SubsPlease",
+      "last_updated": "2026-03-22 15:08:14",
+      "scanned_at": "2026-03-22T16:36:43.081Z"
+    },
+    {
+      "id": 6431,
+      "malid": null,
+      "title": "Hell's Paradise Season 2",
+      "type": "TV",
+      "episodes": 12,
+      "status": "Currently Airing",
+      "season": "Winter",
+      "year": 2026,
+      "score": 8.24,
+      "poster": "https://i.animepahe.si/posters/b704a34a1ed0957b82b91f6a8004283f315c0412391da4633193896455f66743.jpg",
+      "session": "6465800e-c85e-cf6c-f95c-848e187315f4",
+      "latest_episode": 24,
+      "latest_snapshot": "https://i.animepahe.si/snapshots/670d8cf6ff5abafe2cd14dad52b239c192f5fec95f2bc47316b6d395852560d0.jpg",
+      "latest_fansub": "SubsPlease",
+      "last_updated": "2026-03-22 15:22:05",
+      "scanned_at": "2026-03-22T16:36:42.714Z"
+    },
+    {
+      "id": 6446,
+      "malid": null,
+      "title": "Journal with Witch",
+      "type": "TV",
+      "episodes": 13,
+      "status": "Currently Airing",
+      "season": "Winter",
+      "year": 2026,
+      "score": 8.7,
+      "poster": "https://i.animepahe.si/posters/7901c97163379a6413f31e7a34b7801e3de2ae01126e0d3d5017f1bda2f412d4.jpg",
+      "session": "2383da24-221b-915c-48c4-bcd910cdda99",
+      "latest_episode": 12,
+      "latest_snapshot": "https://i.animepahe.si/snapshots/c401c917406f84d957ddb62730726c7d7b6cde992c9a57192e8f9506f8f2d87e.jpg",
+      "latest_fansub": "SubsPlease",
+      "last_updated": "2026-03-22 15:36:42",
+      "scanned_at": "2026-03-22T16:36:42.450Z"
+    },
+    {
+      "id": 6474,
+      "malid": null,
+      "title": "The Daily Life of a Part-time Torturer",
+      "type": "TV",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "season": "Winter",
+      "year": 2026,
+      "score": 5.8,
+      "poster": "https://i.animepahe.si/posters/a728d20fe9b03448af8a73b61e534342e2d9defe982bce10a4de3427cf47c828.jpg",
+      "session": "8643e7a4-3d72-12f8-3094-c769d5a30527",
+      "latest_episode": 12,
+      "latest_snapshot": "https://i.animepahe.si/snapshots/0115964f6ea16ecfe14408d311d6a8d53ecb8bbc641a848954befbba75ae9cac.jpg",
+      "latest_fansub": "SubsPlease",
+      "last_updated": "2026-03-22 15:44:00",
+      "scanned_at": "2026-03-22T16:36:42.201Z"
+    },
+    {
+      "id": 6477,
+      "malid": null,
+      "title": "Oedo Fire Slayer: The Legend of Phoenix",
+      "type": "TV",
+      "episodes": 12,
+      "status": "Currently Airing",
+      "season": "Winter",
+      "year": 2026,
+      "score": 4.73,
+      "poster": "https://i.animepahe.si/posters/0e7fa1f68a78d22ec5b7ea8270ae36c5bb509eac8138bec38af2c9873a3e272c.jpg",
+      "session": "2286d713-06ae-7af3-b3e1-f3b0efacf67b",
+      "latest_episode": 10,
+      "latest_snapshot": "https://i.animepahe.si/snapshots/6d8d57e018cc98541e7ff3ef407d72e800391cf9c31b6e610d313eacc79c4602.jpg",
+      "latest_fansub": "SubsPlease",
+      "last_updated": "2026-03-22 15:44:03",
+      "scanned_at": "2026-03-22T16:36:41.947Z"
     }
   ]
 }

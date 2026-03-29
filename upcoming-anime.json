@@ -1,5 +1,5 @@
 {
-  "timestamp": 1774730329105,
+  "timestamp": 1774752793820,
   "total": 75,
   "data": [
     {
@@ -9,27 +9,27 @@
       "type": "TV",
       "episodes": null,
       "status": "Not yet aired",
-      "season": null,
-      "year": null,
+      "season": "summer",
+      "year": 2026,
       "score": null,
-      "poster": "https://myanimelist.net/images/anime/1653/153899l.webp",
+      "poster": "https://myanimelist.net/images/anime/1133/156346l.webp",
       "synopsis": "Second season of Youjo Senki.",
       "session": null,
       "slug": null,
-      "aired_from": "2026-01-01T00:00:00+00:00",
-      "aired_string": "2026 to ?",
+      "aired_from": "2026-07-01T00:00:00+00:00",
+      "aired_string": "Jul 2026 to ?",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
       "popularity": 1417,
-      "members": 194798,
-      "favorites": 3225,
+      "members": 194839,
+      "favorites": 3231,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:44.225Z",
+      "scanned_at": "2026-03-29T02:53:08.956Z",
       "source": "jikan"
     },
     {
@@ -59,7 +59,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Mondays at 00:00 (JST)"
       },
-      "scanned_at": "2026-03-28T20:38:44.274Z",
+      "scanned_at": "2026-03-29T02:53:09.007Z",
       "source": "jikan"
     },
     {
@@ -80,16 +80,16 @@
       "aired_string": "Apr 8, 2026 to ?",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 1869,
-      "members": 138997,
-      "favorites": 863,
+      "popularity": 1845,
+      "members": 140908,
+      "favorites": 877,
       "broadcast": {
         "day": "Wednesdays",
         "time": "22:00",
         "timezone": "Asia/Tokyo",
         "string": "Wednesdays at 22:00 (JST)"
       },
-      "scanned_at": "2026-03-28T20:38:44.324Z",
+      "scanned_at": "2026-03-29T02:53:09.057Z",
       "source": "jikan"
     },
     {
@@ -110,16 +110,16 @@
       "aired_string": "Apr 3, 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2039,
-      "members": 124617,
-      "favorites": 681,
+      "popularity": 2015,
+      "members": 125986,
+      "favorites": 691,
       "broadcast": {
         "day": "Fridays",
         "time": "23:00",
         "timezone": "Asia/Tokyo",
         "string": "Fridays at 23:00 (JST)"
       },
-      "scanned_at": "2026-03-28T20:38:44.375Z",
+      "scanned_at": "2026-03-29T02:53:09.108Z",
       "source": "jikan"
     },
     {
@@ -149,7 +149,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Wednesdays at 21:30 (JST)"
       },
-      "scanned_at": "2026-03-28T20:38:44.425Z",
+      "scanned_at": "2026-03-29T02:53:09.158Z",
       "source": "jikan"
     },
     {
@@ -179,7 +179,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-03-28T20:38:44.475Z",
+      "scanned_at": "2026-03-29T02:53:09.309Z",
       "source": "jikan"
     },
     {
@@ -200,16 +200,16 @@
       "aired_string": "2027 to ?",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 2261,
-      "members": 107119,
-      "favorites": 271,
+      "popularity": 2260,
+      "members": 107335,
+      "favorites": 274,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:44.525Z",
+      "scanned_at": "2026-03-29T02:53:09.208Z",
       "source": "jikan"
     },
     {
@@ -230,16 +230,16 @@
       "aired_string": "2027 to ?",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 2261,
-      "members": 107119,
-      "favorites": 271,
+      "popularity": 2260,
+      "members": 107335,
+      "favorites": 274,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:44.576Z",
+      "scanned_at": "2026-03-29T02:53:09.259Z",
       "source": "jikan"
     },
     {
@@ -269,7 +269,37 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:44.626Z",
+      "scanned_at": "2026-03-29T02:53:09.359Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "51553",
+      "title": "Tongari Boushi no Atelier",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": "spring",
+      "year": 2026,
+      "score": null,
+      "poster": "https://myanimelist.net/images/anime/1726/155542l.webp",
+      "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
+      "session": null,
+      "slug": null,
+      "aired_from": "2026-04-06T00:00:00+00:00",
+      "aired_string": "Apr 6, 2026 to ?",
+      "duration": "Unknown",
+      "rating": null,
+      "popularity": 2314,
+      "members": 104053,
+      "favorites": 645,
+      "broadcast": {
+        "day": "Mondays",
+        "time": "23:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Mondays at 23:00 (JST)"
+      },
+      "scanned_at": "2026-03-29T02:53:09.409Z",
       "source": "jikan"
     },
     {
@@ -299,37 +329,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:44.677Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "51553",
-      "title": "Tongari Boushi no Atelier",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": "spring",
-      "year": 2026,
-      "score": null,
-      "poster": "https://myanimelist.net/images/anime/1726/155542l.webp",
-      "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
-      "session": null,
-      "slug": null,
-      "aired_from": "2026-04-06T00:00:00+00:00",
-      "aired_string": "Apr 6, 2026 to ?",
-      "duration": "Unknown",
-      "rating": null,
-      "popularity": 2352,
-      "members": 101857,
-      "favorites": 635,
-      "broadcast": {
-        "day": "Mondays",
-        "time": "23:00",
-        "timezone": "Asia/Tokyo",
-        "string": "Mondays at 23:00 (JST)"
-      },
-      "scanned_at": "2026-03-28T20:38:44.727Z",
+      "scanned_at": "2026-03-29T02:53:09.460Z",
       "source": "jikan"
     },
     {
@@ -359,7 +359,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:44.778Z",
+      "scanned_at": "2026-03-29T02:53:09.510Z",
       "source": "jikan"
     },
     {
@@ -380,16 +380,16 @@
       "aired_string": "Apr 3, 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2466,
-      "members": 94189,
-      "favorites": 1471,
+      "popularity": 2447,
+      "members": 95033,
+      "favorites": 1475,
       "broadcast": {
         "day": "Fridays",
         "time": "22:30",
         "timezone": "Asia/Tokyo",
         "string": "Fridays at 22:30 (JST)"
       },
-      "scanned_at": "2026-03-28T20:38:44.829Z",
+      "scanned_at": "2026-03-29T02:53:09.560Z",
       "source": "jikan"
     },
     {
@@ -410,16 +410,106 @@
       "aired_string": "Oct 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2650,
-      "members": 83968,
-      "favorites": 198,
+      "popularity": 2646,
+      "members": 84240,
+      "favorites": 201,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:44.879Z",
+      "scanned_at": "2026-03-29T02:53:09.610Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "59983",
+      "title": "Tsue to Tsurugi no Wistoria Season 2",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": "spring",
+      "year": 2026,
+      "score": null,
+      "poster": "https://myanimelist.net/images/anime/1190/155788l.webp",
+      "synopsis": "Second season of Tsue to Tsurugi no Wistoria.",
+      "session": null,
+      "slug": null,
+      "aired_from": "2026-04-12T00:00:00+00:00",
+      "aired_string": "Apr 12, 2026 to ?",
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "popularity": 2654,
+      "members": 83948,
+      "favorites": 306,
+      "broadcast": {
+        "day": "Sundays",
+        "time": "16:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Sundays at 16:30 (JST)"
+      },
+      "scanned_at": "2026-03-29T02:53:09.661Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "62568",
+      "title": "Dr. Stone: Science Future Part 3",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": "spring",
+      "year": 2026,
+      "score": null,
+      "poster": "https://myanimelist.net/images/anime/1773/155779l.webp",
+      "synopsis": "Third part of Dr. Stone: Science Future.",
+      "session": null,
+      "slug": null,
+      "aired_from": "2026-04-02T00:00:00+00:00",
+      "aired_string": "Apr 2, 2026 to ?",
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "popularity": 2656,
+      "members": 83928,
+      "favorites": 175,
+      "broadcast": {
+        "day": "Thursdays",
+        "time": "22:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Thursdays at 22:00 (JST)"
+      },
+      "scanned_at": "2026-03-29T02:53:09.711Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "62568",
+      "title": "Dr. Stone: Science Future Part 3",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": "spring",
+      "year": 2026,
+      "score": null,
+      "poster": "https://myanimelist.net/images/anime/1773/155779l.webp",
+      "synopsis": "Third part of Dr. Stone: Science Future.",
+      "session": null,
+      "slug": null,
+      "aired_from": "2026-04-02T00:00:00+00:00",
+      "aired_string": "Apr 2, 2026 to ?",
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "popularity": 2656,
+      "members": 83928,
+      "favorites": 175,
+      "broadcast": {
+        "day": "Thursdays",
+        "time": "22:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Thursdays at 22:00 (JST)"
+      },
+      "scanned_at": "2026-03-29T02:53:09.761Z",
       "source": "jikan"
     },
     {
@@ -449,97 +539,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:44.930Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "59983",
-      "title": "Tsue to Tsurugi no Wistoria Season 2",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": "spring",
-      "year": 2026,
-      "score": null,
-      "poster": "https://myanimelist.net/images/anime/1190/155788l.webp",
-      "synopsis": "Second season of Tsue to Tsurugi no Wistoria.",
-      "session": null,
-      "slug": null,
-      "aired_from": "2026-04-12T00:00:00+00:00",
-      "aired_string": "Apr 12, 2026 to ?",
-      "duration": "Unknown",
-      "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2675,
-      "members": 82850,
-      "favorites": 305,
-      "broadcast": {
-        "day": "Sundays",
-        "time": "16:30",
-        "timezone": "Asia/Tokyo",
-        "string": "Sundays at 16:30 (JST)"
-      },
-      "scanned_at": "2026-03-28T20:38:44.980Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "62568",
-      "title": "Dr. Stone: Science Future Part 3",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": "spring",
-      "year": 2026,
-      "score": null,
-      "poster": "https://myanimelist.net/images/anime/1773/155779l.webp",
-      "synopsis": "Third part of Dr. Stone: Science Future.",
-      "session": null,
-      "slug": null,
-      "aired_from": "2026-04-02T00:00:00+00:00",
-      "aired_string": "Apr 2, 2026 to ?",
-      "duration": "Unknown",
-      "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2682,
-      "members": 82572,
-      "favorites": 175,
-      "broadcast": {
-        "day": "Thursdays",
-        "time": "22:00",
-        "timezone": "Asia/Tokyo",
-        "string": "Thursdays at 22:00 (JST)"
-      },
-      "scanned_at": "2026-03-28T20:38:45.030Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "62568",
-      "title": "Dr. Stone: Science Future Part 3",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": "spring",
-      "year": 2026,
-      "score": null,
-      "poster": "https://myanimelist.net/images/anime/1773/155779l.webp",
-      "synopsis": "Third part of Dr. Stone: Science Future.",
-      "session": null,
-      "slug": null,
-      "aired_from": "2026-04-02T00:00:00+00:00",
-      "aired_string": "Apr 2, 2026 to ?",
-      "duration": "Unknown",
-      "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2682,
-      "members": 82572,
-      "favorites": 175,
-      "broadcast": {
-        "day": "Thursdays",
-        "time": "22:00",
-        "timezone": "Asia/Tokyo",
-        "string": "Thursdays at 22:00 (JST)"
-      },
-      "scanned_at": "2026-03-28T20:38:45.080Z",
+      "scanned_at": "2026-03-29T02:53:09.811Z",
       "source": "jikan"
     },
     {
@@ -569,7 +569,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:45.131Z",
+      "scanned_at": "2026-03-29T02:53:09.862Z",
       "source": "jikan"
     },
     {
@@ -599,7 +599,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-03-28T20:38:45.181Z",
+      "scanned_at": "2026-03-29T02:53:09.912Z",
       "source": "jikan"
     },
     {
@@ -629,7 +629,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-03-28T20:38:45.231Z",
+      "scanned_at": "2026-03-29T02:53:09.962Z",
       "source": "jikan"
     },
     {
@@ -650,8 +650,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 2785,
-      "members": 77763,
+      "popularity": 2776,
+      "members": 78075,
       "favorites": 133,
       "broadcast": {
         "day": null,
@@ -659,7 +659,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-03-28T20:38:45.281Z",
+      "scanned_at": "2026-03-29T02:53:10.012Z",
       "source": "jikan"
     },
     {
@@ -680,16 +680,16 @@
       "aired_string": "Jul 2026 to ?",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 2802,
-      "members": 76694,
-      "favorites": 423,
+      "popularity": 2796,
+      "members": 77046,
+      "favorites": 422,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:45.332Z",
+      "scanned_at": "2026-03-29T02:53:10.062Z",
       "source": "jikan"
     },
     {
@@ -719,7 +719,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:45.382Z",
+      "scanned_at": "2026-03-29T02:53:10.113Z",
       "source": "jikan"
     },
     {
@@ -749,7 +749,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:45.432Z",
+      "scanned_at": "2026-03-29T02:53:10.162Z",
       "source": "jikan"
     },
     {
@@ -779,7 +779,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-03-28T20:38:45.937Z",
+      "scanned_at": "2026-03-29T02:53:10.658Z",
       "source": "jikan"
     },
     {
@@ -801,7 +801,7 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "popularity": 3192,
-      "members": 60899,
+      "members": 60973,
       "favorites": 374,
       "broadcast": {
         "day": null,
@@ -809,7 +809,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:45.987Z",
+      "scanned_at": "2026-03-29T02:53:10.708Z",
       "source": "jikan"
     },
     {
@@ -839,7 +839,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:46.037Z",
+      "scanned_at": "2026-03-29T02:53:10.759Z",
       "source": "jikan"
     },
     {
@@ -869,7 +869,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:46.138Z",
+      "scanned_at": "2026-03-29T02:53:10.859Z",
       "source": "jikan"
     },
     {
@@ -899,7 +899,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:46.088Z",
+      "scanned_at": "2026-03-29T02:53:10.809Z",
       "source": "jikan"
     },
     {
@@ -929,7 +929,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-03-28T20:38:46.188Z",
+      "scanned_at": "2026-03-29T02:53:10.909Z",
       "source": "jikan"
     },
     {
@@ -950,8 +950,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3357,
-      "members": 55563,
+      "popularity": 3350,
+      "members": 55795,
       "favorites": 103,
       "broadcast": {
         "day": null,
@@ -959,7 +959,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:46.238Z",
+      "scanned_at": "2026-03-29T02:53:10.960Z",
       "source": "jikan"
     },
     {
@@ -989,7 +989,37 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-03-28T20:38:46.289Z",
+      "scanned_at": "2026-03-29T02:53:11.010Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "62001",
+      "title": "Yomi no Tsugai",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": "spring",
+      "year": 2026,
+      "score": null,
+      "poster": "https://myanimelist.net/images/anime/1990/155247l.webp",
+      "synopsis": "In an isolated village, two twins were born, separated by day and night. It is years later, and while the older brother Yuru has become a hunter of animals, his sister Asa has been locked away in a cage, ordered to perform a special duty that prohibits her from meeting more than a few select individuals.\n\nOn an otherwise inconspicuous day, a group of armed men riding in helicopters, referred to as \"dragons\" by the citizens, assaults the village in search of Yuru, killing every adult on sight. When Yuru attempts to meet up with Asa and flee, he finds a dead body instead—on top of that, the person who killed her claims to be Yuru's true twin sister.\n\nBefore the woman can capture him, Yuru is rescued by a man named Dera, an outsider who frequently visits the village. However, it is not long before the two are cornered. In a last-ditch effort, Dera makes Yuru give a gift to the deity of the village, summoning a pair of daemons whose existence is bound to reveal the truth behind these chaotic events.\n\n[Written by MAL Rewrite]",
+      "session": null,
+      "slug": null,
+      "aired_from": "2026-04-04T00:00:00+00:00",
+      "aired_string": "Apr 4, 2026 to ?",
+      "duration": "Unknown",
+      "rating": null,
+      "popularity": 3545,
+      "members": 50496,
+      "favorites": 143,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "23:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 23:30 (JST)"
+      },
+      "scanned_at": "2026-03-29T02:53:11.060Z",
       "source": "jikan"
     },
     {
@@ -1019,7 +1049,37 @@
         "timezone": "Asia/Tokyo",
         "string": "Saturdays at 17:30 (JST)"
       },
-      "scanned_at": "2026-03-28T20:38:46.339Z",
+      "scanned_at": "2026-03-29T02:53:11.110Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "60310",
+      "title": "Mairimashita! Iruma-kun 4th Season",
+      "type": "TV",
+      "episodes": 24,
+      "status": "Not yet aired",
+      "season": "spring",
+      "year": 2026,
+      "score": null,
+      "poster": "https://myanimelist.net/images/anime/1434/154048l.webp",
+      "synopsis": "Fourth season of Mairimashita! Iruma-kun.",
+      "session": null,
+      "slug": null,
+      "aired_from": "2026-04-04T00:00:00+00:00",
+      "aired_string": "Apr 4, 2026 to ?",
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "popularity": 3561,
+      "members": 49846,
+      "favorites": 188,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "18:15",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 18:15 (JST)"
+      },
+      "scanned_at": "2026-03-29T02:53:11.161Z",
       "source": "jikan"
     },
     {
@@ -1049,67 +1109,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Saturdays at 16:30 (JST)"
       },
-      "scanned_at": "2026-03-28T20:38:46.389Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "60310",
-      "title": "Mairimashita! Iruma-kun 4th Season",
-      "type": "TV",
-      "episodes": 24,
-      "status": "Not yet aired",
-      "season": "spring",
-      "year": 2026,
-      "score": null,
-      "poster": "https://myanimelist.net/images/anime/1434/154048l.webp",
-      "synopsis": "Fourth season of Mairimashita! Iruma-kun.",
-      "session": null,
-      "slug": null,
-      "aired_from": "2026-04-04T00:00:00+00:00",
-      "aired_string": "Apr 4, 2026 to ?",
-      "duration": "Unknown",
-      "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3582,
-      "members": 49315,
-      "favorites": 188,
-      "broadcast": {
-        "day": "Saturdays",
-        "time": "18:15",
-        "timezone": "Asia/Tokyo",
-        "string": "Saturdays at 18:15 (JST)"
-      },
-      "scanned_at": "2026-03-28T20:38:46.439Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "62001",
-      "title": "Yomi no Tsugai",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": "spring",
-      "year": 2026,
-      "score": null,
-      "poster": "https://myanimelist.net/images/anime/1990/155247l.webp",
-      "synopsis": "In an isolated village, two twins were born, separated by day and night. It is years later, and while the older brother Yuru has become a hunter of animals, his sister Asa has been locked away in a cage, ordered to perform a special duty that prohibits her from meeting more than a few select individuals.\n\nOn an otherwise inconspicuous day, a group of armed men riding in helicopters, referred to as \"dragons\" by the citizens, assaults the village in search of Yuru, killing every adult on sight. When Yuru attempts to meet up with Asa and flee, he finds a dead body instead—on top of that, the person who killed her claims to be Yuru's true twin sister.\n\nBefore the woman can capture him, Yuru is rescued by a man named Dera, an outsider who frequently visits the village. However, it is not long before the two are cornered. In a last-ditch effort, Dera makes Yuru give a gift to the deity of the village, summoning a pair of daemons whose existence is bound to reveal the truth behind these chaotic events.\n\n[Written by MAL Rewrite]",
-      "session": null,
-      "slug": null,
-      "aired_from": "2026-04-04T00:00:00+00:00",
-      "aired_string": "Apr 4, 2026 to ?",
-      "duration": "Unknown",
-      "rating": null,
-      "popularity": 3595,
-      "members": 48978,
-      "favorites": 142,
-      "broadcast": {
-        "day": "Saturdays",
-        "time": "23:30",
-        "timezone": "Asia/Tokyo",
-        "string": "Saturdays at 23:30 (JST)"
-      },
-      "scanned_at": "2026-03-28T20:38:46.489Z",
+      "scanned_at": "2026-03-29T02:53:11.211Z",
       "source": "jikan"
     },
     {
@@ -1139,7 +1139,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:46.540Z",
+      "scanned_at": "2026-03-29T02:53:11.261Z",
       "source": "jikan"
     },
     {
@@ -1169,7 +1169,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:46.590Z",
+      "scanned_at": "2026-03-29T02:53:11.311Z",
       "source": "jikan"
     },
     {
@@ -1199,7 +1199,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-03-28T20:38:46.640Z",
+      "scanned_at": "2026-03-29T02:53:11.362Z",
       "source": "jikan"
     },
     {
@@ -1229,7 +1229,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-03-28T20:38:46.690Z",
+      "scanned_at": "2026-03-29T02:53:11.412Z",
       "source": "jikan"
     },
     {
@@ -1259,7 +1259,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:46.740Z",
+      "scanned_at": "2026-03-29T02:53:11.462Z",
       "source": "jikan"
     },
     {
@@ -1289,7 +1289,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:46.791Z",
+      "scanned_at": "2026-03-29T02:53:11.512Z",
       "source": "jikan"
     },
     {
@@ -1319,7 +1319,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:46.841Z",
+      "scanned_at": "2026-03-29T02:53:11.562Z",
       "source": "jikan"
     },
     {
@@ -1349,7 +1349,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:46.891Z",
+      "scanned_at": "2026-03-29T02:53:11.613Z",
       "source": "jikan"
     },
     {
@@ -1370,16 +1370,16 @@
       "aired_string": "Jul 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3868,
-      "members": 43654,
-      "favorites": 99,
+      "popularity": 3849,
+      "members": 43932,
+      "favorites": 100,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:46.941Z",
+      "scanned_at": "2026-03-29T02:53:11.663Z",
       "source": "jikan"
     },
     {
@@ -1400,16 +1400,16 @@
       "aired_string": "Jul 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3868,
-      "members": 43654,
-      "favorites": 99,
+      "popularity": 3849,
+      "members": 43932,
+      "favorites": 100,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:46.991Z",
+      "scanned_at": "2026-03-29T02:53:11.713Z",
       "source": "jikan"
     },
     {
@@ -1439,7 +1439,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:47.042Z",
+      "scanned_at": "2026-03-29T02:53:11.763Z",
       "source": "jikan"
     },
     {
@@ -1469,7 +1469,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-03-28T20:38:47.092Z",
+      "scanned_at": "2026-03-29T02:53:11.813Z",
       "source": "jikan"
     },
     {
@@ -1499,7 +1499,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:47.142Z",
+      "scanned_at": "2026-03-29T02:53:11.864Z",
       "source": "jikan"
     },
     {
@@ -1529,7 +1529,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-03-28T20:38:47.649Z",
+      "scanned_at": "2026-03-29T02:53:12.364Z",
       "source": "jikan"
     },
     {
@@ -1559,7 +1559,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:47.700Z",
+      "scanned_at": "2026-03-29T02:53:12.415Z",
       "source": "jikan"
     },
     {
@@ -1580,8 +1580,8 @@
       "aired_string": "Jul 2026 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4001,
-      "members": 40689,
+      "popularity": 3995,
+      "members": 40908,
       "favorites": 99,
       "broadcast": {
         "day": null,
@@ -1589,7 +1589,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:47.750Z",
+      "scanned_at": "2026-03-29T02:53:12.465Z",
       "source": "jikan"
     },
     {
@@ -1619,7 +1619,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:47.800Z",
+      "scanned_at": "2026-03-29T02:53:12.515Z",
       "source": "jikan"
     },
     {
@@ -1649,7 +1649,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Mondays at 22:30 (JST)"
       },
-      "scanned_at": "2026-03-28T20:38:47.851Z",
+      "scanned_at": "2026-03-29T02:53:12.565Z",
       "source": "jikan"
     },
     {
@@ -1679,7 +1679,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:47.901Z",
+      "scanned_at": "2026-03-29T02:53:12.615Z",
       "source": "jikan"
     },
     {
@@ -1709,7 +1709,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-03-28T20:38:47.951Z",
+      "scanned_at": "2026-03-29T02:53:12.666Z",
       "source": "jikan"
     },
     {
@@ -1739,7 +1739,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-03-28T20:38:48.001Z",
+      "scanned_at": "2026-03-29T02:53:12.716Z",
       "source": "jikan"
     },
     {
@@ -1769,7 +1769,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-03-28T20:38:48.051Z",
+      "scanned_at": "2026-03-29T02:53:12.766Z",
       "source": "jikan"
     },
     {
@@ -1799,7 +1799,37 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-03-28T20:38:48.102Z",
+      "scanned_at": "2026-03-29T02:53:12.816Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "61831",
+      "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": "spring",
+      "year": 2026,
+      "score": null,
+      "poster": "https://myanimelist.net/images/anime/1738/156028l.webp",
+      "synopsis": "Second season of Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?.",
+      "session": null,
+      "slug": null,
+      "aired_from": "2026-04-01T00:00:00+00:00",
+      "aired_string": "Apr 1, 2026 to ?",
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "popularity": 4222,
+      "members": 36536,
+      "favorites": 86,
+      "broadcast": {
+        "day": "Wednesdays",
+        "time": "23:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Wednesdays at 23:30 (JST)"
+      },
+      "scanned_at": "2026-03-29T02:53:12.866Z",
       "source": "jikan"
     },
     {
@@ -1829,37 +1859,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:48.152Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "61831",
-      "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": "spring",
-      "year": 2026,
-      "score": null,
-      "poster": "https://myanimelist.net/images/anime/1738/156028l.webp",
-      "synopsis": "Second season of Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?.",
-      "session": null,
-      "slug": null,
-      "aired_from": "2026-04-01T00:00:00+00:00",
-      "aired_string": "Apr 1, 2026 to ?",
-      "duration": "Unknown",
-      "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4252,
-      "members": 36001,
-      "favorites": 84,
-      "broadcast": {
-        "day": "Wednesdays",
-        "time": "23:30",
-        "timezone": "Asia/Tokyo",
-        "string": "Wednesdays at 23:30 (JST)"
-      },
-      "scanned_at": "2026-03-28T20:38:48.202Z",
+      "scanned_at": "2026-03-29T02:53:12.917Z",
       "source": "jikan"
     },
     {
@@ -1889,7 +1889,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:48.252Z",
+      "scanned_at": "2026-03-29T02:53:12.967Z",
       "source": "jikan"
     },
     {
@@ -1919,7 +1919,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-03-28T20:38:48.302Z",
+      "scanned_at": "2026-03-29T02:53:13.017Z",
       "source": "jikan"
     },
     {
@@ -1949,7 +1949,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:48.353Z",
+      "scanned_at": "2026-03-29T02:53:13.067Z",
       "source": "jikan"
     },
     {
@@ -1963,23 +1963,23 @@
       "year": null,
       "score": null,
       "poster": "https://myanimelist.net/images/anime/1150/155201l.webp",
-      "synopsis": "New TV Special of Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta.",
+      "synopsis": "TV Special for Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta.",
       "session": null,
       "slug": null,
       "aired_from": "2026-03-31T00:00:00+00:00",
       "aired_string": "Mar 31, 2026",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4322,
-      "members": 34936,
-      "favorites": 117,
+      "popularity": 4313,
+      "members": 35104,
+      "favorites": 116,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-03-28T20:38:48.403Z",
+      "scanned_at": "2026-03-29T02:53:13.117Z",
       "source": "jikan"
     },
     {
@@ -2009,7 +2009,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:48.453Z",
+      "scanned_at": "2026-03-29T02:53:13.168Z",
       "source": "jikan"
     },
     {
@@ -2039,7 +2039,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:48.503Z",
+      "scanned_at": "2026-03-29T02:53:13.218Z",
       "source": "jikan"
     },
     {
@@ -2069,7 +2069,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:48.553Z",
+      "scanned_at": "2026-03-29T02:53:13.268Z",
       "source": "jikan"
     },
     {
@@ -2099,7 +2099,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:48.604Z",
+      "scanned_at": "2026-03-29T02:53:13.318Z",
       "source": "jikan"
     },
     {
@@ -2129,7 +2129,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Thursdays at 21:30 (JST)"
       },
-      "scanned_at": "2026-03-28T20:38:48.654Z",
+      "scanned_at": "2026-03-29T02:53:13.369Z",
       "source": "jikan"
     },
     {
@@ -2159,7 +2159,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:48.704Z",
+      "scanned_at": "2026-03-29T02:53:13.419Z",
       "source": "jikan"
     },
     {
@@ -2189,7 +2189,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-03-28T20:38:48.754Z",
+      "scanned_at": "2026-03-29T02:53:13.469Z",
       "source": "jikan"
     },
     {
@@ -2219,7 +2219,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:48.804Z",
+      "scanned_at": "2026-03-29T02:53:13.519Z",
       "source": "jikan"
     },
     {
@@ -2249,7 +2249,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-03-28T20:38:48.855Z",
+      "scanned_at": "2026-03-29T02:53:13.569Z",
       "source": "jikan"
     }
   ]

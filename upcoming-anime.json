@@ -1,5 +1,5 @@
 {
-  "timestamp": 1775023143179,
+  "timestamp": 1775034826190,
   "total": 75,
   "data": [
     {
@@ -29,7 +29,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:58:58.408Z",
+      "scanned_at": "2026-04-01T09:13:41.436Z",
       "source": "jikan"
     },
     {
@@ -50,16 +50,16 @@
       "aired_string": "Jul 6, 2026 to ?",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 1604,
-      "members": 169936,
-      "favorites": 1452,
+      "popularity": 1601,
+      "members": 170469,
+      "favorites": 1458,
       "broadcast": {
         "day": "Mondays",
         "time": "00:00",
         "timezone": "Asia/Tokyo",
         "string": "Mondays at 00:00 (JST)"
       },
-      "scanned_at": "2026-04-01T05:58:58.458Z",
+      "scanned_at": "2026-04-01T09:13:41.486Z",
       "source": "jikan"
     },
     {
@@ -89,7 +89,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Wednesdays at 22:00 (JST)"
       },
-      "scanned_at": "2026-04-01T05:58:58.508Z",
+      "scanned_at": "2026-04-01T09:13:41.536Z",
       "source": "jikan"
     },
     {
@@ -119,7 +119,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Fridays at 23:00 (JST)"
       },
-      "scanned_at": "2026-04-01T05:58:58.559Z",
+      "scanned_at": "2026-04-01T09:13:41.586Z",
       "source": "jikan"
     },
     {
@@ -149,7 +149,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Wednesdays at 21:30 (JST)"
       },
-      "scanned_at": "2026-04-01T05:58:58.609Z",
+      "scanned_at": "2026-04-01T09:13:41.637Z",
       "source": "jikan"
     },
     {
@@ -179,7 +179,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Mondays at 23:00 (JST)"
       },
-      "scanned_at": "2026-04-01T05:58:58.659Z",
+      "scanned_at": "2026-04-01T09:13:41.687Z",
       "source": "jikan"
     },
     {
@@ -209,7 +209,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:58:58.710Z",
+      "scanned_at": "2026-04-01T09:13:41.737Z",
       "source": "jikan"
     },
     {
@@ -239,7 +239,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:58:58.760Z",
+      "scanned_at": "2026-04-01T09:13:41.787Z",
       "source": "jikan"
     },
     {
@@ -260,16 +260,16 @@
       "aired_string": "2027",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 2249,
-      "members": 107993,
-      "favorites": 803,
+      "popularity": 2247,
+      "members": 108123,
+      "favorites": 805,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-04-01T05:58:58.811Z",
+      "scanned_at": "2026-04-01T09:13:41.838Z",
       "source": "jikan"
     },
     {
@@ -299,7 +299,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:58:58.861Z",
+      "scanned_at": "2026-04-01T09:13:41.888Z",
       "source": "jikan"
     },
     {
@@ -329,7 +329,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:58:58.911Z",
+      "scanned_at": "2026-04-01T09:13:41.938Z",
       "source": "jikan"
     },
     {
@@ -359,7 +359,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Fridays at 22:30 (JST)"
       },
-      "scanned_at": "2026-04-01T05:58:58.962Z",
+      "scanned_at": "2026-04-01T09:13:41.988Z",
       "source": "jikan"
     },
     {
@@ -380,16 +380,16 @@
       "aired_string": "2027 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 2437,
-      "members": 95976,
-      "favorites": 675,
+      "popularity": 2436,
+      "members": 96101,
+      "favorites": 676,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:58:59.012Z",
+      "scanned_at": "2026-04-01T09:13:42.039Z",
       "source": "jikan"
     },
     {
@@ -419,7 +419,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Thursdays at 22:00 (JST)"
       },
-      "scanned_at": "2026-04-01T05:58:59.062Z",
+      "scanned_at": "2026-04-01T09:13:42.089Z",
       "source": "jikan"
     },
     {
@@ -449,7 +449,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Thursdays at 22:00 (JST)"
       },
-      "scanned_at": "2026-04-01T05:58:59.114Z",
+      "scanned_at": "2026-04-01T09:13:42.139Z",
       "source": "jikan"
     },
     {
@@ -479,7 +479,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Sundays at 16:30 (JST)"
       },
-      "scanned_at": "2026-04-01T05:58:59.164Z",
+      "scanned_at": "2026-04-01T09:13:42.189Z",
       "source": "jikan"
     },
     {
@@ -509,7 +509,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:58:59.215Z",
+      "scanned_at": "2026-04-01T09:13:42.240Z",
       "source": "jikan"
     },
     {
@@ -539,7 +539,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:58:59.265Z",
+      "scanned_at": "2026-04-01T09:13:42.290Z",
       "source": "jikan"
     },
     {
@@ -569,7 +569,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:58:59.316Z",
+      "scanned_at": "2026-04-01T09:13:42.340Z",
       "source": "jikan"
     },
     {
@@ -599,7 +599,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-04-01T05:58:59.366Z",
+      "scanned_at": "2026-04-01T09:13:42.390Z",
       "source": "jikan"
     },
     {
@@ -629,7 +629,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-04-01T05:58:59.416Z",
+      "scanned_at": "2026-04-01T09:13:42.441Z",
       "source": "jikan"
     },
     {
@@ -659,7 +659,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-04-01T05:58:59.467Z",
+      "scanned_at": "2026-04-01T09:13:42.491Z",
       "source": "jikan"
     },
     {
@@ -689,7 +689,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:58:59.517Z",
+      "scanned_at": "2026-04-01T09:13:42.541Z",
       "source": "jikan"
     },
     {
@@ -711,15 +711,15 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "popularity": 2920,
-      "members": 71669,
-      "favorites": 340,
+      "members": 71735,
+      "favorites": 339,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:58:59.568Z",
+      "scanned_at": "2026-04-01T09:13:42.591Z",
       "source": "jikan"
     },
     {
@@ -749,7 +749,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:58:59.618Z",
+      "scanned_at": "2026-04-01T09:13:42.642Z",
       "source": "jikan"
     },
     {
@@ -779,7 +779,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-04-01T05:59:00.066Z",
+      "scanned_at": "2026-04-01T09:13:43.086Z",
       "source": "jikan"
     },
     {
@@ -809,7 +809,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:00.117Z",
+      "scanned_at": "2026-04-01T09:13:43.137Z",
       "source": "jikan"
     },
     {
@@ -830,8 +830,8 @@
       "aired_string": "Jan 2027 to ?",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3194,
-      "members": 60959,
+      "popularity": 3191,
+      "members": 61049,
       "favorites": 177,
       "broadcast": {
         "day": null,
@@ -839,7 +839,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:00.167Z",
+      "scanned_at": "2026-04-01T09:13:43.187Z",
       "source": "jikan"
     },
     {
@@ -869,7 +869,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:00.217Z",
+      "scanned_at": "2026-04-01T09:13:43.237Z",
       "source": "jikan"
     },
     {
@@ -899,7 +899,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:00.268Z",
+      "scanned_at": "2026-04-01T09:13:43.287Z",
       "source": "jikan"
     },
     {
@@ -929,7 +929,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-04-01T05:59:00.318Z",
+      "scanned_at": "2026-04-01T09:13:43.338Z",
       "source": "jikan"
     },
     {
@@ -959,7 +959,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:00.368Z",
+      "scanned_at": "2026-04-01T09:13:43.388Z",
       "source": "jikan"
     },
     {
@@ -989,7 +989,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Saturdays at 23:30 (JST)"
       },
-      "scanned_at": "2026-04-01T05:59:00.419Z",
+      "scanned_at": "2026-04-01T09:13:43.438Z",
       "source": "jikan"
     },
     {
@@ -1019,7 +1019,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:00.469Z",
+      "scanned_at": "2026-04-01T09:13:43.488Z",
       "source": "jikan"
     },
     {
@@ -1049,7 +1049,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:00.520Z",
+      "scanned_at": "2026-04-01T09:13:43.539Z",
       "source": "jikan"
     },
     {
@@ -1079,7 +1079,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Saturdays at 17:30 (JST)"
       },
-      "scanned_at": "2026-04-01T05:59:00.570Z",
+      "scanned_at": "2026-04-01T09:13:43.589Z",
       "source": "jikan"
     },
     {
@@ -1109,7 +1109,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Saturdays at 18:15 (JST)"
       },
-      "scanned_at": "2026-04-01T05:59:00.620Z",
+      "scanned_at": "2026-04-01T09:13:43.639Z",
       "source": "jikan"
     },
     {
@@ -1139,7 +1139,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-04-01T05:59:00.671Z",
+      "scanned_at": "2026-04-01T09:13:43.689Z",
       "source": "jikan"
     },
     {
@@ -1169,7 +1169,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Sundays at 16:30 (JST)"
       },
-      "scanned_at": "2026-04-01T05:59:00.721Z",
+      "scanned_at": "2026-04-01T09:13:43.740Z",
       "source": "jikan"
     },
     {
@@ -1199,7 +1199,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:00.771Z",
+      "scanned_at": "2026-04-01T09:13:43.790Z",
       "source": "jikan"
     },
     {
@@ -1220,8 +1220,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3626,
-      "members": 48545,
+      "popularity": 3627,
+      "members": 48559,
       "favorites": 186,
       "broadcast": {
         "day": null,
@@ -1229,7 +1229,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:00.822Z",
+      "scanned_at": "2026-04-01T09:13:43.840Z",
       "source": "jikan"
     },
     {
@@ -1259,7 +1259,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-04-01T05:59:00.872Z",
+      "scanned_at": "2026-04-01T09:13:43.890Z",
       "source": "jikan"
     },
     {
@@ -1289,7 +1289,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-04-01T05:59:00.922Z",
+      "scanned_at": "2026-04-01T09:13:43.941Z",
       "source": "jikan"
     },
     {
@@ -1319,7 +1319,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:00.973Z",
+      "scanned_at": "2026-04-01T09:13:43.991Z",
       "source": "jikan"
     },
     {
@@ -1349,7 +1349,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:01.023Z",
+      "scanned_at": "2026-04-01T09:13:44.041Z",
       "source": "jikan"
     },
     {
@@ -1379,37 +1379,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:01.074Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "57779",
-      "title": "Dorohedoro Season 2",
-      "type": "ONA",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": null,
-      "year": null,
-      "score": null,
-      "poster": "https://myanimelist.net/images/anime/1603/155354l.webp",
-      "synopsis": "Second season of Dorohedoro.",
-      "session": null,
-      "slug": null,
-      "aired_from": "2026-04-01T00:00:00+00:00",
-      "aired_string": "Apr 1, 2026 to ?",
-      "duration": "Unknown",
-      "rating": "R - 17+ (violence & profanity)",
-      "popularity": 3804,
-      "members": 44846,
-      "favorites": 127,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": null
-      },
-      "scanned_at": "2026-04-01T05:59:01.124Z",
+      "scanned_at": "2026-04-01T09:13:44.091Z",
       "source": "jikan"
     },
     {
@@ -1439,7 +1409,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:01.174Z",
+      "scanned_at": "2026-04-01T09:13:44.141Z",
       "source": "jikan"
     },
     {
@@ -1469,7 +1439,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:01.225Z",
+      "scanned_at": "2026-04-01T09:13:44.192Z",
       "source": "jikan"
     },
     {
@@ -1499,7 +1469,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:01.275Z",
+      "scanned_at": "2026-04-01T09:13:44.242Z",
       "source": "jikan"
     },
     {
@@ -1520,8 +1490,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3874,
-      "members": 43673,
+      "popularity": 3872,
+      "members": 43719,
       "favorites": 83,
       "broadcast": {
         "day": null,
@@ -1529,7 +1499,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:01.718Z",
+      "scanned_at": "2026-04-01T09:13:44.292Z",
       "source": "jikan"
     },
     {
@@ -1559,7 +1529,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:01.769Z",
+      "scanned_at": "2026-04-01T09:13:44.733Z",
       "source": "jikan"
     },
     {
@@ -1589,7 +1559,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-04-01T05:59:01.819Z",
+      "scanned_at": "2026-04-01T09:13:44.784Z",
       "source": "jikan"
     },
     {
@@ -1619,7 +1589,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:01.870Z",
+      "scanned_at": "2026-04-01T09:13:44.834Z",
       "source": "jikan"
     },
     {
@@ -1640,16 +1610,16 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 3986,
-      "members": 41245,
-      "favorites": 248,
+      "popularity": 3987,
+      "members": 41269,
+      "favorites": 247,
       "broadcast": {
         "day": null,
         "time": null,
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:01.920Z",
+      "scanned_at": "2026-04-01T09:13:44.884Z",
       "source": "jikan"
     },
     {
@@ -1679,7 +1649,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Mondays at 22:30 (JST)"
       },
-      "scanned_at": "2026-04-01T05:59:01.970Z",
+      "scanned_at": "2026-04-01T09:13:44.934Z",
       "source": "jikan"
     },
     {
@@ -1709,7 +1679,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:02.021Z",
+      "scanned_at": "2026-04-01T09:13:44.984Z",
       "source": "jikan"
     },
     {
@@ -1739,7 +1709,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:02.071Z",
+      "scanned_at": "2026-04-01T09:13:45.035Z",
       "source": "jikan"
     },
     {
@@ -1760,8 +1730,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4064,
-      "members": 39413,
+      "popularity": 4067,
+      "members": 39450,
       "favorites": 66,
       "broadcast": {
         "day": null,
@@ -1769,7 +1739,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:02.121Z",
+      "scanned_at": "2026-04-01T09:13:45.086Z",
       "source": "jikan"
     },
     {
@@ -1799,7 +1769,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Wednesdays at 23:30 (JST)"
       },
-      "scanned_at": "2026-04-01T05:59:02.172Z",
+      "scanned_at": "2026-04-01T09:13:45.136Z",
       "source": "jikan"
     },
     {
@@ -1829,7 +1799,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:02.222Z",
+      "scanned_at": "2026-04-01T09:13:45.186Z",
       "source": "jikan"
     },
     {
@@ -1859,7 +1829,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-04-01T05:59:02.272Z",
+      "scanned_at": "2026-04-01T09:13:45.236Z",
       "source": "jikan"
     },
     {
@@ -1889,7 +1859,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-04-01T05:59:02.323Z",
+      "scanned_at": "2026-04-01T09:13:45.287Z",
       "source": "jikan"
     },
     {
@@ -1919,37 +1889,7 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-04-01T05:59:02.373Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "53529",
-      "title": "Sword Art Online (Original Movie)",
-      "type": "Movie",
-      "episodes": 1,
-      "status": "Not yet aired",
-      "season": null,
-      "year": null,
-      "score": null,
-      "poster": "https://myanimelist.net/images/anime/1537/130580l.webp",
-      "synopsis": null,
-      "session": null,
-      "slug": null,
-      "aired_from": null,
-      "aired_string": "Not available",
-      "duration": "Unknown",
-      "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4214,
-      "members": 36781,
-      "favorites": 83,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": null
-      },
-      "scanned_at": "2026-04-01T05:59:02.474Z",
+      "scanned_at": "2026-04-01T09:13:45.337Z",
       "source": "jikan"
     },
     {
@@ -1979,7 +1919,37 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:02.423Z",
+      "scanned_at": "2026-04-01T09:13:45.387Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "53529",
+      "title": "Sword Art Online (Original Movie)",
+      "type": "Movie",
+      "episodes": 1,
+      "status": "Not yet aired",
+      "season": null,
+      "year": null,
+      "score": null,
+      "poster": "https://myanimelist.net/images/anime/1537/130580l.webp",
+      "synopsis": null,
+      "session": null,
+      "slug": null,
+      "aired_from": null,
+      "aired_string": "Not available",
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "popularity": 4216,
+      "members": 36800,
+      "favorites": 83,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "scanned_at": "2026-04-01T09:13:45.437Z",
       "source": "jikan"
     },
     {
@@ -2009,7 +1979,37 @@
         "timezone": null,
         "string": null
       },
-      "scanned_at": "2026-04-01T05:59:02.524Z",
+      "scanned_at": "2026-04-01T09:13:45.538Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "56734",
+      "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": "spring",
+      "year": 2026,
+      "score": null,
+      "poster": "https://myanimelist.net/images/anime/1423/155713l.webp",
+      "synopsis": "I, Maehara Maki, struggled to connect with anyone during my high school years, finding it hard to make friends. Then, a turning point arrived. A girl named Asanagi entered my life. Despite being clandestinely referred to as the \"second cutest girl in class\" by the boys, she chose to spend her Fridays with me instead of her best friend Amami, who held the \"cutest girl in class\" title. In the comfort of my home, we delved into the realm of games, watched movies, immersed ourselves in manga, indulged in junk food—pizza, hamburgers—and guzzled cola, carefree and content. To the outside world, we might have seemed a bit messy, but to both Asanagi and me, it was a cherished, hidden time together.\n\n(Source: MAL News)",
+      "session": null,
+      "slug": null,
+      "aired_from": "2026-04-07T00:00:00+00:00",
+      "aired_string": "Apr 7, 2026 to ?",
+      "duration": "Unknown",
+      "rating": null,
+      "popularity": 4255,
+      "members": 36102,
+      "favorites": 179,
+      "broadcast": {
+        "day": "Tuesdays",
+        "time": "23:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Tuesdays at 23:30 (JST)"
+      },
+      "scanned_at": "2026-04-01T09:13:45.487Z",
       "source": "jikan"
     },
     {
@@ -2039,7 +2039,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:02.574Z",
+      "scanned_at": "2026-04-01T09:13:45.588Z",
       "source": "jikan"
     },
     {
@@ -2069,7 +2069,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:02.675Z",
+      "scanned_at": "2026-04-01T09:13:45.688Z",
       "source": "jikan"
     },
     {
@@ -2099,7 +2099,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:02.625Z",
+      "scanned_at": "2026-04-01T09:13:45.638Z",
       "source": "jikan"
     },
     {
@@ -2129,37 +2129,7 @@
         "timezone": "Asia/Tokyo",
         "string": "Thursdays at 21:30 (JST)"
       },
-      "scanned_at": "2026-04-01T05:59:02.725Z",
-      "source": "jikan"
-    },
-    {
-      "id": null,
-      "malid": "56734",
-      "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-      "type": "TV",
-      "episodes": null,
-      "status": "Not yet aired",
-      "season": "spring",
-      "year": 2026,
-      "score": null,
-      "poster": "https://myanimelist.net/images/anime/1423/155713l.webp",
-      "synopsis": "I, Maehara Maki, struggled to connect with anyone during my high school years, finding it hard to make friends. Then, a turning point arrived. A girl named Asanagi entered my life. Despite being clandestinely referred to as the \"second cutest girl in class\" by the boys, she chose to spend her Fridays with me instead of her best friend Amami, who held the \"cutest girl in class\" title. In the comfort of my home, we delved into the realm of games, watched movies, immersed ourselves in manga, indulged in junk food—pizza, hamburgers—and guzzled cola, carefree and content. To the outside world, we might have seemed a bit messy, but to both Asanagi and me, it was a cherished, hidden time together.\n\n(Source: MAL News)",
-      "session": null,
-      "slug": null,
-      "aired_from": "2026-04-07T00:00:00+00:00",
-      "aired_string": "Apr 7, 2026 to ?",
-      "duration": "Unknown",
-      "rating": null,
-      "popularity": 4304,
-      "members": 35387,
-      "favorites": 177,
-      "broadcast": {
-        "day": "Tuesdays",
-        "time": "23:30",
-        "timezone": "Asia/Tokyo",
-        "string": "Tuesdays at 23:30 (JST)"
-      },
-      "scanned_at": "2026-04-01T05:59:02.776Z",
+      "scanned_at": "2026-04-01T09:13:45.739Z",
       "source": "jikan"
     },
     {
@@ -2180,8 +2150,8 @@
       "aired_string": "2027 to ?",
       "duration": "Unknown",
       "rating": "R - 17+ (violence & profanity)",
-      "popularity": 4347,
-      "members": 34628,
+      "popularity": 4337,
+      "members": 34779,
       "favorites": 16,
       "broadcast": {
         "day": null,
@@ -2189,7 +2159,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:02.826Z",
+      "scanned_at": "2026-04-01T09:13:45.789Z",
       "source": "jikan"
     },
     {
@@ -2210,8 +2180,8 @@
       "aired_string": "Not available",
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
-      "popularity": 4357,
-      "members": 34508,
+      "popularity": 4356,
+      "members": 34522,
       "favorites": 312,
       "broadcast": {
         "day": null,
@@ -2219,7 +2189,7 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:02.876Z",
+      "scanned_at": "2026-04-01T09:13:45.839Z",
       "source": "jikan"
     },
     {
@@ -2249,7 +2219,37 @@
         "timezone": null,
         "string": "Unknown"
       },
-      "scanned_at": "2026-04-01T05:59:02.927Z",
+      "scanned_at": "2026-04-01T09:13:45.889Z",
+      "source": "jikan"
+    },
+    {
+      "id": null,
+      "malid": "62331",
+      "title": "Liar Game",
+      "type": "TV",
+      "episodes": null,
+      "status": "Not yet aired",
+      "season": "spring",
+      "year": 2026,
+      "score": null,
+      "poster": "https://myanimelist.net/images/anime/1607/156078l.webp",
+      "synopsis": "College student Nao Kanzaki has always adhered to her name's meaning: \"foolishly honest.\" However, after opening an unsolicited package containing one hundred million yen, she inadvertently accepts an invitation for the \"Liar Game.\" In this tournament, contestants are encouraged to betray and deceive their opponents to gain a massive amount of cash; conversely, losing will incur a lifetime debt. With all hopes lost, her only option left is to seek help from a con artist.\n\nOn that same day, the infamous swindler Shinichi Akiyama is finally released from jail. This former psychology student is known for single-handedly bankrupting an entire company, and Nao believes he is her only chance at escaping her dire situation. At first, Shinichi is hesitant to commit another crime, ignoring Nao and her request. But after seeing her desperation and persistence, he agrees to assist her.\n\nIn this fraudulent world, Nao and Shinichi have their own motives. Yet, soon they see the true nature of not only the game, but also everyone involved.\n\n[Written by MAL Rewrite]",
+      "session": null,
+      "slug": null,
+      "aired_from": "2026-04-07T00:00:00+00:00",
+      "aired_string": "Apr 7, 2026 to ?",
+      "duration": "Unknown",
+      "rating": null,
+      "popularity": 4397,
+      "members": 33798,
+      "favorites": 115,
+      "broadcast": {
+        "day": "Tuesdays",
+        "time": "00:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Tuesdays at 00:00 (JST)"
+      },
+      "scanned_at": "2026-04-01T09:13:45.939Z",
       "source": "jikan"
     }
   ]
